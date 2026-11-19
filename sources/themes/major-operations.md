@@ -4,7 +4,7 @@
 
 Major attacks and state or coalition responses, at a public-record level only (no tactics).
 
-Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
 11 sources in this theme.
 
@@ -15,7 +15,7 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **The Global Coalition Against Daesh (home page)**
 
-Summary: The home page of the Global Coalition against Daesh. The page says the Coalition was formed in September 2014, has 90 partners, and is committed to degrading Daesh and ensuring its enduring defeat. It is the multinational grouping formed in the same period as Security Council resolutions 2170 and 2178 (T111, T112); the page is undated \[UNKNOWN\].
+Summary: The home page of the Global Coalition against Daesh. The page says the Coalition was formed in September 2014, has 90 partners, and is committed to degrading Daesh and ensuring its enduring defeat. It is the multinational grouping formed in the same period as Security Council resolutions 2170 and 2178 (T111, T112); the page metadata gives a publication date of 23 February 2023 and a modification date of 25 November 2025.
 
 - Issuing body: Global Coalition Against Daesh
 - Date: \[UNKNOWN\]
@@ -38,7 +38,7 @@ Cited by: none in `data/timeline.csv`.
 
 **Wall Street Bombing 1920**
 
-Summary: The FBI's history page on the 1920 Wall Street bombing. It calls the bombing of 16 September 1920 one of the young Bureau's earliest terrorism cases and says the best evidence suggests a small group of Italian anarchists was to blame, but that 'the mystery remains'; milestone T004 records that those responsible were not identified. The page is undated \[UNKNOWN\].
+Summary: The FBI's history page on the 1920 Wall Street bombing. It calls the bombing of 16 September 1920 one of the young Bureau's earliest terrorism cases and says the best evidence suggests a small group of Italian anarchists was to blame, but that 'the mystery remains'; milestone T004 records that those responsible were not identified. The page metadata gives a publication date of 18 May 2016 and a modification date of 6 May 2022.
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -61,7 +61,7 @@ Cited by: [T004](../../timeline/pre-1945.md#T004)
 
 **World Trade Center Bombing 1993**
 
-Summary: The FBI's history page on the 1993 World Trade Center bombing. It says that on 26 February 1993 a bomb exploded in the parking garage beneath the World Trade Center, leaving a crater several stories deep and killing six people. It is the source for milestone T033; the page is undated \[UNKNOWN\].
+Summary: The FBI's history page on the 1993 World Trade Center bombing. It says that on 26 February 1993 a bomb exploded in the parking garage beneath the World Trade Center, leaving a crater several stories deep and killing six people. It is the source for milestone T033; the page metadata gives a publication date of 18 May 2016 and a modification date of 9 May 2022.
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -84,7 +84,7 @@ Cited by: [T033](../../timeline/1990-2001.md#T033)
 
 **Oklahoma City Bombing**
 
-Summary: The FBI's history page on the Oklahoma City bombing of 19 April 1995. It describes a truck bomb detonated outside the Alfred P. Murrah Federal Building, and milestone T035 records the page's figure of 168 deaths. The page names the convicted perpetrator; CTA6 does not repeat the name here. The page is undated \[UNKNOWN\].
+Summary: The FBI's history page on the Oklahoma City bombing of 19 April 1995. It describes a truck bomb detonated outside the Alfred P. Murrah Federal Building, and milestone T035 records the page's figure of 168 deaths. The page names the convicted perpetrator; CTA6 does not repeat the name here. The page metadata gives a publication date of 18 May 2016 and a modification date of 10 May 2022.
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -107,7 +107,7 @@ Cited by: [T035](../../timeline/1990-2001.md#T035)
 
 **9/11 Investigation**
 
-Summary: The FBI's history page on its 9/11 investigation. It calls the investigation the FBI's largest case ever, saying more than half its agents worked on it at its peak and that it followed more than half a million leads. It is cited for milestone T050; the page is undated \[UNKNOWN\].
+Summary: The FBI's history page on its 9/11 investigation. It calls the investigation the FBI's largest case ever, saying more than half its agents worked on it at its peak and that it followed more than half a million leads. It is cited for milestone T050; the page metadata gives a publication date of 17 May 2016 and a modification date of 13 August 2026.
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -130,7 +130,7 @@ Cited by: [T050](../../timeline/post-9-11-2001-2014.md#T050)
 
 **Pan Am 103 Bombing**
 
-Summary: The FBI's history page on the Pan Am 103 bombing. It says the flight left Heathrow for New York on 21 December 1988 and exploded over Lockerbie, Scotland, less than 40 minutes later, killing all 259 passengers and crew, including 190 Americans, and 11 people on the ground, and calls it one of the world's most lethal acts of air terrorism before 9/11. It is the source for milestone T026; the page is undated \[UNKNOWN\].
+Summary: The FBI's history page on the Pan Am 103 bombing. It says the flight left Heathrow for New York on 21 December 1988 and exploded over Lockerbie, Scotland, less than 40 minutes later, killing all 259 passengers and crew, including 190 Americans, and 11 people on the ground, and calls it one of the world's most lethal acts of air terrorism before 9/11. It is the source for milestone T026; the page metadata gives a publication date of 18 May 2016 and a modification date of 25 June 2025.
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]

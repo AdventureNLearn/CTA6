@@ -4,9 +4,9 @@
 
 National statutes, international and regional treaties, and court rulings that interpret them.
 
-Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-165 sources in this theme.
+168 sources in this theme.
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -310,7 +310,7 @@ Cited by: [T118](../../timeline/recent-2014-now.md#T118)
 
 **European Convention on the Suppression of Terrorism (ETS No. 090)**
 
-Summary: The Council of Europe's European Convention on the Suppression of Terrorism (ETS No. 090), dated 27 January 1977, from the official Council of Europe PDF. The text reads 'Done at Strasbourg, this 27th day of January 1977'. Its provisions are not summarized in CTA6 \[UNKNOWN\]. Milestone T015 stays not-proven because the words 'opened for signature' have not been confirmed from a fetched page.
+Summary: The Council of Europe's European Convention on the Suppression of Terrorism (ETS No. 090), dated 27 January 1977, from the official Council of Europe PDF. The text reads 'Done at Strasbourg, this 27th day of January 1977'. Article 1 provides that, for the purposes of extradition between Contracting States, the offences it lists, such as offences under the 1970 Hague and 1971 Montreal aviation conventions, shall not be regarded as political offences. Its explanatory report (COE-ECST1977-ER) states that it was opened to signature on 27 January 1977, which supports milestone T015.
 
 - Issuing body: Council of Europe
 - Date: 1977-01-27
@@ -333,7 +333,7 @@ Cited by: [T015](../../timeline/1945-1990.md#T015)
 
 **Council of Europe Convention on the Prevention of Terrorism (CETS No. 196)**
 
-Summary: The Council of Europe Convention on the Prevention of Terrorism (CETS No. 196), dated 16 May 2005, from the official Council of Europe PDF. The text reads 'Warsaw, 16.V.2005' and 'Done at Warsaw, this 16th day of May 2005'. Its provisions are not summarized in CTA6 \[UNKNOWN\]. Milestone T085 stays not-proven because the words 'opened for signature' have not been confirmed from a fetched page.
+Summary: The Council of Europe Convention on the Prevention of Terrorism (CETS No. 196), dated 16 May 2005, from the official Council of Europe PDF. The text reads 'Warsaw, 16.V.2005' and 'Done at Warsaw, this 16th day of May 2005'. Article 2 states that its purpose is to enhance the Parties' efforts in preventing terrorism and its negative effects on human rights, and Articles 5 to 7 define three offences: public provocation to commit a terrorist offence, recruitment for terrorism and training for terrorism. Its explanatory report (COE-CPT2005-ER) states that it was opened for signature on 16 May 2005, which supports milestone T085.
 
 - Issuing body: Council of Europe
 - Date: 2005-05-16
@@ -356,7 +356,7 @@ Cited by: [T085](../../timeline/post-9-11-2001-2014.md#T085)
 
 **Inter-American Convention against Terrorism (A-66)**
 
-Summary: The Inter-American Convention against Terrorism (A-66) of the Organization of American States, dated 3 June 2002. As its title states, it is the Americas' regional treaty against terrorism. The cited OAS copy could not be confirmed (HTTP 503/500 on repeated tries), so milestone T061 is marked not-proven. An official Peruvian government Spanish copy of the Convention text is recorded separately as PE-GOB-CIAT2002-ES.
+Summary: The Inter-American Convention against Terrorism (A-66) of the Organization of American States, adopted on 3 June 2002. Article 1 states that its purposes are 'to prevent, punish, and eliminate terrorism', and the states parties agree to strengthen cooperation among them; Article 22 provides for entry into force on the 30th day after the sixth ratification. The OAS page was readable again in round 5, and an official Peruvian government Spanish copy is recorded separately as PE-GOB-CIAT2002-ES.
 
 - Issuing body: Organization of American States
 - Date: 2002-06-03
@@ -368,11 +368,11 @@ Summary: The Inter-American Convention against Terrorism (A-66) of the Organizat
 - Theme: laws and treaties
 - URL: [https://www.oas.org/juridico/english/treaties/a-66.html](https://www.oas.org/juridico/english/treaties/a-66.html)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: HTTP 503. Retried https://www.oas.org/juridico/english/sigs/a-66.html and the original URL: HTTP 503/500 (curl and WebFetch). Still not verified. Round 4 (2026-11-19): OAS URLs still under maintenance (HTTP 503). An official Peruvian government Spanish copy of the Convention is recorded separately as PE-GOB-CIAT2002-ES; it does not replace this entry.
+- Notes: Round 5 (2026-11-19): verified; curl on the cited URL: HTTP 200, page titled "INTER-AMERICAN CONVENTION AGAINST TERRORISM" with the full treaty text, Articles 1 to 23 (pass5/raw/r5-OAS-CICTE2002.*). Earlier: HTTP 503. Retried https://www.oas.org/juridico/english/sigs/a-66.html and the original URL: HTTP 503/500 (curl and WebFetch). Still not verified. Earlier (round 4, 2026-11-19): OAS URLs still under maintenance (HTTP 503). An official Peruvian government Spanish copy of the Convention is recorded separately as PE-GOB-CIAT2002-ES; it does not replace this entry.
 
-Cited by: [T061](../../timeline/post-9-11-2001-2014.md#T061)
+Cited by: [T061](../../timeline/post-9-11-2001-2014.md#T061), [T241](../../timeline/post-9-11-2001-2014.md#T241)
 
 <a id="OAU-1999"></a>
 ## OAU-1999
@@ -402,7 +402,7 @@ Cited by: [T045](../../timeline/1990-2001.md#T045), [T145](../../timeline/1990-2
 
 **Arab Convention for the Suppression of Terrorism**
 
-Summary: The Arab Convention for the Suppression of Terrorism, adopted in Cairo in April 1998 by the Council of Arab Ministers of the Interior and the Council of Arab Ministers of Justice under the League of Arab States (dated 22 April 1998 in CTA6). The copy is an unofficial UN English translation hosted by UNODC; its preamble says the signatory states desire to promote mutual cooperation in suppressing terrorism. It is the source for milestone T042; its detailed definitions and obligations are not summarized in CTA6 \[UNKNOWN\].
+Summary: The Arab Convention for the Suppression of Terrorism, adopted in Cairo in April 1998 by the Council of Arab Ministers of the Interior and the Council of Arab Ministers of Justice under the League of Arab States (dated 22 April 1998 in CTA6). The copy is an unofficial UN English translation hosted by UNODC; its preamble says the signatory states desire to promote mutual cooperation in suppressing terrorism, and it is the source for milestone T042. Article 1 defines terrorism as any act or threat of violence, whatever its motives or purposes, occurring in the advancement of an individual or collective criminal agenda and seeking to sow panic or to endanger people, property or resources. Article 2(b) provides that the offences it covers shall not be regarded as political offences, and Parts Two and Three set out cooperation and extradition mechanisms.
 
 - Issuing body: League of Arab States (UNODC copy)
 - Date: 1998-04-22
@@ -1203,23 +1203,23 @@ Cited by: [T097](../../timeline/post-9-11-2001-2014.md#T097)
 
 **Prevention of Terrorism Act, No. 30 of 2012**
 
-Summary: Kenya's Prevention of Terrorism Act, No. 30 of 2012, at the Kenya Law website. Kenya's National Counter Terrorism Centre says it was established by this Act. The SheriaNet listing (SEC-KE-POTA-SHERIANET) also gives the citation as Act No. 30 of 2012, according to that unofficial source. The cited copy could not be confirmed (HTTP 500), and the same Act at Kenya Law's new site (KE-POTA2012-KL) also could not be verified, so the Act's text is \[UNKNOWN\] in CTA6.
+Summary: Kenya's Prevention of Terrorism Act, No. 30 of 2012 (now CAP. 59B), at Kenya Law's current website. According to Kenya Law it was assented to on 12 October 2012, commenced on 24 October 2012 and was published in the Kenya Gazette on 26 October 2012. Its long title describes it as an Act to provide measures for the detection and prevention of terrorist activities and to amend two extradition Acts. The earlier Kenya Law PDF URL, which returned HTTP 500, is recorded in the notes.
 
 - Issuing body: Parliament of Kenya (Kenya Law)
-- Date: 2012
+- Date: 2012-10-12
 - Type: statute
 - Tag: `primary`
 - Origin: `government`
 - Era: post-9/11 (2001-2014)
 - Region: Sub-Saharan Africa
 - Theme: laws and treaties
-- URL: [http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/PreventionofTerrorismAct_No30of2012.pdf](http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/PreventionofTerrorismAct_No30of2012.pdf)
-- Accessed: 2026-11-18
-- Verified: `no`
-- Language: \[UNKNOWN\]
-- Notes: HTTP 500. URL not confirmed (HTTP 500). Same Act located at Kenya Law's current site https://new.kenyalaw.org/akn/ke/act/2012/30 (from search index); HTTP 202 (curl) and 403 (WebFetch), so still not verified. Added as KE-POTA2012-KL (verified no).
+- URL: [https://new.kenyalaw.org/akn/ke/act/2012/30](https://new.kenyalaw.org/akn/ke/act/2012/30)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: Round 5 (2026-11-19): verified; this row now points to Kenya Law's current site https://new.kenyalaw.org/akn/ke/act/2012/30. Headless Chrome (--dump-dom) on the cited URL: page "Prevention of Terrorism Act – Kenya Law" with the consolidated text (CAP. 59B) and the record "Published in Kenya Gazette Vol. CXIV—No. 104 on 26 October 2012 Assented to on 12 October 2012 Commenced on 24 October 2012" (pass5/raw/h5-KE-POTA2012-KL.*). curl still gets HTTP 202. Earlier: HTTP 500 at the earlier Kenya Law PDF URL http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/PreventionofTerrorismAct_No30of2012.pdf (retried in round 5; still HTTP 500). Earlier (round 2): URL taken from a web-search result listing, then fetched. HTTP 202; expected text not confirmed (bot check, timeout or error). URL from search index.
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T243](../../timeline/post-9-11-2001-2014.md#T243)
 
 <a id="ZA-POCDATARA2004"></a>
 ## ZA-POCDATARA2004
@@ -1271,7 +1271,7 @@ Cited by: [T129](../../timeline/recent-2014-now.md#T129)
 
 **Lei nº 13.260, de 16 de março de 2016 (Lei Antiterrorismo)**
 
-Summary: Brazil's Lei nº 13.260 of 16 March 2016, the Anti-Terrorism Law, from the Presidency's Planalto website. CTA6 confirmed the heading 'LEI Nº 13.260, DE 16 DE MARÇO DE 2016' via WebFetch. It is the source for milestone T117; its provisions are not summarized in CTA6 \[UNKNOWN\].
+Summary: Brazil's Lei nº 13.260 of 16 March 2016, the Anti-Terrorism Law, from the Presidency's Planalto website. CTA6 confirmed the heading 'LEI Nº 13.260, DE 16 DE MARÇO DE 2016' via WebFetch. It is the source for milestone T117; its preamble says it regulates article 5(XLIII) of the Federal Constitution, defining terrorism, setting out investigative and procedural provisions and reformulating the concept of a terrorist organization, and it amends Laws 7.960 of 1989 and 12.850 of 2013.
 
 - Issuing body: Presidência da República (Planalto)
 - Date: 2016-03-16
@@ -1598,7 +1598,7 @@ Cited by: none in `data/timeline.csv`.
 
 **BVerfG, Urteil des Ersten Senats vom 20. April 2016, 1 BvR 966/09 (BKA-Gesetz)**
 
-Summary: The judgment of the First Senate of Germany's Federal Constitutional Court of 20 April 2016 (1 BvR 966/09) on the Federal Criminal Police Office Act (BKA-Gesetz). As recorded in milestone T176, it ruled on the BKA's surveillance powers for countering international terrorism. The outcome is not recorded in CTA6 \[UNKNOWN\]; the source was verified through a text extraction only.
+Summary: The judgment of the First Senate of Germany's Federal Constitutional Court of 20 April 2016 (1 BvR 966/09) on the Federal Criminal Police Office Act (BKA-Gesetz). As recorded in milestone T176, it ruled on the BKA's surveillance powers for countering international terrorism. According to its headnotes, the BKA's power to use covert surveillance to avert dangers of international terrorism is in principle compatible with the Basic Law but must satisfy proportionality, and the operative part declares several provisions of the BKA Act void or incompatible with the Basic Law.
 
 - Issuing body: Bundesverfassungsgericht
 - Date: 2016-04-20
@@ -2099,29 +2099,6 @@ Summary: The SAARC Regional Convention on Suppression of Terrorism, done at Kath
 
 Cited by: [T140](../../timeline/1945-1990.md#T140)
 
-<a id="KE-POTA2012-KL"></a>
-## KE-POTA2012-KL
-
-**Prevention of Terrorism Act (No. 30 of 2012)**
-
-Summary: Kenya's Prevention of Terrorism Act (No. 30 of 2012) at Kenya Law's current website. It is the same Act as KE-POTA2012, found at a newer address; according to an unofficial SheriaNet listing (SEC-KE-POTA-SHERIANET), the citation is Act No. 30 of 2012. The cited copy could not be confirmed (HTTP 202 bot check), so the text is \[UNKNOWN\] in CTA6.
-
-- Issuing body: Kenya Law (National Council for Law Reporting)
-- Date: 2012
-- Type: statute
-- Tag: `primary`
-- Origin: `government`
-- Era: post-9/11 (2001-2014)
-- Region: Sub-Saharan Africa
-- Theme: laws and treaties
-- URL: [https://new.kenyalaw.org/akn/ke/act/2012/30](https://new.kenyalaw.org/akn/ke/act/2012/30)
-- Accessed: 2026-11-18
-- Verified: `no`
-- Language: English
-- Notes: URL taken from a web-search result listing, then fetched. Same Act as phase 1 KE-POTA2012 at Kenya Law's current site. HTTP 202; expected text not confirmed (bot check, timeout or error). URL from search index.
-
-Cited by: none in `data/timeline.csv`.
-
 <a id="NG-TPPA2022"></a>
 ## NG-TPPA2022
 
@@ -2189,14 +2166,14 @@ Summary: Morocco's Law No. 03.03 on combating terrorism, promulgated by Dahir No
 - Language: Arabic
 - Notes: Verified on retry 2026-11-19. curl HTTP 200; Arabic text layer reads 'القانون رقم 03.03 المتعلق بمكافحة الإرهاب' and 'ظهير شريف رقم 1.03.140'. Consolidated (amended) version. English title: \[UNKNOWN\]. URL taken from a web-search result listing, then fetched. Earlier (round 2): HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T240](../../timeline/post-9-11-2001-2014.md#T240)
 
 <a id="MA-CNASNU"></a>
 ## MA-CNASNU
 
 **Corpus juridique national**
 
-Summary: The 'Corpus juridique national' page of Morocco's national commission responsible for applying sanctions under UN Security Council resolutions. As its name states, it is the body that implements UN sanctions in Morocco, and the page lists national legal texts. The cited copy could not be confirmed (the connection failed), so its content is \[UNKNOWN\].
+Summary: The 'Corpus juridique national' page of Morocco's National Commission responsible for applying the sanctions under UN Security Council resolutions on terrorism, proliferation and their financing. It lists national legal texts, including Law No. 03-03 on combating terrorism, promulgated by Dahir No. 1-03-140 of 28 May 2003 'as amended and supplemented', and Law No. 12-18 of 2021 amending the Penal Code and the anti-money-laundering law. The page is undated \[UNKNOWN\].
 
 - Issuing body: Commission Nationale chargée de l'application des Sanctions prévues par les résolutions du Conseil de sécurité (Maroc)
 - Date: \[UNKNOWN\]
@@ -2208,11 +2185,11 @@ Summary: The 'Corpus juridique national' page of Morocco's national commission r
 - Theme: laws and treaties
 - URL: [https://cnasnu.justice.gov.ma/language/fr/corpus-juridique-national/](https://cnasnu.justice.gov.ma/language/fr/corpus-juridique-national/)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: French
-- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+- Notes: Round 5 (2026-11-19): verified; headless Chrome (--dump-dom) on the cited URL: page "Corpus juridique national – Commission Nationale chargée de l'application des Sanctions prévues par les résolutions du conseil de sécurité des Nations-Unies relatives au terrorisme..." listing national texts, including Loi n°03-03 promulgated by Dahir n° 1-03-140 of 28 May 2003 (pass5/raw/h5-MA-CNASNU.*). The page is undated. Earlier (round 2): URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T240](../../timeline/post-9-11-2001-2014.md#T240)
 
 <a id="TN-LO2015-26"></a>
 ## TN-LO2015-26
@@ -2288,7 +2265,7 @@ Cited by: [T146](../../timeline/1990-2001.md#T146)
 
 **국민보호와 공공안전을 위한 테러방지법 (법률 제14071호)**
 
-Summary: South Korea's Act on Counter-Terrorism for the Protection of Citizens and Public Security (Act No. 14071), in Korean, from the Korean Law Information Center. CTA6 records it as enacted on 3 March 2016, with the captured text version effective 4 June 2016. It is the source for milestone T175; its provisions are not summarized in CTA6 \[UNKNOWN\].
+Summary: South Korea's Act on Counter-Terrorism for the Protection of Citizens and Public Security (Act No. 14071), in Korean, from the Korean Law Information Center. CTA6 records it as enacted on 3 March 2016, with the captured text version effective 4 June 2016. It is the source for milestone T175; Article 1 states its purpose as protecting citizens' lives and property from terrorism and securing national and public safety, and its articles include a National Counter-Terrorism Committee (Art. 5), a Counter-Terrorism Center (Art. 6) and a counter-terrorism human rights protection officer (Art. 7).
 
 - Issuing body: 국가법령정보센터 (Korea Ministry of Government Legislation)
 - Date: 2016-03-03
@@ -2426,7 +2403,7 @@ Cited by: [T161](../../timeline/post-9-11-2001-2014.md#T161)
 
 **Закон Республики Казахстан от 13 июля 1999 года № 416 «О противодействии терроризму»**
 
-Summary: Kazakhstan's Law No. 416 of 13 July 1999, 'On countering terrorism' (О противодействии терроризму), from the Ministry of Justice's Adilet legal database. As its title states, it is Kazakhstan's counter-terrorism law. According to an unofficial consolidated copy in the PRG.kz legal database (SEC-KZ-416-PRG), its full number is 416-I and it has been amended up to 11 August 2026; this has not been verified. The cited Adilet copy could not be confirmed (the expected text was not found), so its official content is \[UNKNOWN\] in CTA6.
+Summary: Kazakhstan's Law No. 416 of 13 July 1999, 'On countering terrorism' (О противодействии терроризму), from the Ministry of Justice's Adilet legal database. Its preamble says it sets out the principles, aim, and legal and organisational basis of countering terrorism, and the current text carries footnotes recording many later amendments. An unofficial consolidated copy (SEC-KZ-416-PRG) gives the full number as 416-I.
 
 - Issuing body: ИПС «Әділет» (Министерство юстиции Республики Казахстан)
 - Date: 1999-07-13
@@ -2438,11 +2415,11 @@ Summary: Kazakhstan's Law No. 416 of 13 July 1999, 'On countering terrorism' (О
 - Theme: laws and treaties
 - URL: [https://adilet.zan.kz/rus/docs/Z990000416_](https://adilet.zan.kz/rus/docs/Z990000416_)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: Russian
-- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text not confirmed (bot check, timeout or error). URL from search index.
+- Notes: Round 5 (2026-11-19): verified; headless Chrome (--dump-dom) on the cited URL: page "Закон Республики Казахстан «О противодействии терроризму» № 416 — НЦПС «Әділет»", heading "Закон Республики Казахстан от 13 июля 1999 года № 416", with the consolidated text (pass5/raw/h5-KZ-LAW416-1999.*). curl gets only the JavaScript notice. Earlier (round 2): URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text not confirmed (bot check, timeout or error). URL from search index.
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T237](../../timeline/1990-2001.md#T237)
 
 <a id="UZ-LAW167-2000"></a>
 ## UZ-LAW167-2000
@@ -3260,10 +3237,10 @@ Cited by: [T214](../../timeline/post-9-11-2001-2014.md#T214)
 
 **Terrorism Suppression Act 2002 (2002 No 34)**
 
-Summary: New Zealand's Terrorism Suppression Act 2002 (2002 No 34), the statute as published by the Parliamentary Counsel Office. A search listing gives royal assent as 17 October 2002, but this is not confirmed. The cited copy could not be confirmed: the official site returned a bot check and the fetch timed out. What the Act provides is not recorded in CTA6 \[UNKNOWN\].
+Summary: New Zealand's Terrorism Suppression Act 2002 (2002 No 34), as published by the Parliamentary Counsel Office. It received royal assent on 17 October 2002 (T238). Section 3 says its purpose is to make further provision for the suppression of terrorism and to implement New Zealand's obligations under several counter-terrorism conventions and Security Council resolutions. The captured version is as at 5 April 2025.
 
 - Issuing body: New Zealand Parliamentary Counsel Office (New Zealand Legislation)
-- Date: 2002
+- Date: 2002-10-17
 - Type: statute
 - Tag: `primary`
 - Origin: `government`
@@ -3272,21 +3249,21 @@ Summary: New Zealand's Terrorism Suppression Act 2002 (2002 No 34), the statute 
 - Theme: laws and treaties
 - URL: [https://www.legislation.govt.nz/act/public/2002/34/en/latest/](https://www.legislation.govt.nz/act/public/2002/34/en/latest/)
 - Accessed: 2026-11-19
-- Verified: `no`
+- Verified: `yes`
 - Language: English
-- Notes: URL from search index; not verified: curl got HTTP 202 with an empty body (bot check) and WebFetch timed out on 2026-11-19. Search listing gives Royal assent 17 October 2002; not confirmed.
+- Notes: Round 5 (2026-11-19): verified; headless Chrome (--dump-dom) on the cited URL: page "Terrorism Suppression Act 2002 | New Zealand Legislation", "Public Act 2002 No 34 Date of assent 17 October 2002", version as at 5 April 2025 (pass5/raw/h5-NZ-TSA2002.*). curl still gets HTTP 202 with an empty body. Earlier (round 3): URL from search index; not verified: curl got HTTP 202 with an empty body (bot check) and WebFetch timed out on 2026-11-19. Search listing gives Royal assent 17 October 2002; not confirmed.
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T238](../../timeline/post-9-11-2001-2014.md#T238)
 
 <a id="NZ-CTLA2021"></a>
 ## NZ-CTLA2021
 
 **Counter-Terrorism Legislation Act 2021 (2021 No 37)**
 
-Summary: New Zealand's Counter-Terrorism Legislation Act 2021 (2021 No 37), as published by the Parliamentary Counsel Office. A search listing gives royal assent as 4 October 2021, but this is not confirmed. The cited copy could not be confirmed: the official site returned a bot check and the fetch timed out. What the Act changes is not recorded in CTA6 \[UNKNOWN\].
+Summary: New Zealand's Counter-Terrorism Legislation Act 2021 (2021 No 37), as published by the Parliamentary Counsel Office. It received royal assent on 4 October 2021 (T244). Its Part 1 amends the Terrorism Suppression Act 2002, and its schedules make consequential amendments to other Acts.
 
 - Issuing body: New Zealand Parliamentary Counsel Office (New Zealand Legislation)
-- Date: 2021
+- Date: 2021-10-04
 - Type: statute
 - Tag: `primary`
 - Origin: `government`
@@ -3295,11 +3272,11 @@ Summary: New Zealand's Counter-Terrorism Legislation Act 2021 (2021 No 37), as p
 - Theme: laws and treaties
 - URL: [https://www.legislation.govt.nz/act/public/2021/37/en/latest/](https://www.legislation.govt.nz/act/public/2021/37/en/latest/)
 - Accessed: 2026-11-19
-- Verified: `no`
+- Verified: `yes`
 - Language: English
-- Notes: URL from search index; not verified: curl got HTTP 202 with an empty body and WebFetch timed out on 2026-11-19. Search listing gives Royal assent 4 October 2021; not confirmed.
+- Notes: Round 5 (2026-11-19): verified; headless Chrome (--dump-dom) on the cited URL: page "Counter-Terrorism Legislation Act 2021 | New Zealand Legislation", "Public Act 2021 No 37 Date of assent 4 October 2021" (pass5/raw/h5-NZ-CTLA2021.*). curl still gets HTTP 202 with an empty body. Earlier (round 3): URL from search index; not verified: curl got HTTP 202 with an empty body and WebFetch timed out on 2026-11-19. Search listing gives Royal assent 4 October 2021; not confirmed.
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T244](../../timeline/recent-2014-now.md#T244)
 
 <a id="AU-SLAT2002"></a>
 ## AU-SLAT2002
@@ -3513,7 +3490,7 @@ Cited by: [T219](../../timeline/recent-2014-now.md#T219)
 
 **公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する法律**
 
-Summary: Japan's Act on the Punishment of the Provision of Funds for Criminal Acts Intended to Intimidate the Public (Act No. 67 of 2002), in Japanese, from the e-Gov law search. The cited copy could not be confirmed, because the page loads only with JavaScript; its date comes from the National Diet Library record (JP-NDL-TFINANCE). Its content is \[UNKNOWN\] in CTA6.
+Summary: Japan's Act on the Punishment of the Provision of Funds for Criminal Acts Intended to Intimidate the Public (Act No. 67 of 2002), in Japanese, from the e-Gov law search. Article 1 defines the 'criminal acts intended to intimidate the public' that the Act covers, and the page's revision history shows later amendments, including in 2014 and 2022. Its date comes from the National Diet Library record (JP-NDL-TFINANCE).
 
 - Issuing body: e-Gov 法令検索 (Digital Agency, Japan)
 - Date: 2002-06-12
@@ -3525,9 +3502,9 @@ Summary: Japan's Act on the Punishment of the Provision of Funds for Criminal Ac
 - Theme: laws and treaties
 - URL: [https://laws.e-gov.go.jp/law/414AC0000000067?occasion_date=20260701](https://laws.e-gov.go.jp/law/414AC0000000067?occasion_date=20260701)
 - Accessed: 2026-11-19
-- Verified: `no`
+- Verified: `yes`
 - Language: Japanese
-- Notes: URL from a web-search result listing; fetched on 2026-11-19 (HTTP 200) but the page body loads only with JavaScript (23 characters of text), so the content could not be matched. Date from JP-NDL-TFINANCE. English title: \[UNKNOWN\] (the source gives none).
+- Notes: Round 5 (2026-11-19): verified; headless Chrome (--dump-dom) on the cited URL: page "公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する法律 | e-Gov 法令検索", "（平成十四年法律第六十七号）", with the article text and revision history (pass5/raw/h5-JP-TFINANCE-2002.*). Earlier (round 3): URL from a web-search result listing; fetched on 2026-11-19 (HTTP 200) but the page body loads only with JavaScript (23 characters of text), so the content could not be matched. Date from JP-NDL-TFINANCE. English title: \[UNKNOWN\] (the source gives none).
 
 Cited by: none in `data/timeline.csv`.
 
@@ -3673,7 +3650,7 @@ Summary: A consolidated copy of Kazakhstan's Law No. 416-I of 13 July 1999 'On c
 - Stands in for: KZ-LAW416-1999 (Kazakhstan, Law No. 416 «О противодействии терроризму», 1999)
 - Publisher: PRG.kz (Paragraph, commercial legal database)
 - Access date: 2026-11-19
-- Notes: Secondary/unofficial consolidated copy; not verified against the official Adilet text. Re-fetched 2026-11-19 by curl (HTTP 200). Origin describes the underlying instrument, not the publisher. A Continent Online page at https://continent-online.com/Document/?doc_id=1013957 uses the same doc_id and was not added as a separate source.
+- Notes: Secondary/unofficial consolidated copy; not verified against the official Adilet text. Re-fetched 2026-11-19 by curl (HTTP 200). Origin describes the underlying instrument, not the publisher. A Continent Online page at https://continent-online.com/Document/?doc_id=1013957 uses the same doc_id and was not added as a separate source. Round 5 (2026-11-19): the official Adilet text (KZ-LAW416-1999) is verified=yes, readable by headless browser. This stand-in was kept in place and is not treated as proof.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -3697,10 +3674,10 @@ Summary: SheriaNet's listing for Kenya's Prevention of Terrorism Act. According 
 - Verified: `no`
 - Language: English
 - Label: `secondary/unofficial`
-- Stands in for: KE-POTA2012 and KE-POTA2012-KL (Kenya, Prevention of Terrorism Act No. 30 of 2012)
+- Stands in for: KE-POTA2012 (Kenya, Prevention of Terrorism Act No. 30 of 2012)
 - Publisher: SheriaNet (legal information website)
 - Access date: 2026-11-19
-- Notes: Secondary/unofficial listing; not verified. curl got a bot-check interstitial on 2026-11-19; page read via WebFetch. Supports the citation, year and number only; the linked PDF was not opened.
+- Notes: Secondary/unofficial listing; not verified. curl got a bot-check interstitial on 2026-11-19; page read via WebFetch. Supports the citation, year and number only; the linked PDF was not opened. Round 5 (2026-11-19): the Act is now verified at Kenya Law (KE-POTA2012). This stand-in was kept in place and is not treated as proof.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -3779,10 +3756,10 @@ Summary: A Dawn News (Urdu) report published on 19 August 2025 about Pakistan's 
 - Verified: `no`
 - Language: Urdu
 - Label: `secondary/unofficial`
-- Stands in for: No CTA6 source yet: Pakistan Anti-terrorism (Amendment) Bill 2025, Senate PDF https://senate.gov.pk/uploads/documents/1755242450_392.pdf (download incomplete twice)
+- Stands in for: PK-ATA-BILL2025 (Pakistan Anti-terrorism (Amendment) Bill 2025, as passed by the National Assembly, Senate PDF). Senate passage and assent are not shown in that official text.
 - Publisher: Dawn News (Urdu)
 - Access date: 2026-11-19
-- Notes: News report in Urdu; secondary, not verified against the bill text. Re-fetched 2026-11-19 by curl (HTTP 200); datePublished 2025-08-19. The official Senate PDF downloaded incomplete twice and was not used.
+- Notes: News report in Urdu; secondary, not verified against the bill text. Re-fetched 2026-11-19 by curl (HTTP 200); datePublished 2025-08-19. The official Senate PDF downloaded incomplete twice and was not used. Round 5 (2026-11-19): the official bill text (as passed by the National Assembly) was downloaded completely from the Senate site and is added as PK-ATA-BILL2025. It confirms the three-month and three-year provisions and the section 11EEEE(1) amendment. Senate passage and assent still rest only on this report and SEC-PK-BBCURDU-2025, so they stay not-proven.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -3806,9 +3783,101 @@ Summary: A BBC News Urdu report published on 16 August 2025 about an amendment t
 - Verified: `no`
 - Language: Urdu
 - Label: `secondary/unofficial`
-- Stands in for: No CTA6 source yet: Pakistan Anti-terrorism (Amendment) Bill 2025 (see SEC-PK-DAWNURDU-2025)
+- Stands in for: PK-ATA-BILL2025 (Pakistan Anti-terrorism (Amendment) Bill 2025, as passed by the National Assembly). Senate passage and assent are not shown in that official text.
 - Publisher: BBC News Urdu
 - Access date: 2026-11-19
-- Notes: News report in Urdu; secondary, not verified against the bill or Act. Re-fetched 2026-11-19 by curl (HTTP 200); published 2025-08-16 11:44 UTC (07:44 ET).
+- Notes: News report in Urdu; secondary, not verified against the bill or Act. Re-fetched 2026-11-19 by curl (HTTP 200); published 2025-08-16 11:44 UTC (07:44 ET). Round 5 (2026-11-19): see PK-ATA-BILL2025 (official bill text as passed by the National Assembly). Senate passage and assent still rest only on news reports, so they stay not-proven.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="COE-ECST1977-ER"></a>
+## COE-ECST1977-ER
+
+**Explanatory Report to the European Convention on the Suppression of Terrorism (ETS No. 90)**
+
+Summary: The Council of Europe's explanatory report to the European Convention on the Suppression of Terrorism (ETS No. 90), headed Strasbourg, 27 January 1977. It states that the Convention was drawn up by a committee of governmental experts under the European Committee on Crime Problems and 'was opened to signature by the member states of the Council of Europe on 27 January 1977'. The report says it is not an authoritative interpretation of the Convention. It supports milestone T015.
+
+- Issuing body: Council of Europe
+- Date: 1977-01-27
+- Type: other
+- Tag: `primary`
+- Origin: `international`
+- Era: 1945-1990
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://rm.coe.int/16800c9a69](https://rm.coe.int/16800c9a69)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: Official Council of Europe PDF (URL from a web-search result listing), fetched by curl on 2026-11-19: HTTP 200, PDF headed "European Treaty Series - No. 90 Explanatory Report to the European Convention on the Suppression of Terrorism Strasbourg, 27.I.1977" (pass5/raw/r5-COE-ER-ETS090.*). The report states that it is not an authoritative interpretation of the Convention.
+
+Cited by: [T015](../../timeline/1945-1990.md#T015)
+
+<a id="COE-CPT2005-ER"></a>
+## COE-CPT2005-ER
+
+**Explanatory Report to the Council of Europe Convention on the Prevention of Terrorism (CETS No. 196)**
+
+Summary: The Council of Europe's explanatory report to the Convention on the Prevention of Terrorism (CETS No. 196), headed Warsaw, 16 May 2005. It states that the Convention and the report were adopted by the Committee of Ministers at its 925th meeting, and that the Convention 'was then opened for signature' on 16 May 2005 at the Third Summit of Heads of State and Government of the Council of Europe. The report says it is not an authoritative interpretation of the Convention. It supports milestone T085.
+
+- Issuing body: Council of Europe
+- Date: 2005-05-16
+- Type: other
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://rm.coe.int/16800d3811](https://rm.coe.int/16800d3811)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: Official Council of Europe PDF (URL from a web-search result listing), fetched by curl on 2026-11-19: HTTP 200, PDF headed "Council of Europe Treaty Series - No. 196 Explanatory Report to the Council of Europe Convention on the Prevention of Terrorism * Warsaw, 16.V.2005" (pass5/raw/r5-COE-ER-CETS196.*). The report states that it is not an authoritative interpretation of the Convention.
+
+Cited by: [T085](../../timeline/post-9-11-2001-2014.md#T085)
+
+<a id="OAS-A66-SIGS"></a>
+## OAS-A66-SIGS
+
+**A-66: Inter-American Convention against Terrorism — Signatories and Ratifications**
+
+Summary: The OAS treaty status page for the Inter-American Convention against Terrorism (A-66). It records that the Convention was adopted at Bridgetown, Barbados, on 3 June 2002 at the thirty-second regular session of the OAS General Assembly, entered into force on 10 July 2003, and has the OAS General Secretariat as depositary. It lists each member state's signature and ratification dates. The page is undated \[UNKNOWN\].
+
+- Issuing body: Organization of American States, Department of International Law
+- Date: \[UNKNOWN\]
+- Type: database
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.oas.org/juridico/english/sigs/a-66.html](https://www.oas.org/juridico/english/sigs/a-66.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: Official OAS treaty status page, fetched by curl on 2026-11-19: HTTP 200 (pass5/raw/r5-OAS-SIGS-A66.*). The page is linked from the treaty text page (OAS-CICTE2002), which is verified=yes. Dates on the page are in US month/day/year order. The page is undated.
+
+Cited by: [T061](../../timeline/post-9-11-2001-2014.md#T061), [T241](../../timeline/post-9-11-2001-2014.md#T241)
+
+<a id="PK-ATA-BILL2025"></a>
+## PK-ATA-BILL2025
+
+**Bill further to amend the Anti-terrorism Act, 1997 \[as passed by the National Assembly\] (Anti-terrorism (Amendment) Act, 2025)**
+
+Summary: The official text of a bill to amend Pakistan's Anti-terrorism Act, 1997, marked as passed by the National Assembly and hosted by the Senate. It would be called the Anti-terrorism (Amendment) Act, 2025, and it substitutes section 11EEEE(1) on preventive detention for periods not exceeding three months, with sub-sections (1) and (2) to remain in force for three years. Its statement of objects and reasons says the earlier 2014 provision had expired in 2016 under a sunset clause. The document is undated, and it does not show Senate passage or assent \[UNKNOWN\].
+
+- Issuing body: Senate of Pakistan (bill as passed by the National Assembly)
+- Date: \[UNKNOWN\]
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://senate.gov.pk/uploads/documents/1755242450_392.pdf](https://senate.gov.pk/uploads/documents/1755242450_392.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: Official Senate of Pakistan PDF; downloaded completely by curl on 2026-11-19 (HTTP 200, 4 pages of text; pass5/raw/r5-PK-SENATE-ATA2025.*). In round 4 the same URL downloaded incomplete twice. The text is a bill marked "AS PASSED BY THE NATIONAL ASSEMBLY"; it carries no date, and Senate passage and presidential assent are not shown in it. The statement of objects and reasons is signed by the Minister for Interior.
 
 Cited by: none in `data/timeline.csv`.

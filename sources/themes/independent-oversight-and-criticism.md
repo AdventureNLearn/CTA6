@@ -464,7 +464,7 @@ Cited by: [T109](../../timeline/recent-2014-now.md#T109)
 
 **Countering Violent Extremism: Actions Needed to Define Strategy and Assess Progress of Federal Efforts (GAO-17-300)**
 
-Summary: 'Countering Violent Extremism: Actions Needed to Define Strategy and Assess Progress of Federal Efforts' (GAO-17-300), published in April 2017 by the US Government Accountability Office. As its title states, it calls for a defined strategy and progress assessment for federal countering-violent-extremism efforts. It is the source for milestone T120; only the title was confirmed through a text extraction, so its detailed findings are \[UNKNOWN\].
+Summary: 'Countering Violent Extremism: Actions Needed to Define Strategy and Assess Progress of Federal Efforts' (GAO-17-300), published in April 2017 by the US Government Accountability Office. As its title states, it calls for a defined strategy and progress assessment for federal countering-violent-extremism efforts. It is the source for milestone T120; according to its highlights, as of December 2016 the agencies concerned had implemented 19 of the 44 domestically focused tasks in the 2011 Strategic Implementation Plan for countering violent extremism, with 23 in progress and 2 not yet started.
 
 - Issuing body: US Government Accountability Office
 - Date: 2017-04
@@ -1178,7 +1178,7 @@ Cited by: none in `data/timeline.csv`.
 
 **BVerfG, Urteil des Ersten Senats vom 20. April 2016, 1 BvR 966/09 (BKA-Gesetz)**
 
-Summary: The judgment of the First Senate of Germany's Federal Constitutional Court of 20 April 2016 (1 BvR 966/09) on the Federal Criminal Police Office Act (BKA-Gesetz). As recorded in milestone T176, it ruled on the BKA's surveillance powers for countering international terrorism. The outcome is not recorded in CTA6 \[UNKNOWN\]; the source was verified through a text extraction only.
+Summary: The judgment of the First Senate of Germany's Federal Constitutional Court of 20 April 2016 (1 BvR 966/09) on the Federal Criminal Police Office Act (BKA-Gesetz). As recorded in milestone T176, it ruled on the BKA's surveillance powers for countering international terrorism. According to its headnotes, the BKA's power to use covert surveillance to avert dangers of international terrorism is in principle compatible with the Basic Law but must satisfy proportionality, and the operative part declares several provisions of the BKA Act void or incompatible with the Basic Law.
 
 - Issuing body: Bundesverfassungsgericht
 - Date: 2016-04-20
@@ -1707,7 +1707,7 @@ Cited by: none in `data/timeline.csv`.
 
 **Avis sur le projet de loi renforçant la sécurité intérieure et la lutte contre le terrorisme (6 juillet 2017)**
 
-Summary: An opinion (avis) of France's National Consultative Commission on Human Rights (CNCDH), dated 6 July 2017, on the bill strengthening internal security and the fight against terrorism. It is an independent advisory body's opinion on the bill that became Loi n° 2017-1510 (T123). The cited copy could not be confirmed (bot check or error), so its content is \[UNKNOWN\] in CTA6.
+Summary: An opinion (avis) of France's National Consultative Commission on Human Rights (CNCDH) on the bill strengthening internal security and the fight against terrorism, adopted at its plenary assembly on 6 July 2017 by 25 votes to 4 with 2 abstentions. It is an independent advisory body's opinion on the bill that became Loi n° 2017-1510 (T123). The opinion recognizes the authorities' duty to protect the population and then sets out the Commission's concerns about the bill.
 
 - Issuing body: Commission nationale consultative des droits de l'homme (France)
 - Date: 2017-07-06
@@ -1719,9 +1719,9 @@ Summary: An opinion (avis) of France's National Consultative Commission on Human
 - Theme: studies and evaluations
 - URL: [https://www.cncdh.fr/sites/default/files/2021-04/170706_avis%20sur%20le%20PJL%20s%C3%A9curit%C3%A9%20int%C3%A9rieure_terrorisme%20p%C3%A0p.pdf](https://www.cncdh.fr/sites/default/files/2021-04/170706_avis%20sur%20le%20PJL%20s%C3%A9curit%C3%A9%20int%C3%A9rieure_terrorisme%20p%C3%A0p.pdf)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: French
-- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text not confirmed (bot check, timeout or error). URL from search index.
+- Notes: Round 5 (2026-11-19): verified; curl on the cited URL: HTTP 200, PDF headed "AVIS SUR LE PROJET DE LOI RENFORÇANT LA SÉCURITÉ INTÉRIEURE ET LA LUTTE CONTRE LE TERRORISME 6 JUILLET 2017" (pass5/raw/r5-CNCDH-2017.*). Earlier (round 2): URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text not confirmed (bot check, timeout or error). URL from search index.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -1937,7 +1937,7 @@ Cited by: none in `data/timeline.csv`.
 
 **Ö. v. Turkey \[GC\], no. 46221/99 (judgment)**
 
-Summary: The Grand Chamber judgment of the European Court of Human Rights of 12 May 2005 in Ö. v. Turkey (no. 46221/99), concerning the applicant's arrest, transfer to Turkey, detention and trial. According to the Court's factsheet, on the conditions of his detention the Court found no violation of Article 3; the factsheet extract in CTA6 does not cover the Court's findings on the arrest and trial \[UNKNOWN\]. It is the source for milestone T152.
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 12 May 2005 in Ö. v. Turkey (no. 46221/99), concerning the applicant's arrest, transfer to Turkey, detention and trial. According to the Court's factsheet, on the conditions of his detention the Court found no violation of Article 3; in the judgment's operative part it also found violations of Article 5 §§ 3 and 4 and of Article 6 (lack of an independent and impartial tribunal and of a fair trial), and of Article 3 as regards the imposition of the death penalty after an unfair trial, and no violation of Article 5 § 1 as regards the arrest. It is the source for milestone T152.
 
 - Issuing body: European Court of Human Rights
 - Date: 2005-05-12
@@ -1960,7 +1960,7 @@ Cited by: [T152](../../timeline/post-9-11-2001-2014.md#T152)
 
 **Selahattin Demirtaş v. Turkey (No. 2) \[GC\], no. 14305/17 (judgment)**
 
-Summary: The Grand Chamber judgment of the European Court of Human Rights of 22 December 2020 in Selahattin Demirtaş v. Turkey (No. 2) (no. 14305/17). As recorded in milestone T184, it concerned the pre-trial detention of an opposition party leader and member of parliament on terrorism-related charges. The outcome is not recorded in CTA6 \[UNKNOWN\]; the source was verified through HUDOC metadata only.
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 22 December 2020 in Selahattin Demirtaş v. Turkey (No. 2) (no. 14305/17). As recorded in milestone T184, it concerned the pre-trial detention of an opposition party leader and member of parliament on terrorism-related charges. In the operative part, the Court held that there had been violations of Article 5 § 1, Article 5 § 3, Article 10, Article 18 taken with Article 5, and Article 3 of Protocol No. 1, and no violation of Article 5 § 4, and that the respondent State must take all necessary measures to secure the applicant's immediate release.
 
 - Issuing body: European Court of Human Rights
 - Date: 2020-12-22
@@ -2169,7 +2169,7 @@ Cited by: [T224](../../timeline/recent-2014-now.md#T224)
 
 **Informe sobre terrorismo y derechos humanos (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.)**
 
-Summary: The Inter-American Commission on Human Rights' Report on Terrorism and Human Rights (Informe sobre terrorismo y derechos humanos, OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.), in Spanish, dated 22 October 2002 per the search listing. As its title states, it is the Commission's report on terrorism and human rights. The cited copy could not be confirmed (HTTP 503, server maintenance), so its content is \[UNKNOWN\] in CTA6.
+Summary: The Inter-American Commission on Human Rights' Report on Terrorism and Human Rights (Informe sobre terrorismo y derechos humanos, OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.), in Spanish, dated 22 October 2002. The document states that its original language is English. It is the Commission's report on how anti-terrorism measures relate to states' human rights obligations; the English executive summary is IACHR-2002-TERR-EN.
 
 - Issuing body: Comisión Interamericana de Derechos Humanos (OEA)
 - Date: 2002-10-22
@@ -2181,18 +2181,18 @@ Summary: The Inter-American Commission on Human Rights' Report on Terrorism and 
 - Theme: studies and evaluations
 - URL: [https://www.oas.org/dil/esp/informe_sobre_terrorismo_derechos_humanos.pdf](https://www.oas.org/dil/esp/informe_sobre_terrorismo_derechos_humanos.pdf)
 - Accessed: 2026-11-19
-- Verified: `no`
+- Verified: `yes`
 - Language: Spanish
-- Notes: URL from search index; not verified: oas.org returned HTTP 503 'server is currently under maintenance' to curl and to WebFetch on 2026-11-19. Symbol and date (22 octubre 2002) taken from the search listing's extract of this PDF.
+- Notes: Round 5 (2026-11-19): verified; curl on the cited URL: HTTP 200, PDF headed "OEA/Ser.L/V/ll.116 Doc. 5 rev. 1 corr. 22 octubre 2002 Original: Inglés INFORME SOBRE TERRORISMO Y DERECHOS HUMANOS" (pass5/raw/r5-IACHR-2002-TERR-ES.*). The date is now read from the document itself. Earlier (round 3): URL from search index; not verified: oas.org returned HTTP 503 'server is currently under maintenance' to curl and to WebFetch on 2026-11-19. Symbol and date (22 octubre 2002) taken from the search listing's extract of this PDF.
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T239](../../timeline/post-9-11-2001-2014.md#T239)
 
 <a id="IACHR-2002-TERR-EN"></a>
 ## IACHR-2002-TERR-EN
 
 **Report on Terrorism and Human Rights: Executive Summary (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.)**
 
-Summary: The English executive summary of the Inter-American Commission on Human Rights' Report on Terrorism and Human Rights (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.). The cited copy could not be confirmed (HTTP 503, maintenance), and its date comes from the Spanish listing (IACHR-2002-TERR-ES). Its content is \[UNKNOWN\] in CTA6.
+Summary: The English executive summary of the Inter-American Commission on Human Rights' Report on Terrorism and Human Rights (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.), dated 22 October 2002. It notes that the OAS General Assembly adopted and opened for signature the Inter-American Convention against Terrorism on 3 June 2002, and that the Convention recognizes that anti-terrorist initiatives must comply with states' existing international obligations. The Spanish full report is IACHR-2002-TERR-ES.
 
 - Issuing body: Inter-American Commission on Human Rights (OAS)
 - Date: 2002-10-22
@@ -2204,11 +2204,11 @@ Summary: The English executive summary of the Inter-American Commission on Human
 - Theme: studies and evaluations
 - URL: [https://cidh.oas.org/Terrorism/Eng/exe.htm](https://cidh.oas.org/Terrorism/Eng/exe.htm)
 - Accessed: 2026-11-19
-- Verified: `no`
+- Verified: `yes`
 - Language: English
-- Notes: URL from search index; not verified: cidh.oas.org returned HTTP 503 (maintenance) to curl and WebFetch on 2026-11-19. Date from the Spanish listing (IACHR-2002-TERR-ES).
+- Notes: Round 5 (2026-11-19): verified; curl on the cited URL: HTTP 200, page headed "OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr. 22 October 2002 Original: English REPORT ON TERRORISM AND HUMAN RIGHTS EXECUTIVE SUMMARY" (pass5/raw/r5-IACHR-2002-TERR-EN.*). The date is now read from this page itself. Earlier (round 3): URL from search index; not verified: cidh.oas.org returned HTTP 503 (maintenance) to curl and WebFetch on 2026-11-19. Date from the Spanish listing (IACHR-2002-TERR-ES).
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T239](../../timeline/post-9-11-2001-2014.md#T239)
 
 <a id="IACTHR-1997-33"></a>
 ## IACTHR-1997-33
