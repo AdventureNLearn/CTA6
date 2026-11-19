@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-3 sources in this region (`international` 2, `oversight` 1).
+4 sources in this region (`international` 2, `oversight` 2).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -24,6 +24,7 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 - URL: [https://www.christchurchcall.org/](https://www.christchurchcall.org/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T125](../../timeline/recent-2014-now.md#T125)
@@ -44,6 +45,7 @@ Cited by: [T125](../../timeline/recent-2014-now.md#T125)
 - URL: [https://christchurchattack.royalcommission.nz/](https://christchurchattack.royalcommission.nz/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved.
 
 Cited by: [T125](../../timeline/recent-2014-now.md#T125)
@@ -64,6 +66,28 @@ Cited by: [T125](../../timeline/recent-2014-now.md#T125)
 - URL: [https://www.nationalsecurity.gov.au/what-australia-is-doing/terrorist-organisations/listed-terrorist-organisations](https://www.nationalsecurity.gov.au/what-australia-is-doing/terrorist-organisations/listed-terrorist-organisations)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
+
+<a id="AU-INSLM"></a>
+## AU-INSLM
+
+**Independent National Security Legislation Monitor (home page)**
+
+- Issuing body: Independent National Security Legislation Monitor (Australia)
+- Date: \[UNKNOWN\]
+- Type: agency history
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Oceania
+- Theme: studies and evaluations
+- URL: [https://www.inslm.gov.au/](https://www.inslm.gov.au/)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Verified via WebFetch (no raw capture of readable text): WebFetch text: 'Independent National Security Legislation Monitor'
+
+Cited by: [T192](../../timeline/recent-2014-now.md#T192)

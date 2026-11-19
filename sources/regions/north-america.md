@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-42 sources in this region (`government` 27, `NGO` 1, `court` 5, `oversight` 9).
+45 sources in this region (`government` 28, `NGO` 1, `court` 5, `oversight` 11).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -24,6 +24,7 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 - URL: [https://www.fbi.gov/history/famous-cases/wall-street-bombing-1920](https://www.fbi.gov/history/famous-cases/wall-street-bombing-1920)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T004](../../timeline/pre-1945.md#T004)
@@ -44,6 +45,7 @@ Cited by: [T004](../../timeline/pre-1945.md#T004)
 - URL: [https://www.fbi.gov/history/brief-history](https://www.fbi.gov/history/brief-history)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T002](../../timeline/pre-1945.md#T002)
@@ -64,6 +66,7 @@ Cited by: [T002](../../timeline/pre-1945.md#T002)
 - URL: [https://www.govinfo.gov/content/pkg/PLAW-104publ132/pdf/PLAW-104publ132.pdf](https://www.govinfo.gov/content/pkg/PLAW-104publ132/pdf/PLAW-104publ132.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T038](../../timeline/1990-2001.md#T038)
 
@@ -83,6 +86,7 @@ Cited by: [T038](../../timeline/1990-2001.md#T038)
 - URL: [https://www.govinfo.gov/content/pkg/PLAW-107publ40/pdf/PLAW-107publ40.pdf](https://www.govinfo.gov/content/pkg/PLAW-107publ40/pdf/PLAW-107publ40.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T053](../../timeline/post-9-11-2001-2014.md#T053)
 
@@ -102,6 +106,7 @@ Cited by: [T053](../../timeline/post-9-11-2001-2014.md#T053)
 - URL: [https://www.govinfo.gov/content/pkg/PLAW-107publ56/pdf/PLAW-107publ56.pdf](https://www.govinfo.gov/content/pkg/PLAW-107publ56/pdf/PLAW-107publ56.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T056](../../timeline/post-9-11-2001-2014.md#T056)
 
@@ -121,6 +126,7 @@ Cited by: [T056](../../timeline/post-9-11-2001-2014.md#T056)
 - URL: [https://www.govinfo.gov/content/pkg/PLAW-107publ296/pdf/PLAW-107publ296.pdf](https://www.govinfo.gov/content/pkg/PLAW-107publ296/pdf/PLAW-107publ296.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T065](../../timeline/post-9-11-2001-2014.md#T065)
 
@@ -140,6 +146,7 @@ Cited by: [T065](../../timeline/post-9-11-2001-2014.md#T065)
 - URL: [https://www.govinfo.gov/content/pkg/PLAW-108publ458/pdf/PLAW-108publ458.pdf](https://www.govinfo.gov/content/pkg/PLAW-108publ458/pdf/PLAW-108publ458.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T081](../../timeline/post-9-11-2001-2014.md#T081)
 
@@ -159,6 +166,7 @@ Cited by: [T081](../../timeline/post-9-11-2001-2014.md#T081)
 - URL: [https://www.govinfo.gov/content/pkg/PLAW-109publ366/pdf/PLAW-109publ366.pdf](https://www.govinfo.gov/content/pkg/PLAW-109publ366/pdf/PLAW-109publ366.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T092](../../timeline/post-9-11-2001-2014.md#T092), [T096](../../timeline/post-9-11-2001-2014.md#T096)
 
@@ -178,6 +186,7 @@ Cited by: [T092](../../timeline/post-9-11-2001-2014.md#T092), [T096](../../timel
 - URL: [https://www.govinfo.gov/content/pkg/PLAW-114publ23/pdf/PLAW-114publ23.pdf](https://www.govinfo.gov/content/pkg/PLAW-114publ23/pdf/PLAW-114publ23.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T115](../../timeline/recent-2014-now.md#T115)
 
@@ -197,6 +206,7 @@ Cited by: [T115](../../timeline/recent-2014-now.md#T115)
 - URL: [https://www.state.gov/executive-order-13224/](https://www.state.gov/executive-order-13224/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T054](../../timeline/post-9-11-2001-2014.md#T054)
 
@@ -216,6 +226,7 @@ Cited by: [T054](../../timeline/post-9-11-2001-2014.md#T054)
 - URL: [https://www.federalregister.gov/documents/2001/11/16/01-28904/detention-treatment-and-trial-of-certain-non-citizens-in-the-war-against-terrorism](https://www.federalregister.gov/documents/2001/11/16/01-28904/detention-treatment-and-trial-of-certain-non-citizens-in-the-war-against-terrorism)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T058](../../timeline/post-9-11-2001-2014.md#T058), [T090](../../timeline/post-9-11-2001-2014.md#T090)
 
@@ -235,6 +246,7 @@ Cited by: [T058](../../timeline/post-9-11-2001-2014.md#T058), [T090](../../timel
 - URL: [https://www.federalregister.gov/documents/2009/01/27/E9-1885/ensuring-lawful-interrogations](https://www.federalregister.gov/documents/2009/01/27/E9-1885/ensuring-lawful-interrogations)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T098](../../timeline/post-9-11-2001-2014.md#T098)
 
@@ -254,6 +266,7 @@ Cited by: [T098](../../timeline/post-9-11-2001-2014.md#T098)
 - URL: [https://www.9-11commission.gov/report/](https://www.9-11commission.gov/report/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Release date 22 July 2004 from the Chair/Vice Chair public statement PDF linked on this page (saved raw/US-911COMM-statement.pdf).
 
 Cited by: [T050](../../timeline/post-9-11-2001-2014.md#T050), [T077](../../timeline/post-9-11-2001-2014.md#T077)
@@ -274,9 +287,10 @@ Cited by: [T050](../../timeline/post-9-11-2001-2014.md#T050), [T077](../../timel
 - URL: [https://www.intelligence.senate.gov/sites/default/files/publications/CRPT-113srpt288.pdf](https://www.intelligence.senate.gov/sites/default/files/publications/CRPT-113srpt288.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Server returned the PDF wrapped in a multipart envelope and redirected to https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-filesations-crpt-113srpt288.pdf; cover page read after unwrapping. Volume includes additional and minority views.
 
-Cited by: [T113](../../timeline/recent-2014-now.md#T113)
+Cited by: [T113](../../timeline/recent-2014-now.md#T113), [T166](../../timeline/post-9-11-2001-2014.md#T166), [T168](../../timeline/recent-2014-now.md#T168)
 
 <a id="US-NSCT2003"></a>
 ## US-NSCT2003
@@ -294,6 +308,7 @@ Cited by: [T113](../../timeline/recent-2014-now.md#T113)
 - URL: [https://2001-2009.state.gov/s/ct/rls/wh/71803.htm](https://2001-2009.state.gov/s/ct/rls/wh/71803.htm)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: none in `data/timeline.csv`.
 
@@ -313,6 +328,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://obamawhitehouse.archives.gov/sites/default/files/counterterrorism_strategy.pdf](https://obamawhitehouse.archives.gov/sites/default/files/counterterrorism_strategy.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T105](../../timeline/post-9-11-2001-2014.md#T105)
 
@@ -332,7 +348,8 @@ Cited by: [T105](../../timeline/post-9-11-2001-2014.md#T105)
 - URL: [https://www.dni.gov/files/NCTC/documents/news_documents/NSCT.pdf](https://www.dni.gov/files/NCTC/documents/news_documents/NSCT.pdf)
 - Accessed: 2026-11-18
 - Verified: `no`
-- Notes: HTTP 403.
+- Language: \[UNKNOWN\]
+- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/NSCT.pdf Accessed 2026-11-18.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -352,6 +369,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T130](../../timeline/recent-2014-now.md#T130)
 
@@ -371,6 +389,7 @@ Cited by: [T130](../../timeline/recent-2014-now.md#T130)
 - URL: [https://www.dni.gov/index.php/nctc-who-we-are/history](https://www.dni.gov/index.php/nctc-who-we-are/history)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved. Undated web page; date \[UNKNOWN\].
 
 Cited by: [T068](../../timeline/post-9-11-2001-2014.md#T068), [T078](../../timeline/post-9-11-2001-2014.md#T078)
@@ -391,6 +410,7 @@ Cited by: [T068](../../timeline/post-9-11-2001-2014.md#T068), [T078](../../timel
 - URL: [https://www.dhs.gov/creation-department-homeland-security](https://www.dhs.gov/creation-department-homeland-security)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T065](../../timeline/post-9-11-2001-2014.md#T065)
@@ -411,6 +431,7 @@ Cited by: [T065](../../timeline/post-9-11-2001-2014.md#T065)
 - URL: [https://www.state.gov/foreign-terrorist-organizations/](https://www.state.gov/foreign-terrorist-organizations/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -431,7 +452,8 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://history.state.gov/departmenthistory/people/principalofficers/coordinator-counterterrorism](https://history.state.gov/departmenthistory/people/principalofficers/coordinator-counterterrorism)
 - Accessed: 2026-11-18
 - Verified: `no`
-- Notes: HTTP 200; expected title text not found. HTTP 200 but page body is a script shell; entry text not present in HTML. Undated web page; date \[UNKNOWN\].
+- Language: \[UNKNOWN\]
+- Notes: HTTP 200; expected title text not found. HTTP 200 but page body is a script shell; entry text not present in HTML. Undated web page; date \[UNKNOWN\]. Retry via WebFetch: page now shows only a notice that Principal Officers database updates are suspended (posted 12 Jan 2024); coordinator list not displayed. verified stays no.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -451,6 +473,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.fbi.gov/history/famous-cases/world-trade-center-bombing-1993](https://www.fbi.gov/history/famous-cases/world-trade-center-bombing-1993)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T033](../../timeline/1990-2001.md#T033)
@@ -471,6 +494,7 @@ Cited by: [T033](../../timeline/1990-2001.md#T033)
 - URL: [https://www.fbi.gov/history/famous-cases/oklahoma-city-bombing](https://www.fbi.gov/history/famous-cases/oklahoma-city-bombing)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T035](../../timeline/1990-2001.md#T035)
@@ -491,14 +515,15 @@ Cited by: [T035](../../timeline/1990-2001.md#T035)
 - URL: [https://www.fbi.gov/history/famous-cases/911-investigation](https://www.fbi.gov/history/famous-cases/911-investigation)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T050](../../timeline/post-9-11-2001-2014.md#T050)
 
-<a id="US-RASUL2004"></a>
-## US-RASUL2004
+<a id="USSC-2004-542-466"></a>
+## USSC-2004-542-466
 
-**Rasul v. Bush, 542 U.S. 466 (2004)**
+**R. v. Bush, 542 U.S. 466 (2004)**
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2004-06-28
@@ -511,13 +536,15 @@ Cited by: [T050](../../timeline/post-9-11-2001-2014.md#T050)
 - URL: [https://tile.loc.gov/storage-services/service/ll/usrep/usrep542/usrep542466/usrep542466.pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep542/usrep542466/usrep542466.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: 542 U.S. 466 (2004)
 
 Cited by: [T075](../../timeline/post-9-11-2001-2014.md#T075)
 
-<a id="US-HAMDI2004"></a>
-## US-HAMDI2004
+<a id="USSC-2004-542-507"></a>
+## USSC-2004-542-507
 
-**Hamdi v. Rumsfeld, 542 U.S. 507 (2004)**
+**H. v. Rumsfeld, 542 U.S. 507 (2004)**
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2004-06-28
@@ -530,13 +557,15 @@ Cited by: [T075](../../timeline/post-9-11-2001-2014.md#T075)
 - URL: [https://tile.loc.gov/storage-services/service/ll/usrep/usrep542/usrep542507/usrep542507.pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep542/usrep542507/usrep542507.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: 542 U.S. 507 (2004)
 
 Cited by: [T076](../../timeline/post-9-11-2001-2014.md#T076)
 
-<a id="US-HAMDAN2006"></a>
-## US-HAMDAN2006
+<a id="USSC-2006-548-557"></a>
+## USSC-2006-548-557
 
-**Hamdan v. Rumsfeld, 548 U.S. 557 (2006)**
+**H. v. Rumsfeld, 548 U.S. 557 (2006)**
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2006-06-29
@@ -549,13 +578,15 @@ Cited by: [T076](../../timeline/post-9-11-2001-2014.md#T076)
 - URL: [https://tile.loc.gov/storage-services/service/ll/usrep/usrep548/usrep548557/usrep548557.pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep548/usrep548557/usrep548557.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: 548 U.S. 557 (2006)
 
 Cited by: [T090](../../timeline/post-9-11-2001-2014.md#T090)
 
-<a id="US-BOUMEDIENE2008"></a>
-## US-BOUMEDIENE2008
+<a id="USSC-2008-553-723"></a>
+## USSC-2008-553-723
 
-**Boumediene v. Bush, 553 U.S. 723 (2008)**
+**B. v. Bush, 553 U.S. 723 (2008)**
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2008-06-12
@@ -568,6 +599,8 @@ Cited by: [T090](../../timeline/post-9-11-2001-2014.md#T090)
 - URL: [https://tile.loc.gov/storage-services/service/ll/usrep/usrep553/usrep553723/usrep553723.pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep553/usrep553723/usrep553723.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: 553 U.S. 723 (2008)
 
 Cited by: [T096](../../timeline/post-9-11-2001-2014.md#T096)
 
@@ -587,6 +620,7 @@ Cited by: [T096](../../timeline/post-9-11-2001-2014.md#T096)
 - URL: [https://tile.loc.gov/storage-services/service/ll/usrep/usrep561/usrep561001/usrep561001.pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep561/usrep561001/usrep561001.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T102](../../timeline/post-9-11-2001-2014.md#T102)
 
@@ -606,6 +640,7 @@ Cited by: [T102](../../timeline/post-9-11-2001-2014.md#T102)
 - URL: [https://crsreports.congress.gov/product/pdf/R/R43983](https://crsreports.congress.gov/product/pdf/R/R43983)
 - Accessed: 2026-11-18
 - Verified: `no`
+- Language: \[UNKNOWN\]
 - Notes: HTTP 403. CRS is a congressional research agency; listed as scholarly/secondary per brief.
 
 Cited by: none in `data/timeline.csv`.
@@ -626,6 +661,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://laws-lois.justice.gc.ca/eng/acts/a-11.7/](https://laws-lois.justice.gc.ca/eng/acts/a-11.7/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T060](../../timeline/post-9-11-2001-2014.md#T060)
 
@@ -645,6 +681,7 @@ Cited by: [T060](../../timeline/post-9-11-2001-2014.md#T060)
 - URL: [https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: none in `data/timeline.csv`.
 
@@ -664,6 +701,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://oig.justice.gov/sites/default/files/legacy/special/s0703b/final.pdf](https://oig.justice.gov/sites/default/files/legacy/special/s0703b/final.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T094](../../timeline/post-9-11-2001-2014.md#T094)
 
@@ -683,6 +721,7 @@ Cited by: [T094](../../timeline/post-9-11-2001-2014.md#T094)
 - URL: [https://oig.justice.gov/sites/default/files/legacy/special/s0703a/final.pdf](https://oig.justice.gov/sites/default/files/legacy/special/s0703a/final.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: none in `data/timeline.csv`.
 
@@ -702,6 +741,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.justice.gov/storage/120919-examination.pdf](https://www.justice.gov/storage/120919-examination.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T127](../../timeline/recent-2014-now.md#T127)
 
@@ -721,6 +761,7 @@ Cited by: [T127](../../timeline/recent-2014-now.md#T127)
 - URL: [https://oig.justice.gov/sites/default/files/legacy/special/0306/full.pdf](https://oig.justice.gov/sites/default/files/legacy/special/0306/full.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T069](../../timeline/post-9-11-2001-2014.md#T069)
 
@@ -740,6 +781,7 @@ Cited by: [T069](../../timeline/post-9-11-2001-2014.md#T069)
 - URL: [https://www.pclob.gov/](https://www.pclob.gov/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified on page title 'Home - PCLOB'. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -760,6 +802,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://documents.pclob.gov/prod/Documents/OversightReport/ec542143-1079-424a-84b3-acc354698560/215-Report_on_the_Telephone_Records_Program.pdf](https://documents.pclob.gov/prod/Documents/OversightReport/ec542143-1079-424a-84b3-acc354698560/215-Report_on_the_Telephone_Records_Program.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T109](../../timeline/recent-2014-now.md#T109)
 
@@ -779,6 +822,7 @@ Cited by: [T109](../../timeline/recent-2014-now.md#T109)
 - URL: [https://www.gao.gov/products/gao-17-300](https://www.gao.gov/products/gao-17-300)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved.
 
 Cited by: [T120](../../timeline/recent-2014-now.md#T120)
@@ -799,6 +843,7 @@ Cited by: [T120](../../timeline/recent-2014-now.md#T120)
 - URL: [https://www.hrw.org/report/2011/07/12/getting-away-torture/bush-administration-and-mistreatment-detainees](https://www.hrw.org/report/2011/07/12/getting-away-torture/bush-administration-and-mistreatment-detainees)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: none in `data/timeline.csv`.
 
@@ -817,7 +862,71 @@ Cited by: none in `data/timeline.csv`.
 - Theme: agencies
 - URL: [https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx)
 - Accessed: 2026-11-18
-- Verified: `no`
-- Notes: HTTP 000. Undated web page; date \[UNKNOWN\].
+- Verified: `yes`
+- Language: \[UNKNOWN\]
+- Notes: Retry of the same cited URL on 2026-11-18 returned HTTP 200; page title 'Currently listed entities'. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
+
+<a id="SR-USA-2007"></a>
+## SR-USA-2007
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to United States of America (A/HRC/6/17/Add.3)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2007-11-22
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: North America
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/6/17/Add.3](https://undocs.org/A/HRC/6/17/Add.3)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-USA-2007.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="CA-NSIRA"></a>
+## CA-NSIRA
+
+**National Security and Intelligence Review Agency (home page)**
+
+- Issuing body: NSIRA (Canada)
+- Date: \[UNKNOWN\]
+- Type: agency history
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: North America
+- Theme: studies and evaluations
+- URL: [https://www.nsira-ossnr.gc.ca/](https://www.nsira-ossnr.gc.ca/)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/CA-NSIRA.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="CIA-SSCI-2013"></a>
+## CIA-SSCI-2013
+
+**CIA's June 2013 Response to the SSCI Study on the Former Detention and Interrogation Program**
+
+- Issuing body: Central Intelligence Agency
+- Date: 2013-06-27
+- Type: agency history
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: North America
+- Theme: major operations
+- URL: [https://www.cia.gov/static/e02824d8cacf8c55c511d67a1d76ed21/CIAs-June-2013-Response-to-the-SSCI-Study-on-the-Former-Detention-and-Interrogation-Program.pdf](https://www.cia.gov/static/e02824d8cacf8c55c511d67a1d76ed21/CIAs-June-2013-Response-to-the-SSCI-Study-on-the-Former-Detention-and-Interrogation-Program.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Approved for release 8 Dec 2014. HTTP 200; expected text found. Raw: pass2/raw/CIA-SSCI-2013.* Text states the Agency 'disagrees with assertions' in the Study on intelligence produced by the program.
+
+Cited by: [T166](../../timeline/post-9-11-2001-2014.md#T166)

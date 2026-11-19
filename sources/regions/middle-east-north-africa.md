@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-10 sources in this region (`international` 10).
+28 sources in this region (`government` 7, `international` 11, `NGO` 2, `court` 3, `oversight` 5).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -24,6 +24,7 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 - URL: [https://undocs.org/S/RES/731\(1992\)](https://undocs.org/S/RES/731(1992))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T031](../../timeline/1990-2001.md#T031)
@@ -44,6 +45,7 @@ Cited by: [T031](../../timeline/1990-2001.md#T031)
 - URL: [https://undocs.org/S/RES/748\(1992\)](https://undocs.org/S/RES/748(1992))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T032](../../timeline/1990-2001.md#T032)
@@ -64,6 +66,7 @@ Cited by: [T032](../../timeline/1990-2001.md#T032)
 - URL: [https://undocs.org/S/RES/1595\(2005\)](https://undocs.org/S/RES/1595(2005))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: none in `data/timeline.csv`.
@@ -84,6 +87,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://undocs.org/S/RES/1757\(2007\)](https://undocs.org/S/RES/1757(2007))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T095](../../timeline/post-9-11-2001-2014.md#T095)
@@ -104,6 +108,7 @@ Cited by: [T095](../../timeline/post-9-11-2001-2014.md#T095)
 - URL: [https://undocs.org/S/RES/2170\(2014\)](https://undocs.org/S/RES/2170(2014))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T111](../../timeline/recent-2014-now.md#T111)
@@ -124,6 +129,7 @@ Cited by: [T111](../../timeline/recent-2014-now.md#T111)
 - URL: [https://www.unodc.org/images/tldb-f/conv_arab_terrorism.en.pdf](https://www.unodc.org/images/tldb-f/conv_arab_terrorism.en.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T042](../../timeline/1990-2001.md#T042)
 
@@ -143,6 +149,7 @@ Cited by: [T042](../../timeline/1990-2001.md#T042)
 - URL: [https://theglobalcoalition.org/en/](https://theglobalcoalition.org/en/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -163,6 +170,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://undocs.org/S/RES/1192\(1998\)](https://undocs.org/S/RES/1192(1998))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T044](../../timeline/1990-2001.md#T044)
@@ -183,6 +191,7 @@ Cited by: [T044](../../timeline/1990-2001.md#T044)
 - URL: [https://undocs.org/S/RES/1516\(2003\)](https://undocs.org/S/RES/1516(2003))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T071](../../timeline/post-9-11-2001-2014.md#T071)
@@ -203,6 +212,385 @@ Cited by: [T071](../../timeline/post-9-11-2001-2014.md#T071)
 - URL: [https://undocs.org/S/RES/1618\(2005\)](https://undocs.org/S/RES/1618(2005))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: none in `data/timeline.csv`.
+
+<a id="SR-TUR-2006"></a>
+## SR-TUR-2006
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Turkey (A/HRC/4/26/Add.2)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2006-11-16
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/4/26/Add.2](https://undocs.org/A/HRC/4/26/Add.2)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-TUR-2006.*
+
+Cited by: [T154](../../timeline/post-9-11-2001-2014.md#T154)
+
+<a id="SR-EGY-2009"></a>
+## SR-EGY-2009
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Egypt (A/HRC/13/37/Add.2)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: \[UNKNOWN\]
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/13/37/Add.2](https://undocs.org/A/HRC/13/37/Add.2)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-EGY-2009.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SR-TUN-2010"></a>
+## SR-TUN-2010
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Tunisia (A/HRC/16/51/Add.2)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: \[UNKNOWN\]
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/16/51/Add.2](https://undocs.org/A/HRC/16/51/Add.2)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-TUN-2010.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SR-SAU-2018"></a>
+## SR-SAU-2018
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Saudi Arabia (A/HRC/40/52/Add.2)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: \[UNKNOWN\]
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/40/52/Add.2](https://undocs.org/A/HRC/40/52/Add.2)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-SAU-2018.*
+
+Cited by: [T179](../../timeline/recent-2014-now.md#T179)
+
+<a id="TR-TMK3713"></a>
+## TR-TMK3713
+
+**Terörle Mücadele Kanunu (Kanun Numarası 3713)**
+
+- Issuing body: Türkiye Büyük Millet Meclisi (Mevzuat Bilgi Sistemi)
+- Date: 1991-04-12
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://www.mevzuat.gov.tr/mevzuatmetin/1.5.3713.pdf](https://www.mevzuat.gov.tr/mevzuatmetin/1.5.3713.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Turkish
+- Notes: English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/TR-TMK3713.* Text reads 'Kabul Tarihi: 12/4/1991'.
+
+Cited by: [T141](../../timeline/1990-2001.md#T141)
+
+<a id="EG-LAW94-2015"></a>
+## EG-LAW94-2015
+
+**قانون مكافحة الإرهاب رقم 94 لسنة 2015**
+
+- Issuing body: الهيئة العامة للرقابة المالية (Financial Regulatory Authority, Egypt)
+- Date: 2015-08-15
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://fra.gov.eg/wp-content/uploads/2021/11/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d9%85%d9%83%d8%a7%d9%81%d8%ad%d8%a9-%d8%a7%d9%84%d8%a5%d8%b1%d9%87%d8%a7%d8%a8-%d8%b1%d9%82%d9%85-94-%d9%84%d8%b3%d9%86%d8%a9-2015.pdf](https://fra.gov.eg/wp-content/uploads/2021/11/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d9%85%d9%83%d8%a7%d9%81%d8%ad%d8%a9-%d8%a7%d9%84%d8%a5%d8%b1%d9%87%d8%a7%d8%a8-%d8%b1%d9%82%d9%85-94-%d9%84%d8%b3%d9%86%d8%a9-2015.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Arabic
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] PDF text layer is font-encoded; page 1 image checked visually: header 'الجريدة الرسمية - العدد ٣٣ (مكرر) في ١٥ أغسطس سنة ٢٠١٥', title 'قرار رئيس جمهورية مصر العربية بالقانون رقم ٩٤ لسنة ٢٠١٥ بإصدار قانون مكافحة الإرهاب'. Raw: pass2/raw/EG-LAW94-2015.*
+
+Cited by: [T172](../../timeline/recent-2014-now.md#T172), [T173](../../timeline/recent-2014-now.md#T173)
+
+<a id="MA-LOI03-03"></a>
+## MA-LOI03-03
+
+**القانون رقم 03.03 المتعلق بمكافحة الإرهاب (ظهير شريف رقم 1.03.140)**
+
+- Issuing body: وزارة العدل، المملكة المغربية (adala.justice.gov.ma)
+- Date: 2003-05-28
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://adala.justice.gov.ma/api/uploads/2026/04/30/%D8%B8%D9%80%D9%87%D9%8A%D8%B1%20%D8%B4%D9%80%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.03.140%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2003.03%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%D8%A9%20%D8%A8%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-1777546049068.pdf](https://adala.justice.gov.ma/api/uploads/2026/04/30/%D8%B8%D9%80%D9%87%D9%8A%D8%B1%20%D8%B4%D9%80%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.03.140%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2003.03%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%D8%A9%20%D8%A8%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-1777546049068.pdf)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: Arabic
+- Notes: URL taken from a web-search result listing, then fetched. Consolidated (amended) version. English title: \[UNKNOWN\] HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="MA-CNASNU"></a>
+## MA-CNASNU
+
+**Corpus juridique national**
+
+- Issuing body: Commission Nationale chargée de l'application des Sanctions prévues par les résolutions du Conseil de sécurité (Maroc)
+- Date: \[UNKNOWN\]
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://cnasnu.justice.gov.ma/language/fr/corpus-juridique-national/](https://cnasnu.justice.gov.ma/language/fr/corpus-juridique-national/)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: French
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="TN-LO2015-26"></a>
+## TN-LO2015-26
+
+**Loi organique n° 2015-26 du 7 août 2015, relative à la lutte contre le terrorisme et à la répression du blanchiment d'argent (JORT n° 63)**
+
+- Issuing body: République Tunisienne (portail des marchés publics, téléchargement du JORT)
+- Date: 2015-08-07
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://www.marchespublics.gov.tn/fr/legislations/2189/download](https://www.marchespublics.gov.tn/fr/legislations/2189/download)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: French
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] Verified via WebFetch (no raw capture of readable text): WebFetch text: 'Loi organique n° 2015-26 du 7 août 2015, relative à la lutte contre le terrorisme et la répression du blanchiment d'argent ... adoption par l'assemblée des représentants du peuple dans sa séance du 25 juillet 2015'
+
+Cited by: [T171](../../timeline/recent-2014-now.md#T171)
+
+<a id="DZ-DL92-03"></a>
+## DZ-DL92-03
+
+**Décret législatif n° 92-03 du 30 septembre 1992 relatif à la lutte contre la subversion et le terrorisme**
+
+- Issuing body: Algeria (JORADP n° 70, 1 Oct 1992; copy hosted by ecoi.net / UNHCR)
+- Date: 1992-09-30
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://www.ecoi.net/en/file/local/1203669/1504_1217249378_decret-legislatif-no-92-03-du-30-septembre-1992-relatif-a-la-lutte-contre-la-subversion-et-le-terrorisme.pdf](https://www.ecoi.net/en/file/local/1203669/1504_1217249378_decret-legislatif-no-92-03-du-30-septembre-1992-relatif-a-la-lutte-contre-la-subversion-et-le-terrorisme.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: French
+- Notes: URL taken from a web-search result listing, then fetched. Third-party (ecoi.net) copy of the official gazette text. English title: \[UNKNOWN\] Scanned gazette; OCR of page 1 (pass2/raw/DZ-DL92-03.ocr.txt) reads 'Journal officiel ... N 70 ... 1er octobre 1992 ... Décret législatif n° 92-03 du 30 septembre 1992 relatif à la lutte contre la subversion et le terrorisme'. Raw: pass2/raw/DZ-DL92-03.*
+
+Cited by: [T143](../../timeline/1990-2001.md#T143)
+
+<a id="OIC-CONV1999"></a>
+## OIC-CONV1999
+
+**OIC Convention on Combating International Terrorism**
+
+- Issuing body: Organisation of Islamic Cooperation
+- Date: 1999-07-01
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: 1990-2001
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://bdrive.oic-oci.org/index.php/s/MRknarXLqNDraSj/download](https://bdrive.oic-oci.org/index.php/s/MRknarXLqNDraSj/download)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 522; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SA-CTLAW2017"></a>
+## SA-CTLAW2017
+
+**نظام مكافحة جرائم الإرهاب وتمويله**
+
+- Issuing body: هيئة الخبراء بمجلس الوزراء (Bureau of Experts at the Council of Ministers, Saudi Arabia)
+- Date: 2017-11-01
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://laws.boe.gov.sa/Boelaws/Laws/LawDetails/57694209-3eed-46c7-a5d8-a9ed012761d4/1](https://laws.boe.gov.sa/Boelaws/Laws/LawDetails/57694209-3eed-46c7-a5d8-a9ed012761d4/1)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: Arabic
+- Notes: URL taken from a web-search result listing, then fetched. Royal Decree M/21, 12/2/1439H. English title: Law of Combating Crimes of Terrorism and its Financing (English title used by the Bureau of Experts' official translation, per search listing) HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="FIDH-EGY-2010"></a>
+## FIDH-EGY-2010
+
+**Egypt: Counter-terrorism against the background of an endless state of emergency (N°534a)**
+
+- Issuing body: FIDH (International Federation for Human Rights)
+- Date: 2010-01
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://www.fidh.org/IMG/pdf/Egypt_Antiterro_EN.pdf](https://www.fidh.org/IMG/pdf/Egypt_Antiterro_EN.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/FIDH-EGY-2010.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="HRW-EGY-2015"></a>
+## HRW-EGY-2015
+
+**Egypt: Counterterrorism Law Erodes Basic Rights**
+
+- Issuing body: Human Rights Watch
+- Date: 2015-08-19
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://www.hrw.org/news/2015/08/19/egypt-counterterrorism-law-erodes-basic-rights](https://www.hrw.org/news/2015/08/19/egypt-counterterrorism-law-erodes-basic-rights)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/HRW-EGY-2015.*
+
+Cited by: [T173](../../timeline/recent-2014-now.md#T173)
+
+<a id="SR-TUN-2018"></a>
+## SR-TUN-2018
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: visit to Tunisia (A/HRC/40/52/Add.1)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2018-12-12
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/40/52/Add.1](https://undocs.org/A/HRC/40/52/Add.1)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-TUN-2018.* Text: visit to Tunisia from 30 January to 3 February 2017.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="ECHR-1996-21987"></a>
+## ECHR-1996-21987
+
+**A. v. Turkey, no. 21987/93 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 1996-12-18
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: 1990-2001
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-58003](https://hudoc.echr.coe.int/eng?i=001-58003)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 1996-12-18 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: [T144](../../timeline/1990-2001.md#T144)
+
+<a id="ECHR-2005-46221"></a>
+## ECHR-2005-46221
+
+**Ö. v. Turkey \[GC\], no. 46221/99 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 2005-05-12
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-69022](https://hudoc.echr.coe.int/eng?i=001-69022)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2005-05-12 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: [T152](../../timeline/post-9-11-2001-2014.md#T152)
+
+<a id="ECHR-DEMIRTAS2-2020"></a>
+## ECHR-DEMIRTAS2-2020
+
+**Selahattin Demirtaş v. Turkey (No. 2) \[GC\], no. 14305/17 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 2020-12-22
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-207173](https://hudoc.echr.coe.int/eng?i=001-207173)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. HUDOC API returned docname 'CASE OF SELAHATTİN DEMİRTAŞ v. TURKEY (No. 2)', kpdate 2020-12-22 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: [T184](../../timeline/recent-2014-now.md#T184)
