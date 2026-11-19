@@ -13,6 +13,8 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **Inter-American Convention against Terrorism (A-66)**
 
+Summary: The Inter-American Convention against Terrorism (A-66) of the Organization of American States, dated 3 June 2002. As its title states, it is the Americas' regional treaty against terrorism. The cited copy could not be confirmed (HTTP 503/500 on repeated tries), so milestone T061 is marked not-proven and the Convention's content is \[UNKNOWN\] in CTA6.
+
 - Issuing body: Organization of American States
 - Date: 2002-06-03
 - Type: treaty
@@ -33,6 +35,8 @@ Cited by: [T061](../../timeline/post-9-11-2001-2014.md#T061)
 ## OAS-CICTE
 
 **Inter-American Committee against Terrorism (CICTE)**
+
+Summary: The page of the OAS Inter-American Committee against Terrorism (CICTE). It would describe the OAS body that works on counter-terrorism, but the cited copy could not be confirmed (HTTP 503). Its content and date are \[UNKNOWN\].
 
 - Issuing body: Organization of American States
 - Date: \[UNKNOWN\]
@@ -55,6 +59,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Informe Final de la Comisión de la Verdad y Reconciliación**
 
+Summary: The Final Report (Informe Final) of Peru's Truth and Reconciliation Commission (Comisión de la Verdad y Reconciliación, CVR), dated 28 August 2003 in CTA6. The captured page is the CVR's website index, which lists the final report alongside public hearings, exhumations and the disappeared. Milestone T070 is not-proven because the release date is not printed on the fetched page; the report's findings are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: Comisión de la Verdad y Reconciliación (Perú)
 - Date: 2003-08-28
 - Type: commission report
@@ -74,6 +80,8 @@ Cited by: [T070](../../timeline/post-9-11-2001-2014.md#T070)
 ## BR-L13260
 
 **Lei nº 13.260, de 16 de março de 2016 (Lei Antiterrorismo)**
+
+Summary: Brazil's Lei nº 13.260 of 16 March 2016, the Anti-Terrorism Law, from the Presidency's Planalto website. CTA6 confirmed the heading 'LEI Nº 13.260, DE 16 DE MARÇO DE 2016' via WebFetch. It is the source for milestone T117; its provisions are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: Presidência da República (Planalto)
 - Date: 2016-03-16
@@ -96,6 +104,8 @@ Cited by: [T117](../../timeline/recent-2014-now.md#T117)
 
 **Security Council resolution 1465 (2003): Bombing in Bogota, Colombia**
 
+Summary: UN Security Council resolution 1465, adopted on 13 February 2003 after a bomb attack in Bogota, Colombia, on 7 February 2003. The Council condemns the attack 'in the strongest terms' and regards it, like any act of terrorism, as a threat to peace and security. It is the source for milestone T067.
+
 - Issuing body: UN Security Council
 - Date: 2003-02-13
 - Type: UN resolution
@@ -116,6 +126,8 @@ Cited by: [T067](../../timeline/post-9-11-2001-2014.md#T067)
 ## CO-JEP
 
 **Jurisdicción Especial para la Paz (home page)**
+
+Summary: The home page of Colombia's Jurisdicción Especial para la Paz (JEP, Special Jurisdiction for Peace). The page links to the JEP's mission and functions, its chambers and Tribunal for Peace, and its cases. It is undated \[UNKNOWN\]; its role in counter-terrorism is not stated in CTA6 \[UNKNOWN\].
 
 - Issuing body: JEP, Colombia
 - Date: \[UNKNOWN\]
@@ -138,6 +150,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Peru (A/HRC/16/51/Add.3)**
 
+Summary: Report A/HRC/16/51/Add.3 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Peru from 1 to 8 September 2010. The report examines Peru's support for victims of terrorist crimes and of human rights violations by State security forces during the 1980-2000 internal armed conflict, and analyses Peru's counter-terrorism laws; these are the Special Rapporteur's assessments. Its date is \[UNKNOWN\] in CTA6.
+
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: \[UNKNOWN\]
 - Type: commission report
@@ -158,6 +172,8 @@ Cited by: none in `data/timeline.csv`.
 ## SR-CHL-2014
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Chile (A/HRC/25/59/Add.2)**
+
+Summary: Report A/HRC/25/59/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Chile from 17 to 30 July 2013. The report says the main focus was the use of anti-terrorism legislation in connection with protests by Mapuche activists seeking to reclaim ancestral lands. It relates to Chile's Law 18.314 (T138) and the Inter-American Court case on its use (T167); its date is \[UNKNOWN\].
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: \[UNKNOWN\]
@@ -180,6 +196,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Caso N.C. y otros (Dirigentes, miembros y activista del Pueblo Indígena Mapuche) vs. Chile, Serie C No. 279. Sentencia de 29 de mayo de 2014**
 
+Summary: The Inter-American Court of Human Rights judgment of 29 May 2014 in N.C. y otros (leaders, members and an activist of the Mapuche Indigenous People) vs. Chile, Serie C No. 279. CTA6 records that the case concerned convictions under Chile's anti-terrorism Law 18.314 (T167). The ruling's findings were not captured, so the outcome is \[UNKNOWN\] in CTA6; party names are reduced to initials.
+
 - Issuing body: Corte Interamericana de Derechos Humanos
 - Date: 2014-05-29
 - Type: court record
@@ -200,6 +218,8 @@ Cited by: [T167](../../timeline/recent-2014-now.md#T167)
 ## MX-CPF
 
 **Código Penal Federal (incluye artículo 139, terrorismo)**
+
+Summary: Mexico's Federal Penal Code (Código Penal Federal), in the consolidated version from the Chamber of Deputies, including Article 139 on terrorism. Article 139 sets prison terms of fifteen to forty years for listed acts, including the use of toxic substances, chemical or biological weapons or radioactive or nuclear material; the paragraph was last amended in 2024. The consolidated code places the original terrorism chapter in 1970 (T137).
 
 - Issuing body: Cámara de Diputados del H. Congreso de la Unión (México)
 - Date: \[UNKNOWN\]
@@ -222,6 +242,8 @@ Cited by: [T137](../../timeline/1945-1990.md#T137)
 
 **Ley 18.314: Determina conductas terroristas y fija su penalidad**
 
+Summary: Chile's Law 18.314, which defines terrorist conduct and sets its penalties, from the National Congress Library. According to the Library's record, it was promulgated on 16 May 1984, published on 17 May 1984, and repealed on 12 February 2025 by Law 21.732. It is the source for milestones T138 and T191 and the law at issue in the Inter-American Court's Mapuche case (T167).
+
 - Issuing body: Biblioteca del Congreso Nacional de Chile
 - Date: 1984-05-17
 - Type: statute
@@ -242,6 +264,8 @@ Cited by: [T138](../../timeline/1945-1990.md#T138), [T167](../../timeline/recent
 ## PE-DL25475
 
 **Decreto Ley N° 25475: Establecen la penalidad para los delitos de terrorismo y los procedimientos para la investigación, la instrucción y el juicio**
+
+Summary: Peru's Decree Law No. 25475, which sets penalties for terrorism offences and procedures for their investigation and trial, dated 6 May 1992 per the search listing. Its Article 2 defines the offence, starting with whoever 'provokes, creates or maintains a state of anxiety, alarm or fear' in the population. It is the source for milestone T142; parts of it were later declared unconstitutional by Peru's Constitutional Tribunal (T202).
 
 - Issuing body: Congreso de la República del Perú (Archivo Digital de la Legislación)
 - Date: 1992-05-06
@@ -264,6 +288,8 @@ Cited by: [T142](../../timeline/1990-2001.md#T142)
 
 **Ley 26.734: Código Penal, modificación (financiamiento del terrorismo; art. 41 quinquies)**
 
+Summary: Argentina's Law 26.734, passed on 22 December 2011, which amends the Penal Code on terrorism financing. It adds Article 41 quinquies, which doubles the penalty range when an offence is committed to terrorize the population or to compel public authorities, foreign governments or international organizations to act or refrain from acting. It is the source for milestone T161.
+
 - Issuing body: InfoLEG, Ministerio de Economía (Argentina)
 - Date: 2011-12-22
 - Type: statute
@@ -284,6 +310,8 @@ Cited by: [T161](../../timeline/post-9-11-2001-2014.md#T161)
 ## BR-ABIN-TERR
 
 **Terrorismo (Fontes de ameaças)**
+
+Summary: A page on terrorism from the Brazilian Intelligence Agency (ABIN), published on 23 September 2020. ABIN says Brazil, although not a specific target of terrorist groups, is not free from attacks on its territory or from the effects of attacks abroad, and that intelligence analysis of suspect behaviour can anticipate terrorist actions. These are ABIN's own statements; no milestone cites it.
 
 - Issuing body: Agência Brasileira de Inteligência (ABIN)
 - Date: \[UNKNOWN\]
@@ -306,6 +334,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Portaria conjunta nº 2, de 31 de janeiro de 2017 (registro na Biblioteca Digital do MJ)**
 
+Summary: The Brazilian Ministry of Justice digital library record for Joint Ordinance No. 2 (Portaria conjunta nº 2) of 31 January 2017. The record summarizes it as setting procedures for handling foreign requests to freeze assets, values and rights linked to terrorism, its financing or related conduct, and says no express repeal is recorded. No milestone cites it.
+
 - Issuing body: Ministério da Justiça e Segurança Pública (Brasil)
 - Date: 2017-01-31
 - Type: other
@@ -326,6 +356,8 @@ Cited by: none in `data/timeline.csv`.
 ## CO-LEY1121-2006
 
 **Ley 1121 de 2006 (diciembre 29): por la cual se dictan normas para la prevención, detección, investigación y sanción de la financiación del terrorismo y otras disposiciones**
+
+Summary: Colombia's Law 1121 of 29 December 2006 on the prevention, detection, investigation and punishment of terrorism financing, from the Senate's legal database. Its Article 1 amends the financial regime (Decree 663 of 1993) to set obligations for institutions supervised by the Financial Superintendency. It was published in Diario Oficial No. 46.497 on 30 December 2006 and is the source for milestone T212.
 
 - Issuing body: Congreso de la República de Colombia (Secretaría General del Senado, base documental)
 - Date: 2006-12-29
@@ -348,6 +380,8 @@ Cited by: [T212](../../timeline/post-9-11-2001-2014.md#T212)
 
 **Informe sobre terrorismo y derechos humanos (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.)**
 
+Summary: The Inter-American Commission on Human Rights' Report on Terrorism and Human Rights (Informe sobre terrorismo y derechos humanos, OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.), in Spanish, dated 22 October 2002 per the search listing. As its title states, it is the Commission's report on terrorism and human rights. The cited copy could not be confirmed (HTTP 503, server maintenance), so its content is \[UNKNOWN\] in CTA6.
+
 - Issuing body: Comisión Interamericana de Derechos Humanos (OEA)
 - Date: 2002-10-22
 - Type: commission report
@@ -369,6 +403,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Report on Terrorism and Human Rights: Executive Summary (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.)**
 
+Summary: The English executive summary of the Inter-American Commission on Human Rights' Report on Terrorism and Human Rights (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.). The cited copy could not be confirmed (HTTP 503, maintenance), and its date comes from the Spanish listing (IACHR-2002-TERR-ES). Its content is \[UNKNOWN\] in CTA6.
+
 - Issuing body: Inter-American Commission on Human Rights (OAS)
 - Date: 2002-10-22
 - Type: commission report
@@ -389,6 +425,8 @@ Cited by: none in `data/timeline.csv`.
 ## IACTHR-1997-33
 
 **Caso L.T. Vs. Perú, Sentencia de 17 de septiembre de 1997 (Fondo), Serie C No. 33**
+
+Summary: The Inter-American Court of Human Rights' merits judgment of 17 September 1997 in L.T. v. Peru (Serie C No. 33), from petition No. 11.154. According to milestone T196, the Commission submitted the case on 12 January 1995 alleging unlawful detention, torture and a second trial on the same facts. The captured text is cut off before the Court's operative points, so the outcome is \[UNKNOWN\] in CTA6; the victim is given as initials.
 
 - Issuing body: Corte Interamericana de Derechos Humanos
 - Date: 1997-09-17
@@ -412,6 +450,8 @@ Cited by: [T196](../../timeline/1990-2001.md#T196)
 
 **Caso C.P. y otros Vs. Perú, Sentencia de 30 de mayo de 1999 (Fondo, Reparaciones y Costas), Serie C No. 52**
 
+Summary: The Inter-American Court of Human Rights' judgment on merits, reparations and costs of 30 May 1999 in C.P. y otros v. Peru (Serie C No. 52), from petition No. 11.319. As described in the judgment, it concerns four Chilean nationals tried by a military tribunal under Decree-Law No. 25.659 (T197). The captured text is cut off before the operative points, so the outcome is \[UNKNOWN\] in CTA6; the victims are given as initials.
+
 - Issuing body: Corte Interamericana de Derechos Humanos
 - Date: 1999-05-30
 - Type: court record
@@ -433,6 +473,8 @@ Cited by: [T197](../../timeline/1990-2001.md#T197)
 ## IACTHR-2000-69
 
 **Caso C.B. Vs. Perú, Sentencia de 18 de agosto de 2000 (Fondo), Serie C No. 69**
+
+Summary: The Inter-American Court of Human Rights' merits judgment of 18 August 2000 in C.B. v. Peru (Serie C No. 69). The captured part shows the Commission had found Peru responsible for violating the rights to personal liberty, personal integrity and judicial guarantees (Articles 7, 5 and 8 of the American Convention); that was the Commission's finding, not the Court's. The Court's own operative points are not in the capture, so the outcome is \[UNKNOWN\]; it is the source for T198.
 
 - Issuing body: Corte Interamericana de Derechos Humanos
 - Date: 2000-08-18
@@ -456,6 +498,8 @@ Cited by: [T198](../../timeline/1990-2001.md#T198)
 
 **Sentencia del Tribunal Constitucional, Exp. N.º 010-2002-AI/TC (T.S. y más de 5,000 ciudadanos; legislación antiterrorista de 1992)**
 
+Summary: The judgment of Peru's Constitutional Tribunal of 3 January 2003 in Exp. No. 010-2002-AI/TC, brought by T.S. and more than 5,000 citizens against the 1992 anti-terrorism decree-laws. The Tribunal declared the challenge founded in part and declared unconstitutional, among other provisions, Article 7 and Article 13(h) of Decree-Law No. 25475 and phrases imposing continuous solitary confinement in the first year of detention. It is the source for milestone T202.
+
 - Issuing body: Tribunal Constitucional del Perú
 - Date: 2003-01-03
 - Type: court record
@@ -478,6 +522,8 @@ Cited by: [T202](../../timeline/post-9-11-2001-2014.md#T202)
 
 **Unidad Fiscal para la Investigación de la Causa AMIA (UFI-AMIA) (página institucional)**
 
+Summary: The institutional page of Argentina's Prosecution Unit for the AMIA Case (UFI-AMIA), part of the Public Prosecutor's Office. It says the unit was created by Resolución MP N°84/04 to act jointly or alternately with the competent prosecutors in the main case investigating the 18 July 1994 attack on the Asociación Mutual Israelita Argentina (AMIA). It is the source for milestone T204.
+
 - Issuing body: Ministerio Público Fiscal de la Nación (Argentina)
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -499,6 +545,8 @@ Cited by: [T204](../../timeline/post-9-11-2001-2014.md#T204)
 
 **Informe de la UFI-AMIA sobre el estado de la investigación por el atentado a la Asociación Mutual Israelí Argentina**
 
+Summary: A 2022 report by Argentina's UFI-AMIA on the state of the investigation into the attack on the AMIA. The report says the unit's purpose was to act with the case's prosecutor in all proceedings to clarify the attack, including those on alleged cover-up or obstruction of the investigation. Its detailed findings are not summarized in CTA6 \[UNKNOWN\], and the day and month are \[UNKNOWN\].
+
 - Issuing body: Unidad Fiscal para la Investigación de la Causa AMIA, Ministerio Público Fiscal (Argentina)
 - Date: 2022
 - Type: other
@@ -519,6 +567,8 @@ Cited by: none in `data/timeline.csv`.
 ## AR-DEC812-2005
 
 **Decreto 812/2005: apruébase el Acta de fecha 4 de marzo de 2005 firmada en el marco del 122 período ordinario de sesiones de la Comisión Interamericana de Derechos Humanos, petición N° 12.204 (atentado a la sede de la AMIA)**
+
+Summary: Argentina's Decree 812/2005 of 12 July 2005, from InfoLeg. It approves the record (acta) of a 4 March 2005 hearing before the Inter-American Commission on Human Rights in petition No. 12.204, in which Argentina recognized State responsibility in relation to the 18 July 1994 attack on the AMIA, citing a failure of prevention given the earlier attack on the Israeli Embassy and a serious, deliberate cover-up of the investigation. It is the source for milestone T207.
 
 - Issuing body: Poder Ejecutivo Nacional (InfoLeg, Ministerio de Justicia)
 - Date: 2005-07-12

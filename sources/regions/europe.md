@@ -13,6 +13,8 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **Security Council resolution 1530 (2004): Threats to international peace and security caused by terrorist acts (Madrid)**
 
+Summary: UN Security Council resolution 1530, adopted on 11 March 2004, the day of the Madrid train bombings. The Council condemns the attacks in the strongest terms, and its operative text attributes them to ETA. That attribution is disputed by a later UN source: milestone T150 records that the UN Special Rapporteur's 2008 report on Spain describes the bombings as carried out by members of an international terrorist cell. CTA6 records what each source says without deciding between them.
+
 - Issuing body: UN Security Council
 - Date: 2004-03-11
 - Type: UN resolution
@@ -33,6 +35,8 @@ Cited by: [T072](../../timeline/post-9-11-2001-2014.md#T072), [T150](../../timel
 ## UNSC1611
 
 **Security Council resolution 1611 (2005): Threats to international peace and security caused by terrorist acts (London)**
+
+Summary: UN Security Council resolution 1611, adopted on 7 July 2005, the day of the London transport bombings. The Council condemns the attacks in London without reservation and regards any act of terrorism as a threat to peace and security. It is cited for milestone T086.
 
 - Issuing body: UN Security Council
 - Date: 2005-07-07
@@ -55,6 +59,8 @@ Cited by: [T086](../../timeline/post-9-11-2001-2014.md#T086)
 
 **Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism**
 
+Summary: Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism, adopted by the Council of the European Union. It set common EU rules on terrorist offences and defines a 'terrorist group' as a structured group of more than two persons, established over time and acting in concert to commit terrorist offences. It is the source for milestone T062; Directive (EU) 2017/541 followed it in 2017 (T118).
+
 - Issuing body: Council of the European Union
 - Date: 2002-06-13
 - Type: statute
@@ -75,6 +81,8 @@ Cited by: [T062](../../timeline/post-9-11-2001-2014.md#T062)
 
 **Directive (EU) 2017/541 on combating terrorism**
 
+Summary: Directive (EU) 2017/541 of the European Parliament and the Council on combating terrorism, dated 15 March 2017. The Directive states that it establishes minimum rules on the definition of criminal offences and sanctions for terrorist offences, offences related to a terrorist group and related offences, and that Union-wide harmonised rules are needed because Member States acting alone could not achieve its objectives. It is the source for milestone T118 and follows the 2002 Framework Decision (EU-FD2002).
+
 - Issuing body: European Parliament and Council of the EU
 - Date: 2017-03-15
 - Type: statute
@@ -94,6 +102,8 @@ Cited by: [T118](../../timeline/recent-2014-now.md#T118)
 ## EU-CTSTRAT2005
 
 **The European Union Counter-Terrorism Strategy (14469/4/05 REV 4)**
+
+Summary: The European Union Counter-Terrorism Strategy, Council document 14469/4/05 REV 4, dated Brussels, 30 November 2005. It is the EU's overall counter-terrorism strategy document; the document is a note from the Presidency and the EU Counter-Terrorism Co-ordinator forwarding the Strategy to the Council for agreement. It is the source for milestone T088; the PDF is image-only, so its title, date and number were confirmed by OCR, and the date of formal adoption is not printed in it \[UNKNOWN\].
 
 - Issuing body: Council of the European Union
 - Date: 2005-11-30
@@ -116,6 +126,8 @@ Cited by: [T088](../../timeline/post-9-11-2001-2014.md#T088)
 
 **European Convention on the Suppression of Terrorism (ETS No. 090)**
 
+Summary: The Council of Europe's European Convention on the Suppression of Terrorism (ETS No. 090), dated 27 January 1977. It is a regional European treaty on terrorism; its provisions are not summarized in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed (HTTP 403), although the same document was found at an official Council of Europe copy, which is why milestone T015 is not-proven.
+
 - Issuing body: Council of Europe
 - Date: 1977-01-27
 - Type: treaty
@@ -136,6 +148,8 @@ Cited by: [T015](../../timeline/1945-1990.md#T015)
 ## COE-CPT2005
 
 **Council of Europe Convention on the Prevention of Terrorism (CETS No. 196)**
+
+Summary: The Council of Europe Convention on the Prevention of Terrorism (CETS No. 196), dated 16 May 2005. As its title states, it is a regional treaty aimed at preventing terrorism; its provisions are not summarized in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed (HTTP 403), although the same document was found at an official Council of Europe copy, which is why milestone T085 is not-proven.
 
 - Issuing body: Council of Europe
 - Date: 2005-05-16
@@ -158,6 +172,8 @@ Cited by: [T085](../../timeline/post-9-11-2001-2014.md#T085)
 
 **Collective defence and Article 5**
 
+Summary: NATO's page on collective defence and Article 5 of the Washington Treaty. It states that NATO invoked Article 5 for the first and only time in its history after the 9/11 attacks on the United States in 2001, and that the article underpins NATO's wider deterrence and defence activities. It is cited for milestone T052. The page is undated \[UNKNOWN\].
+
 - Issuing body: North Atlantic Treaty Organization
 - Date: \[UNKNOWN\]
 - Type: other
@@ -179,6 +195,8 @@ Cited by: [T052](../../timeline/post-9-11-2001-2014.md#T052)
 
 **Statement by the North Atlantic Council (Press Release (2001)124)**
 
+Summary: Press Release (2001)124, the statement by the North Atlantic Council dated 12 September 2001. It is the statement recorded in milestone T052: the Council said that, if the attack on the United States was directed from abroad, it would be regarded as an action covered by Article 5 of the Washington Treaty. NATO's Article 5 page (NATO-ART5) describes this as the only time Article 5 has been invoked.
+
 - Issuing body: North Atlantic Treaty Organization
 - Date: 2001-09-12
 - Type: other
@@ -198,6 +216,8 @@ Cited by: [T052](../../timeline/post-9-11-2001-2014.md#T052)
 ## EUROPOL-TESAT
 
 **EU Terrorism Situation and Trend Report (TE-SAT)**
+
+Summary: Europol's EU Terrorism Situation and Trend Report (TE-SAT), a recurring report that Europol describes as reviewing the terrorism phenomenon in the EU. It is an official EU agency series rather than a single report; the page is undated and loads by script, so its contents are not recorded in CTA6 \[UNKNOWN\].
 
 - Issuing body: Europol
 - Date: \[UNKNOWN\]
@@ -220,6 +240,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Explosive Substances Act 1883**
 
+Summary: The UK's Explosive Substances Act 1883, as published on legislation.gov.uk. Its sections include causing an explosion likely to endanger life or property, attempting to cause one or making or keeping explosives with intent, and making or possessing explosives under suspicious circumstances. It is the earliest statute in CTA6 (milestone T001), and the site shows no outstanding changes to it.
+
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 1883-04-10
 - Type: statute
@@ -240,6 +262,8 @@ Cited by: [T001](../../timeline/pre-1945.md#T001)
 
 **Offences against the State Act, 1939**
 
+Summary: Ireland's Offences against the State Act, 1939 (No. 13 of 1939), as published in the Irish Statute Book. Its long title says it makes provision about actions and conduct calculated to undermine public order and the authority of the State, punishes offences against the State, regulates the formation of associations, and establishes Special Criminal Courts under Article 38 of the Constitution. It is the source for milestone T007.
+
 - Issuing body: Oireachtas (Irish Statute Book)
 - Date: 1939-06-14
 - Type: statute
@@ -259,6 +283,8 @@ Cited by: [T007](../../timeline/pre-1945.md#T007)
 ## FBI-PANAM103
 
 **Pan Am 103 Bombing**
+
+Summary: The FBI's history page on the Pan Am 103 bombing. It says the flight left Heathrow for New York on 21 December 1988 and exploded over Lockerbie, Scotland, less than 40 minutes later, killing all 259 passengers and crew, including 190 Americans, and 11 people on the ground, and calls it one of the world's most lethal acts of air terrorism before 9/11. It is the source for milestone T026; the page is undated \[UNKNOWN\].
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -281,6 +307,8 @@ Cited by: [T026](../../timeline/1945-1990.md#T026)
 
 **Northern Ireland (Emergency Provisions) Act 1973**
 
+Summary: The UK's Northern Ireland (Emergency Provisions) Act 1973, dated 25 July 1973. Its parts cover the trial and punishment of certain offences, offences against public security and public order, and miscellaneous provisions. It is an emergency law for Northern Ireland and the source for milestone T012.
+
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 1973-07-25
 - Type: statute
@@ -300,6 +328,8 @@ Cited by: [T012](../../timeline/1945-1990.md#T012)
 ## UK-PTA1974
 
 **Prevention of Terrorism (Temporary Provisions) Act 1974**
+
+Summary: The UK's Prevention of Terrorism (Temporary Provisions) Act 1974, dated 29 November 1974. Its parts cover proscribed organisations, exclusion orders, and offences, detention and prosecution. As its title states, it was made as a temporary measure; it is the source for milestone T014 and was later replaced by the 1989 Act (UK-PTA1989).
 
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 1974-11-29
@@ -321,6 +351,8 @@ Cited by: [T014](../../timeline/1945-1990.md#T014)
 
 **Prevention of Terrorism (Temporary Provisions) Act 1989**
 
+Summary: The UK's Prevention of Terrorism (Temporary Provisions) Act 1989, dated 15 March 1989. Its parts cover proscribed organisations, exclusion, financial assistance for terrorism, powers of arrest, stop and search and detention, and further provisions for Northern Ireland. It is the source for milestone T027 and continues the temporary-provisions model of the 1974 Act.
+
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 1989-03-15
 - Type: statute
@@ -340,6 +372,8 @@ Cited by: [T027](../../timeline/1945-1990.md#T027)
 ## UK-TA2000
 
 **Terrorism Act 2000**
+
+Summary: The UK's Terrorism Act 2000, dated 20 July 2000. Its parts cover proscribed organisations, terrorist property, terrorist investigations, terrorist offences, and provisions for Northern Ireland. It is the source for milestone T049.
 
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 2000-07-20
@@ -361,6 +395,8 @@ Cited by: [T049](../../timeline/1990-2001.md#T049)
 
 **Anti-terrorism, Crime and Security Act 2001**
 
+Summary: The UK's Anti-terrorism, Crime and Security Act 2001, dated 14 December 2001. Its parts cover terrorist property and freezing orders, the security of pathogens and nuclear material, aviation, police powers and retention of communications data, and, in Part 4, the certification, detention and deportation of suspected international terrorists. The Part 4 detention powers are the subject of the people-disagree milestone T080, after the House of Lords held a related provision incompatible with the European Convention on Human Rights.
+
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 2001-12-14
 - Type: statute
@@ -380,6 +416,8 @@ Cited by: [T059](../../timeline/post-9-11-2001-2014.md#T059), [T080](../../timel
 ## UK-PTA2005
 
 **Prevention of Terrorism Act 2005**
+
+Summary: The UK's Prevention of Terrorism Act 2005, dated 11 March 2005, now shown as repealed. Its sections created control orders, both non-derogating orders supervised by the court and derogating orders made by the court. It followed the House of Lords ruling on Part 4 of the 2001 Act (T080) and is the source for milestone T082; the 2011 TPIM Act later abolished control orders.
 
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 2005-03-11
@@ -401,6 +439,8 @@ Cited by: [T082](../../timeline/post-9-11-2001-2014.md#T082)
 
 **Terrorism Act 2006**
 
+Summary: The UK's Terrorism Act 2006, dated 30 March 2006. Part 1 creates offences including encouragement of terrorism, dissemination of terrorist publications (with provisions on internet activity), preparation of terrorist acts and terrorist training. It is the source for milestone T089.
+
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 2006-03-30
 - Type: statute
@@ -420,6 +460,8 @@ Cited by: [T089](../../timeline/post-9-11-2001-2014.md#T089)
 ## UK-TPIM2011
 
 **Terrorism Prevention and Investigation Measures Act 2011**
+
+Summary: The UK's Terrorism Prevention and Investigation Measures Act 2011, dated 14 December 2011. Its first sections abolish control orders and replace them with terrorism prevention and investigation measures (TPIMs), with conditions for imposing them, a five-year limit on TPIM notices, and court scrutiny. It is the source for milestone T106 and replaced the control-order regime of the 2005 Act.
 
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 2011-12-14
@@ -441,6 +483,8 @@ Cited by: [T106](../../timeline/post-9-11-2001-2014.md#T106)
 
 **Counter-Terrorism and Security Act 2015**
 
+Summary: The UK's Counter-Terrorism and Security Act 2015, dated 12 February 2015. Its parts cover temporary restrictions on travel, changes to terrorism prevention and investigation measures, data retention, aviation, shipping and rail security, and a duty concerning the risk of people being drawn into terrorism. It is the source for milestone T114.
+
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 2015-02-12
 - Type: statute
@@ -460,6 +504,8 @@ Cited by: [T114](../../timeline/recent-2014-now.md#T114)
 ## UK-AvSSHD2004
 
 **A and others v Secretary of State for the Home Department \[2004\] UKHL 56**
+
+Summary: A and others v Secretary of State for the Home Department \[2004\] UKHL 56, a House of Lords judgment of 16 December 2004. The court declared that section 23 of the Anti-terrorism, Crime and Security Act 2001, the detention power in Part 4, is incompatible with the European Convention on Human Rights. It is one of the two positions in the people-disagree milestone T080; the title, date and citation were confirmed from official House of Lords papers because the BAILII copy was behind a bot check.
 
 - Issuing body: House of Lords
 - Date: 2004-12-16
@@ -482,6 +528,8 @@ Cited by: [T080](../../timeline/post-9-11-2001-2014.md#T080)
 
 **CONTEST: The United Kingdom's Strategy for Countering Terrorism 2023**
 
+Summary: CONTEST 2023, the UK's counter-terrorism strategy, published by the Home Office on 18 July 2023. The Home Office states that the aim of CONTEST is to reduce the risk from terrorism to the UK, its citizens and interests overseas, so people can live freely and with confidence. It is the source for milestone T132.
+
 - Issuing body: UK Home Office
 - Date: 2023-07-18
 - Type: other
@@ -501,6 +549,8 @@ Cited by: [T132](../../timeline/recent-2014-now.md#T132)
 ## UK-GFA1998
 
 **The Belfast Agreement**
+
+Summary: The Belfast (Good Friday) Agreement of 10 April 1998, as published by the Northern Ireland Office on GOV.UK. The page says the Agreement covered identity and citizenship and made commitments on decommissioning, security, policing and prisoners. It is the source for milestone T041 and marks a political settlement in Northern Ireland, where several earlier UK emergency and terrorism laws applied.
 
 - Issuing body: Northern Ireland Office (GOV.UK)
 - Date: 1998-04-10
@@ -522,6 +572,8 @@ Cited by: [T041](../../timeline/1990-2001.md#T041)
 
 **Report of the Official Account of the Bombings in London on 7th July 2005**
 
+Summary: The 'Report of the Official Account of the Bombings in London on 7th July 2005', published by the UK Home Office on 11 May 2006. It is the government's official account of the 7 July 2005 attacks on London's transport system. It is cited for milestone T086; its contents are not summarized in CTA6 \[UNKNOWN\] because the capture shows only the GOV.UK landing page.
+
 - Issuing body: UK Home Office (GOV.UK)
 - Date: 2006-05-11
 - Type: commission report
@@ -541,6 +593,8 @@ Cited by: [T086](../../timeline/post-9-11-2001-2014.md#T086)
 ## UK-MAI
 
 **Manchester Arena Inquiry**
+
+Summary: The Manchester Arena Inquiry, the public inquiry website. As its name states, it is an official inquiry into the Manchester Arena attack; its findings are not recorded in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed: the site returned a human-verification page (HTTP 405), and the page is undated \[UNKNOWN\].
 
 - Issuing body: Manchester Arena Inquiry
 - Date: \[UNKNOWN\]
@@ -563,6 +617,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Independent Reviewer of Terrorism Legislation**
 
+Summary: The website of the UK's Independent Reviewer of Terrorism Legislation. The current Reviewer states that he was appointed in May 2019 to scrutinise and report on terrorism legislation, and the site holds current and former reviewers' reports. It records the UK's standing independent review of its terrorism laws; the page is undated \[UNKNOWN\].
+
 - Issuing body: Independent Reviewer of Terrorism Legislation
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -583,6 +639,8 @@ Cited by: none in `data/timeline.csv`.
 ## UK-MI5-HIST
 
 **MI5 history**
+
+Summary: MI5's (the Security Service's) history page. MI5 states that it has existed in different forms since 1909, beginning as the Secret Service Bureau, and it is the source for milestone T003. Only the title and that statement were confirmed through a text extraction (the site blocked a direct capture); the page is undated \[UNKNOWN\].
 
 - Issuing body: MI5 (Security Service)
 - Date: \[UNKNOWN\]
@@ -605,6 +663,8 @@ Cited by: [T003](../../timeline/pre-1945.md#T003)
 
 **Loi n° 86-1020 du 9 septembre 1986 relative à la lutte contre le terrorisme**
 
+Summary: France's Loi n° 86-1020 of 9 September 1986 on the fight against terrorism ('relative à la lutte contre le terrorisme'), as published on Légifrance. As its title states, it is a French counter-terrorism statute; its provisions are not summarized in CTA6 \[UNKNOWN\]. It is the source for milestone T022; only the title was confirmed through a text extraction because the site blocked a direct capture.
+
 - Issuing body: République française (Légifrance)
 - Date: 1986-09-09
 - Type: statute
@@ -625,6 +685,8 @@ Cited by: [T022](../../timeline/1945-1990.md#T022)
 ## FR-SILT2017
 
 **Loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre le terrorisme**
+
+Summary: France's Loi n° 2017-1510 of 30 October 2017 strengthening internal security and the fight against terrorism, as published on Légifrance. As its title states, it strengthened French internal-security and counter-terrorism law; its provisions are not summarized in CTA6 \[UNKNOWN\]. It is the source for milestone T123; only the title was confirmed through a text extraction.
 
 - Issuing body: République française (Légifrance)
 - Date: 2017-10-30
@@ -647,6 +709,8 @@ Cited by: [T123](../../timeline/recent-2014-now.md#T123)
 
 **Strafgesetzbuch § 129a: Bildung terroristischer Vereinigungen**
 
+Summary: Section 129a of Germany's Criminal Code (Strafgesetzbuch), 'Bildung terroristischer Vereinigungen' (forming terrorist organisations), as published by the Federal Ministry of Justice. It makes it an offence to found an organisation whose purposes or activities are directed at offences such as murder, manslaughter, genocide, crimes against humanity, war crimes or offences against personal liberty. It is the core German terrorist-organisation offence; the page is undated, so the version date is \[UNKNOWN\].
+
 - Issuing body: Bundesministerium der Justiz (gesetze-im-internet.de)
 - Date: \[UNKNOWN\]
 - Type: statute
@@ -667,6 +731,8 @@ Cited by: none in `data/timeline.csv`.
 ## DE-GTAZ
 
 **Gemeinsames Terrorismusabwehrzentrum (GTAZ)**
+
+Summary: A Federal Criminal Police Office (Bundeskriminalamt) page on the Gemeinsames Terrorismusabwehrzentrum (GTAZ), Germany's Joint Counter-Terrorism Centre. As its name states, it is a joint centre for countering terrorism; its role is not described in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed (the connection failed), and the page is undated \[UNKNOWN\].
 
 - Issuing body: Bundeskriminalamt
 - Date: \[UNKNOWN\]
@@ -689,6 +755,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Ley Orgánica 2/2015, de 30 de marzo (delitos de terrorismo)**
 
+Summary: Spain's Ley Orgánica 2/2015 of 30 March 2015, published in the Boletín Oficial del Estado (BOE-A-2015-3440). Its full title says it amends Ley Orgánica 10/1995, the Criminal Code, in the area of terrorist offences. It is Spain's 2015 revision of how terrorism is defined and punished in its Criminal Code; the specific changes are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: Jefatura del Estado (BOE)
 - Date: 2015-03-30
 - Type: statute
@@ -708,6 +776,8 @@ Cited by: none in `data/timeline.csv`.
 ## NO-NOU2012-14
 
 **NOU 2012: 14 Rapport fra 22. juli-kommisjonen**
+
+Summary: NOU 2012: 14, the report of Norway's 22 July Commission (22. juli-kommisjonen), dated 13 August 2012. It is the official commission report on the 22 July 2011 attacks in Oslo and on Utøya and is the source for milestone T107. Its findings are not summarized in CTA6 \[UNKNOWN\]; only the title was confirmed through a text extraction because the site blocked a direct capture.
 
 - Issuing body: 22. juli-kommisjonen (Regjeringen)
 - Date: 2012-08-13
@@ -730,6 +800,8 @@ Cited by: [T107](../../timeline/post-9-11-2001-2014.md#T107)
 
 **K. and Al Barakaat v Council and Commission (Joined Cases C-402/05 P and C-415/05 P)**
 
+Summary: The judgment of the Court of Justice of the European Communities of 3 September 2008 in K. and Al Barakaat v Council and Commission (Joined Cases C-402/05 P and C-415/05 P). As recorded in milestone T097, the Court annulled the EU regulation implementing UN sanctions listings as it concerned the applicants, on fundamental-rights grounds, while the UN 1267 listing regime itself continued. It is one side of that people-disagree milestone and shows the tension between UN listings and EU fundamental-rights review.
+
 - Issuing body: Court of Justice of the European Communities (EUR-Lex)
 - Date: 2008-09-03
 - Type: court record
@@ -750,6 +822,8 @@ Cited by: [T097](../../timeline/post-9-11-2001-2014.md#T097)
 ## ICCT
 
 **International Centre for Counter-Terrorism (home page)**
+
+Summary: The home page of the International Centre for Counter-Terrorism (ICCT) in The Hague. ICCT describes itself as an independent think-and-do tank dedicated to evidence-based policies against terrorism and violent extremism, grounded in human rights and the rule of law, with publications grouped by region. It is a secondary research source, and the page is undated \[UNKNOWN\].
 
 - Issuing body: ICCT, The Hague
 - Date: \[UNKNOWN\]
@@ -772,6 +846,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Convention for the Prevention and Punishment of Terrorism (archival copy, item record)**
 
+Summary: The Library of Congress item record (World Digital Library item 11579) for the League of Nations Convention for the Prevention and Punishment of Terrorism of 16 November 1937. The record states that France proposed a League convention on terrorism after the 1934 assassination of King Alexander I of Yugoslavia (T005), and that the convention never came into effect (T006). It is also the second source for the definitions compared in the people-disagree milestone T079.
+
 - Issuing body: League of Nations (Library of Congress / World Digital Library item 11579)
 - Date: 1937-11-16
 - Type: treaty
@@ -793,6 +869,8 @@ Cited by: [T005](../../timeline/pre-1945.md#T005), [T006](../../timeline/pre-194
 
 **Ireland v. the United Kingdom (no. 5310/71), judgment**
 
+Summary: The European Court of Human Rights judgment of 18 January 1978 in Ireland v. the United Kingdom (no. 5310/71), an inter-State case. The case concerned UK extrajudicial arrest, detention and internment in Northern Ireland from 1971 to 1975, including five interrogation techniques (wall standing, hooding, noise, and deprivation of sleep, food and drink); the Court held there had been a violation of Article 3, according to the Court's factsheet 'Terrorism and the ECHR'. It is the source for milestone T016.
+
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1978-01-18
 - Type: court record
@@ -813,6 +891,8 @@ Cited by: [T016](../../timeline/1945-1990.md#T016)
 ## ECHR-1978-5029
 
 **K. and Others v. Germany, no. 5029/71, judgment**
+
+Summary: The European Court of Human Rights judgment of 6 September 1978 in K. and Others v. Germany (no. 5029/71), on German secret-surveillance legislation. According to the Court's factsheet 'Terrorism and the ECHR', the Court found no violation of Article 8, holding that because of the threat of espionage and terrorism, secret surveillance powers could be necessary in a democratic society under exceptional conditions. It is the source for milestone T017.
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1978-09-06
@@ -836,6 +916,8 @@ Cited by: [T017](../../timeline/1945-1990.md#T017)
 
 **B. and Others v. the United Kingdom, nos. 11209/84, 11234/84, 11266/84 and 11386/85, judgment**
 
+Summary: The European Court of Human Rights judgment of 29 November 1988 in B. and Others v. the United Kingdom (nos. 11209/84, 11234/84, 11266/84 and 11386/85). The four applicants, suspected of terrorism, were held in Northern Ireland for between four days six hours and six days sixteen and a half hours without being brought before a judge; the Court found a violation of Article 5 § 3, holding that 'promptness' could not stretch that far, according to the Court's factsheet. It is the source for milestone T025.
+
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1988-11-29
 - Type: court record
@@ -857,6 +939,8 @@ Cited by: [T025](../../timeline/1945-1990.md#T025)
 ## ECHR-1995-18984
 
 **M. and Others v. the United Kingdom, no. 18984/91, judgment**
+
+Summary: The European Court of Human Rights judgment of 27 September 1995 in M. and Others v. the United Kingdom (no. 18984/91), on the 1988 shooting in Gibraltar of three IRA members by soldiers. According to the Court's factsheet, the Court found a violation of Article 2 (right to life) because the operation could have been planned and controlled without the need to kill the suspects. It is the source for milestone T036.
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1995-09-27
@@ -880,6 +964,8 @@ Cited by: [T036](../../timeline/1990-2001.md#T036)
 
 **A. and Others v. the United Kingdom (no. 3455/05), Grand Chamber judgment**
 
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 19 February 2009 in A. and Others v. the United Kingdom (no. 3455/05), on detention under the Anti-terrorism, Crime and Security Act 2001. According to the Court's factsheet, the Court found no violation of Article 3 but found violations of Article 5 § 1 for most applicants, because the indefinite detention of non-nationals suspected of terrorism discriminated unjustifiably between nationals and non-nationals, as the House of Lords had also found (T080). It is the source for milestone T099.
+
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 2009-02-19
 - Type: court record
@@ -900,6 +986,8 @@ Cited by: [T099](../../timeline/post-9-11-2001-2014.md#T099)
 ## ECHR-2012-39630
 
 **E. v. the former Yugoslav Republic of Macedonia, no. 39630/09, Grand Chamber judgment**
+
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 13 December 2012 in E. v. the former Yugoslav Republic of Macedonia (no. 39630/09). According to the Court's factsheet, the applicant said he had been held and ill-treated in a Skopje hotel for 23 days and then handed to CIA agents in a secret 'rendition'; the Court found his account established and held the State responsible for torture and ill-treatment, a violation of Article 3. It is the source for milestone T108.
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 2012-12-13
@@ -923,6 +1011,8 @@ Cited by: [T108](../../timeline/post-9-11-2001-2014.md#T108)
 
 **A.N. v. Poland, no. 28761/11, judgment**
 
+Summary: The European Court of Human Rights judgment of 24 July 2014 in A.N. v. Poland (no. 28761/11), on alleged secret detention at a CIA 'black site' in Poland. According to the Court's factsheet, the Court found the applicant's allegations sufficiently convincing and found that Poland had cooperated in the preparation and execution of CIA rendition, secret detention and interrogation operations on its territory. It is the source for milestone T110; the companion case is H. v. Poland (ECHR-2014-7511).
+
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 2014-07-24
 - Type: court record
@@ -945,6 +1035,8 @@ Cited by: [T110](../../timeline/recent-2014-now.md#T110)
 
 **Factsheet: Terrorism and the European Convention on Human Rights**
 
+Summary: 'Terrorism and the European Convention on Human Rights', a factsheet by the European Court of Human Rights Press Unit (the capture is dated February 2024). It summarizes the Court's case law on terrorism, including derogations under Article 15, detention, torture, rendition and surveillance, and states that it does not bind the Court and is not exhaustive. CTA6 uses it as a secondary guide to the outcomes of the Court judgments it lists.
+
 - Issuing body: European Court of Human Rights, Press Unit
 - Date: \[UNKNOWN\]
 - Type: other
@@ -965,6 +1057,8 @@ Cited by: none in `data/timeline.csv`.
 ## UK-IRTL-TA2000
 
 **The Terrorism Acts in \[year\] (annual reports index)**
+
+Summary: The reports index of the UK's Independent Reviewer of Terrorism Legislation, including the annual reports on 'The Terrorism Acts in \[year\]'. The page says these reports cover the operation of UK terrorism legislation, are laid before Parliament by the Home Secretary or HM Treasury, and are mostly intended to inform public and political debate. The page is undated \[UNKNOWN\].
 
 - Issuing body: Independent Reviewer of Terrorism Legislation
 - Date: \[UNKNOWN\]
@@ -987,6 +1081,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Could 7/7 Have Been Prevented? Review of the Intelligence on the London Terrorist Attacks on 7 July 2005**
 
+Summary: 'Could 7/7 Have Been Prevented? Review of the Intelligence on the London Terrorist Attacks on 7 July 2005', published in May 2009 by the UK Parliament's Intelligence and Security Committee. The report says it tries to explain how MI5, MI6 and GCHQ work and gives considerable background detail, while withholding material that could prejudice pending trials. It is the parliamentary oversight review of intelligence before the 7/7 attacks and the source for milestone T100; its conclusions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: Intelligence and Security Committee of Parliament
 - Date: 2009-05
 - Type: commission report
@@ -1007,6 +1103,8 @@ Cited by: [T100](../../timeline/post-9-11-2001-2014.md#T100)
 
 **Dangerously Disproportionate: The Ever-Expanding National Security State in Europe (EUR 01/5342/2017)**
 
+Summary: 'Dangerously Disproportionate: The Ever-Expanding National Security State in Europe' (EUR 01/5342/2017), an Amnesty International report of 17 January 2017. Amnesty says it gives a bird's-eye view of the 'securitization' of Europe across eight themes, including states of emergency, privacy, freedom of expression and movement, deprivation of nationality, and transfers to places where people risk torture. These are Amnesty's own assessments; CTA6 lists it as an NGO critique.
+
 - Issuing body: Amnesty International
 - Date: 2017-01-17
 - Type: other
@@ -1026,6 +1124,8 @@ Cited by: none in `data/timeline.csv`.
 ## UNSC1440
 
 **Security Council resolution 1440 (2002): Hostage-taking in Moscow**
+
+Summary: UN Security Council resolution 1440, adopted on 24 October 2002. The Council condemns in the strongest terms the taking of hostages in Moscow on 23 October 2002, as well as other recent terrorist acts, and regards them as a threat to international peace and security. It is the source for milestone T064; the European Court of Human Rights later ruled on the rescue operation (ECHR-2011-18299).
 
 - Issuing body: UN Security Council
 - Date: 2002-10-24
@@ -1048,6 +1148,8 @@ Cited by: [T064](../../timeline/post-9-11-2001-2014.md#T064)
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Spain (A/HRC/10/3/Add.2)**
 
+Summary: Report A/HRC/10/3/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism, Martin Scheinin, on his mission to Spain, dated 16 December 2008. The report followed a visit at the Government's invitation; it describes the 11 March 2004 bombings as carried out by members of an international terrorist cell and raises concerns about incommunicado detention and the right to review by a higher court. Its account of the bombings differs from Security Council resolution 1530, which attributed them to ETA (people-disagree milestone T150).
+
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2008-12-16
 - Type: commission report
@@ -1068,6 +1170,8 @@ Cited by: [T150](../../timeline/post-9-11-2001-2014.md#T150)
 ## SR-FRA-2019
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to France (A/HRC/40/52/Add.4)**
+
+Summary: Report A/HRC/40/52/Add.4 of the UN Special Rapporteur on human rights and counter-terrorism on her official visit to France from 14 to 23 May 2018, dated 8 May 2019. The visit assessed France's counter-terrorism laws, policies and practices against its international human rights obligations. The report's specific recommendations are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2019-05-08
@@ -1090,6 +1194,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Belgium (A/HRC/40/52/Add.5)**
 
+Summary: Report A/HRC/40/52/Add.5 of the UN Special Rapporteur on human rights and counter-terrorism on her official visit to Belgium from 24 to 31 May 2018, dated 8 May 2019. The visit assessed Belgium's counter-terrorism laws, policies and practices against its human rights obligations; the summary commends what it calls the Government's measured and deliberative approach. Its specific recommendations are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2019-05-08
 - Type: commission report
@@ -1110,6 +1216,8 @@ Cited by: none in `data/timeline.csv`.
 ## DE-BVERFG-BKAG2016
 
 **BVerfG, Urteil des Ersten Senats vom 20. April 2016, 1 BvR 966/09 (BKA-Gesetz)**
+
+Summary: The judgment of the First Senate of Germany's Federal Constitutional Court of 20 April 2016 (1 BvR 966/09) on the Federal Criminal Police Office Act (BKA-Gesetz). As recorded in milestone T176, it ruled on the BKA's surveillance powers for countering international terrorism. The outcome is not recorded in CTA6 \[UNKNOWN\]; the source was verified through a text extraction only.
 
 - Issuing body: Bundesverfassungsgericht
 - Date: 2016-04-20
@@ -1132,6 +1240,8 @@ Cited by: [T176](../../timeline/recent-2014-now.md#T176)
 
 **BVerfG, Urteil des Ersten Senats vom 15. Februar 2006, 1 BvR 357/05 (Luftsicherheitsgesetz)**
 
+Summary: The judgment of the First Senate of Germany's Federal Constitutional Court of 15 February 2006 (1 BvR 357/05) on the Aviation Security Act (Luftsicherheitsgesetz). The constitutional complaint challenged the power of the armed forces to shoot down aircraft intended to be used as a weapon against human life, and the Court declared section 14(3) of the Act incompatible with the Basic Law and void. It is the source for milestone T153.
+
 - Issuing body: Bundesverfassungsgericht
 - Date: 2006-02-15
 - Type: court record
@@ -1152,6 +1262,8 @@ Cited by: [T153](../../timeline/post-9-11-2001-2014.md#T153)
 ## FR-CC-86-213
 
 **Décision n° 86-213 DC du 3 septembre 1986 (Loi relative à la lutte contre le terrorisme)**
+
+Summary: Decision no. 86-213 DC of France's Constitutional Council (Conseil constitutionnel), dated 3 September 1986, on the 1986 law on combating terrorism and attacks on State security. The Council declared Article 4 of the law not in conformity with the Constitution and found the other provisions not contrary to it. It is the source for milestone T139 and reviewed the law recorded at T022.
 
 - Issuing body: Conseil constitutionnel
 - Date: 1986-09-03
@@ -1174,6 +1286,8 @@ Cited by: [T139](../../timeline/1945-1990.md#T139)
 
 **Décision n° 2015-527 QPC du 22 décembre 2015 (assignations à résidence dans le cadre de l'état d'urgence)**
 
+Summary: Decision no. 2015-527 QPC of France's Constitutional Council, dated 22 December 2015, on house arrest (assignation à résidence) under the state of emergency. The Council declared the first nine paragraphs of Article 6 of Law no. 55-385 of 3 April 1955 on the state of emergency to be in conformity with the Constitution. No milestone cites it yet.
+
 - Issuing body: Conseil constitutionnel
 - Date: 2015-12-22
 - Type: court record
@@ -1194,6 +1308,8 @@ Cited by: none in `data/timeline.csv`.
 ## HIST-ROME1898-JENSEN
 
 **The International Campaign Against Anarchist Terrorism, 1880-1930s (Terrorism and Political Violence 21:1, 2009)**
+
+Summary: 'The International Campaign Against Anarchist Terrorism, 1880-1930s', an article by historian Richard Bach Jensen in Terrorism and Political Violence 21:1 (2009). Jensen describes the 1898 Rome conference as the only Europe-wide anti-anarchist congress ever held and history's first international gathering convened to combat terrorism, and he dates the later St. Petersburg protocol to 14 March 1904. It is the source for milestones T133 and T134; the copy is hosted on a third-party site.
 
 - Issuing body: Richard Bach Jensen
 - Date: 2009
@@ -1216,6 +1332,8 @@ Cited by: [T133](../../timeline/pre-1945.md#T133), [T134](../../timeline/pre-194
 
 **The International Anti-Anarchist Conference of 1898 and the Origins of Interpol (Journal of Contemporary History 16:2, 1981)**
 
+Summary: 'The International Anti-Anarchist Conference of 1898 and the Origins of Interpol', an article by Richard Bach Jensen in the Journal of Contemporary History 16:2 (1981). As its title states, it links the 1898 Rome conference to the origins of Interpol. The cited copy could not be confirmed (HTTP 403), so its contents are not recorded in CTA6 \[UNKNOWN\]; it is a supporting source for milestone T133.
+
 - Issuing body: Richard Bach Jensen, Journal of Contemporary History (SAGE)
 - Date: 1981
 - Type: scholarly
@@ -1236,6 +1354,8 @@ Cited by: [T133](../../timeline/pre-1945.md#T133)
 ## HIST-SPB1904-EBID
 
 **Союзъ импepiaлиcтoвъ \[sic\] противъ анархистовъ. Протоколъ. 1/14 Марта 1904 г. (catalogue record)**
+
+Summary: A catalogue record in the Russian Historical Society's electronic library of historical documents for the 1904 anti-anarchist protocol, as published by the Soviet foreign affairs commissariat in 1918. The record dates the protocol 1/14 March 1904 (Julian/Gregorian calendars). It is the primary-text reference for milestone T134, the secret protocol signed by Russia, Germany, Austria-Hungary and other states; an official English title is \[UNKNOWN\].
 
 - Issuing body: Электронная библиотека исторических документов (Российское историческое общество); source: Сборник секретных документов из Архива бывшего Министерства иностранных дел, № 6, 1918
 - Date: 1904-03-14
@@ -1258,6 +1378,8 @@ Cited by: [T134](../../timeline/pre-1945.md#T134)
 
 **Avis sur le projet de loi renforçant la sécurité intérieure et la lutte contre le terrorisme (6 juillet 2017)**
 
+Summary: An opinion (avis) of France's National Consultative Commission on Human Rights (CNCDH), dated 6 July 2017, on the bill strengthening internal security and the fight against terrorism. It is an independent advisory body's opinion on the bill that became Loi n° 2017-1510 (T123). The cited copy could not be confirmed (bot check or error), so its content is \[UNKNOWN\] in CTA6.
+
 - Issuing body: Commission nationale consultative des droits de l'homme (France)
 - Date: 2017-07-06
 - Type: commission report
@@ -1278,6 +1400,8 @@ Cited by: none in `data/timeline.csv`.
 ## ECHR-2008-37201
 
 **S. v. Italy \[GC\], no. 37201/06 (judgment)**
+
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 28 February 2008 in S. v. Italy (no. 37201/06), on deporting to Tunisia a person who said he had been sentenced there in absentia for membership of a terrorist organisation. According to the Court's factsheet, the Court acknowledged the danger of terrorism but held that it does not call into question the absolute nature of Article 3, and found that deportation would breach Article 3 because of a real risk of ill-treatment. It is the source for milestone T156.
 
 - Issuing body: European Court of Human Rights
 - Date: 2008-02-28
@@ -1300,6 +1424,8 @@ Cited by: [T156](../../timeline/post-9-11-2001-2014.md#T156)
 
 **N. v. Switzerland \[GC\], no. 10593/08 (judgment)**
 
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 12 September 2012 in N. v. Switzerland (no. 10593/08), on a Swiss ordinance implementing UN Security Council sanctions that barred the listed applicant from entering or transiting Switzerland. According to the Court's factsheet, the Court found violations of Article 8 and of Article 13 with Article 8, observing that Switzerland could not simply rely on the binding nature of Security Council resolutions. It is the source for milestone T164 and relates to the UN listing regime (T046).
+
 - Issuing body: European Court of Human Rights
 - Date: 2012-09-12
 - Type: court record
@@ -1320,6 +1446,8 @@ Cited by: [T164](../../timeline/post-9-11-2001-2014.md#T164)
 ## ECHR-2014-7511
 
 **H. v. Poland, no. 7511/13 (judgment)**
+
+Summary: The European Court of Human Rights judgment of 24 July 2014 in H. v. Poland (no. 7511/13), on alleged secret detention in Poland under the CIA programme. According to the Court's factsheet, the Court found the allegations sufficiently convincing and found that Poland had cooperated in CIA rendition, secret detention and interrogation operations on its territory. It is the source for milestone T168; the companion case is A.N. v. Poland (ECHR-2014-28761).
 
 - Issuing body: European Court of Human Rights
 - Date: 2014-07-24
@@ -1342,6 +1470,8 @@ Cited by: [T168](../../timeline/recent-2014-now.md#T168)
 
 **A.N. v. Romania, no. 33234/12 (judgment)**
 
+Summary: The European Court of Human Rights judgment of 31 May 2018 in A.N. v. Romania (no. 33234/12), on alleged secret detention in Romania under the CIA rendition programme. According to the Court's factsheet, the Court relied partly on a December 2014 US Senate report and found violations of Article 3 (because of Romania's failure to investigate and its complicity in the CIA's actions), as well as of Articles 5, 8 and 13. It is the source for milestone T181.
+
 - Issuing body: European Court of Human Rights
 - Date: 2018-05-31
 - Type: court record
@@ -1363,6 +1493,8 @@ Cited by: [T181](../../timeline/recent-2014-now.md#T181)
 
 **B. and M. v. the United Kingdom, nos. 14553/89 and 14554/89 (judgment)**
 
+Summary: The European Court of Human Rights judgment of 26 May 1993 in B. and M. v. the United Kingdom (nos. 14553/89 and 14554/89). According to the Court's factsheet, the two applicants, IRA suspects, were held in Northern Ireland for over four and over six days without being brought before a judge, and the Court found no violation of Article 5 § 3 because the UK had made a valid emergency derogation under Article 15. It contrasts with the 1988 judgment (ECHR-1988-11209), where no derogation was in force; no milestone cites it yet.
+
 - Issuing body: European Court of Human Rights
 - Date: 1993-05-26
 - Type: court record
@@ -1383,6 +1515,8 @@ Cited by: none in `data/timeline.csv`.
 ## ECHR-2012-8139
 
 **O. v. the United Kingdom, no. 8139/09 (judgment)**
+
+Summary: The European Court of Human Rights judgment of 17 January 2012 in O. v. the United Kingdom (no. 8139/09), on the applicant's removal to Jordan, where he had been convicted in his absence on terrorism charges. According to the Court's factsheet, the Court found no violation of Article 3, given the diplomatic assurances obtained from Jordan and their independent monitoring, but found that deportation would violate Article 6 (fair trial) because of a real risk that evidence obtained by torture would be admitted at his retrial. No milestone cites it yet.
 
 - Issuing body: European Court of Human Rights
 - Date: 2012-01-17

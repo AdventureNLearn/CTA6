@@ -13,6 +13,8 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **Security Council resolution 731 (1992): Libyan Arab Jamahiriya (Pan Am 103 and UTA 772)**
 
+Summary: UN Security Council resolution 731, adopted on 21 January 1992, concerning Libya and the investigations into the destruction of Pan Am flight 103 and UTA flight 772. The Council condemns the destruction of the two aircraft and the loss of hundreds of lives and states it is determined to eliminate international terrorism. It is the source for milestone T031 and was followed by sanctions in resolution 748 (T032).
+
 - Issuing body: UN Security Council
 - Date: 1992-01-21
 - Type: UN resolution
@@ -33,6 +35,8 @@ Cited by: [T031](../../timeline/1990-2001.md#T031)
 ## UNSC748
 
 **Security Council resolution 748 (1992): Libyan Arab Jamahiriya sanctions**
+
+Summary: UN Security Council resolution 748, adopted on 31 March 1992, imposing measures on Libya. It decides that the Libyan Government must comply without further delay with the requests made under resolution 731 regarding the Pan Am 103 and UTA 772 investigations, and must commit definitively to cease all forms of terrorist action and assistance to terrorist groups. It is the source for milestone T032.
 
 - Issuing body: UN Security Council
 - Date: 1992-03-31
@@ -55,6 +59,8 @@ Cited by: [T032](../../timeline/1990-2001.md#T032)
 
 **Security Council resolution 1595 (2005): The situation in the Middle East (International Independent Investigation Commission, Lebanon)**
 
+Summary: UN Security Council resolution 1595, adopted on 7 April 2005, on the situation in the Middle East. At Lebanon's request, it established an international independent investigation commission based in Lebanon to help the Lebanese authorities investigate 'this terrorist act', including identifying its perpetrators, sponsors, organizers and accomplices. The act itself is identified in the resolution, but CTA6 does not record which attack it was \[UNKNOWN\]; resolution 1757 later established the Special Tribunal for Lebanon (T095).
+
 - Issuing body: UN Security Council
 - Date: 2005-04-07
 - Type: UN resolution
@@ -75,6 +81,8 @@ Cited by: none in `data/timeline.csv`.
 ## UNSC1757
 
 **Security Council resolution 1757 (2007): The situation in the Middle East (Special Tribunal for Lebanon)**
+
+Summary: UN Security Council resolution 1757, adopted on 30 May 2007. Acting under Chapter VII of the UN Charter, the Council decided that the provisions of the annexed document on establishing a Special Tribunal for Lebanon would enter into force. It is the source for milestone T095 and follows the investigation commission set up by resolution 1595 (2005).
 
 - Issuing body: UN Security Council
 - Date: 2007-05-30
@@ -97,6 +105,8 @@ Cited by: [T095](../../timeline/post-9-11-2001-2014.md#T095)
 
 **Security Council resolution 2170 (2014): Threats to international peace and security caused by terrorist acts (ISIL and ANF)**
 
+Summary: UN Security Council resolution 2170, adopted on 15 August 2014, concerning ISIL and the Al-Nusrah Front (ANF). The Council strongly condemns their killing and targeting of civilians and other atrocities, condemns their recruitment of foreign terrorist fighters, and reaffirms that States must prevent arms and other support from reaching them. It is the source for milestone T111; the foreign-fighter resolution 2178 followed a month later (T112).
+
 - Issuing body: UN Security Council
 - Date: 2014-08-15
 - Type: UN resolution
@@ -118,6 +128,8 @@ Cited by: [T111](../../timeline/recent-2014-now.md#T111)
 
 **Arab Convention for the Suppression of Terrorism**
 
+Summary: The Arab Convention for the Suppression of Terrorism, adopted in Cairo in April 1998 by the Council of Arab Ministers of the Interior and the Council of Arab Ministers of Justice under the League of Arab States (dated 22 April 1998 in CTA6). The copy is an unofficial UN English translation hosted by UNODC; its preamble says the signatory states desire to promote mutual cooperation in suppressing terrorism. It is the source for milestone T042; its detailed definitions and obligations are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: League of Arab States (UNODC copy)
 - Date: 1998-04-22
 - Type: treaty
@@ -137,6 +149,8 @@ Cited by: [T042](../../timeline/1990-2001.md#T042)
 ## COALITION-ISIS
 
 **The Global Coalition Against Daesh (home page)**
+
+Summary: The home page of the Global Coalition against Daesh. The page says the Coalition was formed in September 2014, has 90 partners, and is committed to degrading Daesh and ensuring its enduring defeat. It is the multinational grouping formed in the same period as Security Council resolutions 2170 and 2178 (T111, T112); the page is undated \[UNKNOWN\].
 
 - Issuing body: Global Coalition Against Daesh
 - Date: \[UNKNOWN\]
@@ -159,6 +173,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Security Council resolution 1192 (1998): Libyan Arab Jamahiriya (trial in the Netherlands, Lockerbie)**
 
+Summary: UN Security Council resolution 1192, adopted on 27 August 1998, on a trial in the Netherlands relating to the Pan Am 103 bombing. It decides that Libya shall ensure the two accused appear in the Netherlands for trial, that the Netherlands shall detain them on arrival, and that the measures in resolutions 748 and 883 remain in effect. It is the source for milestone T044 and continues the sequence that began with resolution 731 (T031).
+
 - Issuing body: UN Security Council
 - Date: 1998-08-27
 - Type: UN resolution
@@ -179,6 +195,8 @@ Cited by: [T044](../../timeline/1990-2001.md#T044)
 ## UNSC1516
 
 **Security Council resolution 1516 (2003): Bombings in Istanbul**
+
+Summary: UN Security Council resolution 1516, adopted on 20 November 2003. The Council condemns in the strongest terms the bomb attacks in Istanbul, Turkey. It is the source for milestone T071.
 
 - Issuing body: UN Security Council
 - Date: 2003-11-20
@@ -201,6 +219,8 @@ Cited by: [T071](../../timeline/post-9-11-2001-2014.md#T071)
 
 **Security Council resolution 1618 (2005): Iraq (condemnation of attacks)**
 
+Summary: UN Security Council resolution 1618, adopted on 4 August 2005, on Iraq. The Council condemns without reservation the terrorist attacks in Iraq, regards any act of terrorism as a threat to peace and security, and reaffirms Member States' obligations under resolutions 1373, 1267 and related resolutions. No milestone cites it yet.
+
 - Issuing body: UN Security Council
 - Date: 2005-08-04
 - Type: UN resolution
@@ -221,6 +241,8 @@ Cited by: none in `data/timeline.csv`.
 ## SR-TUR-2006
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Turkey (A/HRC/4/26/Add.2)**
+
+Summary: Report A/HRC/4/26/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his mission to Turkey (16-23 February 2006), dated 16 November 2006. The report says the visit, at the Government's invitation, aimed to gather first-hand information on counter-terrorism measures and their effect on human rights and to begin cooperation with the Government. It is the source for milestone T154; its recommendations are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2006-11-16
@@ -243,6 +265,8 @@ Cited by: [T154](../../timeline/post-9-11-2001-2014.md#T154)
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Egypt (A/HRC/13/37/Add.2)**
 
+Summary: Report A/HRC/13/37/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Egypt (17-21 April 2009). The report examines Egypt's emergency law, criminal provisions on terrorist crimes and the amended article 179 of the Constitution, and discusses issues for the anti-terrorism legislation then being prepared. The report's date is \[UNKNOWN\] in CTA6.
+
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: \[UNKNOWN\]
 - Type: commission report
@@ -263,6 +287,8 @@ Cited by: none in `data/timeline.csv`.
 ## SR-TUN-2010
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Tunisia (A/HRC/16/51/Add.2)**
+
+Summary: Report A/HRC/16/51/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Tunisia (22-26 January 2010). The report examines terrorist threats and Tunisia's legal and institutional framework, and concludes that Tunisia's definition of terrorism at the time was vague and broad; this is the Special Rapporteur's assessment. The report's date is \[UNKNOWN\] in CTA6.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: \[UNKNOWN\]
@@ -285,6 +311,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Saudi Arabia (A/HRC/40/52/Add.2)**
 
+Summary: Report A/HRC/40/52/Add.2 of the former UN Special Rapporteur on human rights and counter-terrorism on his official visit to Saudi Arabia (30 April-4 May 2017). The report says the visit assessed Saudi Arabia's counter-terrorism law, policy and practice against international human rights law; it commends programmes for victims of terrorism and also sets out concerns. It is the source for milestone T179; the report's date is \[UNKNOWN\] in CTA6.
+
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: \[UNKNOWN\]
 - Type: commission report
@@ -305,6 +333,8 @@ Cited by: [T179](../../timeline/recent-2014-now.md#T179)
 ## TR-TMK3713
 
 **Terörle Mücadele Kanunu (Kanun Numarası 3713)**
+
+Summary: Türkiye's Anti-Terror Law (Terörle Mücadele Kanunu, Law No. 3713), adopted on 12 April 1991. Article 1, as amended in 2003, defines terror as acts using force and violence, or methods of pressure, intimidation or threat, aimed at changing the characteristics of the Republic set out in the Constitution or at other listed aims such as harming the indivisible integrity of the State. It is the source for milestone T141, and its article 10 was later the subject of a 2013 Constitutional Court decision (T216).
 
 - Issuing body: Türkiye Büyük Millet Meclisi (Mevzuat Bilgi Sistemi)
 - Date: 1991-04-12
@@ -327,6 +357,8 @@ Cited by: [T141](../../timeline/1990-2001.md#T141)
 
 **قانون مكافحة الإرهاب رقم 94 لسنة 2015**
 
+Summary: Egypt's Counter-Terrorism Law, issued by Presidential Decree-Law No. 94 of 2015 and published in the Official Gazette No. 33 bis on 15 August 2015 (copy hosted by the Financial Regulatory Authority). The gazette page was checked visually because the text layer is unreadable. It is the source for milestone T172 and one side of the people-disagree milestone T173, because Human Rights Watch refers to the law by a different number.
+
 - Issuing body: الهيئة العامة للرقابة المالية (Financial Regulatory Authority, Egypt)
 - Date: 2015-08-15
 - Type: statute
@@ -347,6 +379,8 @@ Cited by: [T172](../../timeline/recent-2014-now.md#T172), [T173](../../timeline/
 ## MA-LOI03-03
 
 **القانون رقم 03.03 المتعلق بمكافحة الإرهاب (ظهير شريف رقم 1.03.140)**
+
+Summary: Morocco's Law No. 03.03 on combating terrorism, promulgated by Dahir No. 1.03.140 and dated 28 May 2003, as published by the Ministry of Justice in a consolidated (amended) version. As its title states, it is Morocco's law on combating terrorism; its provisions are not summarized in CTA6 \[UNKNOWN\]. It was verified on a retry.
 
 - Issuing body: وزارة العدل، المملكة المغربية (adala.justice.gov.ma)
 - Date: 2003-05-28
@@ -369,6 +403,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Corpus juridique national**
 
+Summary: The 'Corpus juridique national' page of Morocco's national commission responsible for applying sanctions under UN Security Council resolutions. As its name states, it is the body that implements UN sanctions in Morocco, and the page lists national legal texts. The cited copy could not be confirmed (the connection failed), so its content is \[UNKNOWN\].
+
 - Issuing body: Commission Nationale chargée de l'application des Sanctions prévues par les résolutions du Conseil de sécurité (Maroc)
 - Date: \[UNKNOWN\]
 - Type: other
@@ -389,6 +425,8 @@ Cited by: none in `data/timeline.csv`.
 ## TN-LO2015-26
 
 **Loi organique n° 2015-26 du 7 août 2015, relative à la lutte contre le terrorisme et à la répression du blanchiment d'argent (JORT n° 63)**
+
+Summary: Tunisia's Organic Law No. 2015-26 of 7 August 2015 on combating terrorism and suppressing money laundering, published in the Journal officiel (JORT) No. 63. Milestone T171 records that the Assembly of the Representatives of the People adopted it on 25 July 2015. Its provisions are not summarized in CTA6 \[UNKNOWN\]; it was verified through a text extraction only.
 
 - Issuing body: République Tunisienne (portail des marchés publics, téléchargement du JORT)
 - Date: 2015-08-07
@@ -411,6 +449,8 @@ Cited by: [T171](../../timeline/recent-2014-now.md#T171)
 
 **Décret législatif n° 92-03 du 30 septembre 1992 relatif à la lutte contre la subversion et le terrorisme**
 
+Summary: Algeria's Legislative Decree No. 92-03 of 30 September 1992 on combating subversion and terrorism, published in the Official Journal No. 70 of 1 October 1992 (a copy hosted by ecoi.net/UNHCR). As its title states, it is an Algerian law against subversion and terrorism from 1992; its provisions are not summarized in CTA6 \[UNKNOWN\]. The scanned gazette was read by OCR, and it is the source for milestone T143.
+
 - Issuing body: Algeria (JORADP n° 70, 1 Oct 1992; copy hosted by ecoi.net / UNHCR)
 - Date: 1992-09-30
 - Type: statute
@@ -431,6 +471,8 @@ Cited by: [T143](../../timeline/1990-2001.md#T143)
 ## OIC-CONV1999
 
 **OIC Convention on Combating International Terrorism**
+
+Summary: The Organisation of Islamic Cooperation (OIC) Convention on Combating International Terrorism, dated 1 July 1999. As its title states, it is the OIC member states' treaty on international terrorism; its provisions are not summarized in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed (the server returned HTTP 522).
 
 - Issuing body: Organisation of Islamic Cooperation
 - Date: 1999-07-01
@@ -453,6 +495,8 @@ Cited by: none in `data/timeline.csv`.
 
 **نظام مكافحة جرائم الإرهاب وتمويله**
 
+Summary: Saudi Arabia's Law of Combating Crimes of Terrorism and its Financing, issued by Royal Decree M/21 of 12/2/1439H (dated 1 November 2017 in CTA6), as published by the Bureau of Experts at the Council of Ministers. As its title states, it covers terrorism and terrorist financing; its provisions are not summarized in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed (the connection failed).
+
 - Issuing body: هيئة الخبراء بمجلس الوزراء (Bureau of Experts at the Council of Ministers, Saudi Arabia)
 - Date: 2017-11-01
 - Type: statute
@@ -473,6 +517,8 @@ Cited by: none in `data/timeline.csv`.
 ## FIDH-EGY-2010
 
 **Egypt: Counter-terrorism against the background of an endless state of emergency (N°534a)**
+
+Summary: 'Egypt: Counter-terrorism against the background of an endless state of emergency' (N°534a), a January 2010 report by FIDH (International Federation for Human Rights). FIDH states that since 1981 Egypt has used the fight against terrorism to legalize abuses, including incommunicado detention, torture and exceptional courts, under the Emergency Law. These are FIDH's own findings; CTA6 lists it as an NGO critique.
 
 - Issuing body: FIDH (International Federation for Human Rights)
 - Date: 2010-01
@@ -495,6 +541,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Egypt: Counterterrorism Law Erodes Basic Rights**
 
+Summary: 'Egypt: Counterterrorism Law Erodes Basic Rights', a Human Rights Watch statement dated 19 August 2015. HRW says the new decree allows wide-ranging and potentially indefinite surveillance of suspects without a court order and argues it moves toward a permanent state of emergency; these are HRW's own views. HRW calls it 'Law 95 of 2015', while the Official Gazette shows Decree-Law No. 94, which is recorded as the people-disagree milestone T173.
+
 - Issuing body: Human Rights Watch
 - Date: 2015-08-19
 - Type: other
@@ -515,6 +563,8 @@ Cited by: [T173](../../timeline/recent-2014-now.md#T173)
 ## SR-TUN-2018
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: visit to Tunisia (A/HRC/40/52/Add.1)**
+
+Summary: Report A/HRC/40/52/Add.1 of the former UN Special Rapporteur on human rights and counter-terrorism on his visit to Tunisia (30 January-3 February 2017), dated 12 December 2018. The report says that despite many positive developments he still has concerns, including about the abusive use of emergency legislation, and it makes recommendations. It follows up the 2010 Tunisia mission (SR-TUN-2010); no milestone cites it yet.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2018-12-12
@@ -537,6 +587,8 @@ Cited by: none in `data/timeline.csv`.
 
 **A. v. Turkey, no. 21987/93 (judgment)**
 
+Summary: The European Court of Human Rights judgment of 18 December 1996 in A. v. Turkey (no. 21987/93), on the applicant's 1992 detention in south-east Turkey on suspicion of aiding PKK members. According to the Court's factsheet, the Court found the treatment he suffered in custody so serious and cruel that it amounted to torture, a violation of Article 3, and also found violations of Articles 5 and 13. It is the source for milestone T144.
+
 - Issuing body: European Court of Human Rights
 - Date: 1996-12-18
 - Type: court record
@@ -557,6 +609,8 @@ Cited by: [T144](../../timeline/1990-2001.md#T144)
 ## ECHR-2005-46221
 
 **Ö. v. Turkey \[GC\], no. 46221/99 (judgment)**
+
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 12 May 2005 in Ö. v. Turkey (no. 46221/99), concerning the applicant's arrest, transfer to Turkey, detention and trial. According to the Court's factsheet, on the conditions of his detention the Court found no violation of Article 3; the factsheet extract in CTA6 does not cover the Court's findings on the arrest and trial \[UNKNOWN\]. It is the source for milestone T152.
 
 - Issuing body: European Court of Human Rights
 - Date: 2005-05-12
@@ -579,6 +633,8 @@ Cited by: [T152](../../timeline/post-9-11-2001-2014.md#T152)
 
 **Selahattin Demirtaş v. Turkey (No. 2) \[GC\], no. 14305/17 (judgment)**
 
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 22 December 2020 in Selahattin Demirtaş v. Turkey (No. 2) (no. 14305/17). As recorded in milestone T184, it concerned the pre-trial detention of an opposition party leader and member of parliament on terrorism-related charges. The outcome is not recorded in CTA6 \[UNKNOWN\]; the source was verified through HUDOC metadata only.
+
 - Issuing body: European Court of Human Rights
 - Date: 2020-12-22
 - Type: court record
@@ -599,6 +655,8 @@ Cited by: [T184](../../timeline/recent-2014-now.md#T184)
 ## DZ-ORD06-01
 
 **Ordonnance n° 06-01 du 28 Moharram 1427 correspondant au 27 février 2006 portant mise en œuvre de la Charte pour la paix et la réconciliation nationale (Journal officiel n° 11 du 28 février 2006)**
+
+Summary: Algeria's Ordinance No. 06-01 of 27 February 2006 implementing the Charter for Peace and National Reconciliation, published in the Journal officiel No. 11 of 28 February 2006. Article 1 states its purpose is to implement the Charter, described as the expression of the sovereign will of the Algerian people, and to complete the policy of peace and national reconciliation. It is the source for milestone T209 and was approved by Parliament in Law No. 06-07 (T210).
 
 - Issuing body: Présidence de la République (Journal officiel de la République algérienne)
 - Date: 2006-02-27
@@ -621,6 +679,8 @@ Cited by: [T209](../../timeline/post-9-11-2001-2014.md#T209)
 
 **Loi n° 06-07 du 18 Rabie El Aouel 1427 correspondant au 17 avril 2006 portant approbation de l'ordonnance n° 06-01 (Journal officiel n° 27 du 26 avril 2006)**
 
+Summary: Algeria's Law No. 06-07 of 17 April 2006 approving Ordinance No. 06-01, published in the Journal officiel No. 27 of 26 April 2006. It is the parliamentary approval of the ordinance implementing the Charter for Peace and National Reconciliation (T209), and the source for milestone T210.
+
 - Issuing body: Présidence de la République (Journal officiel de la République algérienne)
 - Date: 2006-04-17
 - Type: statute
@@ -641,6 +701,8 @@ Cited by: [T210](../../timeline/post-9-11-2001-2014.md#T210)
 ## EG-NCHR-R18-EN
 
 **The Eighteenth Report of the National Council for Human Rights (1 July 2024 – 30 June 2025)**
+
+Summary: The Eighteenth Report of Egypt's National Council for Human Rights, covering 1 July 2024 to 30 June 2025. The Council describes it as a holistic assessment of rights in Egypt, and it mentions recommendations to review laws providing for the death penalty, including counter-terrorism law, so that it applies only to the most serious crimes. It is the Council's own assessment; the day and month of publication are \[UNKNOWN\].
 
 - Issuing body: National Council for Human Rights (Egypt)
 - Date: 2025
@@ -663,6 +725,8 @@ Cited by: none in `data/timeline.csv`.
 
 **التقرير السنوى للمجلس القومى لحقوق الإنسان الثانى عشر 2017/2016**
 
+Summary: The Twelfth Annual Report of Egypt's National Council for Human Rights, in Arabic, covering April 2016 to the end of June 2017. It is the national human rights body's annual report for that period; its contents are not summarized in CTA6 \[UNKNOWN\], and the publication day and month are \[UNKNOWN\].
+
 - Issuing body: المجلس القومي لحقوق الإنسان (Egypt)
 - Date: 2017
 - Type: commission report
@@ -684,6 +748,8 @@ Cited by: none in `data/timeline.csv`.
 
 **التقرير السنوي الخامس عشر 2020/2019**
 
+Summary: The Fifteenth Annual Report of Egypt's National Council for Human Rights, in Arabic, for 2019/2020. It is the national human rights body's annual report for that period; its contents are not summarized in CTA6 \[UNKNOWN\] because the PDF text layer could not be searched reliably.
+
 - Issuing body: المجلس القومي لحقوق الإنسان (Egypt)
 - Date: 2020
 - Type: commission report
@@ -704,6 +770,8 @@ Cited by: none in `data/timeline.csv`.
 ## TR-RG-AYM2013
 
 **Anayasa Mahkemesi Kararı, Esas Sayısı 2012/100, Karar Sayısı 2013/84, Karar Günü 4.7.2013 (Resmî Gazete, 2 Ağustos 2013, Sayı 28726)**
+
+Summary: A decision of Türkiye's Constitutional Court (Anayasa Mahkemesi), case E. 2012/100, K. 2013/84, decided on 4 July 2013 and published in the Resmî Gazete on 2 August 2013 (No. 28726). It reviewed Law No. 6352 on a petition by 123 members of parliament, including the law's amendments to article 10 of Anti-Terror Law No. 3713. It is the source for milestone T216; the outcome on each provision is not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: Anayasa Mahkemesi (Constitutional Court of Türkiye), published in the Resmî Gazete
 - Date: 2013-07-04
@@ -727,6 +795,8 @@ Cited by: [T216](../../timeline/post-9-11-2001-2014.md#T216)
 
 **חוק המאבק בטרור, התשע"ו-2016 (ספר החוקים 2556, עמ' 898)**
 
+Summary: Israel's Counter-Terrorism Law, 5776-2016, in Hebrew, as published in Sefer HaHukim No. 2556 (page 898) on 23 June 2016. Milestone T220 records that the Knesset passed it on 15 June 2016. As its title states, it is Israel's counter-terrorism statute; its provisions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: הכנסת (Knesset), Reshumot
 - Date: 2016-06-23
 - Type: statute
@@ -747,6 +817,8 @@ Cited by: [T220](../../timeline/recent-2014-now.md#T220)
 ## IR-CFT-LAW1394
 
 **قانون مبارزه با تامین مالی تروریسم**
+
+Summary: Iran's law on combating the financing of terrorism, in Persian, from the Islamic Consultative Assembly Research Center's legal database. A search listing gives approval on 13 Bahman 1394 (early February 2016), but this is not confirmed. The cited copy could not be confirmed (the fetch timed out and returned an error), so its content is \[UNKNOWN\].
 
 - Issuing body: مجلس شورای اسلامی (Islamic Consultative Assembly), Research Center legal database
 - Date: \[UNKNOWN\]

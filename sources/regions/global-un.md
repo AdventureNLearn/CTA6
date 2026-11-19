@@ -13,6 +13,8 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **Security Council resolution 635 (1989): Marking of plastic or sheet explosives for the purpose of detection**
 
+Summary: UN Security Council resolution 635, adopted on 14 June 1989, on marking plastic or sheet explosives so that they can be detected. In it the Council condemns all acts of unlawful interference against the security of civil aviation and calls on all States to cooperate in measures to prevent terrorism, including acts involving explosives. It is the source for milestone T028 and links aviation security to the detection of explosives.
+
 - Issuing body: UN Security Council
 - Date: 1989-06-14
 - Type: UN resolution
@@ -33,6 +35,8 @@ Cited by: [T028](../../timeline/1945-1990.md#T028)
 ## UNSC1267
 
 **Security Council resolution 1267 (1999): Afghanistan (Taliban sanctions; 1267 Committee)**
+
+Summary: UN Security Council resolution 1267, adopted on 15 October 1999, concerning the Taliban in Afghanistan. It decided that all States would impose measures from 14 November 1999, including denying landing and take-off rights to aircraft owned, leased or operated by or for the Taliban, and it established a Security Council committee (the 1267 Committee) to oversee them. Later CTA6 milestones record that the regime was extended and renamed and then adapted to include ISIL (T104, T116), and that its listings were challenged in court (the people-disagree milestone T097).
 
 - Issuing body: UN Security Council
 - Date: 1999-10-15
@@ -55,6 +59,8 @@ Cited by: [T046](../../timeline/1990-2001.md#T046), [T097](../../timeline/post-9
 
 **Security Council resolution 1269 (1999): Responsibility of the Security Council in the maintenance of international peace and security (terrorism)**
 
+Summary: UN Security Council resolution 1269, adopted on 19 October 1999, on the Council's responsibility for international peace and security in relation to terrorism. It calls on all States to fully implement the anti-terrorism conventions they are party to, to consider joining the others, and to cooperate through bilateral and multilateral arrangements. It is the source for milestone T047 and is one of the Council's general resolutions on terrorism before September 2001.
+
 - Issuing body: UN Security Council
 - Date: 1999-10-19
 - Type: UN resolution
@@ -75,6 +81,8 @@ Cited by: [T047](../../timeline/1990-2001.md#T047)
 ## UNSC1368
 
 **Security Council resolution 1368 (2001): Threats to international peace and security caused by terrorist acts**
+
+Summary: UN Security Council resolution 1368, adopted on 12 September 2001, the day after the 11 September attacks. The Council states it is determined to combat by all means threats to international peace and security caused by terrorist acts, and in its preamble recognizes the inherent right of individual or collective self-defence under the Charter. It is the source for milestone T051.
 
 - Issuing body: UN Security Council
 - Date: 2001-09-12
@@ -97,6 +105,8 @@ Cited by: [T051](../../timeline/post-9-11-2001-2014.md#T051)
 
 **Security Council resolution 1373 (2001): Threats to international peace and security caused by terrorist acts (Counter-Terrorism Committee)**
 
+Summary: UN Security Council resolution 1373, adopted on 28 September 2001. It decides that all States shall prevent and suppress the financing of terrorist acts, criminalize the provision or collection of funds for them, and refrain from supporting entities or persons involved in terrorist acts, and it calls for faster exchange of operational information. It also established the Counter-Terrorism Committee (milestone T055); later resolutions such as 1535 and 2462 build on it.
+
 - Issuing body: UN Security Council
 - Date: 2001-09-28
 - Type: UN resolution
@@ -117,6 +127,8 @@ Cited by: [T055](../../timeline/post-9-11-2001-2014.md#T055)
 ## UNSC1535
 
 **Security Council resolution 1535 (2004): Establishment of the Counter-Terrorism Committee Executive Directorate (CTED)**
+
+Summary: UN Security Council resolution 1535, adopted on 26 March 2004. It revitalized the Counter-Terrorism Committee created by resolution 1373 and set up the Counter-Terrorism Committee Executive Directorate (CTED), headed by an Executive Director, with the Committee continuing to report to the Council. It is the source for milestone T073; CTED's mandate was later renewed by resolution 2617 (T131).
 
 - Issuing body: UN Security Council
 - Date: 2004-03-26
@@ -139,6 +151,8 @@ Cited by: [T073](../../timeline/post-9-11-2001-2014.md#T073)
 
 **Security Council resolution 1540 (2004): Non-proliferation of weapons of mass destruction to non-State actors**
 
+Summary: UN Security Council resolution 1540, adopted on 28 April 2004 under Chapter VII of the UN Charter, on non-proliferation of weapons of mass destruction to non-State actors. It decides that all States shall refrain from supporting non-State actors that attempt to develop, acquire, possess, transfer or use nuclear, chemical or biological weapons and their means of delivery. It is the source for milestone T074.
+
 - Issuing body: UN Security Council
 - Date: 2004-04-28
 - Type: UN resolution
@@ -159,6 +173,8 @@ Cited by: [T074](../../timeline/post-9-11-2001-2014.md#T074)
 ## UNSC1566
 
 **Security Council resolution 1566 (2004): Threats to international peace and security caused by terrorist acts**
+
+Summary: UN Security Council resolution 1566, adopted on 8 October 2004. It condemns all acts of terrorism irrespective of motivation, recalls that criminal acts committed with intent to cause death or serious injury or to take hostages, for the purpose of provoking terror, intimidating a population or compelling a government, are not justifiable, and sets up a working group on measures against individuals and groups. Its wording is one of the two definitions compared in the people-disagree milestone T079, alongside the 1937 League of Nations convention.
 
 - Issuing body: UN Security Council
 - Date: 2004-10-08
@@ -181,6 +197,8 @@ Cited by: [T079](../../timeline/post-9-11-2001-2014.md#T079)
 
 **Security Council resolution 1624 (2005): Threats to international peace and security (incitement to commit terrorist acts)**
 
+Summary: UN Security Council resolution 1624, adopted on 14 September 2005, on incitement to commit terrorist acts. It calls on all States to prohibit incitement by law, in line with their obligations under international law, to strengthen border security, and to promote dialogue among civilizations. It is the source for milestone T087.
+
 - Issuing body: UN Security Council
 - Date: 2005-09-14
 - Type: UN resolution
@@ -201,6 +219,8 @@ Cited by: [T087](../../timeline/post-9-11-2001-2014.md#T087)
 ## UNSC1904
 
 **Security Council resolution 1904 (2009): Threats to international peace and security caused by terrorist acts (Office of the Ombudsperson)**
+
+Summary: UN Security Council resolution 1904, adopted on 17 December 2009, on the Al-Qaida and Taliban sanctions measures first imposed under resolutions 1267, 1333 and 1390. It continued those measures and created the Office of the Ombudsperson to handle requests from those seeking removal from the sanctions list (milestone T101). It is part of how the Council responded to concerns about the listing process, which also appear in court challenges such as T097.
 
 - Issuing body: UN Security Council
 - Date: 2009-12-17
@@ -223,6 +243,8 @@ Cited by: [T101](../../timeline/post-9-11-2001-2014.md#T101)
 
 **Security Council resolution 1989 (2011): Threats to international peace and security caused by terrorist acts (Al-Qaida sanctions)**
 
+Summary: UN Security Council resolution 1989, adopted on 17 June 2011, on the Al-Qaida sanctions measures. Together with resolution 1988 it separated the Taliban and Al-Qaida sanctions regimes, which had been run together since resolution 1267 (milestone T104). It continues the asset-freeze, travel and arms measures from earlier resolutions.
+
 - Issuing body: UN Security Council
 - Date: 2011-06-17
 - Type: UN resolution
@@ -243,6 +265,8 @@ Cited by: [T104](../../timeline/post-9-11-2001-2014.md#T104)
 ## UNSC2178
 
 **Security Council resolution 2178 (2014): Threats to international peace and security caused by terrorist acts (foreign terrorist fighters)**
+
+Summary: UN Security Council resolution 2178, adopted on 24 September 2014, on foreign terrorist fighters. It decides that Member States shall, consistent with international human rights, refugee and humanitarian law, prevent and suppress the recruiting, organizing, transporting or equipping of foreign terrorist fighters, and reaffirms that States must control borders and travel documents. It is the source for milestone T112; resolution 2396 (2017) built on it.
 
 - Issuing body: UN Security Council
 - Date: 2014-09-24
@@ -265,6 +289,8 @@ Cited by: [T112](../../timeline/recent-2014-now.md#T112)
 
 **Security Council resolution 2253 (2015): Threats to international peace and security caused by terrorist acts (ISIL (Da'esh) and Al-Qaida sanctions)**
 
+Summary: UN Security Council resolution 2253, adopted on 17 December 2015. It renamed the 1267/1989 Al-Qaida Sanctions Committee the '1267/1989/2253 ISIL (Da'esh) and Al-Qaida Sanctions Committee' and extended listing criteria to those associated with ISIL. It is the source for milestone T116 and shows the 1999 sanctions regime being adapted to ISIL.
+
 - Issuing body: UN Security Council
 - Date: 2015-12-17
 - Type: UN resolution
@@ -285,6 +311,8 @@ Cited by: [T116](../../timeline/recent-2014-now.md#T116)
 ## UNSC2341
 
 **Security Council resolution 2341 (2017): Threats to international peace and security caused by terrorist acts (critical infrastructure)**
+
+Summary: UN Security Council resolution 2341, adopted on 13 February 2017, on protecting critical infrastructure against terrorist attacks. It encourages all States to raise awareness of the risks and improve preparedness, and calls on Member States to develop or improve strategies for reducing risks to critical infrastructure. No timeline milestone in CTA6 cites it yet.
 
 - Issuing body: UN Security Council
 - Date: 2017-02-13
@@ -307,6 +335,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Security Council resolution 2396 (2017): Threats to international peace and security caused by terrorist acts (returning and relocating foreign terrorist fighters)**
 
+Summary: UN Security Council resolution 2396, adopted on 21 December 2017, on returning and relocating foreign terrorist fighters. Building on resolution 2178, it decides that Member States shall use advance passenger information, develop the capability to collect and analyse passenger name record data, and develop watch lists or databases of known and suspected terrorists. It is the source for milestone T124.
+
 - Issuing body: UN Security Council
 - Date: 2017-12-21
 - Type: UN resolution
@@ -327,6 +357,8 @@ Cited by: [T124](../../timeline/recent-2014-now.md#T124)
 ## UNSC2462
 
 **Security Council resolution 2462 (2019): Threats to international peace and security caused by terrorist acts (financing of terrorism)**
+
+Summary: UN Security Council resolution 2462, adopted on 28 March 2019, on countering the financing of terrorism. It reaffirms the financing obligations in resolution 1373 (2001), requires States to criminalize terrorist financing consistent with international humanitarian, human rights and refugee law, and calls for more traceable and transparent financial transactions. It is the source for milestone T126.
 
 - Issuing body: UN Security Council
 - Date: 2019-03-28
@@ -349,6 +381,8 @@ Cited by: [T126](../../timeline/recent-2014-now.md#T126)
 
 **Security Council resolution 2617 (2021): Threats to international peace and security caused by terrorist acts (CTED mandate renewal)**
 
+Summary: UN Security Council resolution 2617, adopted on 30 December 2021. It decided that the Counter-Terrorism Committee Executive Directorate (CTED) would continue as a special political mission under the Committee's guidance until 31 December 2025, with an interim review by 31 December 2023. It is the source for milestone T131 and continues the body created by resolution 1535 (T073).
+
 - Issuing body: UN Security Council
 - Date: 2021-12-30
 - Type: UN resolution
@@ -369,6 +403,8 @@ Cited by: [T131](../../timeline/recent-2014-now.md#T131)
 ## UNGA3034
 
 **General Assembly resolution A/RES/3034(XXVII): Measures to prevent international terrorism**
+
+Summary: UN General Assembly resolution 3034 (XXVII), adopted on 18 December 1972, on measures to prevent international terrorism. It established a 35-member Ad Hoc Committee on International Terrorism appointed by the President of the General Assembly. It is the source for milestone T011 and is the earliest General Assembly resolution on terrorism in CTA6.
 
 - Issuing body: UN General Assembly
 - Date: 1972-12-18
@@ -391,6 +427,8 @@ Cited by: [T011](../../timeline/1945-1990.md#T011)
 
 **General Assembly resolution A/RES/40/61: Measures to prevent international terrorism**
 
+Summary: UN General Assembly resolution 40/61, adopted on 9 December 1985, on measures to prevent international terrorism. It calls on all States to refrain from organizing, instigating, assisting or participating in terrorist acts in other States, or acquiescing in such activities on their territory, and to implement the recommendations of the Ad Hoc Committee on International Terrorism. It is the source for milestone T020.
+
 - Issuing body: UN General Assembly
 - Date: 1985-12-09
 - Type: UN resolution
@@ -411,6 +449,8 @@ Cited by: [T020](../../timeline/1945-1990.md#T020)
 ## UNGA49-60
 
 **General Assembly resolution A/RES/49/60: Measures to eliminate international terrorism (Declaration)**
+
+Summary: UN General Assembly resolution 49/60, adopted on 9 December 1994, which contains the Declaration on Measures to Eliminate International Terrorism. In the Declaration, UN Member States reaffirm their unequivocal condemnation of all acts, methods and practices of terrorism as criminal and unjustifiable, wherever and by whomever committed. It is the source for milestone T034, and later resolution 51/210 reaffirms it.
 
 - Issuing body: UN General Assembly
 - Date: 1994-12-09
@@ -433,6 +473,8 @@ Cited by: [T034](../../timeline/1990-2001.md#T034)
 
 **General Assembly resolution A/RES/51/210: Measures to eliminate international terrorism (Ad Hoc Committee)**
 
+Summary: UN General Assembly resolution 51/210, adopted on 17 December 1996, on measures to eliminate international terrorism. It strongly condemns all acts of terrorism as criminal and unjustifiable, calls on States to take further measures consistent with international law and human rights standards, reaffirms the 1994 Declaration, and established an Ad Hoc Committee on international terrorism conventions. It is the source for milestone T039.
+
 - Issuing body: UN General Assembly
 - Date: 1996-12-17
 - Type: UN resolution
@@ -453,6 +495,8 @@ Cited by: [T039](../../timeline/1990-2001.md#T039)
 ## UNGA60-288
 
 **General Assembly resolution A/RES/60/288: The United Nations Global Counter-Terrorism Strategy**
+
+Summary: UN General Assembly resolution 60/288, adopted on 8 September 2006, which sets out the United Nations Global Counter-Terrorism Strategy with a plan of action annexed. In it Member States resolve to condemn terrorism in all its forms consistently and strongly, as one of the most serious threats to international peace and security. The UN Office of Counter-Terrorism describes it as adopted by consensus; it is the source for milestone T091, and resolution 71/291 later created an office to help implement it.
 
 - Issuing body: UN General Assembly
 - Date: 2006-09-08
@@ -475,6 +519,8 @@ Cited by: [T091](../../timeline/post-9-11-2001-2014.md#T091)
 
 **General Assembly resolution A/RES/71/291: Strengthening the capability of the UN system to assist Member States in implementing the Global Counter-Terrorism Strategy (Office of Counter-Terrorism)**
 
+Summary: UN General Assembly resolution 71/291, adopted on 15 June 2017, on strengthening the UN system's capability to help Member States implement the Global Counter-Terrorism Strategy. It decides to establish the Office of Counter-Terrorism, with the competencies and functions set out in a report of the Secretary-General (A/71/858). It is the source for milestone T121.
+
 - Issuing body: UN General Assembly
 - Date: 2017-06-15
 - Type: UN resolution
@@ -495,6 +541,8 @@ Cited by: [T121](../../timeline/recent-2014-now.md#T121)
 ## UN-CTED
 
 **About the Counter-Terrorism Committee Executive Directorate (CTED)**
+
+Summary: The 'About' page of the Counter-Terrorism Committee Executive Directorate (CTED), on the website of the Security Council's Counter-Terrorism Committee. The site covers the Committee's mandate, Security Council and General Assembly resolutions, country assessments and visits, and implementation surveys. CTA6 cites it for milestone T055 as the Committee's own description of the body created under resolutions 1373 and 1535. The page is undated \[UNKNOWN\].
 
 - Issuing body: UN Security Council Counter-Terrorism Committee
 - Date: \[UNKNOWN\]
@@ -517,6 +565,8 @@ Cited by: [T055](../../timeline/post-9-11-2001-2014.md#T055)
 
 **Security Council resolutions on counter-terrorism (CTC list)**
 
+Summary: A list of Security Council resolutions on counter-terrorism kept by the Council's Counter-Terrorism Committee. It is the Committee's own index of the resolutions that define its work and is a finding aid for the resolutions in CTA6. No milestone cites it directly, and the page is undated \[UNKNOWN\].
+
 - Issuing body: UN Security Council Counter-Terrorism Committee
 - Date: \[UNKNOWN\]
 - Type: other
@@ -537,6 +587,8 @@ Cited by: none in `data/timeline.csv`.
 ## UNOCT
 
 **United Nations Office of Counter-Terrorism (home page)**
+
+Summary: The home page of the UN Office of Counter-Terrorism (UNOCT). The page says the Office provides leadership, coordination and capacity-building to support Member States in implementing the UN Global Counter-Terrorism Strategy. CTA6 cites it for milestone T121, the 2017 resolution that created the Office. The page is undated \[UNKNOWN\].
 
 - Issuing body: UN Office of Counter-Terrorism
 - Date: \[UNKNOWN\]
@@ -559,6 +611,8 @@ Cited by: [T121](../../timeline/recent-2014-now.md#T121)
 
 **International legal instruments (counter-terrorism)**
 
+Summary: A page of the UN Office of Counter-Terrorism summarizing the international legal instruments against terrorism. It says that since 1963 the international community has developed 19 instruments under the United Nations and the IAEA, open to all Member States, and gives a short description of each, for example on aircraft, hostages, nuclear material, maritime navigation, bombings and financing. It is the UN's own overview of the treaty framework that the convention entries in CTA6 belong to. The page is undated \[UNKNOWN\].
+
 - Issuing body: UN Office of Counter-Terrorism
 - Date: \[UNKNOWN\]
 - Type: other
@@ -579,6 +633,8 @@ Cited by: none in `data/timeline.csv`.
 ## UNODC-TPB
 
 **Terrorism Prevention Branch**
+
+Summary: A page of the UN Office on Drugs and Crime (UNODC) about its Terrorism Prevention Branch. It records that UNODC has a dedicated unit for terrorism prevention; the page's capture shows mostly site navigation, so the Branch's specific mandate is not recorded in CTA6 \[UNKNOWN\]. The page is undated \[UNKNOWN\].
 
 - Issuing body: UN Office on Drugs and Crime
 - Date: \[UNKNOWN\]
@@ -601,6 +657,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Multilateral treaties deposited with the Secretary-General, Chapter XVIII (Penal Matters)**
 
+Summary: Chapter XVIII (Penal Matters) of the UN Treaty Collection, which lists the multilateral treaties deposited with the UN Secretary-General, including counter-terrorism conventions. It is the official depositary record for those treaties and is cited for milestones T013, T018, T040, T048 and T083. The page is undated \[UNKNOWN\].
+
 - Issuing body: UN Treaty Collection
 - Date: \[UNKNOWN\]
 - Type: treaty
@@ -621,6 +679,8 @@ Cited by: [T013](../../timeline/1945-1990.md#T013), [T018](../../timeline/1945-1
 ## UN-1267COMM
 
 **Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015)**
+
+Summary: The page of the Security Council committee established under resolutions 1267 (1999), 1989 (2011) and 2253 (2015), now the ISIL (Da'esh) and Al-Qaida Sanctions Committee. The committee oversees the sanctions regime that began with resolution 1267, and the UN sanctions site lists it alongside the Council's other sanctions committees. The page is undated \[UNKNOWN\].
 
 - Issuing body: UN Security Council
 - Date: \[UNKNOWN\]
@@ -643,6 +703,8 @@ Cited by: none in `data/timeline.csv`.
 
 **1540 Committee**
 
+Summary: The home page of the 1540 Committee, the Security Council committee established under resolution 1540 (2004) on keeping weapons of mass destruction away from non-State actors. The site holds the related resolutions, committee reports and Council briefings. CTA6 cites it for milestone T074. The page is undated \[UNKNOWN\].
+
 - Issuing body: UN Security Council
 - Date: \[UNKNOWN\]
 - Type: other
@@ -664,6 +726,8 @@ Cited by: [T074](../../timeline/post-9-11-2001-2014.md#T074)
 
 **Education for Justice University Module Series: Counter-Terrorism**
 
+Summary: A university module series on counter-terrorism published in 2018 by the UN Office on Drugs and Crime under its Education for Justice (E4J) initiative. UNODC says the modules are a resource for lecturers, giving foundational knowledge of international, regional and national instruments and approaches and encouraging critical thinking. It is a secondary teaching resource, not a record of a specific event.
+
 - Issuing body: UN Office on Drugs and Crime
 - Date: 2018
 - Type: scholarly
@@ -683,6 +747,8 @@ Cited by: none in `data/timeline.csv`.
 ## CONV-TOKYO1963
 
 **Convention on Offences and Certain Other Acts Committed on Board Aircraft (Tokyo)**
+
+Summary: The Convention on Offences and Certain Other Acts Committed on Board Aircraft, concluded in Tokyo on 14 September 1963. According to the UN Office of Counter-Terrorism, it applies to acts affecting in-flight safety, lets the aircraft commander restrain a person believed to have committed or to be about to commit such an act, and requires States to take custody of offenders. UNOCT lists it as the first of the international legal instruments against terrorism (from 1963); it is the source for milestone T008. The cited copy is a scanned PDF whose title and date were confirmed by OCR.
 
 - Issuing body: ICAO / UN Treaty Collection
 - Date: 1963-09-14
@@ -705,6 +771,8 @@ Cited by: [T008](../../timeline/1945-1990.md#T008)
 
 **Convention for the Suppression of Unlawful Seizure of Aircraft (The Hague)**
 
+Summary: The Convention for the Suppression of Unlawful Seizure of Aircraft, concluded in The Hague on 16 December 1970. According to the UN Office of Counter-Terrorism, it makes it an offence to seize or control an aircraft in flight by force or threat, requires 'severe penalties', and requires States holding an offender to extradite or prosecute. It is the source for milestone T009; the cited copy is a scanned PDF whose title and date were confirmed by OCR.
+
 - Issuing body: ICAO / UN Treaty Collection
 - Date: 1970-12-16
 - Type: treaty
@@ -725,6 +793,8 @@ Cited by: [T009](../../timeline/1945-1990.md#T009)
 ## CONV-MONTREAL1971
 
 **Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation (Montreal)**
+
+Summary: The Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, concluded in Montreal on 23 September 1971. According to the UN Office of Counter-Terrorism, it makes it an offence to commit violence on board an aircraft in flight that endangers it or to place an explosive device on an aircraft, and requires States to extradite or prosecute offenders. A 1988 protocol extended it to attacks at airports. It is the source for milestone T010; the cited copy is a scanned PDF confirmed by OCR.
 
 - Issuing body: ICAO / UN Treaty Collection
 - Date: 1971-09-23
@@ -747,6 +817,8 @@ Cited by: [T010](../../timeline/1945-1990.md#T010)
 
 **Convention on the Prevention and Punishment of Crimes against Internationally Protected Persons, including Diplomatic Agents**
 
+Summary: The Convention on the Prevention and Punishment of Crimes against Internationally Protected Persons, including Diplomatic Agents, adopted on 14 December 1973. According to the UN Office of Counter-Terrorism, it defines protected persons (such as heads of State, foreign ministers and officials entitled to special protection abroad) and requires States to criminalize murder, kidnapping and other attacks on them or their official premises. It is the source for milestone T013; the cited copy is a scanned PDF confirmed by OCR.
+
 - Issuing body: UN General Assembly / UN Treaty Collection
 - Date: 1973-12-14
 - Type: treaty
@@ -767,6 +839,8 @@ Cited by: [T013](../../timeline/1945-1990.md#T013)
 ## CONV-HOSTAGES1979
 
 **International Convention against the Taking of Hostages**
+
+Summary: The International Convention against the Taking of Hostages, adopted on 17 December 1979. According to the UN Office of Counter-Terrorism, it defines hostage-taking as seizing or detaining a person and threatening them in order to compel a third party, such as a State or international organization, to act or refrain from acting. It is the source for milestone T018; the cited copy is a scanned PDF confirmed by OCR.
 
 - Issuing body: UN General Assembly / UN Treaty Collection
 - Date: 1979-12-17
@@ -789,6 +863,8 @@ Cited by: [T018](../../timeline/1945-1990.md#T018)
 
 **Convention on the Physical Protection of Nuclear Material**
 
+Summary: The Convention on the Physical Protection of Nuclear Material, opened for signature on 3 March 1980 (IAEA). According to the UN Office of Counter-Terrorism, it criminalizes the unlawful possession, use, transfer or theft of nuclear material and threats to use it, and 2005 amendments extended protection to nuclear facilities and material in domestic use, storage and transport. It is the source for milestone T019; the cited copy is a scanned PDF confirmed by OCR.
+
 - Issuing body: IAEA / UN Treaty Collection
 - Date: 1980-03-03
 - Type: treaty
@@ -809,6 +885,8 @@ Cited by: [T019](../../timeline/1945-1990.md#T019)
 ## CONV-BOMBINGS1997
 
 **International Convention for the Suppression of Terrorist Bombings**
+
+Summary: The International Convention for the Suppression of Terrorist Bombings, adopted by the UN General Assembly on 15 December 1997. According to the UN Office of Counter-Terrorism, it creates a regime of universal jurisdiction over the intentional use of explosives or other lethal devices in or against defined public places with intent to kill, seriously injure or cause extensive destruction. It is the source for milestone T040; the cited copy is a scanned PDF confirmed by OCR.
 
 - Issuing body: UN General Assembly / UN Treaty Collection
 - Date: 1997-12-15
@@ -831,6 +909,8 @@ Cited by: [T040](../../timeline/1990-2001.md#T040)
 
 **International Convention for the Suppression of the Financing of Terrorism**
 
+Summary: The International Convention for the Suppression of the Financing of Terrorism, adopted by the UN General Assembly on 9 December 1999. According to the UN Office of Counter-Terrorism, it requires States to prevent and counteract direct or indirect financing of terrorists, including through groups claiming charitable, social or cultural goals, to hold financiers liable, and to identify, freeze and seize funds. It is the source for milestone T048; Security Council resolutions 1373 and 2462 later added binding financing obligations.
+
 - Issuing body: UN General Assembly / UN Treaty Collection
 - Date: 1999-12-09
 - Type: treaty
@@ -851,6 +931,8 @@ Cited by: [T048](../../timeline/1990-2001.md#T048)
 
 **International Convention for the Suppression of Acts of Nuclear Terrorism**
 
+Summary: The International Convention for the Suppression of Acts of Nuclear Terrorism, adopted on 13 April 2005. According to the UN Office of Counter-Terrorism, it covers a broad range of acts and targets, including nuclear power plants and reactors, as well as threats and attempts, requires offenders to be extradited or prosecuted, and provides for making nuclear material safe through the IAEA after a crisis. It is the source for milestone T083.
+
 - Issuing body: UN General Assembly / UN Treaty Collection
 - Date: 2005-04-13
 - Type: treaty
@@ -870,6 +952,8 @@ Cited by: [T083](../../timeline/post-9-11-2001-2014.md#T083)
 ## FATF-HIST
 
 **History of the FATF**
+
+Summary: The history page of the Financial Action Task Force (FATF), the intergovernmental body on money laundering and terrorist financing. CTA6 cites it for two milestones: the G7's creation of the FATF to address money laundering (T029) and the FATF's Eight Special Recommendations on terrorist financing (T057). The page is undated \[UNKNOWN\] and was confirmed through a text extraction because the site blocked a direct capture.
 
 - Issuing body: Financial Action Task Force
 - Date: \[UNKNOWN\]
@@ -892,6 +976,8 @@ Cited by: [T029](../../timeline/1945-1990.md#T029), [T057](../../timeline/post-9
 
 **Global Counterterrorism Forum (home page)**
 
+Summary: The home page of the Global Counterterrorism Forum (GCTF). The page describes it as bringing policymakers and practitioners together to share experience and develop practical, publicly available tools and strategies to prevent and counter terrorism, and says it is co-chaired by Egypt and the European Union. No milestone cites it yet, and the page is undated \[UNKNOWN\].
+
 - Issuing body: Global Counterterrorism Forum
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -912,6 +998,8 @@ Cited by: none in `data/timeline.csv`.
 ## INTERPOL-CT
 
 **Terrorism (crime area page)**
+
+Summary: INTERPOL's page on terrorism as a crime area. It is INTERPOL's own description of its counter-terrorism role, but the direct capture was blocked and only the title was confirmed through a text extraction, so its content is not recorded in CTA6 \[UNKNOWN\]. The page is undated \[UNKNOWN\].
 
 - Issuing body: INTERPOL
 - Date: \[UNKNOWN\]
@@ -934,6 +1022,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Global Terrorism Database**
 
+Summary: The Global Terrorism Database (GTD), maintained by START at the University of Maryland. Its overview page describes it as an open-source database of terrorist events worldwide from 1970 through 2020, covering domestic as well as international incidents, with more than 200,000 cases. It is a secondary research dataset; CTA6 lists it without drawing conclusions from it.
+
 - Issuing body: National Consortium for the Study of Terrorism and Responses to Terrorism (START)
 - Date: \[UNKNOWN\]
 - Type: database
@@ -954,6 +1044,8 @@ Cited by: none in `data/timeline.csv`.
 ## START
 
 **START: National Consortium for the Study of Terrorism and Responses to Terrorism**
+
+Summary: The home page of the National Consortium for the Study of Terrorism and Responses to Terrorism (START), led by the University of Maryland, which the page describes as a Department of Homeland Security Emeritus Center of Excellence. START maintains the Global Terrorism Database and runs research on terrorism, targeted violence and counterterrorism. It is a secondary academic source, and the page is undated \[UNKNOWN\].
 
 - Issuing body: University of Maryland
 - Date: \[UNKNOWN\]
@@ -976,6 +1068,8 @@ Cited by: none in `data/timeline.csv`.
 
 **How Terrorist Groups End: Lessons for Countering al Qa'ida (MG-741)**
 
+Summary: 'How Terrorist Groups End: Lessons for Countering al Qa'ida' (MG-741), a 2008 RAND Corporation monograph by Seth G. Jones and Martin C. Libicki. Its summary says the evidence since 1968 indicates most terrorist groups ended because they joined the political process (43 percent) or because police and intelligence agencies arrested or killed key members (40 percent), and that military force was rarely the main reason. The authors argue this calls for rethinking post-9/11 US counterterrorism strategy; that is the study's own conclusion, which CTA6 lists without endorsing.
+
 - Issuing body: Seth G. Jones and Martin C. Libicki, RAND Corporation
 - Date: 2008
 - Type: scholarly
@@ -995,6 +1089,8 @@ Cited by: none in `data/timeline.csv`.
 ## RAND-TOPIC
 
 **Terrorism (topic page)**
+
+Summary: The RAND Corporation's topic page on terrorism, which lists RAND research on the subject. It is a secondary index of studies, not a single study. The page is undated \[UNKNOWN\].
 
 - Issuing body: RAND Corporation
 - Date: \[UNKNOWN\]
@@ -1017,6 +1113,8 @@ Cited by: none in `data/timeline.csv`.
 
 **RAND Database of Worldwide Terrorism Incidents**
 
+Summary: The RAND Database of Worldwide Terrorism Incidents (RDWTI). RAND describes it as a legacy compilation of data on international and domestic terrorism incidents from 1968 through 2009, which grew out of the earlier RAND Terrorism Chronology and RAND-MIPT database. It is a secondary research dataset, listed in CTA6 without drawing conclusions from it.
+
 - Issuing body: RAND Corporation
 - Date: \[UNKNOWN\]
 - Type: database
@@ -1037,6 +1135,8 @@ Cited by: none in `data/timeline.csv`.
 ## CAMPBELL2006
 
 **The effectiveness of counter-terrorism strategies (Campbell Systematic Review 2006:2)**
+
+Summary: 'The Effectiveness of Counter-Terrorism Strategies', a Campbell Collaboration systematic review by Cynthia Lum, Leslie W. Kennedy and Alison Sherley, first published 16 January 2006. Its stated objective is to determine the effectiveness of counter-terrorism strategies from the available social-science research using systematic review methods, and the authors say their findings emphasize the need for governments and funders to insist on evaluating such programs. It is a secondary study; CTA6 lists it without drawing its own conclusions. The cited Wiley page was confirmed on a retry.
 
 - Issuing body: Cynthia Lum, Leslie W. Kennedy, Alison Sherley; Campbell Collaboration
 - Date: 2006
@@ -1059,6 +1159,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Global Terrorism Index**
 
+Summary: The Global Terrorism Index (GTI), produced by the Institute for Economics & Peace. Its page describes it as a study of the impact of terrorism in 163 countries covering 99.7 per cent of the world's population, using Terrorism Tracker and other data to score each country from 0 to 10 and rank them. It is a secondary composite index, so its rankings depend on the producer's methodology; the page is undated \[UNKNOWN\].
+
 - Issuing body: Institute for Economics & Peace
 - Date: \[UNKNOWN\]
 - Type: database
@@ -1079,6 +1181,8 @@ Cited by: none in `data/timeline.csv`.
 ## CRONIN-HTE
 
 **How Terrorism Ends: Understanding the Decline and Demise of Terrorist Campaigns**
+
+Summary: 'How Terrorism Ends: Understanding the Decline and Demise of Terrorist Campaigns', a 2009 book by Audrey Kurth Cronin published by Princeton University Press. As its title states, it is a scholarly study of how terrorist campaigns decline and end. Only the title was confirmed (the site blocked a direct capture), so its arguments are not recorded in CTA6 \[UNKNOWN\].
 
 - Issuing body: Audrey Kurth Cronin, Princeton University Press
 - Date: 2009
@@ -1101,6 +1205,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation**
 
+Summary: The Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, concluded on 24 February 1988. According to the UN Office of Counter-Terrorism, it extends the 1971 Montreal Convention to terrorist acts at airports serving international civil aviation. It is the source for milestone T023; the cited copy is a scanned PDF whose title and date were confirmed by OCR.
+
 - Issuing body: ICAO / UN Treaty Collection
 - Date: 1988-02-24
 - Type: treaty
@@ -1121,6 +1227,8 @@ Cited by: [T023](../../timeline/1945-1990.md#T023)
 ## CONV-SUA1988
 
 **Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation**
+
+Summary: The Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation, concluded on 10 March 1988 (IMO). According to the UN Office of Counter-Terrorism, it sets up a legal regime for acts against international shipping similar to the aviation regimes, making it an offence to seize a ship by force or to endanger its safe navigation; a 2005 protocol added further offences. It is the source for milestone T024; the cited copy is a scanned PDF confirmed by OCR.
 
 - Issuing body: IMO / UN Treaty Collection
 - Date: 1988-03-10
@@ -1143,6 +1251,8 @@ Cited by: [T024](../../timeline/1945-1990.md#T024)
 
 **Convention on the Marking of Plastic Explosives for the Purpose of Detection**
 
+Summary: The Convention on the Marking of Plastic Explosives for the Purpose of Detection, concluded on 1 March 1991. According to the UN Office of Counter-Terrorism, it is designed to control unmarked, undetectable plastic explosives: parties must prohibit their manufacture and movement and destroy or mark existing stocks within set periods. It follows Security Council resolution 635 (1989) on the same subject and is the source for milestone T030; the cited copy is a scanned PDF confirmed by OCR.
+
 - Issuing body: ICAO / UN Treaty Collection
 - Date: 1991-03-01
 - Type: treaty
@@ -1163,6 +1273,8 @@ Cited by: [T030](../../timeline/1990-2001.md#T030)
 ## LON-1937
 
 **Convention for the Prevention and Punishment of Terrorism (League of Nations Official Journal, January 1938, C.546.M.383.1937.V)**
+
+Summary: The League of Nations Convention for the Prevention and Punishment of Terrorism, dated 16 November 1937 and printed in the League's Official Journal in January 1938 (C.546.M.383.1937.V). It is an early attempt at a multilateral treaty on terrorism; milestone T006 notes that a Library of Congress record says it never came into effect. Its definition of terrorism is compared with Security Council resolution 1566 in the people-disagree milestone T079. The cited copy is a scanned PDF whose title and date were confirmed by OCR.
 
 - Issuing body: League of Nations (UN Audiovisual Library of International Law copy)
 - Date: 1937-11-16
@@ -1185,6 +1297,8 @@ Cited by: [T006](../../timeline/pre-1945.md#T006)
 
 **Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism**
 
+Summary: The UN Human Rights Office (OHCHR) page on the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism. The page says the Commission on Human Rights created the mandate in April 2005 through resolution 2005/80. It is cited for milestone T084, which remains not-proven because the resolution text itself was not machine-verified. The page is undated \[UNKNOWN\] and was confirmed on a retry.
+
 - Issuing body: UN Office of the High Commissioner for Human Rights
 - Date: \[UNKNOWN\]
 - Type: other
@@ -1205,6 +1319,8 @@ Cited by: [T084](../../timeline/post-9-11-2001-2014.md#T084)
 ## OHCHR-FS32
 
 **Human Rights, Terrorism and Counter-terrorism (Fact Sheet No. 32)**
+
+Summary: 'Human Rights, Terrorism and Counter-terrorism', Fact Sheet No. 32, published in 2008 by the UN Office of the High Commissioner for Human Rights. As its title states, it addresses the relationship between human rights, terrorism and counter-terrorism; its specific contents are not summarized in CTA6 \[UNKNOWN\]. It is a secondary UN explanatory publication.
 
 - Issuing body: UN Office of the High Commissioner for Human Rights
 - Date: 2008
@@ -1227,6 +1343,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Commission on Human Rights resolution 2005/80: Protection of human rights and fundamental freedoms while countering terrorism**
 
+Summary: UN Commission on Human Rights resolution 2005/80, dated 21 April 2005, on protecting human rights and fundamental freedoms while countering terrorism. The OHCHR page (OHCHR-SR-CT) says this resolution created the Special Rapporteur mandate. The cited copy could not be confirmed: the UN document system returned a loading page instead of the PDF, which is why milestone T084 is not-proven.
+
 - Issuing body: UN Commission on Human Rights
 - Date: 2005-04-21
 - Type: UN resolution
@@ -1247,6 +1365,8 @@ Cited by: [T084](../../timeline/post-9-11-2001-2014.md#T084)
 ## SR-A-HRC-16-51
 
 **Report of the Special Rapporteur (Martin Scheinin): Ten areas of best practices in countering terrorism (A/HRC/16/51)**
+
+Summary: Report A/HRC/16/51, 'Ten areas of best practices in countering terrorism', by the UN Special Rapporteur on human rights and counter-terrorism, Martin Scheinin, dated 22 December 2010. The report says it is his sixth and last annual report to the Human Rights Council and its predecessor, and it sets out ten areas of practice in countering terrorism. It is the source for milestone T103 and is an output of the mandate created in 2005 (T084).
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2010-12-22
@@ -1269,6 +1389,8 @@ Cited by: [T103](../../timeline/post-9-11-2001-2014.md#T103)
 
 **In the Name of Security: Counterterrorism Laws Worldwide since September 11**
 
+Summary: 'In the Name of Security: Counterterrorism Laws Worldwide since September 11', a Human Rights Watch report dated 29 June 2012. The report states that more than 140 governments have passed counterterrorism legislation since September 11, 2001, and it argues that some of these laws have been used in ways that violate rights such as due process, free expression and privacy. These are Human Rights Watch's findings; CTA6 lists the report as an NGO critique without drawing its own conclusions.
+
 - Issuing body: Human Rights Watch
 - Date: 2012-06-29
 - Type: other
@@ -1288,6 +1410,8 @@ Cited by: none in `data/timeline.csv`.
 ## UNSC579
 
 **Security Council resolution 579 (1985): Hostage-taking and abduction**
+
+Summary: UN Security Council resolution 579, adopted on 18 December 1985, on hostage-taking and abduction. In it the Council condemns unequivocally all acts of hostage-taking and abduction. It is the source for milestone T021 and is one of the Council's earliest resolutions on terrorism-related acts in CTA6.
 
 - Issuing body: UN Security Council
 - Date: 1985-12-18
@@ -1310,6 +1434,8 @@ Cited by: [T021](../../timeline/1945-1990.md#T021)
 
 **Security Council resolution 2129 (2013): CTED mandate**
 
+Summary: UN Security Council resolution 2129, adopted on 17 December 2013. It decided that the Counter-Terrorism Committee Executive Directorate (CTED) would continue as a special political mission under the Committee's guidance until 31 December 2017, with an interim review. It is one of the renewals of the body created by resolution 1535 (2004), later followed by resolution 2617 (2021); no milestone cites it directly.
+
 - Issuing body: UN Security Council
 - Date: 2013-12-17
 - Type: UN resolution
@@ -1330,6 +1456,8 @@ Cited by: none in `data/timeline.csv`.
 ## UNSC2368
 
 **Security Council resolution 2368 (2017): ISIL (Da'esh) and Al-Qaida sanctions**
+
+Summary: UN Security Council resolution 2368, adopted on 20 July 2017, on the ISIL (Da'esh) and Al-Qaida sanctions. It continues the asset-freeze, travel and arms measures imposed under earlier resolutions and restates the criteria for listing those associated with ISIL or Al-Qaida. It updates the regime that began with resolution 1267 (1999); no milestone cites it directly.
 
 - Issuing body: UN Security Council
 - Date: 2017-07-20
@@ -1352,6 +1480,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Security Council resolution 2133 (2014): Kidnapping for ransom**
 
+Summary: UN Security Council resolution 2133, adopted on 27 January 2014, on kidnapping for ransom. It condemns kidnapping and hostage-taking by terrorist groups for raising funds or gaining political concessions, expresses concern at an increase in such incidents, and reaffirms the obligations of resolution 1373 (2001). No milestone cites it directly.
+
 - Issuing body: UN Security Council
 - Date: 2014-01-27
 - Type: UN resolution
@@ -1373,6 +1503,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Security Council resolution 2195 (2014): Terrorism and transnational organized crime**
 
+Summary: UN Security Council resolution 2195, adopted on 19 December 2014, on terrorism and transnational organized crime. In its preamble the Council expresses concern that terrorists in some regions benefit from organized crime, including trafficking in arms, persons, drugs and artefacts, illicit trade in natural resources, and kidnapping for ransom. No milestone cites it directly.
+
 - Issuing body: UN Security Council
 - Date: 2014-12-19
 - Type: UN resolution
@@ -1393,6 +1525,8 @@ Cited by: none in `data/timeline.csv`.
 ## ICJ-EJP2009
 
 **Assessing Damage, Urging Action: Report of the Eminent Jurists Panel on Terrorism, Counter-terrorism and Human Rights**
+
+Summary: 'Assessing Damage, Urging Action', the 2009 report of the International Commission of Jurists' Eminent Jurists Panel on Terrorism, Counter-terrorism and Human Rights. The report describes itself as based on one of the most comprehensive surveys of counter-terrorism and human rights, and argues that responses to 11 September 2001 changed the legal landscape and that many States adopted measures undermining the international legal framework. These are the panel's conclusions; it is the source for milestone T158.
 
 - Issuing body: International Commission of Jurists
 - Date: 2009
