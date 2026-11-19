@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-4 sources in this region (`international` 2, `oversight` 2).
+12 sources in this region (`government` 6, `international` 2, `oversight` 4).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -91,3 +91,171 @@ Cited by: none in `data/timeline.csv`.
 - Notes: Verified via WebFetch (no raw capture of readable text): WebFetch text: 'Independent National Security Legislation Monitor'
 
 Cited by: [T192](../../timeline/recent-2014-now.md#T192)
+
+<a id="NZ-TSA2002"></a>
+## NZ-TSA2002
+
+**Terrorism Suppression Act 2002 (2002 No 34)**
+
+- Issuing body: New Zealand Parliamentary Counsel Office (New Zealand Legislation)
+- Date: 2002
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Oceania
+- Theme: laws and treaties
+- URL: [https://www.legislation.govt.nz/act/public/2002/34/en/latest/](https://www.legislation.govt.nz/act/public/2002/34/en/latest/)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Notes: URL from search index; not verified: curl got HTTP 202 with an empty body (bot check) and WebFetch timed out on 2026-11-19. Search listing gives Royal assent 17 October 2002; not confirmed.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="NZ-CTLA2021"></a>
+## NZ-CTLA2021
+
+**Counter-Terrorism Legislation Act 2021 (2021 No 37)**
+
+- Issuing body: New Zealand Parliamentary Counsel Office (New Zealand Legislation)
+- Date: 2021
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Oceania
+- Theme: laws and treaties
+- URL: [https://www.legislation.govt.nz/act/public/2021/37/en/latest/](https://www.legislation.govt.nz/act/public/2021/37/en/latest/)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Notes: URL from search index; not verified: curl got HTTP 202 with an empty body and WebFetch timed out on 2026-11-19. Search listing gives Royal assent 4 October 2021; not confirmed.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="AU-SLAT2002"></a>
+## AU-SLAT2002
+
+**Security Legislation Amendment (Terrorism) Act 2002 (No. 65, 2002)**
+
+- Issuing body: Australian Government, Federal Register of Legislation
+- Date: 2002
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Oceania
+- Theme: laws and treaties
+- URL: [https://www.legislation.gov.au/C2004A00978/latest](https://www.legislation.gov.au/C2004A00978/latest)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AU-SLAT2002.* Page shows 'No. 65, 2002', 'Administered by Attorney-General's Department'. Assent date not in the capture \[UNKNOWN\]; the search listing gives 5 July 2002.
+
+Cited by: [T201](../../timeline/post-9-11-2001-2014.md#T201)
+
+<a id="AU-SENATE-BALI2004"></a>
+## AU-SENATE-BALI2004
+
+**Bali 2002: Security threats to Australians in South East Asia**
+
+- Issuing body: Parliament of Australia, Senate (Foreign Affairs, Defence and Trade committee, per the page path)
+- Date: 2004-08-12
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: Oceania
+- Theme: studies and evaluations
+- URL: [https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Foreign_Affairs_Defence_and_Trade/Completed_inquiries/2002-04/bali/report/index](https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Foreign_Affairs_Defence_and_Trade/Completed_inquiries/2002-04/bali/report/index)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AU-SENATE-BALI2004.* Page shows '12 August 2004 © Commonwealth of Australia ISBN 0 642 71414 2'.
+
+Cited by: [T205](../../timeline/post-9-11-2001-2014.md#T205)
+
+<a id="AU-APH-CT-CHRON"></a>
+## AU-APH-CT-CHRON
+
+**Chronology of legislative developments (Terrorism law)**
+
+- Issuing body: Parliament of Australia, Parliamentary Library
+- Date: \[UNKNOWN\]
+- Type: other
+- Tag: `secondary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Oceania
+- Theme: laws and treaties
+- URL: [https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Browse_by_Topic/TerrorismLaw/legislativedev](https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Browse_by_Topic/TerrorismLaw/legislativedev)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AU-APH-CT-CHRON.* Secondary compilation by the Parliamentary Library.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="AU-INSLM-2018"></a>
+## AU-INSLM-2018
+
+**Stop, search and seize powers; Declared Areas; Control orders and Preventative detention orders (INSLM statutory deadline reviews)**
+
+- Issuing body: Independent National Security Legislation Monitor (Australia)
+- Date: 2017-09-07
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Oceania
+- Theme: studies and evaluations
+- URL: [https://www.inslm.gov.au/reviews/stop-search-and-seize-powers-declared-areas-control-orders-and-preventative-detention-orders](https://www.inslm.gov.au/reviews/stop-search-and-seize-powers-declared-areas-control-orders-and-preventative-detention-orders)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: Verified via WebFetch on 2026-11-19 (curl timed out); capture saved as pass3/raw/webfetch-AU-INSLM-2018.txt. Page states the reviews were completed on 7 September 2017; public hearing 19 May 2017; report document dated 5 March 2018.
+
+Cited by: [T222](../../timeline/recent-2014-now.md#T222)
+
+<a id="AU-AGD-INSLM-RESP"></a>
+## AU-AGD-INSLM-RESP
+
+**Government response to INSLM Reviews of Control Orders and Preventative Detention Orders; Declared Areas; and Stop, Search and Seize Powers**
+
+- Issuing body: Attorney-General's Department (Australia)
+- Date: \[UNKNOWN\]
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Oceania
+- Theme: studies and evaluations
+- URL: [https://www.ag.gov.au/national-security/publications/response-inslm-reviews-control-orders-and-preventative-detention-orders-declared](https://www.ag.gov.au/national-security/publications/response-inslm-reviews-control-orders-and-preventative-detention-orders-declared)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Notes: URL from search index; not verified: curl timed out on 2026-11-19.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="PG-PMNEC-CTA2024"></a>
+## PG-PMNEC-CTA2024
+
+**PM Marape commends Government, Opposition members for uniting to pass new 'monumental' Counter-Terrorism law**
+
+- Issuing body: Department of Prime Minister and National Executive Council (Papua New Guinea)
+- Date: 2024-12-03
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Oceania
+- Theme: laws and treaties
+- URL: [https://www.pmnec.gov.pg/pm-marape-commends-government-opposition-members-for-uniting-to-pass-new-monumental-counter-terrorism-law/](https://www.pmnec.gov.pg/pm-marape-commends-government-opposition-members-for-uniting-to-pass-new-monumental-counter-terrorism-law/)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/PG-PMNEC-CTA2024.* Posted 3 December 2024; states that on 28.11.24 Parliament passed the Counter-Terrorism Bill 2024 by 84-0. The Act text URLs at parliament.gov.pg returned HTTP 404 and were dropped.
+
+Cited by: [T230](../../timeline/recent-2014-now.md#T230)

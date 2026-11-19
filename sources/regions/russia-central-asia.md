@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-10 sources in this region (`government` 4, `international` 2, `court` 2, `oversight` 2).
+17 sources in this region (`government` 9, `international` 4, `court` 2, `oversight` 2).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -217,3 +217,150 @@ Cited by: [T178](../../timeline/recent-2014-now.md#T178)
 - Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2011-12-20 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
 
 Cited by: [T160](../../timeline/post-9-11-2001-2014.md#T160)
+
+<a id="KG-LAW178-2006"></a>
+## KG-LAW178-2006
+
+**Закон КР от 8 ноября 2006 года № 178 «О противодействии терроризму»**
+
+- Issuing body: Министерство юстиции Кыргызской Республики (Централизованный банк данных правовой информации)
+- Date: 2006-11-08
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://cbd.minjust.gov.kg/1971/edition/1174353/ru](https://cbd.minjust.gov.kg/1971/edition/1174353/ru)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Russian
+- Notes: Raw: pass3/raw/KG-LAW178-2006.*. URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200. Only the page title is served without JavaScript ('Закон КР от 8 ноября 2006 года № 178 "О противодействии тер'); it matches the law's date and number, but the body text was not read (WebFetch returned the same title only). The search listing says this law was replaced by Law No. 55 of 4 July 2022 \[not confirmed from a capture\]. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T211](../../timeline/post-9-11-2001-2014.md#T211)
+
+<a id="KG-LAW55-2022"></a>
+## KG-LAW55-2022
+
+**Закон КР от 4 июля 2022 года № 55 «О противодействии терроризму»**
+
+- Issuing body: Министерство юстиции Кыргызской Республики (Централизованный банк данных правовой информации)
+- Date: 2022-07-04
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://cbd.minjust.gov.kg/112387/edition/1177705/ru](https://cbd.minjust.gov.kg/112387/edition/1177705/ru)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Russian
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200. Only the page title is served without JavaScript; it matches the law's date and number; body text not read. Raw: pass3/raw/KG-LAW55-2022.*. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="TJ-LAW845-1999"></a>
+## TJ-LAW845-1999
+
+**Закон Республики Таджикистан «О борьбе с терроризмом»**
+
+- Issuing body: Национальный центр законодательства при Президенте Республики Таджикистан
+- Date: \[UNKNOWN\]
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://ncz.tj/content/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD-%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8-%D1%82%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD-%D0%BE-%D0%B1%D0%BE%D1%80%D1%8C%D0%B1%D0%B5-%D1%81-%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80%D0%B8%D0%B7%D0%BC%D0%BE%D0%BC](https://ncz.tj/content/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD-%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8-%D1%82%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD-%D0%BE-%D0%B1%D0%BE%D1%80%D1%8C%D0%B1%D0%B5-%D1%81-%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80%D0%B8%D0%B7%D0%BC%D0%BE%D0%BC)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: Russian
+- Notes: URL from search index; not verified: curl timed out and WebFetch returned HTTP 504 on 2026-11-19. Search listing gives 16.11.1999 No. 845 and says it lost force on 23.12.2021; not confirmed. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="TM-GOV-CTLAW-AM"></a>
+## TM-GOV-CTLAW-AM
+
+**Закон Туркменистана «О внесении изменения в Закон Туркменистана „О борьбе с терроризмом“»**
+
+- Issuing body: Государственный информационный портал Туркменистана (turkmenistan.gov.tm)
+- Date: 2013-01-08
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://turkmenistan.gov.tm/ru/post/18736/zakon-turkmenistana-o-vnesenii-izmeneniya-v-zakon-turkmenistana-o-borbe-s-terrorizmom-](https://turkmenistan.gov.tm/ru/post/18736/zakon-turkmenistana-o-vnesenii-izmeneniya-v-zakon-turkmenistana-o-borbe-s-terrorizmom-)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Russian
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/TM-GOV-CTLAW-AM.* Posted 08.01.2013. The text refers to the law 'О борьбе с терроризмом', 'принятый 15 августа 2003 года (Ведомости Меджлиса Туркменистана, 2003 г., № 3, ст. 28 ...)'. The 2003 law text itself was not found at an official URL. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T203](../../timeline/post-9-11-2001-2014.md#T203)
+
+<a id="RU-UKAZ116-2006"></a>
+## RU-UKAZ116-2006
+
+**Указ Президента Российской Федерации от 15.02.2006 г. № 116 «О мерах по противодействию терроризму»**
+
+- Issuing body: Президент Российской Федерации (kremlin.ru)
+- Date: 2006-02-15
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Russia/Central Asia
+- Theme: agencies
+- URL: [http://www.kremlin.ru/acts/bank/23441](http://www.kremlin.ru/acts/bank/23441)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Russian
+- Notes: Verified via WebFetch on 2026-11-19 (curl got HTTP 500); capture saved as pass3/raw/webfetch-RU-UKAZ116-2006.txt. Point 1: 'Образовать Национальный антитеррористический комитет'. Shown in its amended text (amendments to 25.11.2019). English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T208](../../timeline/post-9-11-2001-2014.md#T208)
+
+<a id="SCO-CONV2009-RU"></a>
+## SCO-CONV2009-RU
+
+**Конвенция Шанхайской организации сотрудничества против терроризма**
+
+- Issuing body: Шанхайская организация сотрудничества (Совет глав государств)
+- Date: 2009-06-16
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://rus.sectsco.org/20090616/1609553.html](https://rus.sectsco.org/20090616/1609553.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Russian
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/SCO-CONV2009-RU.* Record page lists 'Дата принятия 16 июня 2009', 'Место подписания/принятия Екатеринбург'; the linked text PDF (/images/07e8/0c/04/1609552.pdf) was also fetched (pass3/raw/SCO-CONV2009-RU-PDF.*). English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T214](../../timeline/post-9-11-2001-2014.md#T214)
+
+<a id="SCO-RATS2002-SCO"></a>
+## SCO-RATS2002-SCO
+
+**Соглашение между государствами-членами Шанхайской организации сотрудничества о Региональной антитеррористической структуре**
+
+- Issuing body: Шанхайская организация сотрудничества (Совет глав государств)
+- Date: 2002-06-07
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Russia/Central Asia
+- Theme: agencies
+- URL: [https://rus.sectsco.org/20020607/1608541.html](https://rus.sectsco.org/20020607/1608541.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Russian
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/SCO-RATS2002-SCO.* Record page lists 'Дата принятия 7 июня 2002', 'Место подписания/принятия Санкт-Петербург'; linked text PDF fetched (pass3/raw/SCO-RATS2002-SCO-PDF.*). The same agreement is also at lex.uz (pass3/raw/UZ-LEX-RATS2002.*). English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T199](../../timeline/post-9-11-2001-2014.md#T199)

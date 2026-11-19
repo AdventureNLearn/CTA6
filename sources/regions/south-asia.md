@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-22 sources in this region (`government` 13, `international` 3, `NGO` 3, `oversight` 3).
+33 sources in this region (`government` 22, `international` 3, `NGO` 3, `oversight` 5).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -131,7 +131,7 @@ Cited by: [T104](../../timeline/post-9-11-2001-2014.md#T104)
 - Language: English
 - Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-LKA-2019.*
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T221](../../timeline/recent-2014-now.md#T221)
 
 <a id="IN-UAPA1967"></a>
 ## IN-UAPA1967
@@ -236,7 +236,7 @@ Cited by: none in `data/timeline.csv`.
 - Language: English
 - Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/LK-MOJ-PTA.*
 
-Cited by: [T187](../../timeline/recent-2014-now.md#T187)
+Cited by: [T187](../../timeline/recent-2014-now.md#T187), [T194](../../timeline/1945-1990.md#T194)
 
 <a id="BD-ATA2009"></a>
 ## BD-ATA2009
@@ -383,7 +383,7 @@ Cited by: [T189](../../timeline/recent-2014-now.md#T189)
 - Language: English
 - Notes: URL taken from a web-search result listing, then fetched. Includes a section on PTA prisoners. HTTP 200; expected text found. Raw: pass2/raw/HRCSL-PRISON-2020.*
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T225](../../timeline/recent-2014-now.md#T225)
 
 <a id="IN-UAPA-HI"></a>
 ## IN-UAPA-HI
@@ -466,5 +466,236 @@ Cited by: none in `data/timeline.csv`.
 - Verified: `yes`
 - Language: English
 - Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/PK-NACTA-ATA.*
+
+Cited by: [T195](../../timeline/1990-2001.md#T195)
+
+<a id="IN-NIA-ACT2008-HI"></a>
+## IN-NIA-ACT2008-HI
+
+**राष्ट्रीय अन्वेषण अभिकरण अधिनियम, 2008 (2008 का अधिनियम संख्यांक 34)**
+
+- Issuing body: Ministry of Home Affairs / National Investigation Agency (Government of India, S3WaaS)
+- Date: 2008-12-31
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: South Asia
+- Theme: agencies
+- URL: [https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2023/02/2023021044-2.pdf](https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2023/02/2023021044-2.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Hindi
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200. The PDF text layer stores Devanagari vowel signs out of order, so the exact-string check failed; the extracted header reads 'राष्टर्ीय अन्वेषण अिभकरण अिधिनयम, 2008 (2008 का अिधिनयम संख्यांक 34) \[31 िदसम्बर, 2008\]', which matches the Act's title, number and date. Raw: pass3/raw/IN-NIA-ACT2008-HI.* English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T213](../../timeline/post-9-11-2001-2014.md#T213)
+
+<a id="IN-NIA-ACT2008"></a>
+## IN-NIA-ACT2008
+
+**National Investigation Agency Act, 2008**
+
+- Issuing body: Legislative Department, Government of India (India Code)
+- Date: 2008-12-31
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: South Asia
+- Theme: agencies
+- URL: [https://www.indiacode.nic.in/handle/123456789/2054](https://www.indiacode.nic.in/handle/123456789/2054)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Notes: URL from search index; not verified: curl timed out twice and WebFetch timed out on 2026-11-19. Date taken from IN-NIA-ACT2008-HI.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="IN-POTA-REPEAL2004"></a>
+## IN-POTA-REPEAL2004
+
+**The Prevention of Terrorism (Repeal) Act, 2004 (No. 26 of 2004)**
+
+- Issuing body: Parliament of India (copy hosted by PRS Legislative Research)
+- Date: 2004-12-21
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://prsindia.org/files/bills_acts/acts_parliament/2004/the-prevention-of-terrorism-\(repeal\)-act-2004_1.pdf](https://prsindia.org/files/bills_acts/acts_parliament/2004/the-prevention-of-terrorism-(repeal)-act-2004_1.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/IN-POTA-REPEAL2004.* Third-party copy (PRS Legislative Research, an NGO) of the official text: '\[21st December, 2004.\] An Act to repeal the Prevention of Terrorism Act, 2002' and 'deemed to have come into force on the 21st day of September, 2004'.
+
+Cited by: [T206](../../timeline/post-9-11-2001-2014.md#T206)
+
+<a id="PK-NACTA-ACT2013"></a>
+## PK-NACTA-ACT2013
+
+**National Counter Terrorism Authority Act, 2013 (Act No. XIX of 2013)**
+
+- Issuing body: National Counter Terrorism Authority (Government of Pakistan)
+- Date: 2013
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: South Asia
+- Theme: agencies
+- URL: [https://nacta.gov.pk/wp-content/uploads/2017/09/NACTA-Act.pdf](https://nacta.gov.pk/wp-content/uploads/2017/09/NACTA-Act.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/PK-NACTA-ACT2013.* Day and month not in the capture \[UNKNOWN\].
+
+Cited by: [T215](../../timeline/post-9-11-2001-2014.md#T215)
+
+<a id="PK-CONST21-2015"></a>
+## PK-CONST21-2015
+
+**Constitution (Twenty-first Amendment) Act, 2015 (as passed by the National Assembly)**
+
+- Issuing body: National Assembly of Pakistan
+- Date: 2015
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.na.gov.pk/uploads/documents/1420547178_142.pdf](https://www.na.gov.pk/uploads/documents/1420547178_142.pdf)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Notes: URL from search index; not verified: curl timed out and WebFetch returned HTTP 504 on 2026-11-19. Search listing gives 7 January 2015; not confirmed.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="PK-FMU-ATA1997"></a>
+## PK-FMU-ATA1997
+
+**The Anti-Terrorism Act, 1997 (XXVII of 1997), complete text**
+
+- Issuing body: Financial Monitoring Unit (Government of Pakistan)
+- Date: 1997
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.fmu.gov.pk/docs/2021/Anti-Terrorism-Act-1997-Complete.pdf](https://www.fmu.gov.pk/docs/2021/Anti-Terrorism-Act-1997-Complete.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/PK-FMU-ATA1997.* A separate official copy; it does not change the verified status of PK-ATA1997 or PK-ATA1997-FIA. Day and month of enactment not in the capture \[UNKNOWN\].
+
+Cited by: [T195](../../timeline/1990-2001.md#T195)
+
+<a id="LK-PTA-AM2022"></a>
+## LK-PTA-AM2022
+
+**Prevention of Terrorism (Temporary Provisions) (Amendment) Act, No. 12 of 2022**
+
+- Issuing body: Parliament of Sri Lanka (Department of Government Printing)
+- Date: 2022-03-29
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://documents.gov.lk/api/content-file-proxy?file=%2Fact-content%2F12-2022_E_1784552906.pdf](https://documents.gov.lk/api/content-file-proxy?file=%2Fact-content%2F12-2022_E_1784552906.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/LK-PTA-AM2022.* '\[Certified on 29th of March, 2022\]'; published as a supplement to the Gazette of 1 April 2022. Parliament's act page also shows 'Endorsed Date: 2022-03-29' (pass3/raw/LK-PTA-AM2022-PARL.*).
+
+Cited by: [T226](../../timeline/recent-2014-now.md#T226)
+
+<a id="MV-PTA2015-DV"></a>
+## MV-PTA2015-DV
+
+**ޓެރަރިޒަމް މަނާކުރުމުގެ ޤާނޫނު (ޤާނޫނު ނަންބަރު 32/2015)**
+
+- Issuing body: Government Gazette of the Maldives (Dhivehi Raajjeyge Gazette), vol. 44, no. 288
+- Date: 2015-10-28
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://old.mvlaw.gov.mv/pdf/ganoon/chapterVIII/32-2015.pdf](https://old.mvlaw.gov.mv/pdf/ganoon/chapterVIII/32-2015.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Dhivehi
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/MV-PTA2015-DV.* Gazette header: volume 44, number 288, 28 October 2015, law number 32/2015. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T218](../../timeline/recent-2014-now.md#T218)
+
+<a id="MV-NCTC-LAWS"></a>
+## MV-NCTC-LAWS
+
+**National Counter Terrorism Centre (laws page)**
+
+- Issuing body: National Counter Terrorism Centre (Maldives)
+- Date: \[UNKNOWN\]
+- Type: agency history
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: agencies
+- URL: [https://www.nctc.gov.mv/html/laws.html](https://www.nctc.gov.mv/html/laws.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/MV-NCTC-LAWS.* Short page (about 900 characters of text).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="IN-NHRC-AR2019"></a>
+## IN-NHRC-AR2019
+
+**Annual Report 2019-2020**
+
+- Issuing body: National Human Rights Commission, India
+- Date: \[UNKNOWN\]
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: studies and evaluations
+- URL: [https://nhrc.nic.in/assets/uploads/annual_reports/AR_2019-2020_EN.pdf](https://nhrc.nic.in/assets/uploads/annual_reports/AR_2019-2020_EN.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/IN-NHRC-AR2019.* URL linked from the NHRC annual-reports page (pass3/raw/IN-NHRC-ARPAGE.*). Contents list includes 'A. Terrorism and Militancy'. Two older search-listed URLs (nhrc.nic.in/sites/default/files/...) returned HTTP 404 and were dropped.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="PK-NCHR-AR2024"></a>
+## PK-NCHR-AR2024
+
+**Annual Report 2024**
+
+- Issuing body: National Commission for Human Rights (Pakistan)
+- Date: 2025
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: studies and evaluations
+- URL: [https://nchr.gov.pk/wp-content/uploads/2025/04/Annual-Report-2024.pdf](https://nchr.gov.pk/wp-content/uploads/2025/04/Annual-Report-2024.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/PK-NCHR-AR2024.* Lists among the Commission's functions to 'review the factors, including acts of terrorism, that inhibit the enjoyment of human rights'. Publication month from the URL path only (2025/04).
 
 Cited by: none in `data/timeline.csv`.

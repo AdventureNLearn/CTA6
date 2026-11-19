@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-30 sources in this region (`government` 7, `international` 17, `NGO` 4, `oversight` 2).
+35 sources in this region (`government` 8, `international` 18, `NGO` 4, `court` 1, `oversight` 4).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -636,3 +636,109 @@ Cited by: none in `data/timeline.csv`.
 - Notes: URL taken from a web-search result listing, then fetched. Characterisations are KNCHR's. HTTP 500; expected text not confirmed (bot check, timeout or error). URL from search index.
 
 Cited by: none in `data/timeline.csv`.
+
+<a id="ML-SGG-CONV"></a>
+## ML-SGG-CONV
+
+**Conventions internationales (liste; inclut la Convention portant création du G5 Sahel, adoptée à Nouakchott le 19 décembre 2014; ratification: décret n° 2015-128)**
+
+- Issuing body: Secrétariat Général du Gouvernement du Mali
+- Date: \[UNKNOWN\]
+- Type: database
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://sgg-mali.ml/2/513/fr/conventions-internationales.html](https://sgg-mali.ml/2/513/fr/conventions-internationales.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: French
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/ML-SGG-CONV.* The list entry reads: 'Convention portant création du G5 Sahel, adoptée à Nouakchott, le 19 décembre 2014, par la conférence des Chefs d'Etat du G5 Sahel (Ratification : Décret n°2015-128 ... JO 2015-17)'. The convention text itself is not on this page.
+
+Cited by: [T217](../../timeline/recent-2014-now.md#T217)
+
+<a id="G5S-CONV2014-WA"></a>
+## G5S-CONV2014-WA
+
+**Convention portant création du G5 Sahel (archived copy of g5sahel.org/images/convention.pdf)**
+
+- Issuing body: G5 Sahel (Internet Archive capture of 2 June 2017)
+- Date: 2014-12-19
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://web.archive.org/web/20170602170931/http:/www.g5sahel.org/images/convention.pdf](https://web.archive.org/web/20170602170931/http:/www.g5sahel.org/images/convention.pdf)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: French
+- Notes: URL from a web-search result listing; fetched on 2026-11-19 (HTTP 200, application/pdf) but the PDF has no text layer and no OCR tool was available, so the content could not be matched. Date taken from ML-SGG-CONV.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="NG-NHRC-SIIP-NE"></a>
+## NG-NHRC-SIIP-NE
+
+**Report of the Special Independent Investigative Panel on Human Rights Violations in Counter Insurgency Operations in the North East (SIIP North-East)**
+
+- Issuing body: National Human Rights Commission (Nigeria)
+- Date: 2024-11-09
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: studies and evaluations
+- URL: [https://www.nigeriarights.gov.ng/publications/more/504-report-of-the-special-independent-investigative-panel-on-human-rights-violations-in-counter-insurgency-operations-in-the-north-east-siip-north-east.html](https://www.nigeriarights.gov.ng/publications/more/504-report-of-the-special-independent-investigative-panel-on-human-rights-violations-in-counter-insurgency-operations-in-the-north-east-siip-north-east.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/NG-NHRC-SIIP-NE.* Date is the page's posting date (09 November 2024).
+
+Cited by: [T229](../../timeline/recent-2014-now.md#T229)
+
+<a id="NG-NHRC-SIIP-NE-ES"></a>
+## NG-NHRC-SIIP-NE-ES
+
+**SIIP North-East: Issues and Findings (executive summary, updated 18-11-24)**
+
+- Issuing body: National Human Rights Commission (Nigeria)
+- Date: 2024-11
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: studies and evaluations
+- URL: [https://www.nigeriarights.gov.ng/files/publications/The%20Executive%20Summary%20Updated%2018-11-24%20\(1\).pdf](https://www.nigeriarights.gov.ng/files/publications/The%20Executive%20Summary%20Updated%2018-11-24%20(1).pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/NG-NHRC-SIIP-NE-ES.* States that on 7 February 2023 the Commission announced and inaugurated the panel (section 2.2). Day of publication \[UNKNOWN\]; file name says 'Updated 18-11-24'.
+
+Cited by: [T227](../../timeline/recent-2014-now.md#T227)
+
+<a id="AFCHPR-2019-013-2017"></a>
+## AFCHPR-2019-013-2017
+
+**A. v. Republic of Benin, Application No. 013/2017, Judgment (Merits), 29 March 2019**
+
+- Issuing body: African Court on Human and Peoples' Rights
+- Date: 2019-03-29
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://www.african-court.org/ajudata/download-file/782/5f59ee1f3010d110121716.pdf](https://www.african-court.org/ajudata/download-file/782/5f59ee1f3010d110121716.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Case citation: Application No. 013/2017
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AFCHPR-2019-013-2017.* Text layer is partly garbled (scanned original), but '29 MARCH 2019' and the references to Benin's 'Cour de Répression des Infractions Economiques et du Terrorisme' (CRIET) were matched; the application number was confirmed on the Court's case page (pass3/raw/AFCHPR-CASE-013-2017.*). Applicant (a private individual) given as an initial.
+
+Cited by: [T224](../../timeline/recent-2014-now.md#T224)
