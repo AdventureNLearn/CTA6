@@ -6,7 +6,7 @@ National statutes, international and regional treaties, and court rulings that i
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-70 sources in this theme.
+123 sources in this theme.
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -26,6 +26,7 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 - URL: [https://www.un.org/counterterrorism/international-legal-instruments](https://www.un.org/counterterrorism/international-legal-instruments)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -46,6 +47,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://treaties.un.org/Pages/Treaties.aspx?id=18&subid=A&clang=_en](https://treaties.un.org/Pages/Treaties.aspx?id=18&subid=A&clang=_en)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T013](../../timeline/1945-1990.md#T013), [T018](../../timeline/1945-1990.md#T018), [T040](../../timeline/1990-2001.md#T040), [T048](../../timeline/1990-2001.md#T048), [T083](../../timeline/post-9-11-2001-2014.md#T083)
@@ -66,6 +68,7 @@ Cited by: [T013](../../timeline/1945-1990.md#T013), [T018](../../timeline/1945-1
 - URL: [https://treaties.un.org/doc/db/Terrorism/Conv1-english.pdf](https://treaties.un.org/doc/db/Terrorism/Conv1-english.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Scanned PDF (no text layer); title/date confirmed by OCR of first pages (raw/CONV-TOKYO1963.ocr.txt).
 
 Cited by: [T008](../../timeline/1945-1990.md#T008)
@@ -86,6 +89,7 @@ Cited by: [T008](../../timeline/1945-1990.md#T008)
 - URL: [https://treaties.un.org/doc/db/Terrorism/Conv2-english.pdf](https://treaties.un.org/doc/db/Terrorism/Conv2-english.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Scanned PDF (no text layer); title/date confirmed by OCR of first pages (raw/CONV-HAGUE1970.ocr.txt).
 
 Cited by: [T009](../../timeline/1945-1990.md#T009)
@@ -106,6 +110,7 @@ Cited by: [T009](../../timeline/1945-1990.md#T009)
 - URL: [https://treaties.un.org/doc/db/Terrorism/Conv3-english.pdf](https://treaties.un.org/doc/db/Terrorism/Conv3-english.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Scanned PDF (no text layer); title/date confirmed by OCR of first pages (raw/CONV-MONTREAL1971.ocr.txt).
 
 Cited by: [T010](../../timeline/1945-1990.md#T010)
@@ -126,6 +131,7 @@ Cited by: [T010](../../timeline/1945-1990.md#T010)
 - URL: [https://treaties.un.org/doc/db/Terrorism/english-18-7.pdf](https://treaties.un.org/doc/db/Terrorism/english-18-7.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Scanned PDF (no text layer); title/date confirmed by OCR of first pages (raw/CONV-IPP1973.ocr.txt).
 
 Cited by: [T013](../../timeline/1945-1990.md#T013)
@@ -146,6 +152,7 @@ Cited by: [T013](../../timeline/1945-1990.md#T013)
 - URL: [https://treaties.un.org/doc/db/Terrorism/english-18-5.pdf](https://treaties.un.org/doc/db/Terrorism/english-18-5.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Scanned PDF (no text layer); title/date confirmed by OCR of first pages (raw/CONV-HOSTAGES1979.ocr.txt).
 
 Cited by: [T018](../../timeline/1945-1990.md#T018)
@@ -166,6 +173,7 @@ Cited by: [T018](../../timeline/1945-1990.md#T018)
 - URL: [https://treaties.un.org/doc/db/Terrorism/Conv6-english.pdf](https://treaties.un.org/doc/db/Terrorism/Conv6-english.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Scanned PDF (no text layer); title/date confirmed by OCR of first pages (raw/CONV-NUCMAT1980.ocr.txt).
 
 Cited by: [T019](../../timeline/1945-1990.md#T019)
@@ -186,6 +194,7 @@ Cited by: [T019](../../timeline/1945-1990.md#T019)
 - URL: [https://treaties.un.org/doc/db/Terrorism/english-18-9.pdf](https://treaties.un.org/doc/db/Terrorism/english-18-9.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Scanned PDF (no text layer); title/date confirmed by OCR of first pages (raw/CONV-BOMBINGS1997.ocr.txt).
 
 Cited by: [T040](../../timeline/1990-2001.md#T040)
@@ -206,6 +215,7 @@ Cited by: [T040](../../timeline/1990-2001.md#T040)
 - URL: [https://treaties.un.org/doc/db/Terrorism/english-18-11.pdf](https://treaties.un.org/doc/db/Terrorism/english-18-11.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T048](../../timeline/1990-2001.md#T048)
 
@@ -225,6 +235,7 @@ Cited by: [T048](../../timeline/1990-2001.md#T048)
 - URL: [https://treaties.un.org/doc/db/Terrorism/english-18-15.pdf](https://treaties.un.org/doc/db/Terrorism/english-18-15.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T083](../../timeline/post-9-11-2001-2014.md#T083)
 
@@ -244,6 +255,7 @@ Cited by: [T083](../../timeline/post-9-11-2001-2014.md#T083)
 - URL: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002F0475](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002F0475)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T062](../../timeline/post-9-11-2001-2014.md#T062)
 
@@ -263,6 +275,7 @@ Cited by: [T062](../../timeline/post-9-11-2001-2014.md#T062)
 - URL: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L0541](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L0541)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T118](../../timeline/recent-2014-now.md#T118)
 
@@ -282,7 +295,8 @@ Cited by: [T118](../../timeline/recent-2014-now.md#T118)
 - URL: [https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=090](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=090)
 - Accessed: 2026-11-18
 - Verified: `no`
-- Notes: HTTP 403.
+- Language: \[UNKNOWN\]
+- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://rm.coe.int/16800771b2 Accessed 2026-11-18.
 
 Cited by: [T015](../../timeline/1945-1990.md#T015)
 
@@ -302,7 +316,8 @@ Cited by: [T015](../../timeline/1945-1990.md#T015)
 - URL: [https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=196](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=196)
 - Accessed: 2026-11-18
 - Verified: `no`
-- Notes: HTTP 403.
+- Language: \[UNKNOWN\]
+- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://rm.coe.int/16808c3f55 Accessed 2026-11-18.
 
 Cited by: [T085](../../timeline/post-9-11-2001-2014.md#T085)
 
@@ -322,7 +337,8 @@ Cited by: [T085](../../timeline/post-9-11-2001-2014.md#T085)
 - URL: [https://www.oas.org/juridico/english/treaties/a-66.html](https://www.oas.org/juridico/english/treaties/a-66.html)
 - Accessed: 2026-11-18
 - Verified: `no`
-- Notes: HTTP 503.
+- Language: \[UNKNOWN\]
+- Notes: HTTP 503. Retried https://www.oas.org/juridico/english/sigs/a-66.html and the original URL: HTTP 503/500 (curl and WebFetch). Still not verified.
 
 Cited by: [T061](../../timeline/post-9-11-2001-2014.md#T061)
 
@@ -342,9 +358,10 @@ Cited by: [T061](../../timeline/post-9-11-2001-2014.md#T061)
 - URL: [https://au.int/en/treaties/oau-convention-prevention-and-combating-terrorism](https://au.int/en/treaties/oau-convention-prevention-and-combating-terrorism)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: AU page gives date of adoption 1 Jul 1999 and entry into force 6 Dec 2002.
 
-Cited by: [T045](../../timeline/1990-2001.md#T045)
+Cited by: [T045](../../timeline/1990-2001.md#T045), [T145](../../timeline/1990-2001.md#T145)
 
 <a id="ARAB-1998"></a>
 ## ARAB-1998
@@ -362,6 +379,7 @@ Cited by: [T045](../../timeline/1990-2001.md#T045)
 - URL: [https://www.unodc.org/images/tldb-f/conv_arab_terrorism.en.pdf](https://www.unodc.org/images/tldb-f/conv_arab_terrorism.en.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T042](../../timeline/1990-2001.md#T042)
 
@@ -381,6 +399,7 @@ Cited by: [T042](../../timeline/1990-2001.md#T042)
 - URL: [https://asean.org/wp-content/uploads/2012/05/ACCT.pdf](https://asean.org/wp-content/uploads/2012/05/ACCT.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T093](../../timeline/post-9-11-2001-2014.md#T093)
 
@@ -400,6 +419,7 @@ Cited by: [T093](../../timeline/post-9-11-2001-2014.md#T093)
 - URL: [https://www.legislation.gov.uk/ukpga/Vict/46-47/3/contents](https://www.legislation.gov.uk/ukpga/Vict/46-47/3/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T001](../../timeline/pre-1945.md#T001)
 
@@ -419,6 +439,7 @@ Cited by: [T001](../../timeline/pre-1945.md#T001)
 - URL: [https://www.irishstatutebook.ie/eli/1939/act/13/enacted/en/html](https://www.irishstatutebook.ie/eli/1939/act/13/enacted/en/html)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T007](../../timeline/pre-1945.md#T007)
 
@@ -438,6 +459,7 @@ Cited by: [T007](../../timeline/pre-1945.md#T007)
 - URL: [https://www.govinfo.gov/content/pkg/PLAW-104publ132/pdf/PLAW-104publ132.pdf](https://www.govinfo.gov/content/pkg/PLAW-104publ132/pdf/PLAW-104publ132.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T038](../../timeline/1990-2001.md#T038)
 
@@ -457,6 +479,7 @@ Cited by: [T038](../../timeline/1990-2001.md#T038)
 - URL: [https://www.govinfo.gov/content/pkg/PLAW-107publ40/pdf/PLAW-107publ40.pdf](https://www.govinfo.gov/content/pkg/PLAW-107publ40/pdf/PLAW-107publ40.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T053](../../timeline/post-9-11-2001-2014.md#T053)
 
@@ -476,6 +499,7 @@ Cited by: [T053](../../timeline/post-9-11-2001-2014.md#T053)
 - URL: [https://www.govinfo.gov/content/pkg/PLAW-107publ56/pdf/PLAW-107publ56.pdf](https://www.govinfo.gov/content/pkg/PLAW-107publ56/pdf/PLAW-107publ56.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T056](../../timeline/post-9-11-2001-2014.md#T056)
 
@@ -495,6 +519,7 @@ Cited by: [T056](../../timeline/post-9-11-2001-2014.md#T056)
 - URL: [https://www.govinfo.gov/content/pkg/PLAW-107publ296/pdf/PLAW-107publ296.pdf](https://www.govinfo.gov/content/pkg/PLAW-107publ296/pdf/PLAW-107publ296.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T065](../../timeline/post-9-11-2001-2014.md#T065)
 
@@ -514,6 +539,7 @@ Cited by: [T065](../../timeline/post-9-11-2001-2014.md#T065)
 - URL: [https://www.govinfo.gov/content/pkg/PLAW-108publ458/pdf/PLAW-108publ458.pdf](https://www.govinfo.gov/content/pkg/PLAW-108publ458/pdf/PLAW-108publ458.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T081](../../timeline/post-9-11-2001-2014.md#T081)
 
@@ -533,6 +559,7 @@ Cited by: [T081](../../timeline/post-9-11-2001-2014.md#T081)
 - URL: [https://www.govinfo.gov/content/pkg/PLAW-109publ366/pdf/PLAW-109publ366.pdf](https://www.govinfo.gov/content/pkg/PLAW-109publ366/pdf/PLAW-109publ366.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T092](../../timeline/post-9-11-2001-2014.md#T092), [T096](../../timeline/post-9-11-2001-2014.md#T096)
 
@@ -552,6 +579,7 @@ Cited by: [T092](../../timeline/post-9-11-2001-2014.md#T092), [T096](../../timel
 - URL: [https://www.govinfo.gov/content/pkg/PLAW-114publ23/pdf/PLAW-114publ23.pdf](https://www.govinfo.gov/content/pkg/PLAW-114publ23/pdf/PLAW-114publ23.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T115](../../timeline/recent-2014-now.md#T115)
 
@@ -571,6 +599,7 @@ Cited by: [T115](../../timeline/recent-2014-now.md#T115)
 - URL: [https://www.state.gov/executive-order-13224/](https://www.state.gov/executive-order-13224/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T054](../../timeline/post-9-11-2001-2014.md#T054)
 
@@ -590,6 +619,7 @@ Cited by: [T054](../../timeline/post-9-11-2001-2014.md#T054)
 - URL: [https://www.federalregister.gov/documents/2001/11/16/01-28904/detention-treatment-and-trial-of-certain-non-citizens-in-the-war-against-terrorism](https://www.federalregister.gov/documents/2001/11/16/01-28904/detention-treatment-and-trial-of-certain-non-citizens-in-the-war-against-terrorism)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T058](../../timeline/post-9-11-2001-2014.md#T058), [T090](../../timeline/post-9-11-2001-2014.md#T090)
 
@@ -609,13 +639,14 @@ Cited by: [T058](../../timeline/post-9-11-2001-2014.md#T058), [T090](../../timel
 - URL: [https://www.federalregister.gov/documents/2009/01/27/E9-1885/ensuring-lawful-interrogations](https://www.federalregister.gov/documents/2009/01/27/E9-1885/ensuring-lawful-interrogations)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T098](../../timeline/post-9-11-2001-2014.md#T098)
 
-<a id="US-RASUL2004"></a>
-## US-RASUL2004
+<a id="USSC-2004-542-466"></a>
+## USSC-2004-542-466
 
-**Rasul v. Bush, 542 U.S. 466 (2004)**
+**R. v. Bush, 542 U.S. 466 (2004)**
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2004-06-28
@@ -628,13 +659,15 @@ Cited by: [T098](../../timeline/post-9-11-2001-2014.md#T098)
 - URL: [https://tile.loc.gov/storage-services/service/ll/usrep/usrep542/usrep542466/usrep542466.pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep542/usrep542466/usrep542466.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: 542 U.S. 466 (2004)
 
 Cited by: [T075](../../timeline/post-9-11-2001-2014.md#T075)
 
-<a id="US-HAMDI2004"></a>
-## US-HAMDI2004
+<a id="USSC-2004-542-507"></a>
+## USSC-2004-542-507
 
-**Hamdi v. Rumsfeld, 542 U.S. 507 (2004)**
+**H. v. Rumsfeld, 542 U.S. 507 (2004)**
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2004-06-28
@@ -647,13 +680,15 @@ Cited by: [T075](../../timeline/post-9-11-2001-2014.md#T075)
 - URL: [https://tile.loc.gov/storage-services/service/ll/usrep/usrep542/usrep542507/usrep542507.pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep542/usrep542507/usrep542507.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: 542 U.S. 507 (2004)
 
 Cited by: [T076](../../timeline/post-9-11-2001-2014.md#T076)
 
-<a id="US-HAMDAN2006"></a>
-## US-HAMDAN2006
+<a id="USSC-2006-548-557"></a>
+## USSC-2006-548-557
 
-**Hamdan v. Rumsfeld, 548 U.S. 557 (2006)**
+**H. v. Rumsfeld, 548 U.S. 557 (2006)**
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2006-06-29
@@ -666,13 +701,15 @@ Cited by: [T076](../../timeline/post-9-11-2001-2014.md#T076)
 - URL: [https://tile.loc.gov/storage-services/service/ll/usrep/usrep548/usrep548557/usrep548557.pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep548/usrep548557/usrep548557.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: 548 U.S. 557 (2006)
 
 Cited by: [T090](../../timeline/post-9-11-2001-2014.md#T090)
 
-<a id="US-BOUMEDIENE2008"></a>
-## US-BOUMEDIENE2008
+<a id="USSC-2008-553-723"></a>
+## USSC-2008-553-723
 
-**Boumediene v. Bush, 553 U.S. 723 (2008)**
+**B. v. Bush, 553 U.S. 723 (2008)**
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2008-06-12
@@ -685,6 +722,8 @@ Cited by: [T090](../../timeline/post-9-11-2001-2014.md#T090)
 - URL: [https://tile.loc.gov/storage-services/service/ll/usrep/usrep553/usrep553723/usrep553723.pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep553/usrep553723/usrep553723.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: 553 U.S. 723 (2008)
 
 Cited by: [T096](../../timeline/post-9-11-2001-2014.md#T096)
 
@@ -704,6 +743,7 @@ Cited by: [T096](../../timeline/post-9-11-2001-2014.md#T096)
 - URL: [https://tile.loc.gov/storage-services/service/ll/usrep/usrep561/usrep561001/usrep561001.pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep561/usrep561001/usrep561001.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T102](../../timeline/post-9-11-2001-2014.md#T102)
 
@@ -723,6 +763,7 @@ Cited by: [T102](../../timeline/post-9-11-2001-2014.md#T102)
 - URL: [https://laws-lois.justice.gc.ca/eng/acts/a-11.7/](https://laws-lois.justice.gc.ca/eng/acts/a-11.7/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T060](../../timeline/post-9-11-2001-2014.md#T060)
 
@@ -742,6 +783,7 @@ Cited by: [T060](../../timeline/post-9-11-2001-2014.md#T060)
 - URL: [https://www.legislation.gov.uk/ukpga/1973/53/contents](https://www.legislation.gov.uk/ukpga/1973/53/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T012](../../timeline/1945-1990.md#T012)
 
@@ -761,6 +803,7 @@ Cited by: [T012](../../timeline/1945-1990.md#T012)
 - URL: [https://www.legislation.gov.uk/ukpga/1974/56/contents](https://www.legislation.gov.uk/ukpga/1974/56/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T014](../../timeline/1945-1990.md#T014)
 
@@ -780,6 +823,7 @@ Cited by: [T014](../../timeline/1945-1990.md#T014)
 - URL: [https://www.legislation.gov.uk/ukpga/1989/4/contents](https://www.legislation.gov.uk/ukpga/1989/4/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T027](../../timeline/1945-1990.md#T027)
 
@@ -799,6 +843,7 @@ Cited by: [T027](../../timeline/1945-1990.md#T027)
 - URL: [https://www.legislation.gov.uk/ukpga/2000/11/contents](https://www.legislation.gov.uk/ukpga/2000/11/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T049](../../timeline/1990-2001.md#T049)
 
@@ -818,6 +863,7 @@ Cited by: [T049](../../timeline/1990-2001.md#T049)
 - URL: [https://www.legislation.gov.uk/ukpga/2001/24/contents](https://www.legislation.gov.uk/ukpga/2001/24/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T059](../../timeline/post-9-11-2001-2014.md#T059), [T080](../../timeline/post-9-11-2001-2014.md#T080)
 
@@ -837,6 +883,7 @@ Cited by: [T059](../../timeline/post-9-11-2001-2014.md#T059), [T080](../../timel
 - URL: [https://www.legislation.gov.uk/ukpga/2005/2/contents](https://www.legislation.gov.uk/ukpga/2005/2/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T082](../../timeline/post-9-11-2001-2014.md#T082)
 
@@ -856,6 +903,7 @@ Cited by: [T082](../../timeline/post-9-11-2001-2014.md#T082)
 - URL: [https://www.legislation.gov.uk/ukpga/2006/11/contents](https://www.legislation.gov.uk/ukpga/2006/11/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T089](../../timeline/post-9-11-2001-2014.md#T089)
 
@@ -875,6 +923,7 @@ Cited by: [T089](../../timeline/post-9-11-2001-2014.md#T089)
 - URL: [https://www.legislation.gov.uk/ukpga/2011/23/contents](https://www.legislation.gov.uk/ukpga/2011/23/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T106](../../timeline/post-9-11-2001-2014.md#T106)
 
@@ -894,6 +943,7 @@ Cited by: [T106](../../timeline/post-9-11-2001-2014.md#T106)
 - URL: [https://www.legislation.gov.uk/ukpga/2015/6/contents](https://www.legislation.gov.uk/ukpga/2015/6/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T114](../../timeline/recent-2014-now.md#T114)
 
@@ -913,6 +963,7 @@ Cited by: [T114](../../timeline/recent-2014-now.md#T114)
 - URL: [https://publications.parliament.uk/pa/ld200405/ldjudgmt/jd041216/a&oth-1.htm](https://publications.parliament.uk/pa/ld200405/ldjudgmt/jd041216/a&oth-1.htm)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: BAILII (https://www.bailii.org/uk/cases/UKHL/2004/56.html) served a bot-check page. Title, date and citation (\[2004\] UKHL 56, 16 December 2004) confirmed from the official House of Lords session papers. The declaration that section 23 of the 2001 Act is incompatible with articles 5 and 14 of the European Convention is in paragraph 73 of the same judgment (https://publications.parliament.uk/pa/ld200405/ldjudgmt/jd041216/a&oth-5.htm). Confirmed by WebFetch on 2026-11-18.
 
 Cited by: [T080](../../timeline/post-9-11-2001-2014.md#T080)
@@ -933,6 +984,7 @@ Cited by: [T080](../../timeline/post-9-11-2001-2014.md#T080)
 - URL: [https://www.gov.uk/government/publications/the-belfast-agreement](https://www.gov.uk/government/publications/the-belfast-agreement)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T041](../../timeline/1990-2001.md#T041)
 
@@ -952,6 +1004,7 @@ Cited by: [T041](../../timeline/1990-2001.md#T041)
 - URL: [https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000693912](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000693912)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved.
 
 Cited by: [T022](../../timeline/1945-1990.md#T022)
@@ -972,6 +1025,7 @@ Cited by: [T022](../../timeline/1945-1990.md#T022)
 - URL: [https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035932811](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035932811)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved.
 
 Cited by: [T123](../../timeline/recent-2014-now.md#T123)
@@ -992,6 +1046,7 @@ Cited by: [T123](../../timeline/recent-2014-now.md#T123)
 - URL: [https://www.gesetze-im-internet.de/stgb/__129a.html](https://www.gesetze-im-internet.de/stgb/__129a.html)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -1012,13 +1067,14 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.boe.es/buscar/act.php?id=BOE-A-2015-3440](https://www.boe.es/buscar/act.php?id=BOE-A-2015-3440)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: none in `data/timeline.csv`.
 
-<a id="EU-KADI2008"></a>
-## EU-KADI2008
+<a id="CJEU-2008-C402-05P"></a>
+## CJEU-2008-C402-05P
 
-**Kadi and Al Barakaat v Council and Commission (Joined Cases C-402/05 P and C-415/05 P)**
+**K. and Al Barakaat v Council and Commission (Joined Cases C-402/05 P and C-415/05 P)**
 
 - Issuing body: Court of Justice of the European Communities (EUR-Lex)
 - Date: 2008-09-03
@@ -1031,6 +1087,8 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62005CJ0402](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62005CJ0402)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: Joined Cases C-402/05 P and C-415/05 P
 
 Cited by: [T097](../../timeline/post-9-11-2001-2014.md#T097)
 
@@ -1050,7 +1108,8 @@ Cited by: [T097](../../timeline/post-9-11-2001-2014.md#T097)
 - URL: [http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/PreventionofTerrorismAct_No30of2012.pdf](http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/PreventionofTerrorismAct_No30of2012.pdf)
 - Accessed: 2026-11-18
 - Verified: `no`
-- Notes: HTTP 500. URL not confirmed (HTTP 500).
+- Language: \[UNKNOWN\]
+- Notes: HTTP 500. URL not confirmed (HTTP 500). Same Act located at Kenya Law's current site https://new.kenyalaw.org/akn/ke/act/2012/30 (from search index); HTTP 202 (curl) and 403 (WebFetch), so still not verified. Added as KE-POTA2012-KL (verified no).
 
 Cited by: none in `data/timeline.csv`.
 
@@ -1070,6 +1129,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.gov.za/documents/protection-constitutional-democracy-against-terrorist-and-related-activities-act-0](https://www.gov.za/documents/protection-constitutional-democracy-against-terrorist-and-related-activities-act-0)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: none in `data/timeline.csv`.
 
@@ -1089,6 +1149,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.officialgazette.gov.ph/2020/07/03/republic-act-no-11479/](https://www.officialgazette.gov.ph/2020/07/03/republic-act-no-11479/)
 - Accessed: 2026-11-18
 - Verified: `no`
+- Language: \[UNKNOWN\]
 - Notes: HTTP 403.
 
 Cited by: [T129](../../timeline/recent-2014-now.md#T129)
@@ -1108,8 +1169,9 @@ Cited by: [T129](../../timeline/recent-2014-now.md#T129)
 - Theme: laws and treaties
 - URL: [https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm)
 - Accessed: 2026-11-18
-- Verified: `no`
-- Notes: HTTP 200; expected title text not found. Request redirected to the Planalto home page (https://www.gov.br/planalto/pt-br); law text not reached.
+- Verified: `yes`
+- Language: \[UNKNOWN\]
+- Notes: Same cited URL read via WebFetch on 2026-11-18: 'LEI Nº 13.260, DE 16 DE MARÇO DE 2016'. curl still redirects to the Planalto home page.
 
 Cited by: [T117](../../timeline/recent-2014-now.md#T117)
 
@@ -1129,6 +1191,7 @@ Cited by: [T117](../../timeline/recent-2014-now.md#T117)
 - URL: [https://treaties.un.org/doc/db/Terrorism/Conv7-english.pdf](https://treaties.un.org/doc/db/Terrorism/Conv7-english.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Scanned PDF (no text layer); title/date confirmed by OCR of first pages (raw/CONV-AIRPORTS1988.ocr.txt).
 
 Cited by: [T023](../../timeline/1945-1990.md#T023)
@@ -1149,6 +1212,7 @@ Cited by: [T023](../../timeline/1945-1990.md#T023)
 - URL: [https://treaties.un.org/doc/db/Terrorism/Conv8-english.pdf](https://treaties.un.org/doc/db/Terrorism/Conv8-english.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Scanned PDF (no text layer); title/date confirmed by OCR of first pages (raw/CONV-SUA1988.ocr.txt).
 
 Cited by: [T024](../../timeline/1945-1990.md#T024)
@@ -1169,6 +1233,7 @@ Cited by: [T024](../../timeline/1945-1990.md#T024)
 - URL: [https://treaties.un.org/doc/db/Terrorism/Conv10-english.pdf](https://treaties.un.org/doc/db/Terrorism/Conv10-english.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Scanned PDF (no text layer); title/date confirmed by OCR of first pages (raw/CONV-PLASTIC1991.ocr.txt).
 
 Cited by: [T030](../../timeline/1990-2001.md#T030)
@@ -1189,6 +1254,7 @@ Cited by: [T030](../../timeline/1990-2001.md#T030)
 - URL: [https://legal.un.org/avl/pdf/ls/RM/LoN_Convention_on_Terrorism.pdf](https://legal.un.org/avl/pdf/ls/RM/LoN_Convention_on_Terrorism.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Scanned PDF (no text layer); title/date confirmed by OCR of first pages (raw/LON-1937.ocr.txt).
 
 Cited by: [T006](../../timeline/pre-1945.md#T006)
@@ -1209,6 +1275,7 @@ Cited by: [T006](../../timeline/pre-1945.md#T006)
 - URL: [https://www.loc.gov/item/2021667893/](https://www.loc.gov/item/2021667893/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Library of Congress item record (World Digital Library 11579); states the convention never came into effect.
 
 Cited by: [T005](../../timeline/pre-1945.md#T005), [T006](../../timeline/pre-1945.md#T006), [T079](../../timeline/post-9-11-2001-2014.md#T079)
@@ -1229,14 +1296,15 @@ Cited by: [T005](../../timeline/pre-1945.md#T005), [T006](../../timeline/pre-194
 - URL: [https://hudoc.echr.coe.int/eng?i=001-57506](https://hudoc.echr.coe.int/eng?i=001-57506)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T016](../../timeline/1945-1990.md#T016)
 
-<a id="ECHR-KLASS1978"></a>
-## ECHR-KLASS1978
+<a id="ECHR-1978-5029"></a>
+## ECHR-1978-5029
 
-**Klass and Others v. Germany (no. 5029/71), judgment**
+**K. and Others v. Germany, no. 5029/71, judgment**
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1978-09-06
@@ -1249,14 +1317,16 @@ Cited by: [T016](../../timeline/1945-1990.md#T016)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-57510](https://hudoc.echr.coe.int/eng?i=001-57510)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: no. 5029/71
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T017](../../timeline/1945-1990.md#T017)
 
-<a id="ECHR-BROGAN1988"></a>
-## ECHR-BROGAN1988
+<a id="ECHR-1988-11209"></a>
+## ECHR-1988-11209
 
-**Brogan and Others v. the United Kingdom, judgment**
+**B. and Others v. the United Kingdom, nos. 11209/84, 11234/84, 11266/84 and 11386/85, judgment**
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1988-11-29
@@ -1269,14 +1339,16 @@ Cited by: [T017](../../timeline/1945-1990.md#T017)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-57450](https://hudoc.echr.coe.int/eng?i=001-57450)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: nos. 11209/84, 11234/84, 11266/84, 11386/85
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T025](../../timeline/1945-1990.md#T025)
 
-<a id="ECHR-MCCANN1995"></a>
-## ECHR-MCCANN1995
+<a id="ECHR-1995-18984"></a>
+## ECHR-1995-18984
 
-**McCann and Others v. the United Kingdom, judgment**
+**M. and Others v. the United Kingdom, no. 18984/91, judgment**
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1995-09-27
@@ -1289,6 +1361,8 @@ Cited by: [T025](../../timeline/1945-1990.md#T025)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-57943](https://hudoc.echr.coe.int/eng?i=001-57943)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: no. 18984/91
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T036](../../timeline/1990-2001.md#T036)
@@ -1309,14 +1383,15 @@ Cited by: [T036](../../timeline/1990-2001.md#T036)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-91403](https://hudoc.echr.coe.int/eng?i=001-91403)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T099](../../timeline/post-9-11-2001-2014.md#T099)
 
-<a id="ECHR-ELMASRI2012"></a>
-## ECHR-ELMASRI2012
+<a id="ECHR-2012-39630"></a>
+## ECHR-2012-39630
 
-**El-Masri v. the former Yugoslav Republic of Macedonia, Grand Chamber judgment**
+**E. v. the former Yugoslav Republic of Macedonia, no. 39630/09, Grand Chamber judgment**
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 2012-12-13
@@ -1329,14 +1404,16 @@ Cited by: [T099](../../timeline/post-9-11-2001-2014.md#T099)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-115621](https://hudoc.echr.coe.int/eng?i=001-115621)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: no. 39630/09
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T108](../../timeline/post-9-11-2001-2014.md#T108)
 
-<a id="ECHR-ALNASHIRI2014"></a>
-## ECHR-ALNASHIRI2014
+<a id="ECHR-2014-28761"></a>
+## ECHR-2014-28761
 
-**Al Nashiri v. Poland, judgment**
+**A.N. v. Poland, no. 28761/11, judgment**
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 2014-07-24
@@ -1349,6 +1426,8 @@ Cited by: [T108](../../timeline/post-9-11-2001-2014.md#T108)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-146044](https://hudoc.echr.coe.int/eng?i=001-146044)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: no. 28761/11
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T110](../../timeline/recent-2014-now.md#T110)
@@ -1369,6 +1448,1120 @@ Cited by: [T110](../../timeline/recent-2014-now.md#T110)
 - URL: [https://www.jep.gov.co/](https://www.jep.gov.co/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="DE-BVERFG-BKAG2016"></a>
+## DE-BVERFG-BKAG2016
+
+**BVerfG, Urteil des Ersten Senats vom 20. April 2016, 1 BvR 966/09 (BKA-Gesetz)**
+
+- Issuing body: Bundesverfassungsgericht
+- Date: 2016-04-20
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/04/rs20160420_1bvr096609.html](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/04/rs20160420_1bvr096609.html)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: German
+- Notes: Verified via WebFetch (no raw capture of readable text): WebFetch text: 'Urteil vom 20. April 2016 ... 1 BvR 966/09'
+
+Cited by: [T176](../../timeline/recent-2014-now.md#T176)
+
+<a id="DE-BVERFG-LUFTSIG2006"></a>
+## DE-BVERFG-LUFTSIG2006
+
+**BVerfG, Urteil des Ersten Senats vom 15. Februar 2006, 1 BvR 357/05 (Luftsicherheitsgesetz)**
+
+- Issuing body: Bundesverfassungsgericht
+- Date: 2006-02-15
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: post-9/11 (2001-2014)
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2006/02/rs20060215_1bvr035705.html](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2006/02/rs20060215_1bvr035705.html)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: German
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/DE-BVERFG-LUFTSIG2006.*
+
+Cited by: [T153](../../timeline/post-9-11-2001-2014.md#T153)
+
+<a id="FR-CC-86-213"></a>
+## FR-CC-86-213
+
+**Décision n° 86-213 DC du 3 septembre 1986 (Loi relative à la lutte contre le terrorisme)**
+
+- Issuing body: Conseil constitutionnel
+- Date: 1986-09-03
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: 1945-1990
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://www.conseil-constitutionnel.fr/decision/1986/86213DC.htm](https://www.conseil-constitutionnel.fr/decision/1986/86213DC.htm)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: French
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/FR-CC-86-213.*
+
+Cited by: [T139](../../timeline/1945-1990.md#T139)
+
+<a id="FR-CC-2015-527"></a>
+## FR-CC-2015-527
+
+**Décision n° 2015-527 QPC du 22 décembre 2015 (assignations à résidence dans le cadre de l'état d'urgence)**
+
+- Issuing body: Conseil constitutionnel
+- Date: 2015-12-22
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://www.conseil-constitutionnel.fr/decision/2015/2015527QPC.htm](https://www.conseil-constitutionnel.fr/decision/2015/2015527QPC.htm)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: French
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/FR-CC-2015-527.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="IACTHR-2014-279"></a>
+## IACTHR-2014-279
+
+**Caso N.C. y otros (Dirigentes, miembros y activista del Pueblo Indígena Mapuche) vs. Chile, Serie C No. 279. Sentencia de 29 de mayo de 2014**
+
+- Issuing body: Corte Interamericana de Derechos Humanos
+- Date: 2014-05-29
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.corteidh.or.cr/docs/casos/articulos/seriec_279_esp.pdf](https://www.corteidh.or.cr/docs/casos/articulos/seriec_279_esp.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Spanish
+- Notes: Verified via WebFetch (no raw capture of readable text): WebFetch text: 'CASO N.C. Y OTROS ... VS. CHILE, SENTENCIA DE 29 DE MAYO DE 2014' (party names shown here as initials) Party names replaced by initials (CTA6 anonymization rule); official title at the URL.
+
+Cited by: [T167](../../timeline/recent-2014-now.md#T167)
+
+<a id="MX-CPF"></a>
+## MX-CPF
+
+**Código Penal Federal (incluye artículo 139, terrorismo)**
+
+- Issuing body: Cámara de Diputados del H. Congreso de la Unión (México)
+- Date: \[UNKNOWN\]
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf](https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Spanish
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/MX-CPF.*
+
+Cited by: [T137](../../timeline/1945-1990.md#T137)
+
+<a id="CL-LEY18314"></a>
+## CL-LEY18314
+
+**Ley 18.314: Determina conductas terroristas y fija su penalidad**
+
+- Issuing body: Biblioteca del Congreso Nacional de Chile
+- Date: 1984-05-17
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1945-1990
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.bcn.cl/leychile/navegar?idNorma=29731](https://www.bcn.cl/leychile/navegar?idNorma=29731)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Spanish
+- Notes: Verified via WebFetch (no raw capture of readable text): WebFetch text: 'Ley 18314 DETERMINA CONDUCTAS TERRORISTAS Y FIJA SU PENALIDAD ... Promulgación 16-MAY-1984; Publicación 17-MAY-1984; derogada el 12-FEB-2025 (Ley 21732)'
+
+Cited by: [T138](../../timeline/1945-1990.md#T138), [T167](../../timeline/recent-2014-now.md#T167), [T191](../../timeline/recent-2014-now.md#T191)
+
+<a id="SG-ISA1960"></a>
+## SG-ISA1960
+
+**Internal Security Act 1960**
+
+- Issuing body: Attorney-General's Chambers, Singapore (Singapore Statutes Online)
+- Date: 1960
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1945-1990
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://sso.agc.gov.sg/Act/ISA1960](https://sso.agc.gov.sg/Act/ISA1960)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SG-ISA1960.*
+
+Cited by: [T135](../../timeline/1945-1990.md#T135)
+
+<a id="TR-TMK3713"></a>
+## TR-TMK3713
+
+**Terörle Mücadele Kanunu (Kanun Numarası 3713)**
+
+- Issuing body: Türkiye Büyük Millet Meclisi (Mevzuat Bilgi Sistemi)
+- Date: 1991-04-12
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://www.mevzuat.gov.tr/mevzuatmetin/1.5.3713.pdf](https://www.mevzuat.gov.tr/mevzuatmetin/1.5.3713.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Turkish
+- Notes: English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/TR-TMK3713.* Text reads 'Kabul Tarihi: 12/4/1991'.
+
+Cited by: [T141](../../timeline/1990-2001.md#T141)
+
+<a id="AU-PROTOCOL2004"></a>
+## AU-PROTOCOL2004
+
+**Protocol to the OAU Convention on the Prevention and Combating of Terrorism**
+
+- Issuing body: African Union
+- Date: 2004-07-01
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://au.int/en/treaties/protocol-oau-convention-prevention-and-combating-terrorism](https://au.int/en/treaties/protocol-oau-convention-prevention-and-combating-terrorism)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/AU-PROTOCOL2004.* AU treaty page reads 'Date of Adoption Thu, 1 Jul 2004'.
+
+Cited by: [T151](../../timeline/post-9-11-2001-2014.md#T151)
+
+<a id="HIST-SPB1904-EBID"></a>
+## HIST-SPB1904-EBID
+
+**Союзъ импepiaлиcтoвъ \[sic\] противъ анархистовъ. Протоколъ. 1/14 Марта 1904 г. (catalogue record)**
+
+- Issuing body: Электронная библиотека исторических документов (Российское историческое общество); source: Сборник секретных документов из Архива бывшего Министерства иностранных дел, № 6, 1918
+- Date: 1904-03-14
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: pre-1945
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://docs.historyrussia.org/ru/nodes/152832-soyuz-impepialictov-protiv-anarhistov-protokol-1-14-marta-1904-g](https://docs.historyrussia.org/ru/nodes/152832-soyuz-impepialictov-protiv-anarhistov-protokol-1-14-marta-1904-g)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Russian
+- Notes: URL taken from a web-search result listing, then fetched. Catalogue record of the 1904 protocol as published by the Soviet foreign affairs commissariat in 1918; the title wording is that 1918 publication's. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/HIST-SPB1904-EBID.*
+
+Cited by: [T134](../../timeline/pre-1945.md#T134)
+
+<a id="RU-35FZ-2006"></a>
+## RU-35FZ-2006
+
+**Федеральный закон от 06.03.2006 г. № 35-ФЗ «О противодействии терроризму»**
+
+- Issuing body: Президент России (kremlin.ru)
+- Date: 2006-03-06
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [http://www.kremlin.ru/acts/bank/23522](http://www.kremlin.ru/acts/bank/23522)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Russian
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] Verified via WebFetch (no raw capture of readable text): WebFetch text: 'Федеральный закон от 06.03.2006 г. № 35-ФЗ О противодействии терроризму; Принят Государственной Думой 26 февраля 2006 года; Одобрен Советом Федерации 1 марта 2006 года'
+
+Cited by: [T155](../../timeline/post-9-11-2001-2014.md#T155)
+
+<a id="SCO-CONV2001"></a>
+## SCO-CONV2001
+
+**The Shanghai Convention on Combating Terrorism, Separatism and Extremism**
+
+- Issuing body: Shanghai Cooperation Organisation
+- Date: 2001-06-15
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://eng.sectsco.org/images/07e8/0c/17/1626723.pdf](https://eng.sectsco.org/images/07e8/0c/17/1626723.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/SCO-CONV2001.* Text reads 'Done at Shanghai, on June 15, 2001'.
+
+Cited by: [T148](../../timeline/post-9-11-2001-2014.md#T148)
+
+<a id="CN-MFA-SCO2001"></a>
+## CN-MFA-SCO2001
+
+**打击恐怖主义、分裂主义和极端主义上海公约 (条约数据库)**
+
+- Issuing body: 中华人民共和国外交部 条约数据库
+- Date: 2001-06-15
+- Type: treaty
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://treaty.mfa.gov.cn/web/detail1.jsp?objid=1531875928119](https://treaty.mfa.gov.cn/web/detail1.jsp?objid=1531875928119)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Chinese
+- Notes: URL taken from a web-search result listing, then fetched. Treaty-database record: adopted 2001-06-15, in force 2003-03-29. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/CN-MFA-SCO2001.* Record reads 签署地点：上海.
+
+Cited by: [T148](../../timeline/post-9-11-2001-2014.md#T148)
+
+<a id="CN-CTLAW2015"></a>
+## CN-CTLAW2015
+
+**中华人民共和国反恐怖主义法**
+
+- Issuing body: 全国人民代表大会常务委员会 (中国人大网)
+- Date: 2015-12-27
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [http://www.npc.gov.cn/npc/c2/c30834/201905/t20190521_281474.html](http://www.npc.gov.cn/npc/c2/c30834/201905/t20190521_281474.html)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Chinese
+- Notes: URL taken from a web-search result listing, then fetched. Text as amended 27 April 2018. English title: \[UNKNOWN\] Verified via WebFetch (no raw capture of readable text): WebFetch text: '中华人民共和国反恐怖主义法 (2015年12月27日...通过 根据2018年4月27日...修正) ... 第九十七条 本法自2016年1月1日起施行'
+
+Cited by: [T174](../../timeline/recent-2014-now.md#T174)
+
+<a id="ID-UU5-2018"></a>
+## ID-UU5-2018
+
+**Undang-Undang Nomor 5 Tahun 2018 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2003 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2002 tentang Pemberantasan Tindak Pidana Terorisme Menjadi Undang-Undang**
+
+- Issuing body: JDIH BPK (Badan Pemeriksa Keuangan), Republik Indonesia
+- Date: 2018-06-21
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://peraturan.bpk.go.id/Details/82689/uu-no-5-tahun-2018](https://peraturan.bpk.go.id/Details/82689/uu-no-5-tahun-2018)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Indonesian
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] Verified via WebFetch (no raw capture of readable text): WebFetch text: 'UU Nomor 5 Tahun 2018 ... Tanggal Penetapan 21 Juni 2018; Tanggal Pengundangan 22 Juni 2018; LN.2018/NO.92'
+
+Cited by: [T182](../../timeline/recent-2014-now.md#T182)
+
+<a id="IN-UAPA1967"></a>
+## IN-UAPA1967
+
+**The Unlawful Activities (Prevention) Act, 1967**
+
+- Issuing body: India Code (Legislative Department, Ministry of Law and Justice)
+- Date: 1967-12-30
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1945-1990
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.indiacode.nic.in/handle/123456789/1470](https://www.indiacode.nic.in/handle/123456789/1470)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Distinct from the dropped phase 1 MHA URL. HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: [T136](../../timeline/1945-1990.md#T136)
+
+<a id="PK-ATA1997"></a>
+## PK-ATA1997
+
+**Anti Terrorism Act (ATA), 1997**
+
+- Issuing body: Pakistan Code (Ministry of Law and Justice)
+- Date: 1997-08-20
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2Npappq-sg-jjjjjjjjjjjjj](https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2Npappq-sg-jjjjjjjjjjjjj)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="PK-ATA1997-FIA"></a>
+## PK-ATA1997-FIA
+
+**The Anti-Terrorism Act, 1997**
+
+- Issuing body: Federal Investigation Agency, Pakistan
+- Date: 1997-08-20
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.fia.gov.pk/public/files/laws/2060818757.pdf](https://www.fia.gov.pk/public/files/laws/2060818757.pdf)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 500; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="LK-MOJ-PTA"></a>
+## LK-MOJ-PTA
+
+**Prevention of Terrorism (Temporary Provisions) Act, No. 48 of 1979 (public consultation page)**
+
+- Issuing body: Ministry of Justice, Sri Lanka
+- Date: \[UNKNOWN\]
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.moj.gov.lk/index.php/en/public-consultation/prevention-of-terrorism-temporary-provisions-act-no-48-of-1979](https://www.moj.gov.lk/index.php/en/public-consultation/prevention-of-terrorism-temporary-provisions-act-no-48-of-1979)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/LK-MOJ-PTA.*
+
+Cited by: [T187](../../timeline/recent-2014-now.md#T187)
+
+<a id="BD-ATA2009"></a>
+## BD-ATA2009
+
+**সন্ত্রাস বিরোধী আইন, ২০০৯**
+
+- Issuing body: Bangladesh Laws (Legislative and Parliamentary Affairs Division)
+- Date: 2009-02-24
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://bdlaws.minlaw.gov.bd/act-1009.html](https://bdlaws.minlaw.gov.bd/act-1009.html)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Bengali
+- Notes: URL taken from a web-search result listing, then fetched. English title: Anti-Terrorism Act, 2009 (English given on the site's English view) Page is UTF-16; decoded text reads 'সন্ত্রাস বিরোধী আইন, ২০০৯ (২০০৯ সনের ১৬ নং আইন) \[২৪ ফেব্রুয়ারি ...\]'. Raw: pass2/raw/BD-ATA2009.*
+
+Cited by: [T159](../../timeline/post-9-11-2001-2014.md#T159)
+
+<a id="SAARC-1987"></a>
+## SAARC-1987
+
+**SAARC Regional Convention on Suppression of Terrorism (Kathmandu, 4 November 1987)**
+
+- Issuing body: SAARC (text hosted by the University of Oslo Faculty of Law treaty library)
+- Date: 1987-11-04
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: 1945-1990
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.jus.uio.no/english/services/library/treaties/04/4-02/saarc-suppression-terrorism.html](https://www.jus.uio.no/english/services/library/treaties/04/4-02/saarc-suppression-terrorism.html)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Third-party academic mirror of the treaty text. HTTP 200; expected text found. Raw: pass2/raw/SAARC-1987.* Page reads 'Done at: Kathmandu; Date enacted: 1987-11-04; In force: 1988-08-22'.
+
+Cited by: [T140](../../timeline/1945-1990.md#T140)
+
+<a id="KE-POTA2012-KL"></a>
+## KE-POTA2012-KL
+
+**Prevention of Terrorism Act (No. 30 of 2012)**
+
+- Issuing body: Kenya Law (National Council for Law Reporting)
+- Date: 2012
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://new.kenyalaw.org/akn/ke/act/2012/30](https://new.kenyalaw.org/akn/ke/act/2012/30)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Same Act as phase 1 KE-POTA2012 at Kenya Law's current site. HTTP 202; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="NG-TPPA2022"></a>
+## NG-TPPA2022
+
+**Terrorism (Prevention and Prohibition) Act, 2022 (Federal Republic of Nigeria Official Gazette)**
+
+- Issuing body: Special Control Unit against Money Laundering (EFCC), Nigeria
+- Date: 2022-05-12
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://scuml.efcc.gov.ng/wp-content/uploads/2022/05/TERRORISM-PREVENTION-publication.pdf](https://scuml.efcc.gov.ng/wp-content/uploads/2022/05/TERRORISM-PREVENTION-publication.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/NG-TPPA2022.* Text reads '\[12th Day of May, 2022\] ENACTED by the National Assembly'; Official Gazette No. 91, Lagos 16 May 2022.
+
+Cited by: [T188](../../timeline/recent-2014-now.md#T188)
+
+<a id="EG-LAW94-2015"></a>
+## EG-LAW94-2015
+
+**قانون مكافحة الإرهاب رقم 94 لسنة 2015**
+
+- Issuing body: الهيئة العامة للرقابة المالية (Financial Regulatory Authority, Egypt)
+- Date: 2015-08-15
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://fra.gov.eg/wp-content/uploads/2021/11/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d9%85%d9%83%d8%a7%d9%81%d8%ad%d8%a9-%d8%a7%d9%84%d8%a5%d8%b1%d9%87%d8%a7%d8%a8-%d8%b1%d9%82%d9%85-94-%d9%84%d8%b3%d9%86%d8%a9-2015.pdf](https://fra.gov.eg/wp-content/uploads/2021/11/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d9%85%d9%83%d8%a7%d9%81%d8%ad%d8%a9-%d8%a7%d9%84%d8%a5%d8%b1%d9%87%d8%a7%d8%a8-%d8%b1%d9%82%d9%85-94-%d9%84%d8%b3%d9%86%d8%a9-2015.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Arabic
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] PDF text layer is font-encoded; page 1 image checked visually: header 'الجريدة الرسمية - العدد ٣٣ (مكرر) في ١٥ أغسطس سنة ٢٠١٥', title 'قرار رئيس جمهورية مصر العربية بالقانون رقم ٩٤ لسنة ٢٠١٥ بإصدار قانون مكافحة الإرهاب'. Raw: pass2/raw/EG-LAW94-2015.*
+
+Cited by: [T172](../../timeline/recent-2014-now.md#T172), [T173](../../timeline/recent-2014-now.md#T173)
+
+<a id="MA-LOI03-03"></a>
+## MA-LOI03-03
+
+**القانون رقم 03.03 المتعلق بمكافحة الإرهاب (ظهير شريف رقم 1.03.140)**
+
+- Issuing body: وزارة العدل، المملكة المغربية (adala.justice.gov.ma)
+- Date: 2003-05-28
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://adala.justice.gov.ma/api/uploads/2026/04/30/%D8%B8%D9%80%D9%87%D9%8A%D8%B1%20%D8%B4%D9%80%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.03.140%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2003.03%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%D8%A9%20%D8%A8%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-1777546049068.pdf](https://adala.justice.gov.ma/api/uploads/2026/04/30/%D8%B8%D9%80%D9%87%D9%8A%D8%B1%20%D8%B4%D9%80%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.03.140%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2003.03%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%D8%A9%20%D8%A8%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-1777546049068.pdf)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: Arabic
+- Notes: URL taken from a web-search result listing, then fetched. Consolidated (amended) version. English title: \[UNKNOWN\] HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="MA-CNASNU"></a>
+## MA-CNASNU
+
+**Corpus juridique national**
+
+- Issuing body: Commission Nationale chargée de l'application des Sanctions prévues par les résolutions du Conseil de sécurité (Maroc)
+- Date: \[UNKNOWN\]
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://cnasnu.justice.gov.ma/language/fr/corpus-juridique-national/](https://cnasnu.justice.gov.ma/language/fr/corpus-juridique-national/)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: French
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="TN-LO2015-26"></a>
+## TN-LO2015-26
+
+**Loi organique n° 2015-26 du 7 août 2015, relative à la lutte contre le terrorisme et à la répression du blanchiment d'argent (JORT n° 63)**
+
+- Issuing body: République Tunisienne (portail des marchés publics, téléchargement du JORT)
+- Date: 2015-08-07
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://www.marchespublics.gov.tn/fr/legislations/2189/download](https://www.marchespublics.gov.tn/fr/legislations/2189/download)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: French
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] Verified via WebFetch (no raw capture of readable text): WebFetch text: 'Loi organique n° 2015-26 du 7 août 2015, relative à la lutte contre le terrorisme et la répression du blanchiment d'argent ... adoption par l'assemblée des représentants du peuple dans sa séance du 25 juillet 2015'
+
+Cited by: [T171](../../timeline/recent-2014-now.md#T171)
+
+<a id="DZ-DL92-03"></a>
+## DZ-DL92-03
+
+**Décret législatif n° 92-03 du 30 septembre 1992 relatif à la lutte contre la subversion et le terrorisme**
+
+- Issuing body: Algeria (JORADP n° 70, 1 Oct 1992; copy hosted by ecoi.net / UNHCR)
+- Date: 1992-09-30
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://www.ecoi.net/en/file/local/1203669/1504_1217249378_decret-legislatif-no-92-03-du-30-septembre-1992-relatif-a-la-lutte-contre-la-subversion-et-le-terrorisme.pdf](https://www.ecoi.net/en/file/local/1203669/1504_1217249378_decret-legislatif-no-92-03-du-30-septembre-1992-relatif-a-la-lutte-contre-la-subversion-et-le-terrorisme.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: French
+- Notes: URL taken from a web-search result listing, then fetched. Third-party (ecoi.net) copy of the official gazette text. English title: \[UNKNOWN\] Scanned gazette; OCR of page 1 (pass2/raw/DZ-DL92-03.ocr.txt) reads 'Journal officiel ... N 70 ... 1er octobre 1992 ... Décret législatif n° 92-03 du 30 septembre 1992 relatif à la lutte contre la subversion et le terrorisme'. Raw: pass2/raw/DZ-DL92-03.*
+
+Cited by: [T143](../../timeline/1990-2001.md#T143)
+
+<a id="JP-AUM-ACT1999"></a>
+## JP-AUM-ACT1999
+
+**Act on the Control of Organizations Which Have Committed Acts of Indiscriminate Mass Murder (Act No. 147 of 1999)**
+
+- Issuing body: Japanese Law Translation (Ministry of Justice, Japan)
+- Date: 1999-12-07
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://www.japaneselawtranslation.go.jp/en/laws/view/4055/en](https://www.japaneselawtranslation.go.jp/en/laws/view/4055/en)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Official translation site; translation is not the authoritative text. HTTP 200; expected text found. Raw: pass2/raw/JP-AUM-ACT1999.* Text reads 'Act No. 147 of December 7, 1999'.
+
+Cited by: [T146](../../timeline/1990-2001.md#T146)
+
+<a id="KR-ATA2016"></a>
+## KR-ATA2016
+
+**국민보호와 공공안전을 위한 테러방지법 (법률 제14071호)**
+
+- Issuing body: 국가법령정보센터 (Korea Ministry of Government Legislation)
+- Date: 2016-03-03
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://www.law.go.kr/lsInfoP.do?efYd=20160604&lsiSeq=181624](https://www.law.go.kr/lsInfoP.do?efYd=20160604&lsiSeq=181624)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Korean
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/KR-ATA2016.*
+
+Cited by: [T175](../../timeline/recent-2014-now.md#T175)
+
+<a id="MY-SOSMA2012"></a>
+## MY-SOSMA2012
+
+**Security Offences (Special Measures) Act 2012 (Act 747)**
+
+- Issuing body: Attorney General's Chambers of Malaysia (Laws of Malaysia)
+- Date: 2012-06-18
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20120622_747_BI_Act%20747%20BI.pdf](https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20120622_747_BI_Act%20747%20BI.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/MY-SOSMA2012.* Text reads 'Date of Royal Assent ... 18 June 2012'.
+
+Cited by: [T162](../../timeline/post-9-11-2001-2014.md#T162)
+
+<a id="PH-SC-2021-252578-D"></a>
+## PH-SC-2021-252578-D
+
+**G.R. Nos. 252578, et al. (Anti-Terrorism Act oral arguments: docket of petitions, notices and announcements)**
+
+- Issuing body: Supreme Court of the Philippines
+- Date: \[UNKNOWN\]
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://sc.judiciary.gov.ph/g-r-nos-252578-et-al/](https://sc.judiciary.gov.ph/g-r-nos-252578-et-al/)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Verified via WebFetch (no raw capture of readable text): WebFetch text: 'G.R. Nos. 252578, et al. - Anti-Terrorism Act Oral Arguments' (docket page of petitions and notices, not the decision text) Docket page only; the 7 Dec 2021 decision text is not on this page.
+
+Cited by: [T186](../../timeline/recent-2014-now.md#T186)
+
+<a id="PH-SC-2021-252578"></a>
+## PH-SC-2021-252578
+
+**G.R. No. 252578, C. et al. v. Executive Secretary et al. (full text)**
+
+- Issuing body: Supreme Court of the Philippines E-Library
+- Date: 2021-12-07
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/67914?5hhplJcmuxsbMr=fHsDQ](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/67914?5hhplJcmuxsbMr=fHsDQ)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 403; expected text not confirmed (bot check, timeout or error). URL from search index. Petitioner name replaced by an initial (CTA6 anonymization rule).
+
+Cited by: [T186](../../timeline/recent-2014-now.md#T186)
+
+<a id="PE-DL25475"></a>
+## PE-DL25475
+
+**Decreto Ley N° 25475: Establecen la penalidad para los delitos de terrorismo y los procedimientos para la investigación, la instrucción y el juicio**
+
+- Issuing body: Congreso de la República del Perú (Archivo Digital de la Legislación)
+- Date: 1992-05-06
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/37FFA11410C419A605257BF8007DA2B9/$FILE/1.pdf](https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/37FFA11410C419A605257BF8007DA2B9/$FILE/1.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Spanish
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/PE-DL25475.* Day/month (6 May 1992) from the search listing; not found in the captured text layer.
+
+Cited by: [T142](../../timeline/1990-2001.md#T142)
+
+<a id="AR-LEY26734"></a>
+## AR-LEY26734
+
+**Ley 26.734: Código Penal, modificación (financiamiento del terrorismo; art. 41 quinquies)**
+
+- Issuing body: InfoLEG, Ministerio de Economía (Argentina)
+- Date: 2011-12-22
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/192137/norma.htm](https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/192137/norma.htm)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Spanish
+- Notes: URL taken from a web-search result listing, then fetched. Sancionada 22 Dec 2011, published 28 Dec 2011 per the search listing. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/AR-LEY26734.* Text reads 'Sancionada: Diciembre 22 de 2011 Promulgada: Diciembre 27 de 2011'.
+
+Cited by: [T161](../../timeline/post-9-11-2001-2014.md#T161)
+
+<a id="KZ-LAW416-1999"></a>
+## KZ-LAW416-1999
+
+**Закон Республики Казахстан от 13 июля 1999 года № 416 «О противодействии терроризму»**
+
+- Issuing body: ИПС «Әділет» (Министерство юстиции Республики Казахстан)
+- Date: 1999-07-13
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://adilet.zan.kz/rus/docs/Z990000416_](https://adilet.zan.kz/rus/docs/Z990000416_)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: Russian
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="UZ-LAW167-2000"></a>
+## UZ-LAW167-2000
+
+**Закон Республики Узбекистан от 15.12.2000 г. № 167-II «О борьбе с терроризмом»**
+
+- Issuing body: Национальная база данных законодательства Республики Узбекистан (lex.uz)
+- Date: 2000-12-15
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://lex.uz/ru/acts/19015](https://lex.uz/ru/acts/19015)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Russian
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/UZ-LAW167-2000.* Text reads 'г. Ташкент, 15 декабря 2000 г., № 167-II'.
+
+Cited by: [T147](../../timeline/1990-2001.md#T147)
+
+<a id="AU-OAU1999-TEXT"></a>
+## AU-OAU1999-TEXT
+
+**List of countries which have signed, ratified/acceded to the OAU Convention on the Prevention and Combating of Terrorism (status list dated 15/06/2017)**
+
+- Issuing body: African Union
+- Date: 2017-06-15
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: 1990-2001
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://www.au.int/sites/default/files/treaties/37289-sl-oau_convention_on_the_prevention_and_combating_of_terrorism_1.pdf](https://www.au.int/sites/default/files/treaties/37289-sl-oau_convention_on_the_prevention_and_combating_of_terrorism_1.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/AU-OAU1999-TEXT.* Status list; text reads 'Adopted in Algiers, Algeria, on 14 July 1999'.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="UN-OAU1999-COPY"></a>
+## UN-OAU1999-COPY
+
+**OAU Convention on the Prevention and Combating of Terrorism, 1999 (UN Treaty Collection compilation copy)**
+
+- Issuing body: United Nations Treaty Collection
+- Date: 1999-07-14
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: 1990-2001
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://treaties.un.org/doc/db/Terrorism/OAU-english.pdf](https://treaties.un.org/doc/db/Terrorism/OAU-english.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/UN-OAU1999-COPY.* Text reads 'Adopted at Algiers on 14 July 1999'.
+
+Cited by: [T145](../../timeline/1990-2001.md#T145)
+
+<a id="AU-AHG-DEC132"></a>
+## AU-AHG-DEC132
+
+**AHG/Dec.132 (XXXV) Decision on the Report of the Secretary-General on the Ministerial Conference on the OAU Convention on the Prevention and Combating of Terrorism**
+
+- Issuing body: OAU Assembly of Heads of State and Government (AU Archives)
+- Date: 1999-07
+- Type: other
+- Tag: `primary`
+- Origin: `international`
+- Era: 1990-2001
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://archives.au.int/bitstream/handle/123456789/506/AHG%20Dec%20132%20%28XXXV%29%20_E.pdf?isAllowed=y&sequence=1](https://archives.au.int/bitstream/handle/123456789/506/AHG%20Dec%20132%20%28XXXV%29%20_E.pdf?isAllowed=y&sequence=1)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/AU-AHG-DEC132.* Text: 'OAU 35th Assembly ... Algiers, 12-14 July 1999 ... ADOPTS the OAU Convention'.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="ZA-POCDATARA-AM2022"></a>
+## ZA-POCDATARA-AM2022
+
+**Protection of Constitutional Democracy against Terrorist and Related Activities Amendment Act 23 of 2022**
+
+- Issuing body: Government of South Africa (gov.za)
+- Date: 2022-12-23
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://www.gov.za/sites/default/files/gcis_document/202212/47803-protectionofconstidemocracyagainstterroristrelatedactivamendmentact-232022.pdf](https://www.gov.za/sites/default/files/gcis_document/202212/47803-protectionofconstidemocracyagainstterroristrelatedactivamendmentact-232022.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/ZA-POCDATARA-AM2022.* Text reads 'Assented to 23 December 2022'.
+
+Cited by: [T190](../../timeline/recent-2014-now.md#T190)
+
+<a id="OIC-CONV1999"></a>
+## OIC-CONV1999
+
+**OIC Convention on Combating International Terrorism**
+
+- Issuing body: Organisation of Islamic Cooperation
+- Date: 1999-07-01
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: 1990-2001
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://bdrive.oic-oci.org/index.php/s/MRknarXLqNDraSj/download](https://bdrive.oic-oci.org/index.php/s/MRknarXLqNDraSj/download)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 522; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="ML-LOI08-025"></a>
+## ML-LOI08-025
+
+**Journal officiel de la République du Mali 2008 n° 34 (contient la loi n° 08-025 du 23 juillet 2008 portant répression du terrorisme)**
+
+- Issuing body: Secrétariat général du Gouvernement, Mali
+- Date: 2008-07-23
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://sgg-mali.ml/JO/2008/mali-jo-2008-34.pdf](https://sgg-mali.ml/JO/2008/mali-jo-2008-34.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: French
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/ML-LOI08-025.* Text reads 'LOI N°08-025/ DU 23 JUILLET 2008 PORTANT REPRESSION DU TERRORISME AU MALI'.
+
+Cited by: [T157](../../timeline/post-9-11-2001-2014.md#T157)
+
+<a id="SA-CTLAW2017"></a>
+## SA-CTLAW2017
+
+**نظام مكافحة جرائم الإرهاب وتمويله**
+
+- Issuing body: هيئة الخبراء بمجلس الوزراء (Bureau of Experts at the Council of Ministers, Saudi Arabia)
+- Date: 2017-11-01
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://laws.boe.gov.sa/Boelaws/Laws/LawDetails/57694209-3eed-46c7-a5d8-a9ed012761d4/1](https://laws.boe.gov.sa/Boelaws/Laws/LawDetails/57694209-3eed-46c7-a5d8-a9ed012761d4/1)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: Arabic
+- Notes: URL taken from a web-search result listing, then fetched. Royal Decree M/21, 12/2/1439H. English title: Law of Combating Crimes of Terrorism and its Financing (English title used by the Bureau of Experts' official translation, per search listing) HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="HRW-LKA-2022"></a>
+## HRW-LKA-2022
+
+**"In a Legal Black Hole": Sri Lanka's Failure to Reform the Prevention of Terrorism Act**
+
+- Issuing body: Human Rights Watch
+- Date: 2022-02-07
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.hrw.org/sites/default/files/media_2022/02/srilanka0222_web.pdf](https://www.hrw.org/sites/default/files/media_2022/02/srilanka0222_web.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Characterisations are HRW's. HTTP 200; expected text found. Raw: pass2/raw/HRW-LKA-2022.*
+
+Cited by: [T187](../../timeline/recent-2014-now.md#T187)
+
+<a id="AMN-IND-2023"></a>
+## AMN-IND-2023
+
+**India: Arrests, raids target critics of government (ASA 20/7303/2023)**
+
+- Issuing body: Amnesty International
+- Date: 2023-10
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.amnesty.org/en/wp-content/uploads/2023/10/ASA2073032023ENGLISH.pdf](https://www.amnesty.org/en/wp-content/uploads/2023/10/ASA2073032023ENGLISH.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Characterisations are Amnesty International's. HTTP 200; expected text found. Raw: pass2/raw/AMN-IND-2023.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="AMN-IND-2024"></a>
+## AMN-IND-2024
+
+**Human Rights Charter - India (ASA 20/8154/2024)**
+
+- Issuing body: Amnesty International
+- Date: 2024-06-13
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.amnesty.org/en/wp-content/uploads/2024/06/ASA2081542024ENGLISH.pdf](https://www.amnesty.org/en/wp-content/uploads/2024/06/ASA2081542024ENGLISH.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/AMN-IND-2024.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="HRW-EGY-2015"></a>
+## HRW-EGY-2015
+
+**Egypt: Counterterrorism Law Erodes Basic Rights**
+
+- Issuing body: Human Rights Watch
+- Date: 2015-08-19
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://www.hrw.org/news/2015/08/19/egypt-counterterrorism-law-erodes-basic-rights](https://www.hrw.org/news/2015/08/19/egypt-counterterrorism-law-erodes-basic-rights)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/HRW-EGY-2015.*
+
+Cited by: [T173](../../timeline/recent-2014-now.md#T173)
+
+<a id="IN-UAPA-HI"></a>
+## IN-UAPA-HI
+
+**विधिविरुद्ध क्रियाकलाप (निवारण) अधिनियम, 1967 (हिंदी पाठ)**
+
+- Issuing body: Government of India (file on the government s3waas hosting platform)
+- Date: 1967-12-30
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1945-1990
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2023/02/2023022073-1.pdf](https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2023/02/2023022073-1.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Hindi
+- Notes: URL taken from a web-search result listing, then fetched. Hosting ministry not identified from the URL \[UNKNOWN\]. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/IN-UAPA-HI.* Text (Hindi, ligatures garbled in extraction) reads '1967 का अधिनियम संख्यांक 37 ... \[30 दिसम्बर, 1967\]'.
+
+Cited by: [T136](../../timeline/1945-1990.md#T136)
+
+<a id="PK-CODE-URDU"></a>
+## PK-CODE-URDU
+
+**Pakistan Code: Urdu laws index**
+
+- Issuing body: Pakistan Code (Ministry of Law and Justice)
+- Date: \[UNKNOWN\]
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.pakistancode.gov.pk/english/UHyrdu.php](https://www.pakistancode.gov.pk/english/UHyrdu.php)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: Urdu
+- Notes: URL taken from a web-search result listing, then fetched. Index page listing Urdu texts; Urdu ATA 1997 entry not confirmed in capture. HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="PK-NACTA-ATA"></a>
+## PK-NACTA-ATA
+
+**Anti-Terrorism Act, 1997 (as published by NACTA)**
+
+- Issuing body: National Counter Terrorism Authority, Pakistan
+- Date: 1997
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://nacta.gov.pk/wp-content/uploads/2023/01/1-Anti-Terrorism-Act.pdf](https://nacta.gov.pk/wp-content/uploads/2023/01/1-Anti-Terrorism-Act.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/PK-NACTA-ATA.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="BR-PORTARIA2-2017"></a>
+## BR-PORTARIA2-2017
+
+**Portaria conjunta nº 2, de 31 de janeiro de 2017 (registro na Biblioteca Digital do MJ)**
+
+- Issuing body: Ministério da Justiça e Segurança Pública (Brasil)
+- Date: 2017-01-31
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://bibliotecadigital.mj.gov.br/handle/1/1559?locale=pt_BR](https://bibliotecadigital.mj.gov.br/handle/1/1559?locale=pt_BR)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Portuguese
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/BR-PORTARIA2-2017.*
 
 Cited by: none in `data/timeline.csv`.

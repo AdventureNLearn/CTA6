@@ -4,7 +4,7 @@
 
 Sources whose origin is `oversight`, `court`, or `NGO`. This is a sub-list from the round 1 outline in `docs/STRUCTURE.md`. These records also appear on their region and theme pages. The list is not complete, and this page draws no conclusions from it.
 
-37 sources (`oversight` 18, `court` 16, `NGO` 3).
+87 sources (`oversight` 39, `court` 34, `NGO` 14).
 
 <a id="US-911COMM"></a>
 ## US-911COMM
@@ -22,6 +22,7 @@ Sources whose origin is `oversight`, `court`, or `NGO`. This is a sub-list from 
 - URL: [https://www.9-11commission.gov/report/](https://www.9-11commission.gov/report/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Release date 22 July 2004 from the Chair/Vice Chair public statement PDF linked on this page (saved raw/US-911COMM-statement.pdf).
 
 Cited by: [T050](../../timeline/post-9-11-2001-2014.md#T050), [T077](../../timeline/post-9-11-2001-2014.md#T077)
@@ -42,14 +43,15 @@ Cited by: [T050](../../timeline/post-9-11-2001-2014.md#T050), [T077](../../timel
 - URL: [https://www.intelligence.senate.gov/sites/default/files/publications/CRPT-113srpt288.pdf](https://www.intelligence.senate.gov/sites/default/files/publications/CRPT-113srpt288.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Server returned the PDF wrapped in a multipart envelope and redirected to https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-filesations-crpt-113srpt288.pdf; cover page read after unwrapping. Volume includes additional and minority views.
 
-Cited by: [T113](../../timeline/recent-2014-now.md#T113)
+Cited by: [T113](../../timeline/recent-2014-now.md#T113), [T166](../../timeline/post-9-11-2001-2014.md#T166), [T168](../../timeline/recent-2014-now.md#T168)
 
-<a id="US-RASUL2004"></a>
-## US-RASUL2004
+<a id="USSC-2004-542-466"></a>
+## USSC-2004-542-466
 
-**Rasul v. Bush, 542 U.S. 466 (2004)**
+**R. v. Bush, 542 U.S. 466 (2004)**
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2004-06-28
@@ -62,13 +64,15 @@ Cited by: [T113](../../timeline/recent-2014-now.md#T113)
 - URL: [https://tile.loc.gov/storage-services/service/ll/usrep/usrep542/usrep542466/usrep542466.pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep542/usrep542466/usrep542466.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: 542 U.S. 466 (2004)
 
 Cited by: [T075](../../timeline/post-9-11-2001-2014.md#T075)
 
-<a id="US-HAMDI2004"></a>
-## US-HAMDI2004
+<a id="USSC-2004-542-507"></a>
+## USSC-2004-542-507
 
-**Hamdi v. Rumsfeld, 542 U.S. 507 (2004)**
+**H. v. Rumsfeld, 542 U.S. 507 (2004)**
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2004-06-28
@@ -81,13 +85,15 @@ Cited by: [T075](../../timeline/post-9-11-2001-2014.md#T075)
 - URL: [https://tile.loc.gov/storage-services/service/ll/usrep/usrep542/usrep542507/usrep542507.pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep542/usrep542507/usrep542507.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: 542 U.S. 507 (2004)
 
 Cited by: [T076](../../timeline/post-9-11-2001-2014.md#T076)
 
-<a id="US-HAMDAN2006"></a>
-## US-HAMDAN2006
+<a id="USSC-2006-548-557"></a>
+## USSC-2006-548-557
 
-**Hamdan v. Rumsfeld, 548 U.S. 557 (2006)**
+**H. v. Rumsfeld, 548 U.S. 557 (2006)**
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2006-06-29
@@ -100,13 +106,15 @@ Cited by: [T076](../../timeline/post-9-11-2001-2014.md#T076)
 - URL: [https://tile.loc.gov/storage-services/service/ll/usrep/usrep548/usrep548557/usrep548557.pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep548/usrep548557/usrep548557.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: 548 U.S. 557 (2006)
 
 Cited by: [T090](../../timeline/post-9-11-2001-2014.md#T090)
 
-<a id="US-BOUMEDIENE2008"></a>
-## US-BOUMEDIENE2008
+<a id="USSC-2008-553-723"></a>
+## USSC-2008-553-723
 
-**Boumediene v. Bush, 553 U.S. 723 (2008)**
+**B. v. Bush, 553 U.S. 723 (2008)**
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2008-06-12
@@ -119,6 +127,8 @@ Cited by: [T090](../../timeline/post-9-11-2001-2014.md#T090)
 - URL: [https://tile.loc.gov/storage-services/service/ll/usrep/usrep553/usrep553723/usrep553723.pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep553/usrep553723/usrep553723.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: 553 U.S. 723 (2008)
 
 Cited by: [T096](../../timeline/post-9-11-2001-2014.md#T096)
 
@@ -138,6 +148,7 @@ Cited by: [T096](../../timeline/post-9-11-2001-2014.md#T096)
 - URL: [https://tile.loc.gov/storage-services/service/ll/usrep/usrep561/usrep561001/usrep561001.pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep561/usrep561001/usrep561001.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T102](../../timeline/post-9-11-2001-2014.md#T102)
 
@@ -157,6 +168,7 @@ Cited by: [T102](../../timeline/post-9-11-2001-2014.md#T102)
 - URL: [https://publications.parliament.uk/pa/ld200405/ldjudgmt/jd041216/a&oth-1.htm](https://publications.parliament.uk/pa/ld200405/ldjudgmt/jd041216/a&oth-1.htm)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: BAILII (https://www.bailii.org/uk/cases/UKHL/2004/56.html) served a bot-check page. Title, date and citation (\[2004\] UKHL 56, 16 December 2004) confirmed from the official House of Lords session papers. The declaration that section 23 of the 2001 Act is incompatible with articles 5 and 14 of the European Convention is in paragraph 73 of the same judgment (https://publications.parliament.uk/pa/ld200405/ldjudgmt/jd041216/a&oth-5.htm). Confirmed by WebFetch on 2026-11-18.
 
 Cited by: [T080](../../timeline/post-9-11-2001-2014.md#T080)
@@ -177,6 +189,7 @@ Cited by: [T080](../../timeline/post-9-11-2001-2014.md#T080)
 - URL: [https://manchesterarenainquiry.org.uk/](https://manchesterarenainquiry.org.uk/)
 - Accessed: 2026-11-18
 - Verified: `no`
+- Language: \[UNKNOWN\]
 - Notes: HTTP 405. Human-verification page (HTTP 405). Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -197,6 +210,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://terrorismlegislationreviewer.independent.gov.uk/](https://terrorismlegislationreviewer.independent.gov.uk/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -217,14 +231,15 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.regjeringen.no/no/dokumenter/nou-2012-14/id697260/](https://www.regjeringen.no/no/dokumenter/nou-2012-14/id697260/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved.
 
 Cited by: [T107](../../timeline/post-9-11-2001-2014.md#T107)
 
-<a id="EU-KADI2008"></a>
-## EU-KADI2008
+<a id="CJEU-2008-C402-05P"></a>
+## CJEU-2008-C402-05P
 
-**Kadi and Al Barakaat v Council and Commission (Joined Cases C-402/05 P and C-415/05 P)**
+**K. and Al Barakaat v Council and Commission (Joined Cases C-402/05 P and C-415/05 P)**
 
 - Issuing body: Court of Justice of the European Communities (EUR-Lex)
 - Date: 2008-09-03
@@ -237,6 +252,8 @@ Cited by: [T107](../../timeline/post-9-11-2001-2014.md#T107)
 - URL: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62005CJ0402](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62005CJ0402)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: Joined Cases C-402/05 P and C-415/05 P
 
 Cited by: [T097](../../timeline/post-9-11-2001-2014.md#T097)
 
@@ -256,6 +273,7 @@ Cited by: [T097](../../timeline/post-9-11-2001-2014.md#T097)
 - URL: [https://christchurchattack.royalcommission.nz/](https://christchurchattack.royalcommission.nz/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved.
 
 Cited by: [T125](../../timeline/recent-2014-now.md#T125)
@@ -276,6 +294,7 @@ Cited by: [T125](../../timeline/recent-2014-now.md#T125)
 - URL: [https://www.cverdad.org.pe/ifinal/](https://www.cverdad.org.pe/ifinal/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T070](../../timeline/post-9-11-2001-2014.md#T070)
 
@@ -295,6 +314,7 @@ Cited by: [T070](../../timeline/post-9-11-2001-2014.md#T070)
 - URL: [https://oig.justice.gov/sites/default/files/legacy/special/s0703b/final.pdf](https://oig.justice.gov/sites/default/files/legacy/special/s0703b/final.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T094](../../timeline/post-9-11-2001-2014.md#T094)
 
@@ -314,6 +334,7 @@ Cited by: [T094](../../timeline/post-9-11-2001-2014.md#T094)
 - URL: [https://oig.justice.gov/sites/default/files/legacy/special/s0703a/final.pdf](https://oig.justice.gov/sites/default/files/legacy/special/s0703a/final.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: none in `data/timeline.csv`.
 
@@ -333,6 +354,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.justice.gov/storage/120919-examination.pdf](https://www.justice.gov/storage/120919-examination.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T127](../../timeline/recent-2014-now.md#T127)
 
@@ -352,6 +374,7 @@ Cited by: [T127](../../timeline/recent-2014-now.md#T127)
 - URL: [https://oig.justice.gov/sites/default/files/legacy/special/0306/full.pdf](https://oig.justice.gov/sites/default/files/legacy/special/0306/full.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T069](../../timeline/post-9-11-2001-2014.md#T069)
 
@@ -371,6 +394,7 @@ Cited by: [T069](../../timeline/post-9-11-2001-2014.md#T069)
 - URL: [https://www.pclob.gov/](https://www.pclob.gov/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified on page title 'Home - PCLOB'. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -391,6 +415,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://documents.pclob.gov/prod/Documents/OversightReport/ec542143-1079-424a-84b3-acc354698560/215-Report_on_the_Telephone_Records_Program.pdf](https://documents.pclob.gov/prod/Documents/OversightReport/ec542143-1079-424a-84b3-acc354698560/215-Report_on_the_Telephone_Records_Program.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T109](../../timeline/recent-2014-now.md#T109)
 
@@ -410,6 +435,7 @@ Cited by: [T109](../../timeline/recent-2014-now.md#T109)
 - URL: [https://www.gao.gov/products/gao-17-300](https://www.gao.gov/products/gao-17-300)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved.
 
 Cited by: [T120](../../timeline/recent-2014-now.md#T120)
@@ -430,6 +456,7 @@ Cited by: [T120](../../timeline/recent-2014-now.md#T120)
 - URL: [https://www.ohchr.org/en/special-procedures/sr-terrorism](https://www.ohchr.org/en/special-procedures/sr-terrorism)
 - Accessed: 2026-11-18
 - Verified: `no`
+- Language: \[UNKNOWN\]
 - Notes: HTTP 403. Undated web page; date \[UNKNOWN\].
 
 Cited by: [T084](../../timeline/post-9-11-2001-2014.md#T084)
@@ -450,6 +477,7 @@ Cited by: [T084](../../timeline/post-9-11-2001-2014.md#T084)
 - URL: [https://undocs.org/A/HRC/16/51](https://undocs.org/A/HRC/16/51)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T103](../../timeline/post-9-11-2001-2014.md#T103)
@@ -470,14 +498,15 @@ Cited by: [T103](../../timeline/post-9-11-2001-2014.md#T103)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-57506](https://hudoc.echr.coe.int/eng?i=001-57506)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T016](../../timeline/1945-1990.md#T016)
 
-<a id="ECHR-KLASS1978"></a>
-## ECHR-KLASS1978
+<a id="ECHR-1978-5029"></a>
+## ECHR-1978-5029
 
-**Klass and Others v. Germany (no. 5029/71), judgment**
+**K. and Others v. Germany, no. 5029/71, judgment**
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1978-09-06
@@ -490,14 +519,16 @@ Cited by: [T016](../../timeline/1945-1990.md#T016)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-57510](https://hudoc.echr.coe.int/eng?i=001-57510)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: no. 5029/71
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T017](../../timeline/1945-1990.md#T017)
 
-<a id="ECHR-BROGAN1988"></a>
-## ECHR-BROGAN1988
+<a id="ECHR-1988-11209"></a>
+## ECHR-1988-11209
 
-**Brogan and Others v. the United Kingdom, judgment**
+**B. and Others v. the United Kingdom, nos. 11209/84, 11234/84, 11266/84 and 11386/85, judgment**
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1988-11-29
@@ -510,14 +541,16 @@ Cited by: [T017](../../timeline/1945-1990.md#T017)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-57450](https://hudoc.echr.coe.int/eng?i=001-57450)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: nos. 11209/84, 11234/84, 11266/84, 11386/85
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T025](../../timeline/1945-1990.md#T025)
 
-<a id="ECHR-MCCANN1995"></a>
-## ECHR-MCCANN1995
+<a id="ECHR-1995-18984"></a>
+## ECHR-1995-18984
 
-**McCann and Others v. the United Kingdom, judgment**
+**M. and Others v. the United Kingdom, no. 18984/91, judgment**
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1995-09-27
@@ -530,6 +563,8 @@ Cited by: [T025](../../timeline/1945-1990.md#T025)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-57943](https://hudoc.echr.coe.int/eng?i=001-57943)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: no. 18984/91
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T036](../../timeline/1990-2001.md#T036)
@@ -550,14 +585,15 @@ Cited by: [T036](../../timeline/1990-2001.md#T036)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-91403](https://hudoc.echr.coe.int/eng?i=001-91403)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T099](../../timeline/post-9-11-2001-2014.md#T099)
 
-<a id="ECHR-ELMASRI2012"></a>
-## ECHR-ELMASRI2012
+<a id="ECHR-2012-39630"></a>
+## ECHR-2012-39630
 
-**El-Masri v. the former Yugoslav Republic of Macedonia, Grand Chamber judgment**
+**E. v. the former Yugoslav Republic of Macedonia, no. 39630/09, Grand Chamber judgment**
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 2012-12-13
@@ -570,14 +606,16 @@ Cited by: [T099](../../timeline/post-9-11-2001-2014.md#T099)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-115621](https://hudoc.echr.coe.int/eng?i=001-115621)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: no. 39630/09
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T108](../../timeline/post-9-11-2001-2014.md#T108)
 
-<a id="ECHR-ALNASHIRI2014"></a>
-## ECHR-ALNASHIRI2014
+<a id="ECHR-2014-28761"></a>
+## ECHR-2014-28761
 
-**Al Nashiri v. Poland, judgment**
+**A.N. v. Poland, no. 28761/11, judgment**
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 2014-07-24
@@ -590,6 +628,8 @@ Cited by: [T108](../../timeline/post-9-11-2001-2014.md#T108)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-146044](https://hudoc.echr.coe.int/eng?i=001-146044)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: no. 28761/11
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T110](../../timeline/recent-2014-now.md#T110)
@@ -610,6 +650,7 @@ Cited by: [T110](../../timeline/recent-2014-now.md#T110)
 - URL: [https://www.echr.coe.int/documents/d/echr/FS_Terrorism_ENG](https://www.echr.coe.int/documents/d/echr/FS_Terrorism_ENG)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Court press-unit factsheet. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -630,6 +671,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://terrorismlegislationreviewer.independent.gov.uk/category/reports/](https://terrorismlegislationreviewer.independent.gov.uk/category/reports/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -650,6 +692,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://assets.publishing.service.gov.uk/media/5a7c153540f0b61a825d6582/7-7_attacks_intelligence.pdf](https://assets.publishing.service.gov.uk/media/5a7c153540f0b61a825d6582/7-7_attacks_intelligence.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T100](../../timeline/post-9-11-2001-2014.md#T100)
 
@@ -669,6 +712,7 @@ Cited by: [T100](../../timeline/post-9-11-2001-2014.md#T100)
 - URL: [https://www.hrw.org/report/2012/06/29/name-security/counterterrorism-laws-worldwide-september-11](https://www.hrw.org/report/2012/06/29/name-security/counterterrorism-laws-worldwide-september-11)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: none in `data/timeline.csv`.
 
@@ -688,6 +732,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.hrw.org/report/2011/07/12/getting-away-torture/bush-administration-and-mistreatment-detainees](https://www.hrw.org/report/2011/07/12/getting-away-torture/bush-administration-and-mistreatment-detainees)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: none in `data/timeline.csv`.
 
@@ -707,6 +752,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.amnesty.org/en/documents/eur01/5342/2017/en/](https://www.amnesty.org/en/documents/eur01/5342/2017/en/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: none in `data/timeline.csv`.
 
@@ -726,6 +772,1057 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.jep.gov.co/](https://www.jep.gov.co/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SR-USA-2007"></a>
+## SR-USA-2007
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to United States of America (A/HRC/6/17/Add.3)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2007-11-22
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: North America
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/6/17/Add.3](https://undocs.org/A/HRC/6/17/Add.3)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-USA-2007.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SR-TUR-2006"></a>
+## SR-TUR-2006
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Turkey (A/HRC/4/26/Add.2)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2006-11-16
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/4/26/Add.2](https://undocs.org/A/HRC/4/26/Add.2)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-TUR-2006.*
+
+Cited by: [T154](../../timeline/post-9-11-2001-2014.md#T154)
+
+<a id="SR-ESP-2008"></a>
+## SR-ESP-2008
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Spain (A/HRC/10/3/Add.2)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2008-12-16
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/10/3/Add.2](https://undocs.org/A/HRC/10/3/Add.2)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-ESP-2008.*
+
+Cited by: [T150](../../timeline/post-9-11-2001-2014.md#T150)
+
+<a id="SR-EGY-2009"></a>
+## SR-EGY-2009
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Egypt (A/HRC/13/37/Add.2)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: \[UNKNOWN\]
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/13/37/Add.2](https://undocs.org/A/HRC/13/37/Add.2)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-EGY-2009.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SR-TUN-2010"></a>
+## SR-TUN-2010
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Tunisia (A/HRC/16/51/Add.2)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: \[UNKNOWN\]
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/16/51/Add.2](https://undocs.org/A/HRC/16/51/Add.2)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-TUN-2010.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SR-PER-2010"></a>
+## SR-PER-2010
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Peru (A/HRC/16/51/Add.3)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: \[UNKNOWN\]
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/16/51/Add.3](https://undocs.org/A/HRC/16/51/Add.3)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-PER-2010.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SR-CHL-2014"></a>
+## SR-CHL-2014
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Chile (A/HRC/25/59/Add.2)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: \[UNKNOWN\]
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Latin America
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/25/59/Add.2](https://undocs.org/A/HRC/25/59/Add.2)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-CHL-2014.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SR-LKA-2019"></a>
+## SR-LKA-2019
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Sri Lanka (A/HRC/40/52/Add.3)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2018-12-14
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/40/52/Add.3](https://undocs.org/A/HRC/40/52/Add.3)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-LKA-2019.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SR-FRA-2019"></a>
+## SR-FRA-2019
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to France (A/HRC/40/52/Add.4)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2019-05-08
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/40/52/Add.4](https://undocs.org/A/HRC/40/52/Add.4)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-FRA-2019.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SR-KAZ-2020"></a>
+## SR-KAZ-2020
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Kazakhstan (A/HRC/43/46/Add.1)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2020-01-22
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Russia/Central Asia
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/43/46/Add.1](https://undocs.org/A/HRC/43/46/Add.1)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-KAZ-2020.*
+
+Cited by: [T183](../../timeline/recent-2014-now.md#T183)
+
+<a id="SR-SAU-2018"></a>
+## SR-SAU-2018
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Saudi Arabia (A/HRC/40/52/Add.2)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: \[UNKNOWN\]
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/40/52/Add.2](https://undocs.org/A/HRC/40/52/Add.2)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-SAU-2018.*
+
+Cited by: [T179](../../timeline/recent-2014-now.md#T179)
+
+<a id="SR-BEL-2019"></a>
+## SR-BEL-2019
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Belgium (A/HRC/40/52/Add.5)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2019-05-08
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/40/52/Add.5](https://undocs.org/A/HRC/40/52/Add.5)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-BEL-2019.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="AU-INSLM"></a>
+## AU-INSLM
+
+**Independent National Security Legislation Monitor (home page)**
+
+- Issuing body: Independent National Security Legislation Monitor (Australia)
+- Date: \[UNKNOWN\]
+- Type: agency history
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Oceania
+- Theme: studies and evaluations
+- URL: [https://www.inslm.gov.au/](https://www.inslm.gov.au/)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Verified via WebFetch (no raw capture of readable text): WebFetch text: 'Independent National Security Legislation Monitor'
+
+Cited by: [T192](../../timeline/recent-2014-now.md#T192)
+
+<a id="CA-NSIRA"></a>
+## CA-NSIRA
+
+**National Security and Intelligence Review Agency (home page)**
+
+- Issuing body: NSIRA (Canada)
+- Date: \[UNKNOWN\]
+- Type: agency history
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: North America
+- Theme: studies and evaluations
+- URL: [https://www.nsira-ossnr.gc.ca/](https://www.nsira-ossnr.gc.ca/)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/CA-NSIRA.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="DE-BVERFG-BKAG2016"></a>
+## DE-BVERFG-BKAG2016
+
+**BVerfG, Urteil des Ersten Senats vom 20. April 2016, 1 BvR 966/09 (BKA-Gesetz)**
+
+- Issuing body: Bundesverfassungsgericht
+- Date: 2016-04-20
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/04/rs20160420_1bvr096609.html](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/04/rs20160420_1bvr096609.html)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: German
+- Notes: Verified via WebFetch (no raw capture of readable text): WebFetch text: 'Urteil vom 20. April 2016 ... 1 BvR 966/09'
+
+Cited by: [T176](../../timeline/recent-2014-now.md#T176)
+
+<a id="DE-BVERFG-LUFTSIG2006"></a>
+## DE-BVERFG-LUFTSIG2006
+
+**BVerfG, Urteil des Ersten Senats vom 15. Februar 2006, 1 BvR 357/05 (Luftsicherheitsgesetz)**
+
+- Issuing body: Bundesverfassungsgericht
+- Date: 2006-02-15
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: post-9/11 (2001-2014)
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2006/02/rs20060215_1bvr035705.html](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2006/02/rs20060215_1bvr035705.html)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: German
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/DE-BVERFG-LUFTSIG2006.*
+
+Cited by: [T153](../../timeline/post-9-11-2001-2014.md#T153)
+
+<a id="FR-CC-86-213"></a>
+## FR-CC-86-213
+
+**Décision n° 86-213 DC du 3 septembre 1986 (Loi relative à la lutte contre le terrorisme)**
+
+- Issuing body: Conseil constitutionnel
+- Date: 1986-09-03
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: 1945-1990
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://www.conseil-constitutionnel.fr/decision/1986/86213DC.htm](https://www.conseil-constitutionnel.fr/decision/1986/86213DC.htm)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: French
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/FR-CC-86-213.*
+
+Cited by: [T139](../../timeline/1945-1990.md#T139)
+
+<a id="FR-CC-2015-527"></a>
+## FR-CC-2015-527
+
+**Décision n° 2015-527 QPC du 22 décembre 2015 (assignations à résidence dans le cadre de l'état d'urgence)**
+
+- Issuing body: Conseil constitutionnel
+- Date: 2015-12-22
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://www.conseil-constitutionnel.fr/decision/2015/2015527QPC.htm](https://www.conseil-constitutionnel.fr/decision/2015/2015527QPC.htm)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: French
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/FR-CC-2015-527.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="IACTHR-2014-279"></a>
+## IACTHR-2014-279
+
+**Caso N.C. y otros (Dirigentes, miembros y activista del Pueblo Indígena Mapuche) vs. Chile, Serie C No. 279. Sentencia de 29 de mayo de 2014**
+
+- Issuing body: Corte Interamericana de Derechos Humanos
+- Date: 2014-05-29
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.corteidh.or.cr/docs/casos/articulos/seriec_279_esp.pdf](https://www.corteidh.or.cr/docs/casos/articulos/seriec_279_esp.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Spanish
+- Notes: Verified via WebFetch (no raw capture of readable text): WebFetch text: 'CASO N.C. Y OTROS ... VS. CHILE, SENTENCIA DE 29 DE MAYO DE 2014' (party names shown here as initials) Party names replaced by initials (CTA6 anonymization rule); official title at the URL.
+
+Cited by: [T167](../../timeline/recent-2014-now.md#T167)
+
+<a id="HRW-CHN-2018"></a>
+## HRW-CHN-2018
+
+**"Eradicating Ideological Viruses": China's Campaign of Repression Against Xinjiang's Muslims**
+
+- Issuing body: Human Rights Watch
+- Date: 2018-09-09
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: studies and evaluations
+- URL: [https://www.hrw.org/report/2018/09/09/eradicating-ideological-viruses/chinas-campaign-repression-against-xinjiangs](https://www.hrw.org/report/2018/09/09/eradicating-ideological-viruses/chinas-campaign-repression-against-xinjiangs)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/HRW-CHN-2018.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="PH-SC-2021-252578-D"></a>
+## PH-SC-2021-252578-D
+
+**G.R. Nos. 252578, et al. (Anti-Terrorism Act oral arguments: docket of petitions, notices and announcements)**
+
+- Issuing body: Supreme Court of the Philippines
+- Date: \[UNKNOWN\]
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://sc.judiciary.gov.ph/g-r-nos-252578-et-al/](https://sc.judiciary.gov.ph/g-r-nos-252578-et-al/)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Verified via WebFetch (no raw capture of readable text): WebFetch text: 'G.R. Nos. 252578, et al. - Anti-Terrorism Act Oral Arguments' (docket page of petitions and notices, not the decision text) Docket page only; the 7 Dec 2021 decision text is not on this page.
+
+Cited by: [T186](../../timeline/recent-2014-now.md#T186)
+
+<a id="PH-SC-2021-252578"></a>
+## PH-SC-2021-252578
+
+**G.R. No. 252578, C. et al. v. Executive Secretary et al. (full text)**
+
+- Issuing body: Supreme Court of the Philippines E-Library
+- Date: 2021-12-07
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/67914?5hhplJcmuxsbMr=fHsDQ](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/67914?5hhplJcmuxsbMr=fHsDQ)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 403; expected text not confirmed (bot check, timeout or error). URL from search index. Petitioner name replaced by an initial (CTA6 anonymization rule).
+
+Cited by: [T186](../../timeline/recent-2014-now.md#T186)
+
+<a id="ACHPR-CT2015"></a>
+## ACHPR-CT2015
+
+**Principles and Guidelines on Human and Peoples' Rights while Countering Terrorism in Africa**
+
+- Issuing body: African Commission on Human and Peoples' Rights
+- Date: 2015
+- Type: other
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: studies and evaluations
+- URL: [https://achpr.au.int/en/special-mechanisms-reports/principles-guidelines-countering-terrorism](https://achpr.au.int/en/special-mechanisms-reports/principles-guidelines-countering-terrorism)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/ACHPR-CT2015.* Adoption year 2015 from search listing.
+
+Cited by: [T169](../../timeline/recent-2014-now.md#T169)
+
+<a id="ICJ-EJP2009"></a>
+## ICJ-EJP2009
+
+**Assessing Damage, Urging Action: Report of the Eminent Jurists Panel on Terrorism, Counter-terrorism and Human Rights**
+
+- Issuing body: International Commission of Jurists
+- Date: 2009
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: post-9/11 (2001-2014)
+- Region: Global/UN
+- Theme: studies and evaluations
+- URL: [https://www.icj.org/wp-content/uploads/2012/04/Report-on-Terrorism-Counter-terrorism-and-Human-Rights-Eminent-Jurists-Panel-on-Terrorism-series-2009.pdf](https://www.icj.org/wp-content/uploads/2012/04/Report-on-Terrorism-Counter-terrorism-and-Human-Rights-Eminent-Jurists-Panel-on-Terrorism-series-2009.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/ICJ-EJP2009.*
+
+Cited by: [T158](../../timeline/post-9-11-2001-2014.md#T158)
+
+<a id="AMN-NGA-2015"></a>
+## AMN-NGA-2015
+
+**Stars on their shoulders. Blood on their hands. War crimes committed by the Nigerian military (AFR 44/1657/2015)**
+
+- Issuing body: Amnesty International
+- Date: 2015-06-03
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: major operations
+- URL: [https://www.amnesty.org/en/wp-content/uploads/2021/05/AFR4416572015ENGLISH.pdf](https://www.amnesty.org/en/wp-content/uploads/2021/05/AFR4416572015ENGLISH.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Report's characterisations are Amnesty International's. HTTP 200; expected text found. Raw: pass2/raw/AMN-NGA-2015.*
+
+Cited by: [T170](../../timeline/recent-2014-now.md#T170)
+
+<a id="HRW-KEN-2016"></a>
+## HRW-KEN-2016
+
+**Deaths and Disappearances: Abuses in Counterterrorism Operations in Nairobi and in Northeastern Kenya**
+
+- Issuing body: Human Rights Watch
+- Date: 2016-07-20
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: major operations
+- URL: [https://www.hrw.org/sites/default/files/report_pdf/kenya0716web_1.pdf](https://www.hrw.org/sites/default/files/report_pdf/kenya0716web_1.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Characterisations are HRW's. HTTP 200; expected text found. Raw: pass2/raw/HRW-KEN-2016.*
+
+Cited by: [T177](../../timeline/recent-2014-now.md#T177)
+
+<a id="HRW-LKA-2022"></a>
+## HRW-LKA-2022
+
+**"In a Legal Black Hole": Sri Lanka's Failure to Reform the Prevention of Terrorism Act**
+
+- Issuing body: Human Rights Watch
+- Date: 2022-02-07
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.hrw.org/sites/default/files/media_2022/02/srilanka0222_web.pdf](https://www.hrw.org/sites/default/files/media_2022/02/srilanka0222_web.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Characterisations are HRW's. HTTP 200; expected text found. Raw: pass2/raw/HRW-LKA-2022.*
+
+Cited by: [T187](../../timeline/recent-2014-now.md#T187)
+
+<a id="AMN-IND-2023"></a>
+## AMN-IND-2023
+
+**India: Arrests, raids target critics of government (ASA 20/7303/2023)**
+
+- Issuing body: Amnesty International
+- Date: 2023-10
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.amnesty.org/en/wp-content/uploads/2023/10/ASA2073032023ENGLISH.pdf](https://www.amnesty.org/en/wp-content/uploads/2023/10/ASA2073032023ENGLISH.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Characterisations are Amnesty International's. HTTP 200; expected text found. Raw: pass2/raw/AMN-IND-2023.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="AMN-IND-2024"></a>
+## AMN-IND-2024
+
+**Human Rights Charter - India (ASA 20/8154/2024)**
+
+- Issuing body: Amnesty International
+- Date: 2024-06-13
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.amnesty.org/en/wp-content/uploads/2024/06/ASA2081542024ENGLISH.pdf](https://www.amnesty.org/en/wp-content/uploads/2024/06/ASA2081542024ENGLISH.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/AMN-IND-2024.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="FIDH-SAHEL-2025"></a>
+## FIDH-SAHEL-2025
+
+**Civic space and human rights defenders in the Sahel**
+
+- Issuing body: FIDH (International Federation for Human Rights)
+- Date: 2025-02-19
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: studies and evaluations
+- URL: [https://www.fidh.org/IMG/pdf/20250219_fidh_rapport-obs-sahel_en.pdf](https://www.fidh.org/IMG/pdf/20250219_fidh_rapport-obs-sahel_en.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/FIDH-SAHEL-2025.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="FIDH-MLI-2018"></a>
+## FIDH-MLI-2018
+
+**Central Mali: populations caught between terrorism and counter-terrorism**
+
+- Issuing body: FIDH (International Federation for Human Rights)
+- Date: 2018-11
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: major operations
+- URL: [https://www.fidh.org/IMG/pdf/fidh_centre-of-mali_population-sized-between-terrorism-and-counter-terrorism_727_en_november2018.pdf](https://www.fidh.org/IMG/pdf/fidh_centre-of-mali_population-sized-between-terrorism-and-counter-terrorism_727_en_november2018.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/FIDH-MLI-2018.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="FIDH-EGY-2010"></a>
+## FIDH-EGY-2010
+
+**Egypt: Counter-terrorism against the background of an endless state of emergency (N°534a)**
+
+- Issuing body: FIDH (International Federation for Human Rights)
+- Date: 2010-01
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://www.fidh.org/IMG/pdf/Egypt_Antiterro_EN.pdf](https://www.fidh.org/IMG/pdf/Egypt_Antiterro_EN.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/FIDH-EGY-2010.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="HRW-EGY-2015"></a>
+## HRW-EGY-2015
+
+**Egypt: Counterterrorism Law Erodes Basic Rights**
+
+- Issuing body: Human Rights Watch
+- Date: 2015-08-19
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://www.hrw.org/news/2015/08/19/egypt-counterterrorism-law-erodes-basic-rights](https://www.hrw.org/news/2015/08/19/egypt-counterterrorism-law-erodes-basic-rights)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/HRW-EGY-2015.*
+
+Cited by: [T173](../../timeline/recent-2014-now.md#T173)
+
+<a id="SR-TUN-2018"></a>
+## SR-TUN-2018
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: visit to Tunisia (A/HRC/40/52/Add.1)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2018-12-12
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/40/52/Add.1](https://undocs.org/A/HRC/40/52/Add.1)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-TUN-2018.* Text: visit to Tunisia from 30 January to 3 February 2017.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SR-MDV-2023"></a>
+## SR-MDV-2023
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: visit to Maldives (A/HRC/52/39/Add.1)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2023-03-15
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/52/39/Add.1](https://undocs.org/A/HRC/52/39/Add.1)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-MDV-2023.* Text: visit to Maldives from 15 to 24 May 2022.
+
+Cited by: [T189](../../timeline/recent-2014-now.md#T189)
+
+<a id="SR-UZB-2022"></a>
+## SR-UZB-2022
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: visit to Uzbekistan (A/HRC/49/45/Add.1)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2022-02-25
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Russia/Central Asia
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/49/45/Add.1](https://undocs.org/A/HRC/49/45/Add.1)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-UZB-2022.* Text: visit to Uzbekistan from 29 November to 7 December 2021.
+
+Cited by: [T185](../../timeline/recent-2014-now.md#T185)
+
+<a id="KNCHR-2015"></a>
+## KNCHR-2015
+
+**"The Error of Fighting Terror with Terror": preliminary report of KNCHR investigations on human rights abuses in the ongoing crackdown against terrorism**
+
+- Issuing body: Kenya National Commission on Human Rights
+- Date: 2015-09
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: studies and evaluations
+- URL: [http://www.knchr.org/Portals/0/CivilAndPoliticalReports/The%20Error%20of%20Fighting%20Terror%20With%20Terror.pdf](http://www.knchr.org/Portals/0/CivilAndPoliticalReports/The%20Error%20of%20Fighting%20Terror%20With%20Terror.pdf)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Characterisations are KNCHR's. HTTP 500; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="CNCDH-2017"></a>
+## CNCDH-2017
+
+**Avis sur le projet de loi renforçant la sécurité intérieure et la lutte contre le terrorisme (6 juillet 2017)**
+
+- Issuing body: Commission nationale consultative des droits de l'homme (France)
+- Date: 2017-07-06
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://www.cncdh.fr/sites/default/files/2021-04/170706_avis%20sur%20le%20PJL%20s%C3%A9curit%C3%A9%20int%C3%A9rieure_terrorisme%20p%C3%A0p.pdf](https://www.cncdh.fr/sites/default/files/2021-04/170706_avis%20sur%20le%20PJL%20s%C3%A9curit%C3%A9%20int%C3%A9rieure_terrorisme%20p%C3%A0p.pdf)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: French
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="HRCSL-PRISON-2020"></a>
+## HRCSL-PRISON-2020
+
+**Prison Study by the Human Rights Commission of Sri Lanka (concise version)**
+
+- Issuing body: Human Rights Commission of Sri Lanka
+- Date: 2020
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: studies and evaluations
+- URL: [https://www.hrcsl.lk/wp-content/uploads/2020/01/Prison-Study-by-HRCSL_Concise-Version.pdf](https://www.hrcsl.lk/wp-content/uploads/2020/01/Prison-Study-by-HRCSL_Concise-Version.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Includes a section on PTA prisoners. HTTP 200; expected text found. Raw: pass2/raw/HRCSL-PRISON-2020.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="ECHR-2008-37201"></a>
+## ECHR-2008-37201
+
+**S. v. Italy \[GC\], no. 37201/06 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 2008-02-28
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: post-9/11 (2001-2014)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-85276](https://hudoc.echr.coe.int/eng?i=001-85276)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2008-02-28 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: [T156](../../timeline/post-9-11-2001-2014.md#T156)
+
+<a id="ECHR-2012-10593"></a>
+## ECHR-2012-10593
+
+**N. v. Switzerland \[GC\], no. 10593/08 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 2012-09-12
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: post-9/11 (2001-2014)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-113118](https://hudoc.echr.coe.int/eng?i=001-113118)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2012-09-12 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: [T164](../../timeline/post-9-11-2001-2014.md#T164)
+
+<a id="ECHR-1996-21987"></a>
+## ECHR-1996-21987
+
+**A. v. Turkey, no. 21987/93 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 1996-12-18
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: 1990-2001
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-58003](https://hudoc.echr.coe.int/eng?i=001-58003)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 1996-12-18 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: [T144](../../timeline/1990-2001.md#T144)
+
+<a id="ECHR-2014-7511"></a>
+## ECHR-2014-7511
+
+**H. v. Poland, no. 7511/13 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 2014-07-24
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-146047](https://hudoc.echr.coe.int/eng?i=001-146047)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2014-07-24 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: [T168](../../timeline/recent-2014-now.md#T168)
+
+<a id="ECHR-2018-33234"></a>
+## ECHR-2018-33234
+
+**A.N. v. Romania, no. 33234/12 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 2018-05-31
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-183685](https://hudoc.echr.coe.int/eng?i=001-183685)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2018-05-31 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: [T181](../../timeline/recent-2014-now.md#T181)
+
+<a id="ECHR-2017-26562"></a>
+## ECHR-2017-26562
+
+**T. and Others v. Russia, no. 26562/07 and 6 other applications (judgment; 2004 Beslan school siege)**
+
+- Issuing body: European Court of Human Rights
+- Date: 2017-04-13
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Russia/Central Asia
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-172660](https://hudoc.echr.coe.int/eng?i=001-172660)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2017-04-13 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: [T178](../../timeline/recent-2014-now.md#T178)
+
+<a id="ECHR-2011-18299"></a>
+## ECHR-2011-18299
+
+**F. and Others v. Russia, nos. 18299/03 and 27311/03 (judgment; 2002 Moscow theatre hostage crisis)**
+
+- Issuing body: European Court of Human Rights
+- Date: 2011-12-20
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: post-9/11 (2001-2014)
+- Region: Russia/Central Asia
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-108231](https://hudoc.echr.coe.int/eng?i=001-108231)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2011-12-20 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: [T160](../../timeline/post-9-11-2001-2014.md#T160)
+
+<a id="ECHR-1993-14553"></a>
+## ECHR-1993-14553
+
+**B. and M. v. the United Kingdom, nos. 14553/89 and 14554/89 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 1993-05-26
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: 1990-2001
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-57819](https://hudoc.echr.coe.int/eng?i=001-57819)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 1993-05-26 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="ECHR-2005-46221"></a>
+## ECHR-2005-46221
+
+**Ö. v. Turkey \[GC\], no. 46221/99 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 2005-05-12
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-69022](https://hudoc.echr.coe.int/eng?i=001-69022)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2005-05-12 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: [T152](../../timeline/post-9-11-2001-2014.md#T152)
+
+<a id="ECHR-DEMIRTAS2-2020"></a>
+## ECHR-DEMIRTAS2-2020
+
+**Selahattin Demirtaş v. Turkey (No. 2) \[GC\], no. 14305/17 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 2020-12-22
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-207173](https://hudoc.echr.coe.int/eng?i=001-207173)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. HUDOC API returned docname 'CASE OF SELAHATTİN DEMİRTAŞ v. TURKEY (No. 2)', kpdate 2020-12-22 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: [T184](../../timeline/recent-2014-now.md#T184)
+
+<a id="ECHR-2012-8139"></a>
+## ECHR-2012-8139
+
+**O. v. the United Kingdom, no. 8139/09 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 2012-01-17
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: post-9/11 (2001-2014)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-108629](https://hudoc.echr.coe.int/eng?i=001-108629)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2012-01-17 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
 
 Cited by: none in `data/timeline.csv`.

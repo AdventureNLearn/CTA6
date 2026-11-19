@@ -6,7 +6,7 @@ Major attacks and state or coalition responses, at a public-record level only (n
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-7 sources in this theme.
+11 sources in this theme.
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -26,6 +26,7 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 - URL: [https://theglobalcoalition.org/en/](https://theglobalcoalition.org/en/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -46,6 +47,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.fbi.gov/history/famous-cases/wall-street-bombing-1920](https://www.fbi.gov/history/famous-cases/wall-street-bombing-1920)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T004](../../timeline/pre-1945.md#T004)
@@ -66,6 +68,7 @@ Cited by: [T004](../../timeline/pre-1945.md#T004)
 - URL: [https://www.fbi.gov/history/famous-cases/world-trade-center-bombing-1993](https://www.fbi.gov/history/famous-cases/world-trade-center-bombing-1993)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T033](../../timeline/1990-2001.md#T033)
@@ -86,6 +89,7 @@ Cited by: [T033](../../timeline/1990-2001.md#T033)
 - URL: [https://www.fbi.gov/history/famous-cases/oklahoma-city-bombing](https://www.fbi.gov/history/famous-cases/oklahoma-city-bombing)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T035](../../timeline/1990-2001.md#T035)
@@ -106,6 +110,7 @@ Cited by: [T035](../../timeline/1990-2001.md#T035)
 - URL: [https://www.fbi.gov/history/famous-cases/911-investigation](https://www.fbi.gov/history/famous-cases/911-investigation)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T050](../../timeline/post-9-11-2001-2014.md#T050)
@@ -126,6 +131,7 @@ Cited by: [T050](../../timeline/post-9-11-2001-2014.md#T050)
 - URL: [https://www.fbi.gov/history/famous-cases/pan-am-103-bombing](https://www.fbi.gov/history/famous-cases/pan-am-103-bombing)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T026](../../timeline/1945-1990.md#T026)
@@ -146,5 +152,90 @@ Cited by: [T026](../../timeline/1945-1990.md#T026)
 - URL: [https://www.state.gov/wp-content/uploads/2020/02/Agreement-For-Bringing-Peace-to-Afghanistan-02.29.20.pdf](https://www.state.gov/wp-content/uploads/2020/02/Agreement-For-Bringing-Peace-to-Afghanistan-02.29.20.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T128](../../timeline/recent-2014-now.md#T128)
+
+<a id="CIA-SSCI-2013"></a>
+## CIA-SSCI-2013
+
+**CIA's June 2013 Response to the SSCI Study on the Former Detention and Interrogation Program**
+
+- Issuing body: Central Intelligence Agency
+- Date: 2013-06-27
+- Type: agency history
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: North America
+- Theme: major operations
+- URL: [https://www.cia.gov/static/e02824d8cacf8c55c511d67a1d76ed21/CIAs-June-2013-Response-to-the-SSCI-Study-on-the-Former-Detention-and-Interrogation-Program.pdf](https://www.cia.gov/static/e02824d8cacf8c55c511d67a1d76ed21/CIAs-June-2013-Response-to-the-SSCI-Study-on-the-Former-Detention-and-Interrogation-Program.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Approved for release 8 Dec 2014. HTTP 200; expected text found. Raw: pass2/raw/CIA-SSCI-2013.* Text states the Agency 'disagrees with assertions' in the Study on intelligence produced by the program.
+
+Cited by: [T166](../../timeline/post-9-11-2001-2014.md#T166)
+
+<a id="AMN-NGA-2015"></a>
+## AMN-NGA-2015
+
+**Stars on their shoulders. Blood on their hands. War crimes committed by the Nigerian military (AFR 44/1657/2015)**
+
+- Issuing body: Amnesty International
+- Date: 2015-06-03
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: major operations
+- URL: [https://www.amnesty.org/en/wp-content/uploads/2021/05/AFR4416572015ENGLISH.pdf](https://www.amnesty.org/en/wp-content/uploads/2021/05/AFR4416572015ENGLISH.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Report's characterisations are Amnesty International's. HTTP 200; expected text found. Raw: pass2/raw/AMN-NGA-2015.*
+
+Cited by: [T170](../../timeline/recent-2014-now.md#T170)
+
+<a id="HRW-KEN-2016"></a>
+## HRW-KEN-2016
+
+**Deaths and Disappearances: Abuses in Counterterrorism Operations in Nairobi and in Northeastern Kenya**
+
+- Issuing body: Human Rights Watch
+- Date: 2016-07-20
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: major operations
+- URL: [https://www.hrw.org/sites/default/files/report_pdf/kenya0716web_1.pdf](https://www.hrw.org/sites/default/files/report_pdf/kenya0716web_1.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Characterisations are HRW's. HTTP 200; expected text found. Raw: pass2/raw/HRW-KEN-2016.*
+
+Cited by: [T177](../../timeline/recent-2014-now.md#T177)
+
+<a id="FIDH-MLI-2018"></a>
+## FIDH-MLI-2018
+
+**Central Mali: populations caught between terrorism and counter-terrorism**
+
+- Issuing body: FIDH (International Federation for Human Rights)
+- Date: 2018-11
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: major operations
+- URL: [https://www.fidh.org/IMG/pdf/fidh_centre-of-mali_population-sized-between-terrorism-and-counter-terrorism_727_en_november2018.pdf](https://www.fidh.org/IMG/pdf/fidh_centre-of-mali_population-sized-between-terrorism-and-counter-terrorism_727_en_november2018.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/FIDH-MLI-2018.*
+
+Cited by: none in `data/timeline.csv`.
