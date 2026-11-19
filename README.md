@@ -1,16 +1,16 @@
 # CTA6
 
-CTA6 is a private archival collection of published official and scholarly records on the history of counterterrorism. It is global in scope and is built in rounds. This is **round 4**. It is not a complete history, and it does not claim to be one.
+CTA6 is a private archival collection of published official and scholarly records on the history of counterterrorism. It is global in scope and is built in rounds. This is **round 5**. It is not a complete history, and it does not claim to be one.
 
 The canonical records are the spreadsheets in `data/`. The pages under `timeline/` and `sources/` are a readable view generated from those spreadsheets. Do not edit the generated pages by hand.
 
 The private GitHub repository exists at [`AdventureNLearn/CTA6`](https://github.com/AdventureNLearn/CTA6).
 
-## What is in round 4
+## What is in round 5
 
-- 376 sources in [`data/sources.csv`](data/sources.csv) (338 primary, 38 secondary; 331 verified, 45 not; 8 labeled secondary stand-ins)
-- 236 timeline milestones in [`data/timeline.csv`](data/timeline.csv)
-- Milestone status in this round: 219 we-have-a-record, 8 not-proven, 9 people-disagree
+- 379 sources in [`data/sources.csv`](data/sources.csv) (341 primary, 38 secondary; 349 verified, 30 not; 8 labeled secondary stand-ins)
+- 244 timeline milestones in [`data/timeline.csv`](data/timeline.csv)
+- Milestone status in this round: 230 we-have-a-record, 5 not-proven, 9 people-disagree
 - A readable timeline, one file per era, in [`timeline/`](timeline/)
 - Sources grouped by region and theme in [`sources/`](sources/)
 - The outline of eras, regions and themes in [`docs/STRUCTURE.md`](docs/STRUCTURE.md)
@@ -19,10 +19,9 @@ The private GitHub repository exists at [`AdventureNLearn/CTA6`](https://github.
 - The round 2 source-gathering record in [`notes/round-2.md`](notes/round-2.md)
 - The round 3 source-gathering record in [`notes/round-3.md`](notes/round-3.md)
 - The round 4 source-gathering record in [`notes/round-4.md`](notes/round-4.md)
+- The round 5 source-gathering record in [`notes/round-5.md`](notes/round-5.md)
 
-Round 4 added 7 official sources and 6 milestones (T231–T236) to the 361 sources and 230 milestones from round 3. It applied selected pass 4 corrections: official-copy URL swaps for US-NSCT2018, CRS-R43983, COE-ECST1977 and COE-CPT2005 (now `verified=yes`); OCR verification of the G5 Sahel convention scan; and summary-date fills. T015 and T085 stay `not-proven` because the words “opened for signature” rest on an explanatory report that has been identified but not yet read. T045 is unchanged.
-
-After that official-source merge, 8 labeled secondary stand-ins were added for official texts that still could not be read (Tajikistan and Kazakhstan laws, CHR 2005/80, Kenya POTA, a 2019 Pakistan Supreme Court judgment, and reporting on that judgment and on a 2025 Pakistan amendment). They do not replace the official rows, they are never `verified=yes`, and no new timeline rows were added. T084 stays `not-proven`. Sources were chosen by hand and are not a systematic sample. Counts describe the archive as of this round. This archive is not complete. Later rounds should fill the gaps listed in `GAPS.md`.
+Round 5 added 4 official sources and 8 milestones (T237–T244) to the 376 sources and 236 milestones from round 4. The duplicate Kenya Law row KE-POTA2012-KL was then merged into KE-POTA2012, leaving 379 sources. It applied the pass 5 corrections that mark 14 previously blocked official pages as `verified=yes` after a headless-browser load or a fresh curl capture of the same cited URL, with the matched text quoted in the row's notes. T015 and T085 are now `we-have-a-record`, with the Council of Europe explanatory reports as second citations; the 1977 report is quoted as “opened to signature”. T061 is now `we-have-a-record` on the verified OAS treaty page and status page. The 8 labeled secondary stand-ins were kept; four of them now note that an official text is in the archive, and none of them is treated as proof. T084 stays `not-proven`. T045 is unchanged. Sources were chosen by hand and are not a systematic sample. Counts describe the archive as of this round. This archive is not complete. Later rounds should fill the gaps listed in `GAPS.md`.
 
 ## Neutrality method
 
@@ -69,7 +68,7 @@ Every timeline row has one of these status labels, in the `confidence` column:
 
 `[UNKNOWN]` marks a gap or an unknown value (for example an incomplete date). It is not a substitute for a guess.
 
-Sources also carry `verified=yes` or `verified=no`, which records whether the cited URL was fetched and matched in this round. A timeline row is marked `not-proven` when the claim rests only on unverified citations, or when a different confirmation problem is noted in the row itself.
+Sources also carry `verified=yes` or `verified=no`, which records whether the cited URL was fetched and matched in this round. A source may also be marked `verified=yes` when a headless-browser load or a fresh curl capture of the same cited official URL returned the document and the matched text is quoted in the row's notes; those captures stay local and are not committed. A timeline row is marked `not-proven` when the claim rests only on unverified citations, or when a different confirmation problem is noted in the row itself.
 
 ## How to add to the archive
 

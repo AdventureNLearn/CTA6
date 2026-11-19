@@ -1,12 +1,23 @@
-# Gaps (round 4)
+# Gaps (round 5)
 
-This file lists what CTA6 has not gathered or could not confirm as of round 4, including the later labeled secondary stand-ins. Items marked `[UNKNOWN]` are gaps, not conclusions. This archive is not complete.
+This file lists what CTA6 has not gathered or could not confirm as of round 5. Items marked `[UNKNOWN]` are gaps, not conclusions. This archive is not complete.
 
-Round 1 gaps are taken from [NOTES.md](NOTES.md) (accessed 2026-11-18). Round 2 additions, retries and remaining gaps are taken from [notes/round-2.md](notes/round-2.md) (accessed 2026-11-18). Round 3 additions, retries and remaining gaps are taken from [notes/round-3.md](notes/round-3.md) (accessed 2026-11-19). Round 4 additions, retries and remaining gaps are taken from [notes/round-4.md](notes/round-4.md) (accessed 2026-11-19).
+Round 1 gaps are taken from [NOTES.md](NOTES.md) (accessed 2026-11-18). Round 2 additions, retries and remaining gaps are taken from [notes/round-2.md](notes/round-2.md) (accessed 2026-11-18). Round 3 additions, retries and remaining gaps are taken from [notes/round-3.md](notes/round-3.md) (accessed 2026-11-19). Round 4 additions, retries and remaining gaps are taken from [notes/round-4.md](notes/round-4.md) (accessed 2026-11-19). Round 5 additions, retries and remaining gaps are taken from [notes/round-5.md](notes/round-5.md) (accessed 2026-11-19).
 
 ## Remaining gaps and regional imbalance
 
-After the official-source merge in round 4, and the later addition of 8 labeled secondary stand-ins, the archive has 376 sources and 236 timeline rows. Global/UN, Europe and North America hold 180 of 376 sources (48%) and 122 of 236 timeline rows (52%). Oceania (12 sources) and Russia/Central Asia (19) are still smaller than the three largest regions. South Asia now has 39 sources and 17 timeline rows. East/Southeast Asia has 27 sources and 18 timeline rows; Latin America has 27 sources and 18 timeline rows. The original cited URLs for the Pakistan ATA and the India UAPA and NIA pages still fail; those statutes are now also held as separate official copies (PK-FMU-ATA1997 and IN-NIA-ACT2008-HI), which were verified. The official Tajikistan, Kazakhstan, Kenya POTA and CHR 2005/80 texts, and official Urdu texts, remain unverified; labeled unofficial stand-ins were added for some of those gaps and do not confirm them.
+After round 5 the archive has 379 sources and 244 timeline rows. Global/UN, Europe and North America hold 182 of 379 sources (48%) and 123 of 244 timeline rows (50%). Oceania (12 sources, 8 timeline rows) and Russia/Central Asia (19 sources, 13 timeline rows) are still smaller than the three largest regions, though each gained a verified national statute and a milestone in this round. South Asia has 40 sources and 17 timeline rows. Latin America has 28 sources and 20 timeline rows. East/Southeast Asia has 27 sources and 18 timeline rows. The original cited URLs for the Pakistan ATA and the India UAPA and NIA pages still fail; those statutes are now also held as separate official copies (PK-FMU-ATA1997 and IN-NIA-ACT2008-HI), which were verified. The official Tajikistan law and CHR 2005/80 texts, and official Urdu texts, remain unverified; labeled unofficial stand-ins for those gaps, and for official texts that are now also in the archive, stay in place and do not confirm the unread official copies.
+
+**Filled in round 5 (were listed as gaps after round 4):**
+
+- OAS and IACHR official pages, now `verified=yes` at the cited URLs: the Inter-American Convention against Terrorism (OAS-CICTE2002), the CICTE page (OAS-CICTE), and the 2002 IACHR report in Spanish and English (IACHR-2002-TERR-ES, IACHR-2002-TERR-EN). The OAS treaty status page was added as OAS-A66-SIGS.
+- Kenya's Prevention of Terrorism Act at Kenya Law's current site (KE-POTA2012), now `verified=yes`. The earlier PDF URL (HTTP 500) is in the notes. The duplicate row KE-POTA2012-KL was merged into KE-POTA2012.
+- New Zealand's Terrorism Suppression Act 2002 and Counter-Terrorism Legislation Act 2021 (NZ-TSA2002, NZ-CTLA2021), now `verified=yes` at legislation.govt.nz.
+- Kazakhstan Law No. 416 at Adilet (KZ-LAW416-1999), now `verified=yes`.
+- The official Senate-hosted text of Pakistan's Anti-terrorism (Amendment) Bill 2025, as passed by the National Assembly (PK-ATA-BILL2025). The document is undated; Senate passage and assent were not added as a milestone, because they still rest only on news reports. No official Urdu text was read.
+- The Council of Europe explanatory reports to ETS No. 90 and CETS No. 196, added as COE-ECST1977-ER and COE-CPT2005-ER. T015 and T085 are now `we-have-a-record`. T061 is now `we-have-a-record` on the verified OAS pages.
+- Other official pages now `verified=yes` at the cited URL: MA-CNASNU, JP-TFINANCE-2002, ID-BNPT, DE-GTAZ, CNCDH-2017 and AU-POA2002-PSD.
+- Some `[UNKNOWN]` marks in existing summaries (39 of the 213 marks open after round 4). 165 of 623 summaries still contain at least one mark (180 marks in all).
 
 **Filled in round 4 (were listed as gaps after round 3):**
 
@@ -31,14 +42,14 @@ After the official-source merge in round 4, and the later addition of 8 labeled 
 
 **Not yet covered, or still unverified:**
 
-- **Africa.** Kenya POTA (still unverified at both cited URLs). A SheriaNet listing (SEC-KE-POTA-SHERIANET) is recorded as a labeled secondary stand-in for the citation Act No. 30 of 2012 only; the Act's text remains `[UNKNOWN]`. Mali national agencies beyond the SGG publication were not gathered.
-- **Latin America.** Peru and Mexico agency records beyond the Peruvian Constitutional Tribunal judgment and the 2014 Mexican decree were not gathered. The IACHR 2002 report (IACHR-2002-TERR-ES and IACHR-2002-TERR-EN) and the OAS treaty page (OAS-CICTE2002) remain unverified (OAS site 503, maintenance).
+- **Africa.** Kenya POTA is now verified at Kenya Law's current site. Mali national agencies beyond the SGG publication were not gathered.
+- **Latin America.** Peru and Mexico agency records beyond the Peruvian Constitutional Tribunal judgment and the 2014 Mexican decree were not gathered. The IACHR 2002 report and the OAS treaty and status pages are now verified.
 - **Asia.** The Philippines ATA itself (phase 1, still unverified) and the text of the 2021 decision in G.R. No. 252578 (unverified) remain open. China oversight is still only HRW-CHN-2018. Singapore entries are government records, not an independent oversight body. Iran's CFT law is unverified. The Korean NHRCK attached opinions (.hwp) were not opened.
-- **Central Asia.** Tajikistan law text unverified at the official URL; an unofficial Spinform copy is recorded as SEC-TJ-845-SPINFORM. Kazakhstan law still unverified at Adilet; an unofficial PRG.kz copy is recorded as SEC-KZ-416-PRG. Those stand-ins are not verified and do not raise the official rows. The NAK site (nac.gov.ru) was not used.
-- **Regional bodies.** OAS/CICTE (site down); SAARC Secretariat page (404); the OIC Convention (still unverified).
-- **Oceania.** New Zealand legislation.govt.nz pages (NZ-TSA2002, NZ-CTLA2021) remain blocked.
-- **Languages.** No official Urdu-language text was verified in this round. The Urdu index page remains unverified. Two Urdu news reports (SEC-PK-DAWNURDU-2025, SEC-PK-BBCURDU-2025) are recorded as labeled secondary stand-ins for a 2025 amendment bill whose official text was not confirmed. Persian is present but unverified. Hindi has a second verified Act text (IN-NIA-ACT2008-HI). Hebrew and Japanese originals were added in earlier rounds; some Japanese pages remain unverified. Arabic coverage is still uneven. Round 1 source languages were not recorded and are marked `[UNKNOWN]`.
-- 16 pass 2 sources remain unverified. 10 phase 1 sources remain unverified at their original cited URL. 11 pass 3 sources remain unverified. Four phase 1 rows (US-NSCT2018, CRS-R43983, COE-ECST1977, COE-CPT2005) and one pass 3 row (G5S-CONV2014-WA) are now `verified=yes`.
+- **Central Asia.** Tajikistan law text remains unverified at the official URL; an unofficial Spinform copy is recorded as SEC-TJ-845-SPINFORM. Kazakhstan Law No. 416 is now verified at Adilet; the unofficial PRG.kz copy SEC-KZ-416-PRG was kept as a stand-in and is not treated as proof. The NAK site (nac.gov.ru) was not used.
+- **Regional bodies.** OAS/CICTE pages are now verified. The SAARC Secretariat page (404) and the OIC Convention remain unverified.
+- **Oceania.** New Zealand's TSA 2002 and CTLA 2021 are now verified at legislation.govt.nz.
+- **Languages.** No official Urdu-language text was verified in this round. The Urdu index page remains unverified. Two Urdu news reports (SEC-PK-DAWNURDU-2025, SEC-PK-BBCURDU-2025) remain labeled secondary stand-ins; the official English bill text is now recorded as PK-ATA-BILL2025, which does not show Senate passage or assent. Persian is present but unverified. Hindi has a second verified Act text (IN-NIA-ACT2008-HI). Hebrew and Japanese originals were added in earlier rounds; JP-TFINANCE-2002 is now verified. Arabic coverage is still uneven. Round 1 source languages were not recorded and are marked `[UNKNOWN]`.
+- 11 pass 2 sources remain unverified. 5 phase 1 sources remain unverified at their original cited URL. 6 pass 3 sources remain unverified. In this round, 14 existing official rows are `verified=yes` (the same-URL verifications, with the Kenya Law text held only as KE-POTA2012 after the duplicate row was merged).
 
 **Pre-1945.** Rome 1898 still has no official text online (coverage is secondary only). The procès-verbaux locations given by Jensen 1981 were not checked [UNKNOWN]. The place of signing of the 1904 St Petersburg protocol is not stated in the captured sources, so it is `[UNKNOWN]` in T134. Colonial-era emergency laws were not gathered [UNKNOWN].
 
@@ -46,7 +57,7 @@ After the official-source merge in round 4, and the later addition of 8 labeled 
 
 ## Disagreements recorded in round 2
 
-These were listed as open after round 1 and now have a second cited source, recorded as `people-disagree` rows. Round 3 and round 4 did not add or change disagreement rows. T045 itself was left unchanged in round 4.
+These were listed as open after round 1 and now have a second cited source, recorded as `people-disagree` rows. Round 3, round 4 and round 5 did not add or change disagreement rows. T045 itself was left unchanged in round 5.
 
 - **T072 / T150 (Madrid 2004):** T150 cites SR-ESP-2008 alongside UNSC 1530. T072 still records only what the resolution text says, with a note pointing to T150.
 - **T045 / T145 (OAU Convention date):** T145 cites the UN Treaty Collection copy, the AU status list and OAU decision AHG/Dec.132 (14 July 1999) alongside the phase 1 AU treaty page (1 July 1999). T045 keeps the AU treaty-page date and has a note pointing to T145.
@@ -75,7 +86,7 @@ Five candidate URLs that had been guessed returned 404 or redirected to an unrel
 - Two search URLs that returned 404 (LK-PTA lawnet, SAARC list).
 - Three duplicates of phase 1 rows (ZA POCDATARA, ASEAN ACCT, Arab Convention).
 
-The IACHR 2002 report, the three IACtHR Peru judgments and Colombia Ley 1121, which were dropped in round 2 for unconfirmed URLs, were gathered again in round 3 at confirmed listings. Ley 1121 and the three IACtHR judgments are now in `data/sources.csv` and verified. The IACHR 2002 report is in the spreadsheet but still unverified (OAS site down).
+The IACHR 2002 report, the three IACtHR Peru judgments and Colombia Ley 1121, which were dropped in round 2 for unconfirmed URLs, were gathered again in round 3 at confirmed listings. Ley 1121 and the three IACtHR judgments are now in `data/sources.csv` and verified. The IACHR 2002 report is in the spreadsheet and is now `verified=yes` at the cited URLs (round 5).
 
 ### Round 3
 
@@ -91,69 +102,54 @@ Candidates dropped in pass 3 (see notes/round-3.md):
 
 These rows are in `data/sources.csv` but could not be confirmed in this round.
 
-### Phase 1 sources still unverified at the cited URL (10)
+### Phase 1 sources still unverified at the cited URL (5)
 
-- OAS-CICTE2002: https://www.oas.org/juridico/english/treaties/a-66.html (HTTP 503, maintenance. An official Peruvian government Spanish copy is recorded separately as PE-GOB-CIAT2002-ES and does not replace this entry.)
-- OAS-CICTE: https://www.oas.org/en/sms/cicte/ (HTTP 503, maintenance.)
 - US-OH-SCT: https://history.state.gov/departmenthistory/people/principalofficers/coordinator-counterterrorism (Page shows only a notice that Principal Officers database updates are suspended, posted 12 Jan 2024; coordinator list not displayed.)
 - UK-MAI: https://manchesterarenainquiry.org.uk/ (human-verification page; WebFetch timed out.)
-- DE-GTAZ: https://www.bka.de/DE/UnsereAufgaben/Kooperationen/GTAZ/gtaz_node.html (timeout; WebFetch 504.)
 - IN-NIA: https://nia.gov.in/ (timeout.)
-- KE-POTA2012: http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/PreventionofTerrorismAct_No30of2012.pdf (HTTP 500; WebFetch 403. A current Kenya Law URL was also added as KE-POTA2012-KL and is still unverified.)
 - PH-RA11479: https://www.officialgazette.gov.ph/2020/07/03/republic-act-no-11479/ (Cloudflare; WebFetch timed out.)
-- CHR-2005-80: https://undocs.org/E/CN.4/RES/2005/80 (the UN documents site served only its language selector and "LOADING" pages.)
-- ID-BNPT: https://www.bnpt.go.id/ (bot-protection page.)
+- CHR-2005-80: https://undocs.org/E/CN.4/RES/2005/80 (UN document system error page or 403 in round 5; the official resolution text is still unread.)
 
-In round 4 the cited URLs of CRS-R43983, COE-ECST1977, COE-CPT2005 and US-NSCT2018 were replaced by official copies of the same documents, and those four rows are now `verified=yes`. Two earlier phase 1 sources (OHCHR-SR-CT, CAMPBELL2006) were already `verified=yes` at their cited URL after round 3.
+In round 5, OAS-CICTE2002, OAS-CICTE, DE-GTAZ and ID-BNPT were verified at the cited URL. KE-POTA2012 now points to Kenya Law's current site and is `verified=yes`; the earlier PDF URL, which still returns HTTP 500, is recorded in the notes, and the duplicate row KE-POTA2012-KL was merged into KE-POTA2012. In round 4 the cited URLs of CRS-R43983, COE-ECST1977, COE-CPT2005 and US-NSCT2018 were replaced by official copies of the same documents, and those four rows are `verified=yes`. Two earlier phase 1 sources (OHCHR-SR-CT, CAMPBELL2006) were already `verified=yes` at their cited URL after round 3.
 
-### Pass 2 sources still unverified (16)
+### Pass 2 sources still unverified (11)
 
 - HIST-ROME1898-JCH: https://journals.sagepub.com/doi/10.1177/002200948101600205
 - IN-UAPA1967: https://www.indiacode.nic.in/handle/123456789/1470
 - IN-NIA-UAPA: https://nia.gov.in/uapa
 - PK-ATA1997: https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2Npappq-sg-jjjjjjjjjjjjj
 - PK-ATA1997-FIA: https://www.fia.gov.pk/public/files/laws/2060818757.pdf
-- KE-POTA2012-KL: https://new.kenyalaw.org/akn/ke/act/2012/30
-- MA-CNASNU: https://cnasnu.justice.gov.ma/language/fr/corpus-juridique-national/
 - PH-SC-2021-252578: https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/67914?5hhplJcmuxsbMr=fHsDQ
-- AU-POA2002-PSD: https://www.peaceau.org/uploads/au-anti-terrorism-plan-of-action.pdf
-- KZ-LAW416-1999: https://adilet.zan.kz/rus/docs/Z990000416_
 - OIC-CONV1999: https://bdrive.oic-oci.org/index.php/s/MRknarXLqNDraSj/download
 - SA-CTLAW2017: https://laws.boe.gov.sa/Boelaws/Laws/LawDetails/57694209-3eed-46c7-a5d8-a9ed012761d4/1
 - KNCHR-2015: http://www.knchr.org/Portals/0/CivilAndPoliticalReports/The%20Error%20of%20Fighting%20Terror%20With%20Terror.pdf
-- CNCDH-2017: https://www.cncdh.fr/sites/default/files/2021-04/170706_avis%20sur%20le%20PJL%20s%C3%A9curit%C3%A9%20int%C3%A9rieure_terrorisme%20p%C3%A0p.pdf
 - IN-NIA-UAPA-HI: https://nia.gov.in/hi/uapa
 - PK-CODE-URDU: https://www.pakistancode.gov.pk/english/UHyrdu.php
 
-MA-LOI03-03, which was unverified after round 2, is now `verified=yes` at the cited URL (C069).
+In round 5, KE-POTA2012, MA-CNASNU, AU-POA2002-PSD, KZ-LAW416-1999 and CNCDH-2017 were verified at the cited URL. MA-LOI03-03, which was unverified after round 2, was already `verified=yes` at the cited URL (C069).
 
-### Pass 3 sources still unverified (11)
+### Pass 3 sources still unverified (6)
 
 - IR-CFT-LAW1394: https://rc.majlis.ir/en/legal_draft/show/1043783 (timeout; WebFetch HTTP 500.)
-- IACHR-2002-TERR-ES: https://www.oas.org/dil/esp/informe_sobre_terrorismo_derechos_humanos.pdf (OAS HTTP 503, maintenance.)
-- IACHR-2002-TERR-EN: https://cidh.oas.org/Terrorism/Eng/exe.htm (OAS HTTP 503, maintenance.)
-- TJ-LAW845-1999: https://ncz.tj/content/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD-%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8-%D1%82%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD-%D0%BE-%D0%B1%D0%BE%D1%80%D1%8C%D0%B1%D0%B5-%D1%81-%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80%D0%B8%D0%B7%D0%BC%D0%BE%D0%BC (timeout; WebFetch 504.)
-- NZ-TSA2002: https://www.legislation.govt.nz/act/public/2002/34/en/latest/ (HTTP 202, empty body; WebFetch timed out.)
-- NZ-CTLA2021: https://www.legislation.govt.nz/act/public/2021/37/en/latest/ (HTTP 202, empty body; WebFetch timed out.)
+- TJ-LAW845-1999: https://ncz.tj/content/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD-%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8-%D1%82%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD-%D0%BE-%D0%B1%D0%BE%D1%80%D1%8C%D0%B1%D0%B5-%D1%81-%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80%D0%B8%D0%B7%D0%BC%D0%BE%D0%BC (no response in round 5.)
 - AU-AGD-INSLM-RESP: https://www.ag.gov.au/national-security/publications/response-inslm-reviews-control-orders-and-preventative-detention-orders-declared (timeout.)
 - IN-NIA-ACT2008: https://www.indiacode.nic.in/handle/123456789/2054 (timeout.)
 - PK-CONST21-2015: https://www.na.gov.pk/uploads/documents/1420547178_142.pdf (timeout; WebFetch 504.)
-- JP-TFINANCE-2002: https://laws.e-gov.go.jp/law/414AC0000000067?occasion_date=20260701 (page body loads only with JavaScript.)
 - SG-NAS-MHA2002: https://www.nas.gov.sg/archivesonline/data/pdfdoc/2002022501.htm (HTTP 202, empty body.)
 
-G5S-CONV2014-WA, which was unverified after round 3, is now `verified=yes` by OCR of the scanned original (C086–C087). The cited URL is unchanged.
+In round 5, IACHR-2002-TERR-ES, IACHR-2002-TERR-EN, NZ-TSA2002, NZ-CTLA2021 and JP-TFINANCE-2002 were verified at the cited URL. G5S-CONV2014-WA, which was unverified after round 3, is `verified=yes` by OCR of the scanned original (C086–C087). The cited URL is unchanged.
 
 ### Labeled secondary stand-ins (verified = no)
 
-These unofficial copies, listings and news reports were added after the official-source merge in round 4. Each is labeled `secondary/unofficial`, is `verified=no`, and stands in for an official source that still could not be read. They do not confirm the official texts.
+These unofficial copies, listings and news reports were added after the official-source merge in round 4. Each is labeled `secondary/unofficial` and is `verified=no`. They were kept in place in round 5. They do not confirm official texts, even where an official copy is now also in the archive.
 
-- SEC-TJ-845-SPINFORM: unofficial Spinform copy of Tajikistan Law No. 845 of 1999, standing in for TJ-LAW845-1999.
-- SEC-KZ-416-PRG: unofficial PRG.kz copy of Kazakhstan Law No. 416-I of 1999, standing in for KZ-LAW416-1999. A Continent Online page with the same doc_id was not added as a separate source.
-- SEC-CHR-2005-80-SCR: unofficial Security Council Report copy of CHR resolution 2005/80, standing in for CHR-2005-80.
-- SEC-KE-POTA-SHERIANET: unofficial SheriaNet listing, standing in for KE-POTA2012 and KE-POTA2012-KL; supports the citation only.
-- SEC-PK-SC-2019-95: unofficial case-law copy of a Supreme Court of Pakistan judgment in Criminal Appeals No. 95 and 96 of 2019 (2020 PLD Supreme Court 61). The copy's URL contained a private party's name and is withheld. The official court PDF returned HTTP 403.
+- SEC-TJ-845-SPINFORM: unofficial Spinform copy of Tajikistan Law No. 845 of 1999, standing in for TJ-LAW845-1999, which is still unread at the official URL.
+- SEC-KZ-416-PRG: unofficial PRG.kz copy of Kazakhstan Law No. 416-I of 1999, standing in for KZ-LAW416-1999, which is now verified at Adilet. A Continent Online page with the same doc_id was not added as a separate source.
+- SEC-CHR-2005-80-SCR: unofficial Security Council Report copy of CHR resolution 2005/80, standing in for CHR-2005-80, which is still unread at the official URL.
+- SEC-KE-POTA-SHERIANET: unofficial SheriaNet listing, standing in for KE-POTA2012; supports the citation only. The official Kenya Law text is now verified.
+- SEC-PK-SC-2019-95: unofficial case-law copy of a Supreme Court of Pakistan judgment in Criminal Appeals No. 95 and 96 of 2019 (2020 PLD Supreme Court 61). The copy's URL contained a private party's name and is withheld. The official court PDF still returned HTTP 403 in round 5.
 - SEC-PK-DAWN-2019: Dawn news report of 30 October 2019 about that judgment.
-- SEC-PK-DAWNURDU-2025 and SEC-PK-BBCURDU-2025: Urdu news reports about Pakistan's Anti-terrorism (Amendment) Bill 2025. An official Senate PDF downloaded incomplete twice and was not used.
+- SEC-PK-DAWNURDU-2025 and SEC-PK-BBCURDU-2025: Urdu news reports about Pakistan's Anti-terrorism (Amendment) Bill 2025. They now stand in for PK-ATA-BILL2025, the official bill text as passed by the National Assembly. Senate passage and assent are not shown in that official text and stay not-proven.
 
 ### Dropped secondary leads (not in sources.csv)
 
@@ -163,14 +159,13 @@ These unofficial copies, listings and news reports were added after the official
 
 ## Not-proven timeline rows
 
-Phase 1:
+Phase 1, still not-proven:
 
-- T015: cites COE-ECST1977 (official treaty text now read; stays not-proven because the words "opened for signature" rest on an explanatory report that has been identified but not yet read)
-- T061: cites OAS-CICTE2002 (OAS page still unverified; a separate official Peruvian government copy is recorded as PE-GOB-CIAT2002-ES)
 - T070: cites PE-CVR (source page was fetched, but the release date is not printed on that page)
 - T084: cites CHR-2005-80 (official text still unread; an unofficial copy is recorded as SEC-CHR-2005-80-SCR; confidence stays not-proven)
-- T085: cites COE-CPT2005 (same reason as T015)
 - T129: cites PH-RA11479
+
+In round 5, T015 and T085 moved to `we-have-a-record`, with the official Council of Europe explanatory reports as second citations. T061 moved to `we-have-a-record` on the verified OAS treaty page and status page.
 
 T088 (EU-CTSTRAT2005) and T117 (BR-L13260) were `not-proven` after round 2 even though their sources were already `verified=yes`. In round 3, C063–C066 moved both rows to `we-have-a-record`. T117 now records the enactment without the unverified-page caveat. T088 was reworded to the Presidency and CT Co-ordinator note forwarded to the Council; the date of formal adoption is `[UNKNOWN]` because it is not printed in the cited document.
 
@@ -179,11 +174,13 @@ Pass 2:
 - T169: cites ACHPR-CT2015 (year taken from a search listing)
 - T186: cites PH-SC-2021-252578 (decision text not captured; docket page verified)
 
-Round 3 and round 4 added no `not-proven` rows. Round 4 did not raise T015 or T085.
+Round 3, round 4 and round 5 added no `not-proven` rows.
 
-## Confirmed from another official copy (round 1 review, pass 2 retries, pass 3 and pass 4)
+## Confirmed from another official copy (round 1 review, pass 2 retries, pass 3, pass 4 and pass 5)
 
 - **UK-AvSSHD2004 / T080:** The BAILII URL remained blocked. The judgment was confirmed from the official House of Lords session papers at https://publications.parliament.uk/pa/ld200405/ldjudgmt/jd041216/a&oth-1.htm (title, date 16 December 2004, [2004] UKHL 56). The declaration that section 23 of the 2001 Act is incompatible with articles 5 and 14 of the European Convention is in paragraph 73 of the same judgment (https://publications.parliament.uk/pa/ld200405/ldjudgmt/jd041216/a&oth-5.htm). The source is marked `verified=yes`.
 - **PK-FMU-ATA1997 and IN-NIA-ACT2008-HI:** Added in round 3 as separate official copies of texts whose original pass 2 URLs still fail. They were not substituted for PK-ATA1997, PK-ATA1997-FIA, IN-NIA-ACT2008 or the NIA UAPA pages, which stay in the spreadsheet as unverified.
-- **PE-GOB-CIAT2002-ES:** Added in round 4 as an official Peruvian government Spanish copy of the Inter-American Convention against Terrorism. It does not replace OAS-CICTE2002, whose OAS URL remains unverified.
+- **PE-GOB-CIAT2002-ES:** Added in round 4 as an official Peruvian government Spanish copy of the Inter-American Convention against Terrorism. It does not replace OAS-CICTE2002, whose OAS URL is now `verified=yes` (round 5).
 - **US-NSCT2018, CRS-R43983, COE-ECST1977 and COE-CPT2005:** In round 4 the cited URL of each row was replaced by an official copy of the same document, and `verified` is now yes at that new URL. For US-NSCT2018, a matching Wayback Machine capture of the original dni.gov copy is recorded in the notes.
+- **KE-POTA2012:** In round 5 the cited URL was replaced by Kenya Law's current official page, and `verified` is now yes. The earlier PDF URL, which still returns HTTP 500, is recorded in the notes. The duplicate row KE-POTA2012-KL was merged into this row.
+- **PK-ATA-BILL2025:** Added in round 5 as the official Senate-hosted text of the 2025 amendment bill as passed by the National Assembly. It does not show Senate passage or assent.
