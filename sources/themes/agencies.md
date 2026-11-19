@@ -15,6 +15,8 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **About the Counter-Terrorism Committee Executive Directorate (CTED)**
 
+Summary: The 'About' page of the Counter-Terrorism Committee Executive Directorate (CTED), on the website of the Security Council's Counter-Terrorism Committee. The site covers the Committee's mandate, Security Council and General Assembly resolutions, country assessments and visits, and implementation surveys. CTA6 cites it for milestone T055 as the Committee's own description of the body created under resolutions 1373 and 1535. The page is undated \[UNKNOWN\].
+
 - Issuing body: UN Security Council Counter-Terrorism Committee
 - Date: \[UNKNOWN\]
 - Type: other
@@ -35,6 +37,8 @@ Cited by: [T055](../../timeline/post-9-11-2001-2014.md#T055)
 ## UNOCT
 
 **United Nations Office of Counter-Terrorism (home page)**
+
+Summary: The home page of the UN Office of Counter-Terrorism (UNOCT). The page says the Office provides leadership, coordination and capacity-building to support Member States in implementing the UN Global Counter-Terrorism Strategy. CTA6 cites it for milestone T121, the 2017 resolution that created the Office. The page is undated \[UNKNOWN\].
 
 - Issuing body: UN Office of Counter-Terrorism
 - Date: \[UNKNOWN\]
@@ -57,6 +61,8 @@ Cited by: [T121](../../timeline/recent-2014-now.md#T121)
 
 **Terrorism Prevention Branch**
 
+Summary: A page of the UN Office on Drugs and Crime (UNODC) about its Terrorism Prevention Branch. It records that UNODC has a dedicated unit for terrorism prevention; the page's capture shows mostly site navigation, so the Branch's specific mandate is not recorded in CTA6 \[UNKNOWN\]. The page is undated \[UNKNOWN\].
+
 - Issuing body: UN Office on Drugs and Crime
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -77,6 +83,8 @@ Cited by: none in `data/timeline.csv`.
 ## OAS-CICTE
 
 **Inter-American Committee against Terrorism (CICTE)**
+
+Summary: The page of the OAS Inter-American Committee against Terrorism (CICTE). It would describe the OAS body that works on counter-terrorism, but the cited copy could not be confirmed (HTTP 503). Its content and date are \[UNKNOWN\].
 
 - Issuing body: Organization of American States
 - Date: \[UNKNOWN\]
@@ -99,6 +107,8 @@ Cited by: none in `data/timeline.csv`.
 
 **African Centre for the Study and Research on Terrorism (ACSRT/CAERT)**
 
+Summary: The African Union page on the African Centre for the Study and Research on Terrorism (ACSRT/CAERT). As its name states, it is the AU's centre for study and research on terrorism; its mandate and founding date are not recorded in CTA6 \[UNKNOWN\]. The page is undated \[UNKNOWN\].
+
 - Issuing body: African Union
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -119,6 +129,8 @@ Cited by: none in `data/timeline.csv`.
 ## FATF-HIST
 
 **History of the FATF**
+
+Summary: The history page of the Financial Action Task Force (FATF), the intergovernmental body on money laundering and terrorist financing. CTA6 cites it for two milestones: the G7's creation of the FATF to address money laundering (T029) and the FATF's Eight Special Recommendations on terrorist financing (T057). The page is undated \[UNKNOWN\] and was confirmed through a text extraction because the site blocked a direct capture.
 
 - Issuing body: Financial Action Task Force
 - Date: \[UNKNOWN\]
@@ -141,6 +153,8 @@ Cited by: [T029](../../timeline/1945-1990.md#T029), [T057](../../timeline/post-9
 
 **Global Counterterrorism Forum (home page)**
 
+Summary: The home page of the Global Counterterrorism Forum (GCTF). The page describes it as bringing policymakers and practitioners together to share experience and develop practical, publicly available tools and strategies to prevent and counter terrorism, and says it is co-chaired by Egypt and the European Union. No milestone cites it yet, and the page is undated \[UNKNOWN\].
+
 - Issuing body: Global Counterterrorism Forum
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -161,6 +175,8 @@ Cited by: none in `data/timeline.csv`.
 ## INTERPOL-CT
 
 **Terrorism (crime area page)**
+
+Summary: INTERPOL's page on terrorism as a crime area. It is INTERPOL's own description of its counter-terrorism role, but the direct capture was blocked and only the title was confirmed through a text extraction, so its content is not recorded in CTA6 \[UNKNOWN\]. The page is undated \[UNKNOWN\].
 
 - Issuing body: INTERPOL
 - Date: \[UNKNOWN\]
@@ -183,6 +199,8 @@ Cited by: none in `data/timeline.csv`.
 
 **A Brief History (History of the FBI)**
 
+Summary: 'A Brief History', the FBI's official history page. It dates the founding of the federal investigative agency that became the FBI to 1908, under the heading 'The Nation Calls, 1908-1923'. It is the source for milestone T002 and is the FBI's own account of its origins; the page is undated \[UNKNOWN\].
+
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -203,6 +221,8 @@ Cited by: [T002](../../timeline/pre-1945.md#T002)
 ## US-NCTC-HIST
 
 **NCTC History**
+
+Summary: The history page of the US National Counterterrorism Center (NCTC), part of the Office of the Director of National Intelligence. CTA6 cites it for two milestones: the opening of the Terrorist Threat Integration Center (T068) and Executive Order 13354 incorporating it into the NCTC (T078). The page is undated \[UNKNOWN\] and was confirmed through a text extraction only.
 
 - Issuing body: Office of the Director of National Intelligence / National Counterterrorism Center
 - Date: \[UNKNOWN\]
@@ -225,6 +245,8 @@ Cited by: [T068](../../timeline/post-9-11-2001-2014.md#T068), [T078](../../timel
 
 **Creation of the Department of Homeland Security**
 
+Summary: The US Department of Homeland Security's page on its own creation. It says DHS was created by combining all or part of 22 federal departments and agencies into a unified department. It is cited for milestone T065; the page is undated \[UNKNOWN\].
+
 - Issuing body: US Department of Homeland Security
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -245,6 +267,8 @@ Cited by: [T065](../../timeline/post-9-11-2001-2014.md#T065)
 ## US-STATE-FTO
 
 **Foreign Terrorist Organizations**
+
+Summary: The US State Department Bureau of Counterterrorism page on Foreign Terrorist Organizations (FTOs). It explains that FTOs are foreign organizations designated by the Secretary of State under section 219 of the Immigration and Nationality Act. It is the official US list of designated organizations; the page is undated, so the date of the list shown is \[UNKNOWN\].
 
 - Issuing body: US Department of State, Bureau of Counterterrorism
 - Date: \[UNKNOWN\]
@@ -267,6 +291,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Coordinator for Counterterrorism (Principal Officers)**
 
+Summary: The US State Department Office of the Historian's page on the Coordinator for Counterterrorism, in its Principal Officers database. It would record the holders of the State Department's counterterrorism coordinator post. The cited copy could not be confirmed: the page loaded only a script shell, and a later retry showed a notice that database updates are suspended; its content is \[UNKNOWN\].
+
 - Issuing body: US Department of State, Office of the Historian
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -287,6 +313,8 @@ Cited by: none in `data/timeline.csv`.
 ## UK-MI5-HIST
 
 **MI5 history**
+
+Summary: MI5's (the Security Service's) history page. MI5 states that it has existed in different forms since 1909, beginning as the Secret Service Bureau, and it is the source for milestone T003. Only the title and that statement were confirmed through a text extraction (the site blocked a direct capture); the page is undated \[UNKNOWN\].
 
 - Issuing body: MI5 (Security Service)
 - Date: \[UNKNOWN\]
@@ -309,6 +337,8 @@ Cited by: [T003](../../timeline/pre-1945.md#T003)
 
 **Gemeinsames Terrorismusabwehrzentrum (GTAZ)**
 
+Summary: A Federal Criminal Police Office (Bundeskriminalamt) page on the Gemeinsames Terrorismusabwehrzentrum (GTAZ), Germany's Joint Counter-Terrorism Centre. As its name states, it is a joint centre for countering terrorism; its role is not described in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed (the connection failed), and the page is undated \[UNKNOWN\].
+
 - Issuing body: Bundeskriminalamt
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -329,6 +359,8 @@ Cited by: none in `data/timeline.csv`.
 ## IN-NIA
 
 **National Investigation Agency (home page)**
+
+Summary: The home page of India's National Investigation Agency (NIA). It is the website of the agency created under the NIA Act, 2008 (T213). The cited copy could not be confirmed (HTTP 000), so its content is \[UNKNOWN\], and the page is undated.
 
 - Issuing body: National Investigation Agency, India
 - Date: \[UNKNOWN\]
@@ -351,6 +383,8 @@ Cited by: none in `data/timeline.csv`.
 
 **National Counter Terrorism Authority (home page)**
 
+Summary: The home page of Pakistan's National Counter Terrorism Authority (NACTA). The page says NACTA was assigned the role of monitoring body for Pakistan's National Action Plan, with provincial committees overseeing provincial agenda points. NACTA was established by the NACTA Act, 2013 (T215); the page is undated \[UNKNOWN\].
+
 - Issuing body: NACTA, Pakistan
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -371,6 +405,8 @@ Cited by: none in `data/timeline.csv`.
 ## PCLOB-HOME
 
 **Privacy and Civil Liberties Oversight Board (home page)**
+
+Summary: The home page of the US Privacy and Civil Liberties Oversight Board (PCLOB). The site holds the Board's oversight reports, semi-annual reports and projects. It is the Board that issued the 2014 Section 215 report (T109); the page is undated \[UNKNOWN\].
 
 - Issuing body: US Privacy and Civil Liberties Oversight Board
 - Date: \[UNKNOWN\]
@@ -393,6 +429,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Badan Nasional Penanggulangan Terorisme (BNPT) (home page)**
 
+Summary: The home page of Indonesia's Badan Nasional Penanggulangan Terorisme (BNPT, National Counter-Terrorism Agency). The cited copy could not be confirmed: the fetch returned a bot-detection page instead of the site's content. Its content and date are \[UNKNOWN\].
+
 - Issuing body: BNPT, Republic of Indonesia
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -413,6 +451,8 @@ Cited by: none in `data/timeline.csv`.
 ## JP-PSIA-AUM
 
 **Public Security Intelligence Agency (English home page)**
+
+Summary: The English home page of Japan's Public Security Intelligence Agency (PSIA). The page refers to the agency carrying out the surveillance disposition on Aum Shinrikyo and clarifying the organization's activities, and links to sections on efforts to prevent terrorism. It is undated \[UNKNOWN\]; the 2024 renewal of the measure is recorded as T228.
 
 - Issuing body: Public Security Intelligence Agency, Japan
 - Date: \[UNKNOWN\]
@@ -435,6 +475,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Australian National Security: Terrorism (Listed terrorist organisations)**
 
+Summary: An Australian Government web page on the Australian National Security site listing the organisations Australia has listed as terrorist organisations. It records which groups carry that legal designation in Australia. The page is undated, so the date of the list it shows is \[UNKNOWN\].
+
 - Issuing body: Australian Government
 - Date: \[UNKNOWN\]
 - Type: other
@@ -455,6 +497,8 @@ Cited by: none in `data/timeline.csv`.
 ## CA-LISTED
 
 **Currently listed entities**
+
+Summary: Public Safety Canada's page of 'Currently listed entities'. As its title states, it is the Government of Canada's current list of listed entities; the legal basis and contents are not recorded in CTA6 \[UNKNOWN\]. The page is undated, and it was confirmed on a retry by its title only.
 
 - Issuing body: Public Safety Canada
 - Date: \[UNKNOWN\]
@@ -477,6 +521,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Regional Anti-Terrorist Structure of the Shanghai Cooperation Organisation (official site)**
 
+Summary: The official website of the Regional Anti-Terrorist Structure of the Shanghai Cooperation Organisation (RATS SCO), in Russian. The site has sections on the structure's history and mission, its leadership and the SCO member states. RATS was set up under the 2002 agreement (T199); the page is undated \[UNKNOWN\].
+
 - Issuing body: SCO RATS
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -497,6 +543,8 @@ Cited by: none in `data/timeline.csv`.
 ## KE-NCTC
 
 **National Counter Terrorism Centre (Kenya) (home page)**
+
+Summary: The home page of Kenya's National Counter Terrorism Centre (NCTC). The Centre describes itself as a multi-agency institution established by the Prevention of Terrorism Act to coordinate national measures to prevent, detect, deter and disrupt terrorism, and says section 40C of the Act makes it the approving and reporting body for certain civil society programmes. The page is undated \[UNKNOWN\].
 
 - Issuing body: National Counter Terrorism Centre, Kenya
 - Date: \[UNKNOWN\]
@@ -519,6 +567,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Unlawful Activities Prevention Act and Rules**
 
+Summary: A National Investigation Agency page titled 'Unlawful Activities Prevention Act and Rules'. It would hold the UAPA and its rules as published by the agency. The cited copy could not be confirmed (HTTP 000), so its content and date are \[UNKNOWN\].
+
 - Issuing body: National Investigation Agency, India
 - Date: \[UNKNOWN\]
 - Type: other
@@ -539,6 +589,8 @@ Cited by: none in `data/timeline.csv`.
 ## JP-PSIA-HIST
 
 **History (Public Security Intelligence Agency)**
+
+Summary: The history page of Japan's Public Security Intelligence Agency. It says the Act on the Control of Organizations Which Have Committed Acts of Indiscriminate Mass Murder came into force on 27 December 1999 and gave the PSIA additional duties to investigate, request dispositions and take control measures regarding such organizations. It supports milestone T146; the page is undated \[UNKNOWN\].
 
 - Issuing body: Public Security Intelligence Agency, Japan
 - Date: \[UNKNOWN\]
@@ -561,6 +613,8 @@ Cited by: [T146](../../timeline/1990-2001.md#T146)
 
 **यूएपीए | राष्ट्रीय अन्वेषण अभिकरण**
 
+Summary: The Hindi-language UAPA page of India's National Investigation Agency. It would present the Unlawful Activities (Prevention) Act in Hindi. The cited copy could not be confirmed (HTTP 000), so its content is \[UNKNOWN\].
+
 - Issuing body: राष्ट्रीय अन्वेषण अभिकरण (National Investigation Agency, India)
 - Date: \[UNKNOWN\]
 - Type: other
@@ -581,6 +635,8 @@ Cited by: none in `data/timeline.csv`.
 ## BR-ABIN-TERR
 
 **Terrorismo (Fontes de ameaças)**
+
+Summary: A page on terrorism from the Brazilian Intelligence Agency (ABIN), published on 23 September 2020. ABIN says Brazil, although not a specific target of terrorist groups, is not free from attacks on its territory or from the effects of attacks abroad, and that intelligence analysis of suspect behaviour can anticipate terrorist actions. These are ABIN's own statements; no milestone cites it.
 
 - Issuing body: Agência Brasileira de Inteligência (ABIN)
 - Date: \[UNKNOWN\]
@@ -603,6 +659,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Unidad Fiscal para la Investigación de la Causa AMIA (UFI-AMIA) (página institucional)**
 
+Summary: The institutional page of Argentina's Prosecution Unit for the AMIA Case (UFI-AMIA), part of the Public Prosecutor's Office. It says the unit was created by Resolución MP N°84/04 to act jointly or alternately with the competent prosecutors in the main case investigating the 18 July 1994 attack on the Asociación Mutual Israelita Argentina (AMIA). It is the source for milestone T204.
+
 - Issuing body: Ministerio Público Fiscal de la Nación (Argentina)
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -623,6 +681,8 @@ Cited by: [T204](../../timeline/post-9-11-2001-2014.md#T204)
 ## RU-UKAZ116-2006
 
 **Указ Президента Российской Федерации от 15.02.2006 г. № 116 «О мерах по противодействию терроризму»**
+
+Summary: Russian Presidential Decree No. 116 of 15 February 2006, 'On measures to counter terrorism', from the Kremlin website, in its text as amended to 25 November 2019. Point 1 establishes the National Anti-Terrorism Committee. It is the source for milestone T208.
 
 - Issuing body: Президент Российской Федерации (kremlin.ru)
 - Date: 2006-02-15
@@ -645,6 +705,8 @@ Cited by: [T208](../../timeline/post-9-11-2001-2014.md#T208)
 
 **Соглашение между государствами-членами Шанхайской организации сотрудничества о Региональной антитеррористической структуре**
 
+Summary: The Agreement among SCO member states on the Regional Anti-Terrorist Structure, in Russian, from the SCO's document records. The record gives adoption by the Council of Heads of State on 7 June 2002 in Saint Petersburg, entry into force from signature, and status as in force. It is the source for milestone T199 and the legal basis of RATS (SCO-RATS).
+
 - Issuing body: Шанхайская организация сотрудничества (Совет глав государств)
 - Date: 2002-06-07
 - Type: treaty
@@ -665,6 +727,8 @@ Cited by: [T199](../../timeline/post-9-11-2001-2014.md#T199)
 ## IN-NIA-ACT2008-HI
 
 **राष्ट्रीय अन्वेषण अभिकरण अधिनियम, 2008 (2008 का अधिनियम संख्यांक 34)**
+
+Summary: The Hindi text of India's National Investigation Agency Act, 2008 (Act No. 34 of 2008), hosted by the Ministry of Home Affairs / NIA. It bears the date 31 December 2008 and is the source for milestone T213. As its title states, it is the law establishing the NIA; its provisions are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: Ministry of Home Affairs / National Investigation Agency (Government of India, S3WaaS)
 - Date: 2008-12-31
@@ -687,6 +751,8 @@ Cited by: [T213](../../timeline/post-9-11-2001-2014.md#T213)
 
 **National Investigation Agency Act, 2008**
 
+Summary: India's National Investigation Agency Act, 2008, in English at India Code. It is the law that created India's National Investigation Agency. The cited copy could not be confirmed (the fetch timed out), and its date is taken from the Hindi text (IN-NIA-ACT2008-HI).
+
 - Issuing body: Legislative Department, Government of India (India Code)
 - Date: 2008-12-31
 - Type: statute
@@ -707,6 +773,8 @@ Cited by: none in `data/timeline.csv`.
 ## PK-NACTA-ACT2013
 
 **National Counter Terrorism Authority Act, 2013 (Act No. XIX of 2013)**
+
+Summary: Pakistan's National Counter Terrorism Authority Act, 2013 (Act No. XIX of 2013), as published by NACTA. Its preamble describes terrorism and extremism as an existential threat to the State and says a focal institution is needed to unify the national response, and the Act establishes the National Counter Terrorism Authority. It is the source for milestone T215; the day and month are \[UNKNOWN\].
 
 - Issuing body: National Counter Terrorism Authority (Government of Pakistan)
 - Date: 2013
@@ -729,6 +797,8 @@ Cited by: [T215](../../timeline/post-9-11-2001-2014.md#T215)
 
 **National Counter Terrorism Centre (laws page)**
 
+Summary: The laws page of the Maldives' National Counter Terrorism Centre. It lists the Prevention of Terrorism Act (Act No. 32/2015) and its 2016 amendment, a state policy on terrorism and violent extremism, and the Prevention of Money Laundering and Financing of Terrorism Act (No. 10/2014). The page is undated \[UNKNOWN\].
+
 - Issuing body: National Counter Terrorism Centre (Maldives)
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -749,6 +819,8 @@ Cited by: none in `data/timeline.csv`.
 ## JP-KOUANSHIN-AUM
 
 **オウム真理教に対する観察処分の期間更新決定の概要について（令和6年1月12日）**
+
+Summary: A summary from Japan's Public Security Examination Commission (Ministry of Justice), dated 12 January 2024, of its decision to renew the observation measure on Aum Shinrikyo. The Commission states it acted on the request of the Director-General of the Public Security Intelligence Agency under the 1999 Act on organizations that committed indiscriminate mass murder. It is a source for milestone T228.
 
 - Issuing body: 公安審査委員会 (Public Security Examination Commission, Ministry of Justice)
 - Date: 2024-01-12
@@ -771,6 +843,8 @@ Cited by: [T228](../../timeline/recent-2014-now.md#T228)
 
 **無差別大量殺人行為を行った団体の規制に関する法律に基づく観察処分の期間の更新決定（8回目）について（令和6年1月12日決定）**
 
+Summary: A Public Security Intelligence Agency page on the eighth renewal of the observation measure under the 1999 Act, decided on 12 January 2024. The agency says it received the Public Security Examination Commission's decision renewing the measure, and it links to its comment, a summary of the decision and the current state of Aum Shinrikyo. It is a source for milestone T228.
+
 - Issuing body: 公安調査庁 (Public Security Intelligence Agency)
 - Date: 2024-01-12
 - Type: other
@@ -791,6 +865,8 @@ Cited by: [T228](../../timeline/recent-2014-now.md#T228)
 ## SG-NAS-MHA2002
 
 **Government News Release on the ISA Arrests: The Advisory Board Sits (MHA press release, 25 Feb 2002)**
+
+Summary: A Singapore Ministry of Home Affairs press release of 25 February 2002, 'Government News Release on the ISA Arrests: The Advisory Board Sits', held by the National Archives of Singapore. Its title suggests it concerns the advisory board's review of ISA arrests, but the cited copy could not be confirmed (an empty response). Its title and date come from a search listing only.
 
 - Issuing body: Ministry of Home Affairs, Singapore (National Archives of Singapore)
 - Date: 2002-02-25

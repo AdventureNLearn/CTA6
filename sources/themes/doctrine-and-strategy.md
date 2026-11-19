@@ -15,6 +15,8 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **The European Union Counter-Terrorism Strategy (14469/4/05 REV 4)**
 
+Summary: The European Union Counter-Terrorism Strategy, Council document 14469/4/05 REV 4, dated Brussels, 30 November 2005. It is the EU's overall counter-terrorism strategy document; the document is a note from the Presidency and the EU Counter-Terrorism Co-ordinator forwarding the Strategy to the Council for agreement. It is the source for milestone T088; the PDF is image-only, so its title, date and number were confirmed by OCR, and the date of formal adoption is not printed in it \[UNKNOWN\].
+
 - Issuing body: Council of the European Union
 - Date: 2005-11-30
 - Type: other
@@ -36,6 +38,8 @@ Cited by: [T088](../../timeline/post-9-11-2001-2014.md#T088)
 
 **National Strategy for Combating Terrorism**
 
+Summary: The National Strategy for Combating Terrorism, listed in CTA6 with the date 14 February 2003 (White House, State Department archive). The page captured at the cited link is the September 2006 version of the strategy, which says it builds directly on the February 2003 strategy, so the 2003 text itself was not confirmed at this link \[UNKNOWN\]. It belongs to the series of US national counterterrorism strategies continued in 2011 and 2018.
+
 - Issuing body: The White House (State Dept archive)
 - Date: 2003-02-14
 - Type: other
@@ -56,6 +60,8 @@ Cited by: none in `data/timeline.csv`.
 
 **National Strategy for Counterterrorism**
 
+Summary: The US National Strategy for Counterterrorism issued by the White House on 28 June 2011. The document says it sets out the overarching goals of US counterterrorism and the steps necessary to achieve them. It is the source for milestone T105.
+
 - Issuing body: The White House
 - Date: 2011-06-28
 - Type: other
@@ -75,6 +81,8 @@ Cited by: [T105](../../timeline/post-9-11-2001-2014.md#T105)
 ## US-NSCT2018
 
 **National Strategy for Counterterrorism of the United States of America**
+
+Summary: The National Strategy for Counterterrorism of the United States of America, issued by the White House in October 2018. As its title states, it is the US national counterterrorism strategy of that year; its contents are not summarized in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed: the link returned HTTP 403 and later 404, although the document had been found at an official archive copy.
 
 - Issuing body: The White House (hosted by ODNI/NCTC)
 - Date: 2018-10
@@ -97,6 +105,8 @@ Cited by: none in `data/timeline.csv`.
 
 **National Strategy for Countering Domestic Terrorism**
 
+Summary: The US National Strategy for Countering Domestic Terrorism, issued by the National Security Council in June 2021. The strategy says it is narrowly tailored to address violence that violates the law and threatens public safety, while protecting free expression. It is the source for milestone T130 and is the first national strategy in CTA6 focused on domestic terrorism.
+
 - Issuing body: National Security Council (The White House)
 - Date: 2021-06
 - Type: other
@@ -116,6 +126,8 @@ Cited by: [T130](../../timeline/recent-2014-now.md#T130)
 ## CA-CTSTRAT2012
 
 **Building Resilience Against Terrorism: Canada's Counter-terrorism Strategy**
+
+Summary: 'Building Resilience Against Terrorism: Canada's Counter-terrorism Strategy', published by Public Safety Canada in 2012. The strategy says its aim is countering domestic and international terrorism to protect Canada, Canadians and Canadian interests, and for each element it sets out the purpose, desired outcomes and main programs. No milestone cites it yet.
 
 - Issuing body: Public Safety Canada
 - Date: 2012
@@ -137,6 +149,8 @@ Cited by: none in `data/timeline.csv`.
 
 **CONTEST: The United Kingdom's Strategy for Countering Terrorism 2023**
 
+Summary: CONTEST 2023, the UK's counter-terrorism strategy, published by the Home Office on 18 July 2023. The Home Office states that the aim of CONTEST is to reduce the risk from terrorism to the UK, its citizens and interests overseas, so people can live freely and with confidence. It is the source for milestone T132.
+
 - Issuing body: UK Home Office
 - Date: 2023-07-18
 - Type: other
@@ -156,6 +170,8 @@ Cited by: [T132](../../timeline/recent-2014-now.md#T132)
 ## ECOWAS-CT2013-IP
 
 **ECOWAS Counter-Terrorism Strategy Implementation Plan**
+
+Summary: The Implementation Plan of the ECOWAS Counter-Terrorism Strategy, dated 28 February 2013. It sets out actions by pillar; under 'Prevent', for example, every Member State should unambiguously reject terrorism in all its forms as a serious criminal offence. It is cited for milestone T165, the adoption of the Strategy by ECOWAS heads of state.
 
 - Issuing body: Economic Community of West African States
 - Date: 2013-02-28
@@ -178,6 +194,8 @@ Cited by: [T165](../../timeline/post-9-11-2001-2014.md#T165)
 
 **Supplementary Act A/SA.3/02/13 Adopting the ECOWAS Strategy for Combating Terrorism, and its Implementation Plan**
 
+Summary: ECOWAS Supplementary Act A/SA.3/02/13 adopting the ECOWAS Strategy for Combating Terrorism and its Implementation Plan, done at Yamoussoukro on 28 February 2013 (AfricanLII copy). It is the legal act by which ECOWAS heads of state adopted the regional strategy (T165). It was verified through a text extraction only.
+
 - Issuing body: ECOWAS (AfricanLII copy)
 - Date: 2013-02-28
 - Type: treaty
@@ -199,6 +217,8 @@ Cited by: [T165](../../timeline/post-9-11-2001-2014.md#T165)
 
 **Plan of Action of the African Union High-Level Inter-Governmental Meeting on the Prevention and Combating of Terrorism in Africa (Algiers, 11-14 September 2002)**
 
+Summary: The Plan of Action of the African Union High-Level Inter-Governmental Meeting on the Prevention and Combating of Terrorism in Africa, held in Algiers on 11-14 September 2002 (copy from the AU's ACSRT/CAERT). Its preamble says AU Member States have long espoused the need to counter terrorism at both individual and collective levels. It is the source for milestone T149.
+
 - Issuing body: African Union (ACSRT/CAERT copy)
 - Date: 2002-09-14
 - Type: other
@@ -219,6 +239,8 @@ Cited by: [T149](../../timeline/post-9-11-2001-2014.md#T149)
 ## AU-POA2002-PSD
 
 **Plan of Action of the African Union High-Level Inter-Governmental Meeting on the Prevention and Combating of Terrorism in Africa**
+
+Summary: A copy of the same 2002 AU Plan of Action on the Prevention and Combating of Terrorism in Africa, at the AU Peace and Security Department. It is a second copy supporting milestone T149. The cited copy could not be confirmed (HTTP 202 bot check).
 
 - Issuing body: African Union Peace and Security Department
 - Date: 2002-09-14

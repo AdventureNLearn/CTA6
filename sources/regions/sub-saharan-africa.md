@@ -13,6 +13,8 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **Security Council resolution 1189 (1998): Bombings in Nairobi and Dar-es-Salaam**
 
+Summary: UN Security Council resolution 1189, adopted on 13 August 1998, after the bombings in Nairobi and Dar-es-Salaam. The Council strongly condemns the bomb attacks of 7 August 1998 in Kenya and Tanzania, which it says claimed hundreds of lives and injured thousands, and calls on States to support the investigations in Kenya, Tanzania and the United States. It is the source for milestone T043.
+
 - Issuing body: UN Security Council
 - Date: 1998-08-13
 - Type: UN resolution
@@ -33,6 +35,8 @@ Cited by: [T043](../../timeline/1990-2001.md#T043)
 ## OAU-1999
 
 **OAU Convention on the Prevention and Combating of Terrorism (Algiers)**
+
+Summary: The African Union's treaty page for the OAU Convention on the Prevention and Combating of Terrorism (Algiers). The page gives the date of adoption as 1 July 1999 and entry into force as 6 December 2002. Other sources give 14 July 1999 as the adoption date, which is recorded as the people-disagree milestone T145; it is also cited for T045. It is Africa's continental treaty on terrorism.
 
 - Issuing body: Organisation of African Unity / African Union
 - Date: 1999-07-14
@@ -55,6 +59,8 @@ Cited by: [T045](../../timeline/1990-2001.md#T045), [T145](../../timeline/1990-2
 
 **African Centre for the Study and Research on Terrorism (ACSRT/CAERT)**
 
+Summary: The African Union page on the African Centre for the Study and Research on Terrorism (ACSRT/CAERT). As its name states, it is the AU's centre for study and research on terrorism; its mandate and founding date are not recorded in CTA6 \[UNKNOWN\]. The page is undated \[UNKNOWN\].
+
 - Issuing body: African Union
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -75,6 +81,8 @@ Cited by: none in `data/timeline.csv`.
 ## KE-POTA2012
 
 **Prevention of Terrorism Act, No. 30 of 2012**
+
+Summary: Kenya's Prevention of Terrorism Act, No. 30 of 2012, at the Kenya Law website. Kenya's National Counter Terrorism Centre says it was established by this Act. The cited copy could not be confirmed (HTTP 500), and the same Act at Kenya Law's new site (KE-POTA2012-KL) also could not be verified, so the Act's text is \[UNKNOWN\] in CTA6.
 
 - Issuing body: Parliament of Kenya (Kenya Law)
 - Date: 2012
@@ -97,6 +105,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Protection of Constitutional Democracy against Terrorist and Related Activities Act, 2004**
 
+Summary: South Africa's Protection of Constitutional Democracy against Terrorist and Related Activities Act, 2004. Its long title says it provides measures to prevent and combat terrorist and related activities, creates an offence of terrorism and related offences, gives effect to international instruments on terrorism, and provides a mechanism to comply with UN Security Council resolutions. It was amended in 2022 (T190).
+
 - Issuing body: Government of South Africa
 - Date: 2004
 - Type: statute
@@ -116,6 +126,8 @@ Cited by: none in `data/timeline.csv`.
 ## UNSC-ACSRT-SAHEL
 
 **Security Council resolution 2359 (2017): Peace and security in Africa (G5 Sahel Joint Force)**
+
+Summary: UN Security Council resolution 2359, adopted on 21 June 2017, on peace and security in Africa. It welcomes the deployment of the G5 Sahel Joint Force (FC-G5S) across its contributing countries, with up to 5,000 military and police personnel, to restore peace and security in the Sahel region. It is the source for milestone T122; resolution 2391 later addressed support to the force (T180).
 
 - Issuing body: UN Security Council
 - Date: 2017-06-21
@@ -138,6 +150,8 @@ Cited by: [T122](../../timeline/recent-2014-now.md#T122)
 
 **Security Council resolution 2349 (2017): Peace and security in Africa (Lake Chad Basin)**
 
+Summary: UN Security Council resolution 2349, adopted on 31 March 2017, on the Lake Chad Basin region. The Council strongly condemns terrorist attacks and abuses by Boko Haram and ISIL in the region, including killings, abductions, sexual violence and forced marriage. It is the source for milestone T119.
+
 - Issuing body: UN Security Council
 - Date: 2017-03-31
 - Type: UN resolution
@@ -158,6 +172,8 @@ Cited by: [T119](../../timeline/recent-2014-now.md#T119)
 ## UNSC1044
 
 **Security Council resolution 1044 (1996): Sudan (attempted assassination of President Mubarak in Addis Ababa)**
+
+Summary: UN Security Council resolution 1044, adopted on 31 January 1996, concerning Sudan. The Council condemns the terrorist assassination attempt on the President of Egypt in Addis Ababa, Ethiopia, on 26 June 1995. It is the source for milestone T037.
 
 - Issuing body: UN Security Council
 - Date: 1996-01-31
@@ -180,6 +196,8 @@ Cited by: [T037](../../timeline/1990-2001.md#T037)
 
 **Security Council resolution 1450 (2002): Terrorist attacks in Kenya (Kikambala and Mombasa)**
 
+Summary: UN Security Council resolution 1450, adopted on 13 December 2002. The Council condemns in the strongest terms the terrorist attacks in Kenya at Kikambala and Mombasa, including the bomb attack at the Paradise hotel. It is the source for milestone T066.
+
 - Issuing body: UN Security Council
 - Date: 2002-12-13
 - Type: UN resolution
@@ -200,6 +218,8 @@ Cited by: [T066](../../timeline/post-9-11-2001-2014.md#T066)
 ## UNSC2056
 
 **Security Council resolution 2056 (2012): Peace and security in Africa (Mali)**
+
+Summary: UN Security Council resolution 2056, adopted on 5 July 2012, on the situation in Mali. Among other things, the Council condemns the physical assault on Mali's Interim President. It is the source for milestone T163; the resolution's other provisions are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: UN Security Council
 - Date: 2012-07-05
@@ -222,6 +242,8 @@ Cited by: [T163](../../timeline/post-9-11-2001-2014.md#T163)
 
 **Security Council resolution 2391 (2017): Peace and security in Africa (G5 Sahel Joint Force support)**
 
+Summary: UN Security Council resolution 2391, adopted on 8 December 2017, on support to the G5 Sahel Joint Force. It reaffirms the UN integrated strategy for the Sahel as the framework for governance, security and development in the region and sets reporting arrangements on the Joint Force. It is the source for milestone T180 and follows resolution 2359 (T122).
+
 - Issuing body: UN Security Council
 - Date: 2017-12-08
 - Type: UN resolution
@@ -242,6 +264,8 @@ Cited by: [T180](../../timeline/recent-2014-now.md#T180)
 ## AU-PROTOCOL2004
 
 **Protocol to the OAU Convention on the Prevention and Combating of Terrorism**
+
+Summary: The Protocol to the OAU Convention on the Prevention and Combating of Terrorism, with the AU treaty page giving its date of adoption as 1 July 2004. As its title states, it supplements the 1999 OAU Convention; its provisions are not summarized in CTA6 \[UNKNOWN\]. It is the source for milestone T151.
 
 - Issuing body: African Union
 - Date: 2004-07-01
@@ -264,6 +288,8 @@ Cited by: [T151](../../timeline/post-9-11-2001-2014.md#T151)
 
 **National Counter Terrorism Centre (Kenya) (home page)**
 
+Summary: The home page of Kenya's National Counter Terrorism Centre (NCTC). The Centre describes itself as a multi-agency institution established by the Prevention of Terrorism Act to coordinate national measures to prevent, detect, deter and disrupt terrorism, and says section 40C of the Act makes it the approving and reporting body for certain civil society programmes. The page is undated \[UNKNOWN\].
+
 - Issuing body: National Counter Terrorism Centre, Kenya
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -284,6 +310,8 @@ Cited by: none in `data/timeline.csv`.
 ## KE-POTA2012-KL
 
 **Prevention of Terrorism Act (No. 30 of 2012)**
+
+Summary: Kenya's Prevention of Terrorism Act (No. 30 of 2012) at Kenya Law's current website. It is the same Act as KE-POTA2012, found at a newer address. The cited copy could not be confirmed (HTTP 202 bot check), so the text is \[UNKNOWN\] in CTA6.
 
 - Issuing body: Kenya Law (National Council for Law Reporting)
 - Date: 2012
@@ -306,6 +334,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Terrorism (Prevention and Prohibition) Act, 2022 (Federal Republic of Nigeria Official Gazette)**
 
+Summary: Nigeria's Terrorism (Prevention and Prohibition) Act, 2022, enacted on 12 May 2022 and published in the Official Gazette No. 91 of 16 May 2022 (copy from the Special Control Unit against Money Laundering). Section 1 says its objective is a unified, comprehensive legal, regulatory and institutional framework for detecting, preventing, prosecuting and punishing terrorism, terrorist financing and the financing of weapons of mass destruction. It is the source for milestone T188.
+
 - Issuing body: Special Control Unit against Money Laundering (EFCC), Nigeria
 - Date: 2022-05-12
 - Type: statute
@@ -326,6 +356,8 @@ Cited by: [T188](../../timeline/recent-2014-now.md#T188)
 ## ECOWAS-CT2013-IP
 
 **ECOWAS Counter-Terrorism Strategy Implementation Plan**
+
+Summary: The Implementation Plan of the ECOWAS Counter-Terrorism Strategy, dated 28 February 2013. It sets out actions by pillar; under 'Prevent', for example, every Member State should unambiguously reject terrorism in all its forms as a serious criminal offence. It is cited for milestone T165, the adoption of the Strategy by ECOWAS heads of state.
 
 - Issuing body: Economic Community of West African States
 - Date: 2013-02-28
@@ -348,6 +380,8 @@ Cited by: [T165](../../timeline/post-9-11-2001-2014.md#T165)
 
 **Supplementary Act A/SA.3/02/13 Adopting the ECOWAS Strategy for Combating Terrorism, and its Implementation Plan**
 
+Summary: ECOWAS Supplementary Act A/SA.3/02/13 adopting the ECOWAS Strategy for Combating Terrorism and its Implementation Plan, done at Yamoussoukro on 28 February 2013 (AfricanLII copy). It is the legal act by which ECOWAS heads of state adopted the regional strategy (T165). It was verified through a text extraction only.
+
 - Issuing body: ECOWAS (AfricanLII copy)
 - Date: 2013-02-28
 - Type: treaty
@@ -368,6 +402,8 @@ Cited by: [T165](../../timeline/post-9-11-2001-2014.md#T165)
 ## ACHPR-CT2015
 
 **Principles and Guidelines on Human and Peoples' Rights while Countering Terrorism in Africa**
+
+Summary: The African Commission on Human and Peoples' Rights' 'Principles and Guidelines on Human and Peoples' Rights while Countering Terrorism in Africa'. As its title states, it sets out human-rights principles for counter-terrorism in Africa; its content is not summarized in CTA6 \[UNKNOWN\]. The adoption year, 2015, comes from a search listing only, which is why milestone T169 is not-proven.
 
 - Issuing body: African Commission on Human and Peoples' Rights
 - Date: 2015
@@ -390,6 +426,8 @@ Cited by: [T169](../../timeline/recent-2014-now.md#T169)
 
 **Plan of Action of the African Union High-Level Inter-Governmental Meeting on the Prevention and Combating of Terrorism in Africa (Algiers, 11-14 September 2002)**
 
+Summary: The Plan of Action of the African Union High-Level Inter-Governmental Meeting on the Prevention and Combating of Terrorism in Africa, held in Algiers on 11-14 September 2002 (copy from the AU's ACSRT/CAERT). Its preamble says AU Member States have long espoused the need to counter terrorism at both individual and collective levels. It is the source for milestone T149.
+
 - Issuing body: African Union (ACSRT/CAERT copy)
 - Date: 2002-09-14
 - Type: other
@@ -410,6 +448,8 @@ Cited by: [T149](../../timeline/post-9-11-2001-2014.md#T149)
 ## AU-POA2002-PSD
 
 **Plan of Action of the African Union High-Level Inter-Governmental Meeting on the Prevention and Combating of Terrorism in Africa**
+
+Summary: A copy of the same 2002 AU Plan of Action on the Prevention and Combating of Terrorism in Africa, at the AU Peace and Security Department. It is a second copy supporting milestone T149. The cited copy could not be confirmed (HTTP 202 bot check).
 
 - Issuing body: African Union Peace and Security Department
 - Date: 2002-09-14
@@ -432,6 +472,8 @@ Cited by: [T149](../../timeline/post-9-11-2001-2014.md#T149)
 
 **List of countries which have signed, ratified/acceded to the OAU Convention on the Prevention and Combating of Terrorism (status list dated 15/06/2017)**
 
+Summary: The African Union's list of countries that have signed, ratified or acceded to the OAU Convention on the Prevention and Combating of Terrorism (status list dated 15 June 2017). The list states the Convention was adopted in Algiers on 14 July 1999. It shows which African states had joined the Convention as of 2017 and is one of the sources for the 14 July date in the people-disagree milestone T145.
+
 - Issuing body: African Union
 - Date: 2017-06-15
 - Type: treaty
@@ -452,6 +494,8 @@ Cited by: none in `data/timeline.csv`.
 ## UN-OAU1999-COPY
 
 **OAU Convention on the Prevention and Combating of Terrorism, 1999 (UN Treaty Collection compilation copy)**
+
+Summary: A copy of the OAU Convention on the Prevention and Combating of Terrorism, 1999, in the UN Treaty Collection compilation. The text reads 'Adopted at Algiers on 14 July 1999', and it is the first source in the people-disagree milestone T145 on the adoption date. Its provisions are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: United Nations Treaty Collection
 - Date: 1999-07-14
@@ -474,6 +518,8 @@ Cited by: [T145](../../timeline/1990-2001.md#T145)
 
 **AHG/Dec.132 (XXXV) Decision on the Report of the Secretary-General on the Ministerial Conference on the OAU Convention on the Prevention and Combating of Terrorism**
 
+Summary: OAU decision AHG/Dec.132 (XXXV) of the Assembly of Heads of State and Government, adopted at its 35th session in Algiers, 12-14 July 1999. In it the Assembly adopts the OAU Convention on the Prevention and Combating of Terrorism. It supports the 14 July 1999 date in the people-disagree milestone T145.
+
 - Issuing body: OAU Assembly of Heads of State and Government (AU Archives)
 - Date: 1999-07
 - Type: other
@@ -494,6 +540,8 @@ Cited by: none in `data/timeline.csv`.
 ## ZA-POCDATARA-AM2022
 
 **Protection of Constitutional Democracy against Terrorist and Related Activities Amendment Act 23 of 2022**
+
+Summary: South Africa's Protection of Constitutional Democracy against Terrorist and Related Activities Amendment Act 23 of 2022, assented to on 23 December 2022. It amends the 2004 Act (ZA-POCDATARA2004); its sections include provisions on training for terrorist purposes, including online training, and on disclosure of information. It is the source for milestone T190.
 
 - Issuing body: Government of South Africa (gov.za)
 - Date: 2022-12-23
@@ -516,6 +564,8 @@ Cited by: [T190](../../timeline/recent-2014-now.md#T190)
 
 **Journal officiel de la République du Mali 2008 n° 34 (contient la loi n° 08-025 du 23 juillet 2008 portant répression du terrorisme)**
 
+Summary: Mali's Journal officiel 2008 No. 34, which contains Law No. 08-025 of 23 July 2008 on the repression of terrorism in Mali. As its title states, it is Mali's terrorism statute; its provisions are not summarized in CTA6 \[UNKNOWN\]. It is the source for milestone T157.
+
 - Issuing body: Secrétariat général du Gouvernement, Mali
 - Date: 2008-07-23
 - Type: statute
@@ -536,6 +586,8 @@ Cited by: [T157](../../timeline/post-9-11-2001-2014.md#T157)
 ## AMN-NGA-2015
 
 **Stars on their shoulders. Blood on their hands. War crimes committed by the Nigerian military (AFR 44/1657/2015)**
+
+Summary: 'Stars on their shoulders. Blood on their hands. War crimes committed by the Nigerian military' (AFR 44/1657/2015), an Amnesty International report of 3 June 2015. Amnesty says it is based on more than 412 interviews and documents extrajudicial executions in Adamawa, Borno and Yobe states during operations against Boko Haram. The characterisation of the acts as war crimes is Amnesty's; it is the source for milestone T170.
 
 - Issuing body: Amnesty International
 - Date: 2015-06-03
@@ -558,6 +610,8 @@ Cited by: [T170](../../timeline/recent-2014-now.md#T170)
 
 **Deaths and Disappearances: Abuses in Counterterrorism Operations in Nairobi and in Northeastern Kenya**
 
+Summary: 'Deaths and Disappearances: Abuses in Counterterrorism Operations in Nairobi and in Northeastern Kenya', a Human Rights Watch report of 20 July 2016. HRW says it documents abuses by law enforcement agencies during operations against Al-Shabab in north-eastern Kenya from December 2013, including raids by officers often without uniforms or identification. The allegations are HRW's; it is the source for milestone T177.
+
 - Issuing body: Human Rights Watch
 - Date: 2016-07-20
 - Type: other
@@ -578,6 +632,8 @@ Cited by: [T177](../../timeline/recent-2014-now.md#T177)
 ## FIDH-SAHEL-2025
 
 **Civic space and human rights defenders in the Sahel**
+
+Summary: 'Civic space and human rights defenders in the Sahel', an FIDH report of 19 February 2025. It covers Niger, Mali, Burkina Faso and Chad from 1 January 2020 to 30 September 2024, and FIDH states that successive military coups and a deteriorating security situation have been accompanied by increased repression of human rights defenders. These are FIDH's own findings; no milestone cites it yet.
 
 - Issuing body: FIDH (International Federation for Human Rights)
 - Date: 2025-02-19
@@ -600,6 +656,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Central Mali: populations caught between terrorism and counter-terrorism**
 
+Summary: 'Central Mali: populations caught between terrorism and counter-terrorism', an FIDH fact-finding mission report from November 2018. As its title states, it examines the situation of civilians in central Mali, which it defines as the Ségou and Mopti regions, between armed groups and counter-terrorism operations. Its findings are FIDH's and are not summarized in CTA6 \[UNKNOWN\]; no milestone cites it yet.
+
 - Issuing body: FIDH (International Federation for Human Rights)
 - Date: 2018-11
 - Type: other
@@ -620,6 +678,8 @@ Cited by: none in `data/timeline.csv`.
 ## KNCHR-2015
 
 **"The Error of Fighting Terror with Terror": preliminary report of KNCHR investigations on human rights abuses in the ongoing crackdown against terrorism**
+
+Summary: 'The Error of Fighting Terror with Terror', a September 2015 preliminary report by the Kenya National Commission on Human Rights on alleged human rights abuses in Kenya's crackdown against terrorism. The characterisations are the Commission's. The cited copy could not be confirmed (HTTP 500), so its contents are \[UNKNOWN\] in CTA6.
 
 - Issuing body: Kenya National Commission on Human Rights
 - Date: 2015-09
@@ -642,6 +702,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Conventions internationales (liste; inclut la Convention portant création du G5 Sahel, adoptée à Nouakchott le 19 décembre 2014; ratification: décret n° 2015-128)**
 
+Summary: A list of international conventions kept by Mali's Secretariat General of Government. It includes the Convention establishing the G5 Sahel, adopted at Nouakchott on 19 December 2014 and ratified by Mali by Decree No. 2015-128. It is the source for milestone T217 and for the date of the G5 Sahel convention copy (G5S-CONV2014-WA).
+
 - Issuing body: Secrétariat Général du Gouvernement du Mali
 - Date: \[UNKNOWN\]
 - Type: database
@@ -662,6 +724,8 @@ Cited by: [T217](../../timeline/recent-2014-now.md#T217)
 ## G5S-CONV2014-WA
 
 **Convention portant création du G5 Sahel (archived copy of g5sahel.org/images/convention.pdf)**
+
+Summary: The Convention establishing the G5 Sahel (Convention portant création du G5 Sahel), dated 19 December 2014, from an Internet Archive capture of 2 June 2017. It is the founding treaty of the G5 Sahel. The cited copy could not be confirmed: the PDF has no text layer and was not read by OCR, so its content is \[UNKNOWN\], and the date comes from Mali's list (ML-SGG-CONV).
 
 - Issuing body: G5 Sahel (Internet Archive capture of 2 June 2017)
 - Date: 2014-12-19
@@ -684,6 +748,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Independent Investigative Panel on Human Rights Violations in Counter Insurgency Operations in the North East (SIIP North-East)**
 
+Summary: The report of the Special Independent Investigative Panel on Human Rights Violations in Counter Insurgency Operations in the North East (SIIP North-East), posted by Nigeria's National Human Rights Commission on 9 November 2024. It is the Commission's own investigation into alleged violations during counter-insurgency operations and the source for milestone T229. Its findings are summarized in the executive summary (NG-NHRC-SIIP-NE-ES) rather than here \[UNKNOWN\].
+
 - Issuing body: National Human Rights Commission (Nigeria)
 - Date: 2024-11-09
 - Type: commission report
@@ -705,6 +771,8 @@ Cited by: [T229](../../timeline/recent-2014-now.md#T229)
 
 **SIIP North-East: Issues and Findings (executive summary, updated 18-11-24)**
 
+Summary: 'SIIP North-East: Issues and Findings', the executive summary (updated 18 November 2024) of the Nigerian National Human Rights Commission's panel report. It states the Commission inaugurated the panel on 7 February 2023 to investigate allegations in Reuters reports of December 2022 against the Nigerian military, and that Reuters and some key institutions did not appear before it. It is the source for milestone T227; the panel's conclusions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: National Human Rights Commission (Nigeria)
 - Date: 2024-11
 - Type: commission report
@@ -725,6 +793,8 @@ Cited by: [T227](../../timeline/recent-2014-now.md#T227)
 ## AFCHPR-2019-013-2017
 
 **A. v. Republic of Benin, Application No. 013/2017, Judgment (Merits), 29 March 2019**
+
+Summary: The merits judgment of the African Court on Human and Peoples' Rights of 29 March 2019 in A. v. Republic of Benin (Application No. 013/2017). The case concerned proceedings including those before Benin's newly created Court for the Repression of Economic Offences and Terrorism (CRIET). It is the source for milestone T224; the outcome is not recorded in CTA6 \[UNKNOWN\] because the scanned text layer is partly garbled.
 
 - Issuing body: African Court on Human and Peoples' Rights
 - Date: 2019-03-29

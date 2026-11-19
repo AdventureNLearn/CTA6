@@ -11,6 +11,8 @@ Sources whose origin is `oversight`, `court`, or `NGO`. This is a sub-list from 
 
 **The 9/11 Commission Report**
 
+Summary: The 9/11 Commission Report of the National Commission on Terrorist Attacks Upon the United States, released on 22 July 2004. The Commission's page says it was mandated to examine the attacks and to provide recommendations designed to guard against future attacks. It is the official commission report on the 11 September attacks cited in CTA6 (T050, T077), and the 2004 intelligence reform law followed it (T081).
+
 - Issuing body: National Commission on Terrorist Attacks Upon the United States
 - Date: 2004-07-22
 - Type: commission report
@@ -31,6 +33,8 @@ Cited by: [T050](../../timeline/post-9-11-2001-2014.md#T050), [T077](../../timel
 ## US-SSCI2014
 
 **Committee Study of the CIA's Detention and Interrogation Program (Executive Summary, S. Rpt. 113-288)**
+
+Summary: The executive summary of the US Senate Select Committee on Intelligence's 'Committee Study of the CIA's Detention and Interrogation Program' (S. Rpt. 113-288), released on 9 December 2014 with additional and minority views. It is the Senate's study of the CIA programme and the source for milestone T113. The CIA disputed some of its assertions (people-disagree milestone T166), and the European Court of Human Rights later drew on it in a rendition case (T181).
 
 - Issuing body: US Senate Select Committee on Intelligence
 - Date: 2014-12-09
@@ -53,6 +57,8 @@ Cited by: [T113](../../timeline/recent-2014-now.md#T113), [T166](../../timeline/
 
 **R. v. Bush, 542 U.S. 466 (2004)**
 
+Summary: The US Supreme Court decision R. v. Bush, 542 U.S. 466, decided on 28 June 2004, from the official U.S. Reports. As recorded in milestone T075, it concerned whether federal courts had jurisdiction over habeas petitions from detainees at Guantanamo. It is the first of the Guantanamo detention cases in CTA6, followed by T090 and T096; the holding is not quoted in CTA6 \[UNKNOWN\].
+
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2004-06-28
 - Type: court record
@@ -73,6 +79,8 @@ Cited by: [T075](../../timeline/post-9-11-2001-2014.md#T075)
 ## USSC-2004-542-507
 
 **H. v. Rumsfeld, 542 U.S. 507 (2004)**
+
+Summary: The US Supreme Court decision H. v. Rumsfeld, 542 U.S. 507, decided on 28 June 2004. The syllabus records the plurality's conclusion that, although Congress authorized detention of combatants in the narrow circumstances alleged, due process demands that a US citizen held as an enemy combatant be given a meaningful opportunity to contest the factual basis for that detention before a neutral decisionmaker. It is the source for milestone T076.
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2004-06-28
@@ -95,6 +103,8 @@ Cited by: [T076](../../timeline/post-9-11-2001-2014.md#T076)
 
 **H. v. Rumsfeld, 548 U.S. 557 (2006)**
 
+Summary: The US Supreme Court decision H. v. Rumsfeld, 548 U.S. 557, decided on 29 June 2006. The Court held that the military commission convened to try the petitioner lacked power to proceed because its structure and procedures violated both the Uniform Code of Military Justice and the Geneva Conventions. It is one side of the people-disagree milestone T090, opposite the 2001 Military Order that created the commissions; Congress then passed the Military Commissions Act of 2006 (T092).
+
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2006-06-29
 - Type: court record
@@ -115,6 +125,8 @@ Cited by: [T090](../../timeline/post-9-11-2001-2014.md#T090)
 ## USSC-2008-553-723
 
 **B. v. Bush, 553 U.S. 723 (2008)**
+
+Summary: The US Supreme Court decision B. v. Bush, 553 U.S. 723, decided on 12 June 2008. The Court held that Guantanamo detainees have the constitutional privilege of habeas corpus and are not barred from seeking it because they were designated enemy combatants or held at Guantanamo, even though section 7 of the Military Commissions Act of 2006 denied courts jurisdiction. It is one side of the people-disagree milestone T096.
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2008-06-12
@@ -137,6 +149,8 @@ Cited by: [T096](../../timeline/post-9-11-2001-2014.md#T096)
 
 **Holder v. Humanitarian Law Project, 561 U.S. 1 (2010)**
 
+Summary: The US Supreme Court decision Holder v. Humanitarian Law Project, 561 U.S. 1, decided on 21 June 2010. The Court held that the federal material-support statute (18 U.S.C. § 2339B) is constitutional as applied to the forms of support the plaintiffs wanted to give to designated foreign terrorist organizations. It is the source for milestone T102.
+
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2010-06-21
 - Type: court record
@@ -156,6 +170,8 @@ Cited by: [T102](../../timeline/post-9-11-2001-2014.md#T102)
 ## UK-AvSSHD2004
 
 **A and others v Secretary of State for the Home Department \[2004\] UKHL 56**
+
+Summary: A and others v Secretary of State for the Home Department \[2004\] UKHL 56, a House of Lords judgment of 16 December 2004. The court declared that section 23 of the Anti-terrorism, Crime and Security Act 2001, the detention power in Part 4, is incompatible with the European Convention on Human Rights. It is one of the two positions in the people-disagree milestone T080; the title, date and citation were confirmed from official House of Lords papers because the BAILII copy was behind a bot check.
 
 - Issuing body: House of Lords
 - Date: 2004-12-16
@@ -178,6 +194,8 @@ Cited by: [T080](../../timeline/post-9-11-2001-2014.md#T080)
 
 **Manchester Arena Inquiry**
 
+Summary: The Manchester Arena Inquiry, the public inquiry website. As its name states, it is an official inquiry into the Manchester Arena attack; its findings are not recorded in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed: the site returned a human-verification page (HTTP 405), and the page is undated \[UNKNOWN\].
+
 - Issuing body: Manchester Arena Inquiry
 - Date: \[UNKNOWN\]
 - Type: commission report
@@ -198,6 +216,8 @@ Cited by: none in `data/timeline.csv`.
 ## UK-IRTL
 
 **Independent Reviewer of Terrorism Legislation**
+
+Summary: The website of the UK's Independent Reviewer of Terrorism Legislation. The current Reviewer states that he was appointed in May 2019 to scrutinise and report on terrorism legislation, and the site holds current and former reviewers' reports. It records the UK's standing independent review of its terrorism laws; the page is undated \[UNKNOWN\].
 
 - Issuing body: Independent Reviewer of Terrorism Legislation
 - Date: \[UNKNOWN\]
@@ -220,6 +240,8 @@ Cited by: none in `data/timeline.csv`.
 
 **NOU 2012: 14 Rapport fra 22. juli-kommisjonen**
 
+Summary: NOU 2012: 14, the report of Norway's 22 July Commission (22. juli-kommisjonen), dated 13 August 2012. It is the official commission report on the 22 July 2011 attacks in Oslo and on Utøya and is the source for milestone T107. Its findings are not summarized in CTA6 \[UNKNOWN\]; only the title was confirmed through a text extraction because the site blocked a direct capture.
+
 - Issuing body: 22. juli-kommisjonen (Regjeringen)
 - Date: 2012-08-13
 - Type: commission report
@@ -240,6 +262,8 @@ Cited by: [T107](../../timeline/post-9-11-2001-2014.md#T107)
 ## CJEU-2008-C402-05P
 
 **K. and Al Barakaat v Council and Commission (Joined Cases C-402/05 P and C-415/05 P)**
+
+Summary: The judgment of the Court of Justice of the European Communities of 3 September 2008 in K. and Al Barakaat v Council and Commission (Joined Cases C-402/05 P and C-415/05 P). As recorded in milestone T097, the Court annulled the EU regulation implementing UN sanctions listings as it concerned the applicants, on fundamental-rights grounds, while the UN 1267 listing regime itself continued. It is one side of that people-disagree milestone and shows the tension between UN listings and EU fundamental-rights review.
 
 - Issuing body: Court of Justice of the European Communities (EUR-Lex)
 - Date: 2008-09-03
@@ -262,6 +286,8 @@ Cited by: [T097](../../timeline/post-9-11-2001-2014.md#T097)
 
 **Royal Commission of Inquiry into the terrorist attack on Christchurch masjidain**
 
+Summary: The report of New Zealand's Royal Commission of Inquiry into the terrorist attack on the Christchurch masjidain (mosques), dated 26 November 2020. It is the official inquiry record of the 15 March 2019 attack and is the source for milestone T125. Its findings are not summarized in CTA6 \[UNKNOWN\]; the title was confirmed through a text extraction because the site blocked a direct capture.
+
 - Issuing body: Royal Commission of Inquiry (New Zealand)
 - Date: 2020-11-26
 - Type: commission report
@@ -283,6 +309,8 @@ Cited by: [T125](../../timeline/recent-2014-now.md#T125)
 
 **Informe Final de la Comisión de la Verdad y Reconciliación**
 
+Summary: The Final Report (Informe Final) of Peru's Truth and Reconciliation Commission (Comisión de la Verdad y Reconciliación, CVR), dated 28 August 2003 in CTA6. The captured page is the CVR's website index, which lists the final report alongside public hearings, exhumations and the disappeared. Milestone T070 is not-proven because the release date is not printed on the fetched page; the report's findings are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: Comisión de la Verdad y Reconciliación (Perú)
 - Date: 2003-08-28
 - Type: commission report
@@ -302,6 +330,8 @@ Cited by: [T070](../../timeline/post-9-11-2001-2014.md#T070)
 ## DOJOIG-NSL2007
 
 **A Review of the Federal Bureau of Investigation's Use of National Security Letters**
+
+Summary: 'A Review of the Federal Bureau of Investigation's Use of National Security Letters', issued in March 2007 by the US Department of Justice Office of the Inspector General. Milestone T094 records that the review was directed by the 2005 PATRIOT Act reauthorization. It is an internal oversight review of an investigative power expanded after 2001; its findings are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: US Department of Justice, Office of the Inspector General
 - Date: 2007-03
@@ -323,6 +353,8 @@ Cited by: [T094](../../timeline/post-9-11-2001-2014.md#T094)
 
 **A Review of the FBI's Use of Section 215 Orders for Business Records**
 
+Summary: 'A Review of the FBI's Use of Section 215 Orders for Business Records', issued in March 2007 by the US Department of Justice Office of the Inspector General. As its title states, it reviews FBI use of the business-records power in section 215 of the PATRIOT Act, a power the Privacy and Civil Liberties Oversight Board also reviewed in 2014 (T109). Its findings are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: US Department of Justice, Office of the Inspector General
 - Date: 2007-03
 - Type: commission report
@@ -342,6 +374,8 @@ Cited by: none in `data/timeline.csv`.
 ## DOJOIG-FISA2019
 
 **Review of Four FISA Applications and Other Aspects of the FBI's Crossfire Hurricane Investigation**
+
+Summary: 'Review of Four FISA Applications and Other Aspects of the FBI's Crossfire Hurricane Investigation', issued by the US Department of Justice Office of the Inspector General (originally issued 9 December 2019). The report describes the investigation's initial analysis of links between members of a presidential campaign and Russia and says it found serious performance failures by agents responsible for the FISA applications; these are the Inspector General's findings. It is the source for milestone T127.
 
 - Issuing body: US Department of Justice, Office of the Inspector General
 - Date: 2019-12
@@ -363,6 +397,8 @@ Cited by: [T127](../../timeline/recent-2014-now.md#T127)
 
 **The September 11 Detainees: A Review of the Treatment of Aliens Held on Immigration Charges in Connection with the Investigation of the September 11 Attacks**
 
+Summary: 'The September 11 Detainees', a review released on 2 June 2003 by the US Department of Justice Office of the Inspector General. It examines the treatment of non-citizens held on immigration charges in connection with the September 11 investigation, including the Department's decision to limit public information about the arrests. It is the source for milestone T069 and is an internal oversight review of post-9/11 detention practice.
+
 - Issuing body: US Department of Justice, Office of the Inspector General
 - Date: 2003-06-02
 - Type: commission report
@@ -382,6 +418,8 @@ Cited by: [T069](../../timeline/post-9-11-2001-2014.md#T069)
 ## PCLOB-HOME
 
 **Privacy and Civil Liberties Oversight Board (home page)**
+
+Summary: The home page of the US Privacy and Civil Liberties Oversight Board (PCLOB). The site holds the Board's oversight reports, semi-annual reports and projects. It is the Board that issued the 2014 Section 215 report (T109); the page is undated \[UNKNOWN\].
 
 - Issuing body: US Privacy and Civil Liberties Oversight Board
 - Date: \[UNKNOWN\]
@@ -404,6 +442,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Report on the Telephone Records Program Conducted under Section 215 of the USA PATRIOT Act and on the Operations of the Foreign Intelligence Surveillance Court**
 
+Summary: The Privacy and Civil Liberties Oversight Board's 'Report on the Telephone Records Program Conducted under Section 215 of the USA PATRIOT Act and on the Operations of the Foreign Intelligence Surveillance Court', dated 23 January 2014. The report says it arises from the Board's duty to review executive branch actions, gives its analysis and recommendations on the program and the FISA Court, and is the Board's first comprehensive study of a government program. It is the source for milestone T109.
+
 - Issuing body: US Privacy and Civil Liberties Oversight Board
 - Date: 2014-01-23
 - Type: commission report
@@ -423,6 +463,8 @@ Cited by: [T109](../../timeline/recent-2014-now.md#T109)
 ## GAO-17-300
 
 **Countering Violent Extremism: Actions Needed to Define Strategy and Assess Progress of Federal Efforts (GAO-17-300)**
+
+Summary: 'Countering Violent Extremism: Actions Needed to Define Strategy and Assess Progress of Federal Efforts' (GAO-17-300), published in April 2017 by the US Government Accountability Office. As its title states, it calls for a defined strategy and progress assessment for federal countering-violent-extremism efforts. It is the source for milestone T120; only the title was confirmed through a text extraction, so its detailed findings are \[UNKNOWN\].
 
 - Issuing body: US Government Accountability Office
 - Date: 2017-04
@@ -445,6 +487,8 @@ Cited by: [T120](../../timeline/recent-2014-now.md#T120)
 
 **Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism**
 
+Summary: The UN Human Rights Office (OHCHR) page on the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism. The page says the Commission on Human Rights created the mandate in April 2005 through resolution 2005/80. It is cited for milestone T084, which remains not-proven because the resolution text itself was not machine-verified. The page is undated \[UNKNOWN\] and was confirmed on a retry.
+
 - Issuing body: UN Office of the High Commissioner for Human Rights
 - Date: \[UNKNOWN\]
 - Type: other
@@ -465,6 +509,8 @@ Cited by: [T084](../../timeline/post-9-11-2001-2014.md#T084)
 ## SR-A-HRC-16-51
 
 **Report of the Special Rapporteur (Martin Scheinin): Ten areas of best practices in countering terrorism (A/HRC/16/51)**
+
+Summary: Report A/HRC/16/51, 'Ten areas of best practices in countering terrorism', by the UN Special Rapporteur on human rights and counter-terrorism, Martin Scheinin, dated 22 December 2010. The report says it is his sixth and last annual report to the Human Rights Council and its predecessor, and it sets out ten areas of practice in countering terrorism. It is the source for milestone T103 and is an output of the mandate created in 2005 (T084).
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2010-12-22
@@ -487,6 +533,8 @@ Cited by: [T103](../../timeline/post-9-11-2001-2014.md#T103)
 
 **Ireland v. the United Kingdom (no. 5310/71), judgment**
 
+Summary: The European Court of Human Rights judgment of 18 January 1978 in Ireland v. the United Kingdom (no. 5310/71), an inter-State case. The case concerned UK extrajudicial arrest, detention and internment in Northern Ireland from 1971 to 1975, including five interrogation techniques (wall standing, hooding, noise, and deprivation of sleep, food and drink); the Court held there had been a violation of Article 3, according to the Court's factsheet 'Terrorism and the ECHR'. It is the source for milestone T016.
+
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1978-01-18
 - Type: court record
@@ -507,6 +555,8 @@ Cited by: [T016](../../timeline/1945-1990.md#T016)
 ## ECHR-1978-5029
 
 **K. and Others v. Germany, no. 5029/71, judgment**
+
+Summary: The European Court of Human Rights judgment of 6 September 1978 in K. and Others v. Germany (no. 5029/71), on German secret-surveillance legislation. According to the Court's factsheet 'Terrorism and the ECHR', the Court found no violation of Article 8, holding that because of the threat of espionage and terrorism, secret surveillance powers could be necessary in a democratic society under exceptional conditions. It is the source for milestone T017.
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1978-09-06
@@ -530,6 +580,8 @@ Cited by: [T017](../../timeline/1945-1990.md#T017)
 
 **B. and Others v. the United Kingdom, nos. 11209/84, 11234/84, 11266/84 and 11386/85, judgment**
 
+Summary: The European Court of Human Rights judgment of 29 November 1988 in B. and Others v. the United Kingdom (nos. 11209/84, 11234/84, 11266/84 and 11386/85). The four applicants, suspected of terrorism, were held in Northern Ireland for between four days six hours and six days sixteen and a half hours without being brought before a judge; the Court found a violation of Article 5 § 3, holding that 'promptness' could not stretch that far, according to the Court's factsheet. It is the source for milestone T025.
+
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1988-11-29
 - Type: court record
@@ -551,6 +603,8 @@ Cited by: [T025](../../timeline/1945-1990.md#T025)
 ## ECHR-1995-18984
 
 **M. and Others v. the United Kingdom, no. 18984/91, judgment**
+
+Summary: The European Court of Human Rights judgment of 27 September 1995 in M. and Others v. the United Kingdom (no. 18984/91), on the 1988 shooting in Gibraltar of three IRA members by soldiers. According to the Court's factsheet, the Court found a violation of Article 2 (right to life) because the operation could have been planned and controlled without the need to kill the suspects. It is the source for milestone T036.
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1995-09-27
@@ -574,6 +628,8 @@ Cited by: [T036](../../timeline/1990-2001.md#T036)
 
 **A. and Others v. the United Kingdom (no. 3455/05), Grand Chamber judgment**
 
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 19 February 2009 in A. and Others v. the United Kingdom (no. 3455/05), on detention under the Anti-terrorism, Crime and Security Act 2001. According to the Court's factsheet, the Court found no violation of Article 3 but found violations of Article 5 § 1 for most applicants, because the indefinite detention of non-nationals suspected of terrorism discriminated unjustifiably between nationals and non-nationals, as the House of Lords had also found (T080). It is the source for milestone T099.
+
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 2009-02-19
 - Type: court record
@@ -594,6 +650,8 @@ Cited by: [T099](../../timeline/post-9-11-2001-2014.md#T099)
 ## ECHR-2012-39630
 
 **E. v. the former Yugoslav Republic of Macedonia, no. 39630/09, Grand Chamber judgment**
+
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 13 December 2012 in E. v. the former Yugoslav Republic of Macedonia (no. 39630/09). According to the Court's factsheet, the applicant said he had been held and ill-treated in a Skopje hotel for 23 days and then handed to CIA agents in a secret 'rendition'; the Court found his account established and held the State responsible for torture and ill-treatment, a violation of Article 3. It is the source for milestone T108.
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 2012-12-13
@@ -617,6 +675,8 @@ Cited by: [T108](../../timeline/post-9-11-2001-2014.md#T108)
 
 **A.N. v. Poland, no. 28761/11, judgment**
 
+Summary: The European Court of Human Rights judgment of 24 July 2014 in A.N. v. Poland (no. 28761/11), on alleged secret detention at a CIA 'black site' in Poland. According to the Court's factsheet, the Court found the applicant's allegations sufficiently convincing and found that Poland had cooperated in the preparation and execution of CIA rendition, secret detention and interrogation operations on its territory. It is the source for milestone T110; the companion case is H. v. Poland (ECHR-2014-7511).
+
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 2014-07-24
 - Type: court record
@@ -639,6 +699,8 @@ Cited by: [T110](../../timeline/recent-2014-now.md#T110)
 
 **Factsheet: Terrorism and the European Convention on Human Rights**
 
+Summary: 'Terrorism and the European Convention on Human Rights', a factsheet by the European Court of Human Rights Press Unit (the capture is dated February 2024). It summarizes the Court's case law on terrorism, including derogations under Article 15, detention, torture, rendition and surveillance, and states that it does not bind the Court and is not exhaustive. CTA6 uses it as a secondary guide to the outcomes of the Court judgments it lists.
+
 - Issuing body: European Court of Human Rights, Press Unit
 - Date: \[UNKNOWN\]
 - Type: other
@@ -659,6 +721,8 @@ Cited by: none in `data/timeline.csv`.
 ## UK-IRTL-TA2000
 
 **The Terrorism Acts in \[year\] (annual reports index)**
+
+Summary: The reports index of the UK's Independent Reviewer of Terrorism Legislation, including the annual reports on 'The Terrorism Acts in \[year\]'. The page says these reports cover the operation of UK terrorism legislation, are laid before Parliament by the Home Secretary or HM Treasury, and are mostly intended to inform public and political debate. The page is undated \[UNKNOWN\].
 
 - Issuing body: Independent Reviewer of Terrorism Legislation
 - Date: \[UNKNOWN\]
@@ -681,6 +745,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Could 7/7 Have Been Prevented? Review of the Intelligence on the London Terrorist Attacks on 7 July 2005**
 
+Summary: 'Could 7/7 Have Been Prevented? Review of the Intelligence on the London Terrorist Attacks on 7 July 2005', published in May 2009 by the UK Parliament's Intelligence and Security Committee. The report says it tries to explain how MI5, MI6 and GCHQ work and gives considerable background detail, while withholding material that could prejudice pending trials. It is the parliamentary oversight review of intelligence before the 7/7 attacks and the source for milestone T100; its conclusions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: Intelligence and Security Committee of Parliament
 - Date: 2009-05
 - Type: commission report
@@ -700,6 +766,8 @@ Cited by: [T100](../../timeline/post-9-11-2001-2014.md#T100)
 ## HRW-2012-NAMESEC
 
 **In the Name of Security: Counterterrorism Laws Worldwide since September 11**
+
+Summary: 'In the Name of Security: Counterterrorism Laws Worldwide since September 11', a Human Rights Watch report dated 29 June 2012. The report states that more than 140 governments have passed counterterrorism legislation since September 11, 2001, and it argues that some of these laws have been used in ways that violate rights such as due process, free expression and privacy. These are Human Rights Watch's findings; CTA6 lists the report as an NGO critique without drawing its own conclusions.
 
 - Issuing body: Human Rights Watch
 - Date: 2012-06-29
@@ -721,6 +789,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Getting Away with Torture: The Bush Administration and Mistreatment of Detainees**
 
+Summary: 'Getting Away with Torture: The Bush Administration and Mistreatment of Detainees', a Human Rights Watch report dated 12 July 2011. HRW says it summarizes public information on the role of senior US officials in setting post-9/11 interrogation and detention policies, analyzes it under US and international law, and argues there is a basis for a criminal investigation. These are HRW's own conclusions; CTA6 lists it as an NGO critique.
+
 - Issuing body: Human Rights Watch
 - Date: 2011-07-12
 - Type: other
@@ -741,6 +811,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Dangerously Disproportionate: The Ever-Expanding National Security State in Europe (EUR 01/5342/2017)**
 
+Summary: 'Dangerously Disproportionate: The Ever-Expanding National Security State in Europe' (EUR 01/5342/2017), an Amnesty International report of 17 January 2017. Amnesty says it gives a bird's-eye view of the 'securitization' of Europe across eight themes, including states of emergency, privacy, freedom of expression and movement, deprivation of nationality, and transfers to places where people risk torture. These are Amnesty's own assessments; CTA6 lists it as an NGO critique.
+
 - Issuing body: Amnesty International
 - Date: 2017-01-17
 - Type: other
@@ -760,6 +832,8 @@ Cited by: none in `data/timeline.csv`.
 ## CO-JEP
 
 **Jurisdicción Especial para la Paz (home page)**
+
+Summary: The home page of Colombia's Jurisdicción Especial para la Paz (JEP, Special Jurisdiction for Peace). The page links to the JEP's mission and functions, its chambers and Tribunal for Peace, and its cases. It is undated \[UNKNOWN\]; its role in counter-terrorism is not stated in CTA6 \[UNKNOWN\].
 
 - Issuing body: JEP, Colombia
 - Date: \[UNKNOWN\]
@@ -782,6 +856,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to United States of America (A/HRC/6/17/Add.3)**
 
+Summary: Report A/HRC/6/17/Add.3 of the UN Special Rapporteur on human rights and counter-terrorism, Martin Scheinin, on his mission to the United States (November 2007). The report says the United States has a special responsibility to protect human rights while countering terrorism, and it raises concerns that military tribunals under the Military Commissions Act of 2006 have multiple incompatibilities with the ICCPR. These are the Special Rapporteur's assessments.
+
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2007-11-22
 - Type: commission report
@@ -802,6 +878,8 @@ Cited by: none in `data/timeline.csv`.
 ## SR-TUR-2006
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Turkey (A/HRC/4/26/Add.2)**
+
+Summary: Report A/HRC/4/26/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his mission to Turkey (16-23 February 2006), dated 16 November 2006. The report says the visit, at the Government's invitation, aimed to gather first-hand information on counter-terrorism measures and their effect on human rights and to begin cooperation with the Government. It is the source for milestone T154; its recommendations are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2006-11-16
@@ -824,6 +902,8 @@ Cited by: [T154](../../timeline/post-9-11-2001-2014.md#T154)
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Spain (A/HRC/10/3/Add.2)**
 
+Summary: Report A/HRC/10/3/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism, Martin Scheinin, on his mission to Spain, dated 16 December 2008. The report followed a visit at the Government's invitation; it describes the 11 March 2004 bombings as carried out by members of an international terrorist cell and raises concerns about incommunicado detention and the right to review by a higher court. Its account of the bombings differs from Security Council resolution 1530, which attributed them to ETA (people-disagree milestone T150).
+
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2008-12-16
 - Type: commission report
@@ -844,6 +924,8 @@ Cited by: [T150](../../timeline/post-9-11-2001-2014.md#T150)
 ## SR-EGY-2009
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Egypt (A/HRC/13/37/Add.2)**
+
+Summary: Report A/HRC/13/37/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Egypt (17-21 April 2009). The report examines Egypt's emergency law, criminal provisions on terrorist crimes and the amended article 179 of the Constitution, and discusses issues for the anti-terrorism legislation then being prepared. The report's date is \[UNKNOWN\] in CTA6.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: \[UNKNOWN\]
@@ -866,6 +948,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Tunisia (A/HRC/16/51/Add.2)**
 
+Summary: Report A/HRC/16/51/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Tunisia (22-26 January 2010). The report examines terrorist threats and Tunisia's legal and institutional framework, and concludes that Tunisia's definition of terrorism at the time was vague and broad; this is the Special Rapporteur's assessment. The report's date is \[UNKNOWN\] in CTA6.
+
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: \[UNKNOWN\]
 - Type: commission report
@@ -886,6 +970,8 @@ Cited by: none in `data/timeline.csv`.
 ## SR-PER-2010
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Peru (A/HRC/16/51/Add.3)**
+
+Summary: Report A/HRC/16/51/Add.3 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Peru from 1 to 8 September 2010. The report examines Peru's support for victims of terrorist crimes and of human rights violations by State security forces during the 1980-2000 internal armed conflict, and analyses Peru's counter-terrorism laws; these are the Special Rapporteur's assessments. Its date is \[UNKNOWN\] in CTA6.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: \[UNKNOWN\]
@@ -908,6 +994,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Chile (A/HRC/25/59/Add.2)**
 
+Summary: Report A/HRC/25/59/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Chile from 17 to 30 July 2013. The report says the main focus was the use of anti-terrorism legislation in connection with protests by Mapuche activists seeking to reclaim ancestral lands. It relates to Chile's Law 18.314 (T138) and the Inter-American Court case on its use (T167); its date is \[UNKNOWN\].
+
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: \[UNKNOWN\]
 - Type: commission report
@@ -928,6 +1016,8 @@ Cited by: none in `data/timeline.csv`.
 ## SR-LKA-2019
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Sri Lanka (A/HRC/40/52/Add.3)**
+
+Summary: Report A/HRC/40/52/Add.3 of the former UN Special Rapporteur on human rights and counter-terrorism on his visit to Sri Lanka from 10 to 14 July 2017 (dated 14 December 2018 in CTA6). The report says the visit assessed Sri Lanka's progress in counter-terrorism policies, laws and practices since the end of its internal armed conflict, which it links to accountability and reconciliation. It is the source for milestone T221.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2018-12-14
@@ -950,6 +1040,8 @@ Cited by: [T221](../../timeline/recent-2014-now.md#T221)
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to France (A/HRC/40/52/Add.4)**
 
+Summary: Report A/HRC/40/52/Add.4 of the UN Special Rapporteur on human rights and counter-terrorism on her official visit to France from 14 to 23 May 2018, dated 8 May 2019. The visit assessed France's counter-terrorism laws, policies and practices against its international human rights obligations. The report's specific recommendations are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2019-05-08
 - Type: commission report
@@ -970,6 +1062,8 @@ Cited by: none in `data/timeline.csv`.
 ## SR-KAZ-2020
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Kazakhstan (A/HRC/43/46/Add.1)**
+
+Summary: Report A/HRC/43/46/Add.1 of the UN Special Rapporteur on human rights and counter-terrorism on her visit to Kazakhstan from 10 to 17 May 2019, dated 22 January 2020. Among other concerns, she says detention and prison regimes for people accused or convicted of terrorism are subject to exceptional rules, and that terrorism offences are not eligible for bail or early release; these are her assessments. It is the source for milestone T183.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2020-01-22
@@ -992,6 +1086,8 @@ Cited by: [T183](../../timeline/recent-2014-now.md#T183)
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Saudi Arabia (A/HRC/40/52/Add.2)**
 
+Summary: Report A/HRC/40/52/Add.2 of the former UN Special Rapporteur on human rights and counter-terrorism on his official visit to Saudi Arabia (30 April-4 May 2017). The report says the visit assessed Saudi Arabia's counter-terrorism law, policy and practice against international human rights law; it commends programmes for victims of terrorism and also sets out concerns. It is the source for milestone T179; the report's date is \[UNKNOWN\] in CTA6.
+
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: \[UNKNOWN\]
 - Type: commission report
@@ -1012,6 +1108,8 @@ Cited by: [T179](../../timeline/recent-2014-now.md#T179)
 ## SR-BEL-2019
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Belgium (A/HRC/40/52/Add.5)**
+
+Summary: Report A/HRC/40/52/Add.5 of the UN Special Rapporteur on human rights and counter-terrorism on her official visit to Belgium from 24 to 31 May 2018, dated 8 May 2019. The visit assessed Belgium's counter-terrorism laws, policies and practices against its human rights obligations; the summary commends what it calls the Government's measured and deliberative approach. Its specific recommendations are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2019-05-08
@@ -1034,6 +1132,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Independent National Security Legislation Monitor (home page)**
 
+Summary: The home page of Australia's Independent National Security Legislation Monitor (INSLM), an independent office that reviews national security and counter-terrorism laws. CTA6 cites it for milestone T192, the Monitor's October 2026 report to the Attorney-General on the definition of a 'terrorist act'. The page is undated \[UNKNOWN\] and was verified through a text extraction only.
+
 - Issuing body: Independent National Security Legislation Monitor (Australia)
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -1054,6 +1154,8 @@ Cited by: [T192](../../timeline/recent-2014-now.md#T192)
 ## CA-NSIRA
 
 **National Security and Intelligence Review Agency (home page)**
+
+Summary: The home page of Canada's National Security and Intelligence Review Agency (NSIRA). As its name states, it is Canada's review body for national security and intelligence activities; its mandate is not described in the capture \[UNKNOWN\]. The page is undated \[UNKNOWN\].
 
 - Issuing body: NSIRA (Canada)
 - Date: \[UNKNOWN\]
@@ -1076,6 +1178,8 @@ Cited by: none in `data/timeline.csv`.
 
 **BVerfG, Urteil des Ersten Senats vom 20. April 2016, 1 BvR 966/09 (BKA-Gesetz)**
 
+Summary: The judgment of the First Senate of Germany's Federal Constitutional Court of 20 April 2016 (1 BvR 966/09) on the Federal Criminal Police Office Act (BKA-Gesetz). As recorded in milestone T176, it ruled on the BKA's surveillance powers for countering international terrorism. The outcome is not recorded in CTA6 \[UNKNOWN\]; the source was verified through a text extraction only.
+
 - Issuing body: Bundesverfassungsgericht
 - Date: 2016-04-20
 - Type: court record
@@ -1096,6 +1200,8 @@ Cited by: [T176](../../timeline/recent-2014-now.md#T176)
 ## DE-BVERFG-LUFTSIG2006
 
 **BVerfG, Urteil des Ersten Senats vom 15. Februar 2006, 1 BvR 357/05 (Luftsicherheitsgesetz)**
+
+Summary: The judgment of the First Senate of Germany's Federal Constitutional Court of 15 February 2006 (1 BvR 357/05) on the Aviation Security Act (Luftsicherheitsgesetz). The constitutional complaint challenged the power of the armed forces to shoot down aircraft intended to be used as a weapon against human life, and the Court declared section 14(3) of the Act incompatible with the Basic Law and void. It is the source for milestone T153.
 
 - Issuing body: Bundesverfassungsgericht
 - Date: 2006-02-15
@@ -1118,6 +1224,8 @@ Cited by: [T153](../../timeline/post-9-11-2001-2014.md#T153)
 
 **Décision n° 86-213 DC du 3 septembre 1986 (Loi relative à la lutte contre le terrorisme)**
 
+Summary: Decision no. 86-213 DC of France's Constitutional Council (Conseil constitutionnel), dated 3 September 1986, on the 1986 law on combating terrorism and attacks on State security. The Council declared Article 4 of the law not in conformity with the Constitution and found the other provisions not contrary to it. It is the source for milestone T139 and reviewed the law recorded at T022.
+
 - Issuing body: Conseil constitutionnel
 - Date: 1986-09-03
 - Type: court record
@@ -1138,6 +1246,8 @@ Cited by: [T139](../../timeline/1945-1990.md#T139)
 ## FR-CC-2015-527
 
 **Décision n° 2015-527 QPC du 22 décembre 2015 (assignations à résidence dans le cadre de l'état d'urgence)**
+
+Summary: Decision no. 2015-527 QPC of France's Constitutional Council, dated 22 December 2015, on house arrest (assignation à résidence) under the state of emergency. The Council declared the first nine paragraphs of Article 6 of Law no. 55-385 of 3 April 1955 on the state of emergency to be in conformity with the Constitution. No milestone cites it yet.
 
 - Issuing body: Conseil constitutionnel
 - Date: 2015-12-22
@@ -1160,6 +1270,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Caso N.C. y otros (Dirigentes, miembros y activista del Pueblo Indígena Mapuche) vs. Chile, Serie C No. 279. Sentencia de 29 de mayo de 2014**
 
+Summary: The Inter-American Court of Human Rights judgment of 29 May 2014 in N.C. y otros (leaders, members and an activist of the Mapuche Indigenous People) vs. Chile, Serie C No. 279. CTA6 records that the case concerned convictions under Chile's anti-terrorism Law 18.314 (T167). The ruling's findings were not captured, so the outcome is \[UNKNOWN\] in CTA6; party names are reduced to initials.
+
 - Issuing body: Corte Interamericana de Derechos Humanos
 - Date: 2014-05-29
 - Type: court record
@@ -1180,6 +1292,8 @@ Cited by: [T167](../../timeline/recent-2014-now.md#T167)
 ## HRW-CHN-2018
 
 **"Eradicating Ideological Viruses": China's Campaign of Repression Against Xinjiang's Muslims**
+
+Summary: 'Eradicating Ideological Viruses': China's Campaign of Repression Against Xinjiang's Muslims', a Human Rights Watch report of 9 September 2018. HRW says it presents new evidence of the Chinese government's mass arbitrary detention, torture and mistreatment of Turkic Muslims in Xinjiang, based mainly on interviews with 58 former residents. These are HRW's findings; no milestone cites it yet.
 
 - Issuing body: Human Rights Watch
 - Date: 2018-09-09
@@ -1202,6 +1316,8 @@ Cited by: none in `data/timeline.csv`.
 
 **G.R. Nos. 252578, et al. (Anti-Terrorism Act oral arguments: docket of petitions, notices and announcements)**
 
+Summary: The Supreme Court of the Philippines' docket page for G.R. Nos. 252578 et al., the petitions against the Anti-Terrorism Act of 2020, listing petitions, notices and announcements for the oral arguments. It shows the Act was challenged in the Supreme Court, but it is not the decision. Milestone T186 is therefore marked not-proven: the docket is verified, but the decision text is not captured.
+
 - Issuing body: Supreme Court of the Philippines
 - Date: \[UNKNOWN\]
 - Type: court record
@@ -1222,6 +1338,8 @@ Cited by: [T186](../../timeline/recent-2014-now.md#T186)
 ## PH-SC-2021-252578
 
 **G.R. No. 252578, C. et al. v. Executive Secretary et al. (full text)**
+
+Summary: The full text of the Supreme Court of the Philippines' decision in G.R. No. 252578, C. et al. v. Executive Secretary et al., dated 7 December 2021, on the Anti-Terrorism Act of 2020. The cited copy could not be confirmed (HTTP 403), so the ruling's content is \[UNKNOWN\] in CTA6 and milestone T186 is not-proven. The petitioner's name is reduced to an initial under CTA6's rule.
 
 - Issuing body: Supreme Court of the Philippines E-Library
 - Date: 2021-12-07
@@ -1244,6 +1362,8 @@ Cited by: [T186](../../timeline/recent-2014-now.md#T186)
 
 **Principles and Guidelines on Human and Peoples' Rights while Countering Terrorism in Africa**
 
+Summary: The African Commission on Human and Peoples' Rights' 'Principles and Guidelines on Human and Peoples' Rights while Countering Terrorism in Africa'. As its title states, it sets out human-rights principles for counter-terrorism in Africa; its content is not summarized in CTA6 \[UNKNOWN\]. The adoption year, 2015, comes from a search listing only, which is why milestone T169 is not-proven.
+
 - Issuing body: African Commission on Human and Peoples' Rights
 - Date: 2015
 - Type: other
@@ -1264,6 +1384,8 @@ Cited by: [T169](../../timeline/recent-2014-now.md#T169)
 ## ICJ-EJP2009
 
 **Assessing Damage, Urging Action: Report of the Eminent Jurists Panel on Terrorism, Counter-terrorism and Human Rights**
+
+Summary: 'Assessing Damage, Urging Action', the 2009 report of the International Commission of Jurists' Eminent Jurists Panel on Terrorism, Counter-terrorism and Human Rights. The report describes itself as based on one of the most comprehensive surveys of counter-terrorism and human rights, and argues that responses to 11 September 2001 changed the legal landscape and that many States adopted measures undermining the international legal framework. These are the panel's conclusions; it is the source for milestone T158.
 
 - Issuing body: International Commission of Jurists
 - Date: 2009
@@ -1286,6 +1408,8 @@ Cited by: [T158](../../timeline/post-9-11-2001-2014.md#T158)
 
 **Stars on their shoulders. Blood on their hands. War crimes committed by the Nigerian military (AFR 44/1657/2015)**
 
+Summary: 'Stars on their shoulders. Blood on their hands. War crimes committed by the Nigerian military' (AFR 44/1657/2015), an Amnesty International report of 3 June 2015. Amnesty says it is based on more than 412 interviews and documents extrajudicial executions in Adamawa, Borno and Yobe states during operations against Boko Haram. The characterisation of the acts as war crimes is Amnesty's; it is the source for milestone T170.
+
 - Issuing body: Amnesty International
 - Date: 2015-06-03
 - Type: other
@@ -1306,6 +1430,8 @@ Cited by: [T170](../../timeline/recent-2014-now.md#T170)
 ## HRW-KEN-2016
 
 **Deaths and Disappearances: Abuses in Counterterrorism Operations in Nairobi and in Northeastern Kenya**
+
+Summary: 'Deaths and Disappearances: Abuses in Counterterrorism Operations in Nairobi and in Northeastern Kenya', a Human Rights Watch report of 20 July 2016. HRW says it documents abuses by law enforcement agencies during operations against Al-Shabab in north-eastern Kenya from December 2013, including raids by officers often without uniforms or identification. The allegations are HRW's; it is the source for milestone T177.
 
 - Issuing body: Human Rights Watch
 - Date: 2016-07-20
@@ -1328,6 +1454,8 @@ Cited by: [T177](../../timeline/recent-2014-now.md#T177)
 
 **"In a Legal Black Hole": Sri Lanka's Failure to Reform the Prevention of Terrorism Act**
 
+Summary: 'In a Legal Black Hole': Sri Lanka's Failure to Reform the Prevention of Terrorism Act', a Human Rights Watch report of 7 February 2022. HRW says it gives a critical assessment of the PTA and its recent use, based on research since 2018 and interviews in 2021, and argues the proposed amendments would leave the framework largely intact; these are HRW's own assessments. It is the source for milestone T187; Sri Lanka's amendment act followed in March 2022 (T226).
+
 - Issuing body: Human Rights Watch
 - Date: 2022-02-07
 - Type: other
@@ -1348,6 +1476,8 @@ Cited by: [T187](../../timeline/recent-2014-now.md#T187)
 ## AMN-IND-2023
 
 **India: Arrests, raids target critics of government (ASA 20/7303/2023)**
+
+Summary: 'India: Arrests, raids target critics of government' (ASA 20/7303/2023), an Amnesty International statement of October 2023. It is a joint statement by several international organizations, which says cases were registered against critics under India's counter-terrorism law, the Unlawful Activities (Prevention) Act (UAPA). The characterisations are Amnesty's and the co-signers'; no milestone cites it yet.
 
 - Issuing body: Amnesty International
 - Date: 2023-10
@@ -1370,6 +1500,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Human Rights Charter - India (ASA 20/8154/2024)**
 
+Summary: 'Human Rights Charter - India' (ASA 20/8154/2024), an Amnesty International document of 13 June 2024. It sets out Amnesty's recommendations to the Indian government, for example on remedies for forced evictions. Its specific counter-terrorism content is not recorded in CTA6 \[UNKNOWN\]; the recommendations are Amnesty's.
+
 - Issuing body: Amnesty International
 - Date: 2024-06-13
 - Type: other
@@ -1390,6 +1522,8 @@ Cited by: none in `data/timeline.csv`.
 ## FIDH-SAHEL-2025
 
 **Civic space and human rights defenders in the Sahel**
+
+Summary: 'Civic space and human rights defenders in the Sahel', an FIDH report of 19 February 2025. It covers Niger, Mali, Burkina Faso and Chad from 1 January 2020 to 30 September 2024, and FIDH states that successive military coups and a deteriorating security situation have been accompanied by increased repression of human rights defenders. These are FIDH's own findings; no milestone cites it yet.
 
 - Issuing body: FIDH (International Federation for Human Rights)
 - Date: 2025-02-19
@@ -1412,6 +1546,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Central Mali: populations caught between terrorism and counter-terrorism**
 
+Summary: 'Central Mali: populations caught between terrorism and counter-terrorism', an FIDH fact-finding mission report from November 2018. As its title states, it examines the situation of civilians in central Mali, which it defines as the Ségou and Mopti regions, between armed groups and counter-terrorism operations. Its findings are FIDH's and are not summarized in CTA6 \[UNKNOWN\]; no milestone cites it yet.
+
 - Issuing body: FIDH (International Federation for Human Rights)
 - Date: 2018-11
 - Type: other
@@ -1432,6 +1568,8 @@ Cited by: none in `data/timeline.csv`.
 ## FIDH-EGY-2010
 
 **Egypt: Counter-terrorism against the background of an endless state of emergency (N°534a)**
+
+Summary: 'Egypt: Counter-terrorism against the background of an endless state of emergency' (N°534a), a January 2010 report by FIDH (International Federation for Human Rights). FIDH states that since 1981 Egypt has used the fight against terrorism to legalize abuses, including incommunicado detention, torture and exceptional courts, under the Emergency Law. These are FIDH's own findings; CTA6 lists it as an NGO critique.
 
 - Issuing body: FIDH (International Federation for Human Rights)
 - Date: 2010-01
@@ -1454,6 +1592,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Egypt: Counterterrorism Law Erodes Basic Rights**
 
+Summary: 'Egypt: Counterterrorism Law Erodes Basic Rights', a Human Rights Watch statement dated 19 August 2015. HRW says the new decree allows wide-ranging and potentially indefinite surveillance of suspects without a court order and argues it moves toward a permanent state of emergency; these are HRW's own views. HRW calls it 'Law 95 of 2015', while the Official Gazette shows Decree-Law No. 94, which is recorded as the people-disagree milestone T173.
+
 - Issuing body: Human Rights Watch
 - Date: 2015-08-19
 - Type: other
@@ -1474,6 +1614,8 @@ Cited by: [T173](../../timeline/recent-2014-now.md#T173)
 ## SR-TUN-2018
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: visit to Tunisia (A/HRC/40/52/Add.1)**
+
+Summary: Report A/HRC/40/52/Add.1 of the former UN Special Rapporteur on human rights and counter-terrorism on his visit to Tunisia (30 January-3 February 2017), dated 12 December 2018. The report says that despite many positive developments he still has concerns, including about the abusive use of emergency legislation, and it makes recommendations. It follows up the 2010 Tunisia mission (SR-TUN-2010); no milestone cites it yet.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2018-12-12
@@ -1496,6 +1638,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: visit to Maldives (A/HRC/52/39/Add.1)**
 
+Summary: Report A/HRC/52/39/Add.1 of the UN Special Rapporteur on human rights and counter-terrorism on her visit to the Maldives from 15 to 24 May 2022, dated 15 March 2023. The Special Rapporteur identifies human rights challenges arising from the Maldives' security, counter-terrorism and 'extremism' frameworks and finds the Anti-Terrorism Act vaguely defined; these are her assessments. It is the source for milestone T189.
+
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2023-03-15
 - Type: commission report
@@ -1516,6 +1660,8 @@ Cited by: [T189](../../timeline/recent-2014-now.md#T189)
 ## SR-UZB-2022
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: visit to Uzbekistan (A/HRC/49/45/Add.1)**
+
+Summary: Report A/HRC/49/45/Add.1 of the UN Special Rapporteur on human rights and counter-terrorism on her visit to Uzbekistan from 29 November to 7 December 2021, dated 25 February 2022. She notes reforms under way and says she is concerned that security-related provisions are used to discourage criticism of the State and are linked to rights violations in trials and sentencing; these are her assessments. It is the source for milestone T185.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2022-02-25
@@ -1538,6 +1684,8 @@ Cited by: [T185](../../timeline/recent-2014-now.md#T185)
 
 **"The Error of Fighting Terror with Terror": preliminary report of KNCHR investigations on human rights abuses in the ongoing crackdown against terrorism**
 
+Summary: 'The Error of Fighting Terror with Terror', a September 2015 preliminary report by the Kenya National Commission on Human Rights on alleged human rights abuses in Kenya's crackdown against terrorism. The characterisations are the Commission's. The cited copy could not be confirmed (HTTP 500), so its contents are \[UNKNOWN\] in CTA6.
+
 - Issuing body: Kenya National Commission on Human Rights
 - Date: 2015-09
 - Type: commission report
@@ -1558,6 +1706,8 @@ Cited by: none in `data/timeline.csv`.
 ## CNCDH-2017
 
 **Avis sur le projet de loi renforçant la sécurité intérieure et la lutte contre le terrorisme (6 juillet 2017)**
+
+Summary: An opinion (avis) of France's National Consultative Commission on Human Rights (CNCDH), dated 6 July 2017, on the bill strengthening internal security and the fight against terrorism. It is an independent advisory body's opinion on the bill that became Loi n° 2017-1510 (T123). The cited copy could not be confirmed (bot check or error), so its content is \[UNKNOWN\] in CTA6.
 
 - Issuing body: Commission nationale consultative des droits de l'homme (France)
 - Date: 2017-07-06
@@ -1580,6 +1730,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Prison Study by the Human Rights Commission of Sri Lanka (concise version)**
 
+Summary: The concise version of the Prison Study by the Human Rights Commission of Sri Lanka, published in 2020. The study says it covers the physical and social dimensions of prisons and the legal framework, and it includes a section on prisoners held under the Prevention of Terrorism Act. It is the source for milestone T225; its findings are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: Human Rights Commission of Sri Lanka
 - Date: 2020
 - Type: commission report
@@ -1600,6 +1752,8 @@ Cited by: [T225](../../timeline/recent-2014-now.md#T225)
 ## ECHR-2008-37201
 
 **S. v. Italy \[GC\], no. 37201/06 (judgment)**
+
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 28 February 2008 in S. v. Italy (no. 37201/06), on deporting to Tunisia a person who said he had been sentenced there in absentia for membership of a terrorist organisation. According to the Court's factsheet, the Court acknowledged the danger of terrorism but held that it does not call into question the absolute nature of Article 3, and found that deportation would breach Article 3 because of a real risk of ill-treatment. It is the source for milestone T156.
 
 - Issuing body: European Court of Human Rights
 - Date: 2008-02-28
@@ -1622,6 +1776,8 @@ Cited by: [T156](../../timeline/post-9-11-2001-2014.md#T156)
 
 **N. v. Switzerland \[GC\], no. 10593/08 (judgment)**
 
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 12 September 2012 in N. v. Switzerland (no. 10593/08), on a Swiss ordinance implementing UN Security Council sanctions that barred the listed applicant from entering or transiting Switzerland. According to the Court's factsheet, the Court found violations of Article 8 and of Article 13 with Article 8, observing that Switzerland could not simply rely on the binding nature of Security Council resolutions. It is the source for milestone T164 and relates to the UN listing regime (T046).
+
 - Issuing body: European Court of Human Rights
 - Date: 2012-09-12
 - Type: court record
@@ -1642,6 +1798,8 @@ Cited by: [T164](../../timeline/post-9-11-2001-2014.md#T164)
 ## ECHR-1996-21987
 
 **A. v. Turkey, no. 21987/93 (judgment)**
+
+Summary: The European Court of Human Rights judgment of 18 December 1996 in A. v. Turkey (no. 21987/93), on the applicant's 1992 detention in south-east Turkey on suspicion of aiding PKK members. According to the Court's factsheet, the Court found the treatment he suffered in custody so serious and cruel that it amounted to torture, a violation of Article 3, and also found violations of Articles 5 and 13. It is the source for milestone T144.
 
 - Issuing body: European Court of Human Rights
 - Date: 1996-12-18
@@ -1664,6 +1822,8 @@ Cited by: [T144](../../timeline/1990-2001.md#T144)
 
 **H. v. Poland, no. 7511/13 (judgment)**
 
+Summary: The European Court of Human Rights judgment of 24 July 2014 in H. v. Poland (no. 7511/13), on alleged secret detention in Poland under the CIA programme. According to the Court's factsheet, the Court found the allegations sufficiently convincing and found that Poland had cooperated in CIA rendition, secret detention and interrogation operations on its territory. It is the source for milestone T168; the companion case is A.N. v. Poland (ECHR-2014-28761).
+
 - Issuing body: European Court of Human Rights
 - Date: 2014-07-24
 - Type: court record
@@ -1684,6 +1844,8 @@ Cited by: [T168](../../timeline/recent-2014-now.md#T168)
 ## ECHR-2018-33234
 
 **A.N. v. Romania, no. 33234/12 (judgment)**
+
+Summary: The European Court of Human Rights judgment of 31 May 2018 in A.N. v. Romania (no. 33234/12), on alleged secret detention in Romania under the CIA rendition programme. According to the Court's factsheet, the Court relied partly on a December 2014 US Senate report and found violations of Article 3 (because of Romania's failure to investigate and its complicity in the CIA's actions), as well as of Articles 5, 8 and 13. It is the source for milestone T181.
 
 - Issuing body: European Court of Human Rights
 - Date: 2018-05-31
@@ -1706,6 +1868,8 @@ Cited by: [T181](../../timeline/recent-2014-now.md#T181)
 
 **T. and Others v. Russia, no. 26562/07 and 6 other applications (judgment; 2004 Beslan school siege)**
 
+Summary: The European Court of Human Rights' judgment of 13 April 2017 in T. and Others v. Russia (no. 26562/07 and six other applications), concerning the September 2004 Beslan school siege. According to the Court's terrorism factsheet (ECHR-FS-TERR), the Court found violations of Article 2 (right to life), including a failure to take preventive measures despite specific information about a planned attack, an investigation unable to determine whether the force used was justified, and serious shortcomings in planning and controlling the security operation. It is the source for milestone T178; applicant names are given as initials.
+
 - Issuing body: European Court of Human Rights
 - Date: 2017-04-13
 - Type: court record
@@ -1726,6 +1890,8 @@ Cited by: [T178](../../timeline/recent-2014-now.md#T178)
 ## ECHR-2011-18299
 
 **F. and Others v. Russia, nos. 18299/03 and 27311/03 (judgment; 2002 Moscow theatre hostage crisis)**
+
+Summary: The European Court of Human Rights' judgment of 20 December 2011 in F. and Others v. Russia (nos. 18299/03 and 27311/03), concerning the October 2002 Moscow 'Dubrovka' theatre hostage crisis. According to the Court's terrorism factsheet (ECHR-FS-TERR), the Court found no violation of Article 2 in the decision to resolve the crisis by force and use gas, but found violations over the inadequate planning and implementation of the rescue operation and the ineffective investigation. It is the source for milestone T160; applicant names are given as initials.
 
 - Issuing body: European Court of Human Rights
 - Date: 2011-12-20
@@ -1748,6 +1914,8 @@ Cited by: [T160](../../timeline/post-9-11-2001-2014.md#T160)
 
 **B. and M. v. the United Kingdom, nos. 14553/89 and 14554/89 (judgment)**
 
+Summary: The European Court of Human Rights judgment of 26 May 1993 in B. and M. v. the United Kingdom (nos. 14553/89 and 14554/89). According to the Court's factsheet, the two applicants, IRA suspects, were held in Northern Ireland for over four and over six days without being brought before a judge, and the Court found no violation of Article 5 § 3 because the UK had made a valid emergency derogation under Article 15. It contrasts with the 1988 judgment (ECHR-1988-11209), where no derogation was in force; no milestone cites it yet.
+
 - Issuing body: European Court of Human Rights
 - Date: 1993-05-26
 - Type: court record
@@ -1768,6 +1936,8 @@ Cited by: none in `data/timeline.csv`.
 ## ECHR-2005-46221
 
 **Ö. v. Turkey \[GC\], no. 46221/99 (judgment)**
+
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 12 May 2005 in Ö. v. Turkey (no. 46221/99), concerning the applicant's arrest, transfer to Turkey, detention and trial. According to the Court's factsheet, on the conditions of his detention the Court found no violation of Article 3; the factsheet extract in CTA6 does not cover the Court's findings on the arrest and trial \[UNKNOWN\]. It is the source for milestone T152.
 
 - Issuing body: European Court of Human Rights
 - Date: 2005-05-12
@@ -1790,6 +1960,8 @@ Cited by: [T152](../../timeline/post-9-11-2001-2014.md#T152)
 
 **Selahattin Demirtaş v. Turkey (No. 2) \[GC\], no. 14305/17 (judgment)**
 
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 22 December 2020 in Selahattin Demirtaş v. Turkey (No. 2) (no. 14305/17). As recorded in milestone T184, it concerned the pre-trial detention of an opposition party leader and member of parliament on terrorism-related charges. The outcome is not recorded in CTA6 \[UNKNOWN\]; the source was verified through HUDOC metadata only.
+
 - Issuing body: European Court of Human Rights
 - Date: 2020-12-22
 - Type: court record
@@ -1810,6 +1982,8 @@ Cited by: [T184](../../timeline/recent-2014-now.md#T184)
 ## ECHR-2012-8139
 
 **O. v. the United Kingdom, no. 8139/09 (judgment)**
+
+Summary: The European Court of Human Rights judgment of 17 January 2012 in O. v. the United Kingdom (no. 8139/09), on the applicant's removal to Jordan, where he had been convicted in his absence on terrorism charges. According to the Court's factsheet, the Court found no violation of Article 3, given the diplomatic assurances obtained from Jordan and their independent monitoring, but found that deportation would violate Article 6 (fair trial) because of a real risk that evidence obtained by torture would be admitted at his retrial. No milestone cites it yet.
 
 - Issuing body: European Court of Human Rights
 - Date: 2012-01-17
@@ -1832,6 +2006,8 @@ Cited by: none in `data/timeline.csv`.
 
 **The Eighteenth Report of the National Council for Human Rights (1 July 2024 – 30 June 2025)**
 
+Summary: The Eighteenth Report of Egypt's National Council for Human Rights, covering 1 July 2024 to 30 June 2025. The Council describes it as a holistic assessment of rights in Egypt, and it mentions recommendations to review laws providing for the death penalty, including counter-terrorism law, so that it applies only to the most serious crimes. It is the Council's own assessment; the day and month of publication are \[UNKNOWN\].
+
 - Issuing body: National Council for Human Rights (Egypt)
 - Date: 2025
 - Type: commission report
@@ -1852,6 +2028,8 @@ Cited by: none in `data/timeline.csv`.
 ## EG-NCHR-R12-AR
 
 **التقرير السنوى للمجلس القومى لحقوق الإنسان الثانى عشر 2017/2016**
+
+Summary: The Twelfth Annual Report of Egypt's National Council for Human Rights, in Arabic, covering April 2016 to the end of June 2017. It is the national human rights body's annual report for that period; its contents are not summarized in CTA6 \[UNKNOWN\], and the publication day and month are \[UNKNOWN\].
 
 - Issuing body: المجلس القومي لحقوق الإنسان (Egypt)
 - Date: 2017
@@ -1874,6 +2052,8 @@ Cited by: none in `data/timeline.csv`.
 
 **التقرير السنوي الخامس عشر 2020/2019**
 
+Summary: The Fifteenth Annual Report of Egypt's National Council for Human Rights, in Arabic, for 2019/2020. It is the national human rights body's annual report for that period; its contents are not summarized in CTA6 \[UNKNOWN\] because the PDF text layer could not be searched reliably.
+
 - Issuing body: المجلس القومي لحقوق الإنسان (Egypt)
 - Date: 2020
 - Type: commission report
@@ -1894,6 +2074,8 @@ Cited by: none in `data/timeline.csv`.
 ## TR-RG-AYM2013
 
 **Anayasa Mahkemesi Kararı, Esas Sayısı 2012/100, Karar Sayısı 2013/84, Karar Günü 4.7.2013 (Resmî Gazete, 2 Ağustos 2013, Sayı 28726)**
+
+Summary: A decision of Türkiye's Constitutional Court (Anayasa Mahkemesi), case E. 2012/100, K. 2013/84, decided on 4 July 2013 and published in the Resmî Gazete on 2 August 2013 (No. 28726). It reviewed Law No. 6352 on a petition by 123 members of parliament, including the law's amendments to article 10 of Anti-Terror Law No. 3713. It is the source for milestone T216; the outcome on each provision is not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: Anayasa Mahkemesi (Constitutional Court of Türkiye), published in the Resmî Gazete
 - Date: 2013-07-04
@@ -1917,6 +2099,8 @@ Cited by: [T216](../../timeline/post-9-11-2001-2014.md#T216)
 
 **Report of the Special Independent Investigative Panel on Human Rights Violations in Counter Insurgency Operations in the North East (SIIP North-East)**
 
+Summary: The report of the Special Independent Investigative Panel on Human Rights Violations in Counter Insurgency Operations in the North East (SIIP North-East), posted by Nigeria's National Human Rights Commission on 9 November 2024. It is the Commission's own investigation into alleged violations during counter-insurgency operations and the source for milestone T229. Its findings are summarized in the executive summary (NG-NHRC-SIIP-NE-ES) rather than here \[UNKNOWN\].
+
 - Issuing body: National Human Rights Commission (Nigeria)
 - Date: 2024-11-09
 - Type: commission report
@@ -1938,6 +2122,8 @@ Cited by: [T229](../../timeline/recent-2014-now.md#T229)
 
 **SIIP North-East: Issues and Findings (executive summary, updated 18-11-24)**
 
+Summary: 'SIIP North-East: Issues and Findings', the executive summary (updated 18 November 2024) of the Nigerian National Human Rights Commission's panel report. It states the Commission inaugurated the panel on 7 February 2023 to investigate allegations in Reuters reports of December 2022 against the Nigerian military, and that Reuters and some key institutions did not appear before it. It is the source for milestone T227; the panel's conclusions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: National Human Rights Commission (Nigeria)
 - Date: 2024-11
 - Type: commission report
@@ -1958,6 +2144,8 @@ Cited by: [T227](../../timeline/recent-2014-now.md#T227)
 ## AFCHPR-2019-013-2017
 
 **A. v. Republic of Benin, Application No. 013/2017, Judgment (Merits), 29 March 2019**
+
+Summary: The merits judgment of the African Court on Human and Peoples' Rights of 29 March 2019 in A. v. Republic of Benin (Application No. 013/2017). The case concerned proceedings including those before Benin's newly created Court for the Repression of Economic Offences and Terrorism (CRIET). It is the source for milestone T224; the outcome is not recorded in CTA6 \[UNKNOWN\] because the scanned text layer is partly garbled.
 
 - Issuing body: African Court on Human and Peoples' Rights
 - Date: 2019-03-29
@@ -1981,6 +2169,8 @@ Cited by: [T224](../../timeline/recent-2014-now.md#T224)
 
 **Informe sobre terrorismo y derechos humanos (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.)**
 
+Summary: The Inter-American Commission on Human Rights' Report on Terrorism and Human Rights (Informe sobre terrorismo y derechos humanos, OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.), in Spanish, dated 22 October 2002 per the search listing. As its title states, it is the Commission's report on terrorism and human rights. The cited copy could not be confirmed (HTTP 503, server maintenance), so its content is \[UNKNOWN\] in CTA6.
+
 - Issuing body: Comisión Interamericana de Derechos Humanos (OEA)
 - Date: 2002-10-22
 - Type: commission report
@@ -2002,6 +2192,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Report on Terrorism and Human Rights: Executive Summary (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.)**
 
+Summary: The English executive summary of the Inter-American Commission on Human Rights' Report on Terrorism and Human Rights (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.). The cited copy could not be confirmed (HTTP 503, maintenance), and its date comes from the Spanish listing (IACHR-2002-TERR-ES). Its content is \[UNKNOWN\] in CTA6.
+
 - Issuing body: Inter-American Commission on Human Rights (OAS)
 - Date: 2002-10-22
 - Type: commission report
@@ -2022,6 +2214,8 @@ Cited by: none in `data/timeline.csv`.
 ## IACTHR-1997-33
 
 **Caso L.T. Vs. Perú, Sentencia de 17 de septiembre de 1997 (Fondo), Serie C No. 33**
+
+Summary: The Inter-American Court of Human Rights' merits judgment of 17 September 1997 in L.T. v. Peru (Serie C No. 33), from petition No. 11.154. According to milestone T196, the Commission submitted the case on 12 January 1995 alleging unlawful detention, torture and a second trial on the same facts. The captured text is cut off before the Court's operative points, so the outcome is \[UNKNOWN\] in CTA6; the victim is given as initials.
 
 - Issuing body: Corte Interamericana de Derechos Humanos
 - Date: 1997-09-17
@@ -2045,6 +2239,8 @@ Cited by: [T196](../../timeline/1990-2001.md#T196)
 
 **Caso C.P. y otros Vs. Perú, Sentencia de 30 de mayo de 1999 (Fondo, Reparaciones y Costas), Serie C No. 52**
 
+Summary: The Inter-American Court of Human Rights' judgment on merits, reparations and costs of 30 May 1999 in C.P. y otros v. Peru (Serie C No. 52), from petition No. 11.319. As described in the judgment, it concerns four Chilean nationals tried by a military tribunal under Decree-Law No. 25.659 (T197). The captured text is cut off before the operative points, so the outcome is \[UNKNOWN\] in CTA6; the victims are given as initials.
+
 - Issuing body: Corte Interamericana de Derechos Humanos
 - Date: 1999-05-30
 - Type: court record
@@ -2066,6 +2262,8 @@ Cited by: [T197](../../timeline/1990-2001.md#T197)
 ## IACTHR-2000-69
 
 **Caso C.B. Vs. Perú, Sentencia de 18 de agosto de 2000 (Fondo), Serie C No. 69**
+
+Summary: The Inter-American Court of Human Rights' merits judgment of 18 August 2000 in C.B. v. Peru (Serie C No. 69). The captured part shows the Commission had found Peru responsible for violating the rights to personal liberty, personal integrity and judicial guarantees (Articles 7, 5 and 8 of the American Convention); that was the Commission's finding, not the Court's. The Court's own operative points are not in the capture, so the outcome is \[UNKNOWN\]; it is the source for T198.
 
 - Issuing body: Corte Interamericana de Derechos Humanos
 - Date: 2000-08-18
@@ -2089,6 +2287,8 @@ Cited by: [T198](../../timeline/1990-2001.md#T198)
 
 **Sentencia del Tribunal Constitucional, Exp. N.º 010-2002-AI/TC (T.S. y más de 5,000 ciudadanos; legislación antiterrorista de 1992)**
 
+Summary: The judgment of Peru's Constitutional Tribunal of 3 January 2003 in Exp. No. 010-2002-AI/TC, brought by T.S. and more than 5,000 citizens against the 1992 anti-terrorism decree-laws. The Tribunal declared the challenge founded in part and declared unconstitutional, among other provisions, Article 7 and Article 13(h) of Decree-Law No. 25475 and phrases imposing continuous solitary confinement in the first year of detention. It is the source for milestone T202.
+
 - Issuing body: Tribunal Constitucional del Perú
 - Date: 2003-01-03
 - Type: court record
@@ -2111,6 +2311,8 @@ Cited by: [T202](../../timeline/post-9-11-2001-2014.md#T202)
 
 **Bali 2002: Security threats to Australians in South East Asia**
 
+Summary: A report of the Australian Senate's Foreign Affairs, Defence and Trade committee, 'Bali 2002: Security threats to Australians in South East Asia', dated 12 August 2004. Its contents page shows chapters on travel advice in the lead-up to the Bali attacks of 12 October 2002, on intelligence reports and threat assessments, and on compensation for victims, plus remarks by Government Senators and a dissenting report. It is a parliamentary review of how threat information was handled before the attacks and is the source for milestone T205; its findings are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: Parliament of Australia, Senate (Foreign Affairs, Defence and Trade committee, per the page path)
 - Date: 2004-08-12
 - Type: commission report
@@ -2131,6 +2333,8 @@ Cited by: [T205](../../timeline/post-9-11-2001-2014.md#T205)
 ## AU-INSLM-2018
 
 **Stop, search and seize powers; Declared Areas; Control orders and Preventative detention orders (INSLM statutory deadline reviews)**
+
+Summary: Reports by Australia's Independent National Security Legislation Monitor on statutory deadline reviews of stop, search and seize powers, declared areas, control orders and preventative detention orders. The Monitor's page says the reviews were completed on 7 September 2017 after a public hearing on 19 May 2017, and that the Parliamentary Joint Committee on Intelligence and Security published its own reports on the same powers on 1 March 2018. It shows the independent review of these counter-terrorism powers required by law and is the source for milestone T222.
 
 - Issuing body: Independent National Security Legislation Monitor (Australia)
 - Date: 2017-09-07
@@ -2153,6 +2357,8 @@ Cited by: [T222](../../timeline/recent-2014-now.md#T222)
 
 **Annual Report 2019-2020**
 
+Summary: The Annual Report 2019-2020 of India's National Human Rights Commission, covering 1 April 2019 to 31 March 2020. It covers issues including civil liberties, terrorism and militancy, custodial violence and torture. Its specific findings on counter-terrorism are not summarized in CTA6 \[UNKNOWN\], and its publication date is \[UNKNOWN\].
+
 - Issuing body: National Human Rights Commission, India
 - Date: \[UNKNOWN\]
 - Type: commission report
@@ -2173,6 +2379,8 @@ Cited by: none in `data/timeline.csv`.
 ## PK-NCHR-AR2024
 
 **Annual Report 2024**
+
+Summary: The Annual Report 2024 of Pakistan's National Commission for Human Rights, published in 2025. The report lists among the Commission's functions reviewing factors, including acts of terrorism, that inhibit the enjoyment of human rights and recommending remedies. Its specific counter-terrorism findings are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: National Commission for Human Rights (Pakistan)
 - Date: 2025
@@ -2195,6 +2403,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Perlindungan Hak Asasi Manusia dalam Rancangan Undang-Undang tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2003 (kertas posisi; disampaikan kepada Ketua Panja RUU Pemberantasan Tindak Pidana Terorisme pada 16 April 2018)**
 
+Summary: A position paper by Indonesia's National Human Rights Commission (Komnas HAM) on human rights protection in the draft amendment to Law No. 15 of 2003 on terrorism, submitted to the chair of the parliamentary working committee on 16 April 2018. Among its recommendations, Komnas HAM urges that the revision use a criminal justice system approach that puts legal process and human rights first. It is the source for milestone T223; the bill became Law No. 5 of 2018 (T182).
+
 - Issuing body: Komisi Nasional Hak Asasi Manusia (Komnas HAM), Indonesia
 - Date: 2018-04-16
 - Type: commission report
@@ -2216,6 +2426,8 @@ Cited by: [T223](../../timeline/recent-2014-now.md#T223)
 
 **Annual Report 2016**
 
+Summary: The Annual Report 2016 of the Human Rights Commission of Malaysia (SUHAKAM); the print file is dated 23 March 2017. SUHAKAM says SOSMA was presented as a law for imminent terrorist threats but has been used for non-terrorism purposes, and that it recorded complaints of abuse from detainees during their 28-day detention. These are SUHAKAM's findings about the 2012 Act (T162).
+
 - Issuing body: Human Rights Commission of Malaysia (SUHAKAM)
 - Date: 2017
 - Type: commission report
@@ -2236,6 +2448,8 @@ Cited by: none in `data/timeline.csv`.
 ## JP-KOUANSHIN-AUM
 
 **オウム真理教に対する観察処分の期間更新決定の概要について（令和6年1月12日）**
+
+Summary: A summary from Japan's Public Security Examination Commission (Ministry of Justice), dated 12 January 2024, of its decision to renew the observation measure on Aum Shinrikyo. The Commission states it acted on the request of the Director-General of the Public Security Intelligence Agency under the 1999 Act on organizations that committed indiscriminate mass murder. It is a source for milestone T228.
 
 - Issuing body: 公安審査委員会 (Public Security Examination Commission, Ministry of Justice)
 - Date: 2024-01-12
