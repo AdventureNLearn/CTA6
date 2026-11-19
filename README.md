@@ -1,23 +1,24 @@
 # CTA6
 
-CTA6 is a private archival collection of published official and scholarly records on the history of counterterrorism. It is global in scope and is built in rounds. This is **round 1**. It is not a complete history, and it does not claim to be one.
+CTA6 is a private archival collection of published official and scholarly records on the history of counterterrorism. It is global in scope and is built in rounds. This is **round 2**. It is not a complete history, and it does not claim to be one.
 
 The canonical records are the spreadsheets in `data/`. The pages under `timeline/` and `sources/` are a readable view generated from those spreadsheets. Do not edit the generated pages by hand.
 
-This repository is meant for later publication as the private GitHub repository `AdventureNLearn/CTA6`. That GitHub repository has not been created in this round.
+The private GitHub repository exists at [`AdventureNLearn/CTA6`](https://github.com/AdventureNLearn/CTA6).
 
-## What is in round 1
+## What is in round 2
 
-- 196 sources in [`data/sources.csv`](data/sources.csv) (180 primary, 16 secondary)
-- 132 timeline milestones in [`data/timeline.csv`](data/timeline.csv)
-- Milestone status in this round: 119 we-have-a-record, 8 not-proven, 5 people-disagree
+- 303 sources in [`data/sources.csv`](data/sources.csv) (274 primary, 29 secondary; 270 verified, 33 not)
+- 192 timeline milestones in [`data/timeline.csv`](data/timeline.csv)
+- Milestone status in this round: 173 we-have-a-record, 10 not-proven, 9 people-disagree
 - A readable timeline, one file per era, in [`timeline/`](timeline/)
-- Sources grouped by region and theme in [`sources/`](sources/)
+- Sources grouped by region and theme in [`sources/`](sources/), including a Russia/Central Asia region page added in this round
 - The outline of eras, regions and themes in [`docs/STRUCTURE.md`](docs/STRUCTURE.md)
 - Known gaps, dropped candidates and unconfirmed URLs in [`GAPS.md`](GAPS.md)
 - The round 1 source-gathering record in [`NOTES.md`](NOTES.md)
+- The round 2 source-gathering record in [`notes/round-2.md`](notes/round-2.md)
 
-Sources were chosen by hand and are not a systematic sample. Counts describe this round only. Later rounds should fill the gaps listed in `GAPS.md`.
+Round 2 added 107 sources and 60 milestones (T133–T192) to the 196 sources and 132 milestones from round 1, and applied corrections to some round 1 records (verified retries, anonymized case titles, source-id renames, and date or attribution notes). Sources were chosen by hand and are not a systematic sample. Counts describe the archive as of this round. Later rounds should fill the gaps listed in `GAPS.md`.
 
 ## Neutrality method
 
@@ -27,6 +28,16 @@ Sources were chosen by hand and are not a systematic sample. Counts describe thi
 - Tag every source `primary` or `secondary`, and record its origin: `government`, `international`, `academic`, `NGO`, `court`, or `oversight`.
 - Official records and independent oversight, court and NGO records are all in scope, so criticism and limits appear alongside statutes and resolutions.
 - Do not invent. If a fact, date or document is missing, mark it `[UNKNOWN]`. Do not guess a URL, a date, or a conclusion.
+
+## Names in case titles
+
+Private individuals who are parties or applicants in a case, and who are not public officials, are named by initials taken from the name as printed in the source. Public officials, states and organisations stay named. Every case keeps its official number or citation. Source ids that would otherwise contain a private person's surname use a court-year-number form instead. URLs are unchanged.
+
+## Language
+
+Every source has a `language` column. Pass 2 recorded the language of the source text. Round 1 rows, gathered before that column existed, are marked `[UNKNOWN]`; that is a gap, not a claim that the language was never known. Where a source has no English title, the original title is used and `notes` says "English title: [UNKNOWN]".
+
+An optional `case_citation` column holds the official case number or citation when one was recorded in the pass 2 corrections.
 
 ## Status labels
 
@@ -44,17 +55,17 @@ Sources also carry `verified=yes` or `verified=no`, which records whether the ci
 
 ## How to add to the archive
 
-1. Add a row to `data/sources.csv` with every required field: `id`, `title`, `author_or_issuing_body`, `date`, `type`, `tag`, `origin`, `era`, `region`, `theme`, `url`, `accessed`, and `verified`. Use the vocabularies already used in the spreadsheet (see `docs/STRUCTURE.md`). If a date is not known, write `[UNKNOWN]`. Put confirmation details in `notes`.
+1. Add a row to `data/sources.csv` with every required field: `id`, `title`, `author_or_issuing_body`, `date`, `type`, `tag`, `origin`, `era`, `region`, `theme`, `url`, `accessed`, `verified`, and `language`. Use the vocabularies already used in the spreadsheet (see `docs/STRUCTURE.md`). If a date or language is not known, write `[UNKNOWN]`. Put confirmation details in `notes`. If the record is a case, add the official citation in `case_citation` and follow the naming rule above.
 2. If the record is also a milestone, add a row to `data/timeline.csv`. `citation_source_id` must be an `id` that already exists in `data/sources.csv`. Every statement in `what_happened` must come from the cited source. Set `confidence` to one of the three status labels above. If sources disagree, fill `citation_source_id_2` and `url_2`, and mark the row `people-disagree`.
 3. From the repository root, run `python3 scripts/check.py` and fix any errors.
 4. Run `python3 scripts/build.py` to regenerate `timeline/`, `sources/` and `docs/STRUCTURE.md`.
-5. Do not invent facts, do not commit page captures, and do not add personal data or secrets.
+5. Do not invent facts, do not commit page captures or working maps of old names, and do not add personal data or secrets.
 
 ## Page captures
 
-When sources were gathered, page captures were saved locally (HTML or PDF, extracted text, and fetch metadata). Those files are large and are **not part of this repository**. They remain on the local machine only. The `.gitignore` file is set so a `raw/` folder is not committed.
+When sources were gathered, page captures were saved locally (HTML or PDF, extracted text, and fetch metadata). Those files are large and are **not part of this repository**. They remain on the local machine only. The `.gitignore` file is set so a `raw/` or `work/` folder is not committed.
 
 ## Scripts
 
-- `python3 scripts/check.py` — confirms that the spreadsheets parse, that every timeline row cites an existing source id, and that no row is missing a URL or a status label.
+- `python3 scripts/check.py` — confirms that the spreadsheets parse, that every timeline row cites an existing source id, and that no row is missing a URL or a status label. A surname scan is not part of the check: a committed list would only be useful if it contained names, and those names are not committed.
 - `python3 scripts/build.py` — rebuilds the readable timeline and source pages, and `docs/STRUCTURE.md`, from the spreadsheets.

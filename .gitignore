@@ -12,3 +12,8 @@ venv/
 .env.*
 *.swp
 *~
+
+# Pass-2 working files and the private id map stay off this repository.
+work/
+**/work/
+id-map-private.csv
