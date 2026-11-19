@@ -2,7 +2,7 @@
 
 # Sources: Oceania
 
-Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
 12 sources in this region (`government` 6, `international` 2, `oversight` 4).
 

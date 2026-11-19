@@ -2,7 +2,7 @@
 
 # Sources: Middle East/North Africa
 
-Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
 36 sources in this region (`government` 11, `international` 11, `NGO` 2, `court` 4, `oversight` 8).
 

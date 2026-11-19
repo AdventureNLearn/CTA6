@@ -2,9 +2,9 @@
 
 # Sources: Russia/Central Asia
 
-Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-17 sources in this region (`government` 9, `international` 4, `court` 2, `oversight` 2).
+19 sources in this region (`government` 11, `international` 4, `court` 2, `oversight` 2).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -128,7 +128,7 @@ Cited by: [T148](../../timeline/post-9-11-2001-2014.md#T148)
 
 **Закон Республики Казахстан от 13 июля 1999 года № 416 «О противодействии терроризму»**
 
-Summary: Kazakhstan's Law No. 416 of 13 July 1999, 'On countering terrorism' (О противодействии терроризму), from the Ministry of Justice's Adilet legal database. As its title states, it is Kazakhstan's counter-terrorism law. The cited copy could not be confirmed (the expected text was not found), so its content is \[UNKNOWN\] in CTA6.
+Summary: Kazakhstan's Law No. 416 of 13 July 1999, 'On countering terrorism' (О противодействии терроризму), from the Ministry of Justice's Adilet legal database. As its title states, it is Kazakhstan's counter-terrorism law. According to an unofficial consolidated copy in the PRG.kz legal database (SEC-KZ-416-PRG), its full number is 416-I and it has been amended up to 11 August 2026; this has not been verified. The cited Adilet copy could not be confirmed (the expected text was not found), so its official content is \[UNKNOWN\] in CTA6.
 
 - Issuing body: ИПС «Әділет» (Министерство юстиции Республики Казахстан)
 - Date: 1999-07-13
@@ -289,7 +289,7 @@ Cited by: none in `data/timeline.csv`.
 
 **Закон Республики Таджикистан «О борьбе с терроризмом»**
 
-Summary: Tajikistan's Law 'On combating terrorism' (О борьбе с терроризмом), from the National Legislation Centre under the President. A search listing gives 16 November 1999, No. 845, and says it lost force on 23 December 2021, but this is not confirmed. The cited copy could not be confirmed (the fetch timed out or returned HTTP 504), so its content is \[UNKNOWN\].
+Summary: Tajikistan's Law 'On combating terrorism' (О борьбе с терроризмом), from the National Legislation Centre under the President. According to an unofficial copy in the Spinform legal database (SEC-TJ-845-SPINFORM), it is Law No. 845 of 16 November 1999 and it lost force under article 45 of Law No. 1808 of 23 December 2021; this has not been verified against an official source. The cited official copy could not be confirmed (the fetch timed out or returned HTTP 504), so its content is \[UNKNOWN\].
 
 - Issuing body: Национальный центр законодательства при Президенте Республики Таджикистан
 - Date: \[UNKNOWN\]
@@ -398,3 +398,57 @@ Summary: The Agreement among SCO member states on the Regional Anti-Terrorist St
 - Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/SCO-RATS2002-SCO.* Record page lists 'Дата принятия 7 июня 2002', 'Место подписания/принятия Санкт-Петербург'; linked text PDF fetched (pass3/raw/SCO-RATS2002-SCO-PDF.*). The same agreement is also at lex.uz (pass3/raw/UZ-LEX-RATS2002.*). English title: \[UNKNOWN\] (the source gives none).
 
 Cited by: [T199](../../timeline/post-9-11-2001-2014.md#T199)
+
+<a id="SEC-TJ-845-SPINFORM"></a>
+## SEC-TJ-845-SPINFORM
+
+**Закон Республики Таджикистан «О борьбе с терроризмом» (16 ноября 1999 года, №845) — Spinform copy**
+
+Summary: A copy of Tajikistan's 1999 Law 'On combating terrorism' (No. 845 of 16 November 1999) in the Spinform legal database. According to this copy, the law lost force under article 45 of Law No. 1808 of 23 December 2021. This is a secondary, unofficial copy and has not been verified against an official source.
+
+- Issuing body: Spinform (base.spinform.ru, commercial legal database)
+- Date: 1999-11-16
+- Type: statute
+- Tag: `secondary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://base.spinform.ru/show_doc.fwx?rgn=2195](https://base.spinform.ru/show_doc.fwx?rgn=2195)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: Russian
+- Label: `secondary/unofficial`
+- Stands in for: TJ-LAW845-1999 (Tajikistan, Law «О борьбе с терроризмом», 1999; official copy unconfirmed)
+- Publisher: Spinform (base.spinform.ru, commercial legal database)
+- Access date: 2026-11-19
+- Notes: Secondary/unofficial copy; not verified against an official source. Re-fetched 2026-11-19 by curl (HTTP 200). Origin describes the underlying instrument, not the publisher.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SEC-KZ-416-PRG"></a>
+## SEC-KZ-416-PRG
+
+**Закон Республики Казахстан от 13 июля 1999 года № 416-I «О противодействии терроризму» (с изменениями и дополнениями по состоянию на 11.08.2026 г.) — PRG.kz copy**
+
+Summary: A consolidated copy of Kazakhstan's Law No. 416-I of 13 July 1999 'On countering terrorism' in the Paragraph (PRG.kz) legal database. According to its title, the text includes amendments up to 11 August 2026. It is a secondary, unofficial copy and has not been verified against the official Adilet text.
+
+- Issuing body: PRG.kz (Paragraph, commercial legal database)
+- Date: 1999-07-13
+- Type: statute
+- Tag: `secondary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://prg.kz/document/?doc_id=1013957](https://prg.kz/document/?doc_id=1013957)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: Russian
+- Label: `secondary/unofficial`
+- Stands in for: KZ-LAW416-1999 (Kazakhstan, Law No. 416 «О противодействии терроризму», 1999)
+- Publisher: PRG.kz (Paragraph, commercial legal database)
+- Access date: 2026-11-19
+- Notes: Secondary/unofficial consolidated copy; not verified against the official Adilet text. Re-fetched 2026-11-19 by curl (HTTP 200). Origin describes the underlying instrument, not the publisher. A Continent Online page at https://continent-online.com/Document/?doc_id=1013957 uses the same doc_id and was not added as a separate source.
+
+Cited by: none in `data/timeline.csv`.
