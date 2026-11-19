@@ -2,7 +2,7 @@
 
 # Timeline
 
-Round 1 of an ongoing archive. This list is not complete. Every entry is taken from `data/timeline.csv`.
+Round 4 of an ongoing archive. This list is not complete. Every entry is taken from `data/timeline.csv`.
 
 236 milestones in this round.
 

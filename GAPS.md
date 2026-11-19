@@ -1,12 +1,12 @@
 # Gaps (round 4)
 
-This file lists what CTA6 has not gathered or could not confirm as of round 4. Items marked `[UNKNOWN]` are gaps, not conclusions. This archive is not complete.
+This file lists what CTA6 has not gathered or could not confirm as of round 4, including the later labeled secondary stand-ins. Items marked `[UNKNOWN]` are gaps, not conclusions. This archive is not complete.
 
 Round 1 gaps are taken from [NOTES.md](NOTES.md) (accessed 2026-11-18). Round 2 additions, retries and remaining gaps are taken from [notes/round-2.md](notes/round-2.md) (accessed 2026-11-18). Round 3 additions, retries and remaining gaps are taken from [notes/round-3.md](notes/round-3.md) (accessed 2026-11-19). Round 4 additions, retries and remaining gaps are taken from [notes/round-4.md](notes/round-4.md) (accessed 2026-11-19).
 
 ## Remaining gaps and regional imbalance
 
-After round 4 the archive has 368 sources and 236 timeline rows. Global/UN, Europe and North America still hold 179 of 368 sources (49%) and 122 of 236 timeline rows (52%). Oceania (12 sources) and Russia/Central Asia (17) are still smaller than the three largest regions. South Asia now has 35 sources and 17 timeline rows. East/Southeast Asia has 27 sources and 18 timeline rows; Latin America has 27 sources and 18 timeline rows. The original cited URLs for the Pakistan ATA and the India UAPA and NIA pages still fail; those statutes are now also held as separate official copies (PK-FMU-ATA1997 and IN-NIA-ACT2008-HI), which were verified.
+After the official-source merge in round 4, and the later addition of 8 labeled secondary stand-ins, the archive has 376 sources and 236 timeline rows. Global/UN, Europe and North America hold 180 of 376 sources (48%) and 122 of 236 timeline rows (52%). Oceania (12 sources) and Russia/Central Asia (19) are still smaller than the three largest regions. South Asia now has 39 sources and 17 timeline rows. East/Southeast Asia has 27 sources and 18 timeline rows; Latin America has 27 sources and 18 timeline rows. The original cited URLs for the Pakistan ATA and the India UAPA and NIA pages still fail; those statutes are now also held as separate official copies (PK-FMU-ATA1997 and IN-NIA-ACT2008-HI), which were verified. The official Tajikistan, Kazakhstan, Kenya POTA and CHR 2005/80 texts, and official Urdu texts, remain unverified; labeled unofficial stand-ins were added for some of those gaps and do not confirm them.
 
 **Filled in round 4 (were listed as gaps after round 3):**
 
@@ -31,13 +31,13 @@ After round 4 the archive has 368 sources and 236 timeline rows. Global/UN, Euro
 
 **Not yet covered, or still unverified:**
 
-- **Africa.** Kenya POTA (still unverified at both cited URLs). Mali national agencies beyond the SGG publication were not gathered.
+- **Africa.** Kenya POTA (still unverified at both cited URLs). A SheriaNet listing (SEC-KE-POTA-SHERIANET) is recorded as a labeled secondary stand-in for the citation Act No. 30 of 2012 only; the Act's text remains `[UNKNOWN]`. Mali national agencies beyond the SGG publication were not gathered.
 - **Latin America.** Peru and Mexico agency records beyond the Peruvian Constitutional Tribunal judgment and the 2014 Mexican decree were not gathered. The IACHR 2002 report (IACHR-2002-TERR-ES and IACHR-2002-TERR-EN) and the OAS treaty page (OAS-CICTE2002) remain unverified (OAS site 503, maintenance).
 - **Asia.** The Philippines ATA itself (phase 1, still unverified) and the text of the 2021 decision in G.R. No. 252578 (unverified) remain open. China oversight is still only HRW-CHN-2018. Singapore entries are government records, not an independent oversight body. Iran's CFT law is unverified. The Korean NHRCK attached opinions (.hwp) were not opened.
-- **Central Asia.** Tajikistan law text unverified. Kazakhstan law still unverified. The NAK site (nac.gov.ru) was not used.
+- **Central Asia.** Tajikistan law text unverified at the official URL; an unofficial Spinform copy is recorded as SEC-TJ-845-SPINFORM. Kazakhstan law still unverified at Adilet; an unofficial PRG.kz copy is recorded as SEC-KZ-416-PRG. Those stand-ins are not verified and do not raise the official rows. The NAK site (nac.gov.ru) was not used.
 - **Regional bodies.** OAS/CICTE (site down); SAARC Secretariat page (404); the OIC Convention (still unverified).
 - **Oceania.** New Zealand legislation.govt.nz pages (NZ-TSA2002, NZ-CTLA2021) remain blocked.
-- **Languages.** No official Urdu-language text was verified in this round. The Urdu index page remains unverified. Persian is present but unverified. Hindi has a second verified Act text (IN-NIA-ACT2008-HI). Hebrew and Japanese originals were added in earlier rounds; some Japanese pages remain unverified. Arabic coverage is still uneven. Round 1 source languages were not recorded and are marked `[UNKNOWN]`.
+- **Languages.** No official Urdu-language text was verified in this round. The Urdu index page remains unverified. Two Urdu news reports (SEC-PK-DAWNURDU-2025, SEC-PK-BBCURDU-2025) are recorded as labeled secondary stand-ins for a 2025 amendment bill whose official text was not confirmed. Persian is present but unverified. Hindi has a second verified Act text (IN-NIA-ACT2008-HI). Hebrew and Japanese originals were added in earlier rounds; some Japanese pages remain unverified. Arabic coverage is still uneven. Round 1 source languages were not recorded and are marked `[UNKNOWN]`.
 - 16 pass 2 sources remain unverified. 10 phase 1 sources remain unverified at their original cited URL. 11 pass 3 sources remain unverified. Four phase 1 rows (US-NSCT2018, CRS-R43983, COE-ECST1977, COE-CPT2005) and one pass 3 row (G5S-CONV2014-WA) are now `verified=yes`.
 
 **Pre-1945.** Rome 1898 still has no official text online (coverage is secondary only). The procès-verbaux locations given by Jensen 1981 were not checked [UNKNOWN]. The place of signing of the 1904 St Petersburg protocol is not stated in the captured sources, so it is `[UNKNOWN]` in T134. Colonial-era emergency laws were not gathered [UNKNOWN].
@@ -143,6 +143,24 @@ MA-LOI03-03, which was unverified after round 2, is now `verified=yes` at the ci
 
 G5S-CONV2014-WA, which was unverified after round 3, is now `verified=yes` by OCR of the scanned original (C086–C087). The cited URL is unchanged.
 
+### Labeled secondary stand-ins (verified = no)
+
+These unofficial copies, listings and news reports were added after the official-source merge in round 4. Each is labeled `secondary/unofficial`, is `verified=no`, and stands in for an official source that still could not be read. They do not confirm the official texts.
+
+- SEC-TJ-845-SPINFORM: unofficial Spinform copy of Tajikistan Law No. 845 of 1999, standing in for TJ-LAW845-1999.
+- SEC-KZ-416-PRG: unofficial PRG.kz copy of Kazakhstan Law No. 416-I of 1999, standing in for KZ-LAW416-1999. A Continent Online page with the same doc_id was not added as a separate source.
+- SEC-CHR-2005-80-SCR: unofficial Security Council Report copy of CHR resolution 2005/80, standing in for CHR-2005-80.
+- SEC-KE-POTA-SHERIANET: unofficial SheriaNet listing, standing in for KE-POTA2012 and KE-POTA2012-KL; supports the citation only.
+- SEC-PK-SC-2019-95: unofficial case-law copy of a Supreme Court of Pakistan judgment in Criminal Appeals No. 95 and 96 of 2019 (2020 PLD Supreme Court 61). The copy's URL contained a private party's name and is withheld. The official court PDF returned HTTP 403.
+- SEC-PK-DAWN-2019: Dawn news report of 30 October 2019 about that judgment.
+- SEC-PK-DAWNURDU-2025 and SEC-PK-BBCURDU-2025: Urdu news reports about Pakistan's Anti-terrorism (Amendment) Bill 2025. An official Senate PDF downloaded incomplete twice and was not used.
+
+### Dropped secondary leads (not in sources.csv)
+
+- A Tajikistan site that could not be confirmed as official from an independent government source.
+- Refworld copies of CHR 2005/80 and of the IACHR 2002 report (HTTP 403).
+- An NZLII copy of the New Zealand Terrorism Suppression Act (HTTP 403).
+
 ## Not-proven timeline rows
 
 Phase 1:
@@ -150,7 +168,7 @@ Phase 1:
 - T015: cites COE-ECST1977 (official treaty text now read; stays not-proven because the words "opened for signature" rest on an explanatory report that has been identified but not yet read)
 - T061: cites OAS-CICTE2002 (OAS page still unverified; a separate official Peruvian government copy is recorded as PE-GOB-CIAT2002-ES)
 - T070: cites PE-CVR (source page was fetched, but the release date is not printed on that page)
-- T084: cites CHR-2005-80
+- T084: cites CHR-2005-80 (official text still unread; an unofficial copy is recorded as SEC-CHR-2005-80-SCR; confidence stays not-proven)
 - T085: cites COE-CPT2005 (same reason as T015)
 - T129: cites PH-RA11479
 
