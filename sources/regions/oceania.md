@@ -2,7 +2,7 @@
 
 # Sources: Oceania
 
-Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
 12 sources in this region (`government` 6, `international` 2, `oversight` 4).
 
@@ -105,10 +105,10 @@ Cited by: [T192](../../timeline/recent-2014-now.md#T192)
 
 **Terrorism Suppression Act 2002 (2002 No 34)**
 
-Summary: New Zealand's Terrorism Suppression Act 2002 (2002 No 34), the statute as published by the Parliamentary Counsel Office. A search listing gives royal assent as 17 October 2002, but this is not confirmed. The cited copy could not be confirmed: the official site returned a bot check and the fetch timed out. What the Act provides is not recorded in CTA6 \[UNKNOWN\].
+Summary: New Zealand's Terrorism Suppression Act 2002 (2002 No 34), as published by the Parliamentary Counsel Office. It received royal assent on 17 October 2002 (T238). Section 3 says its purpose is to make further provision for the suppression of terrorism and to implement New Zealand's obligations under several counter-terrorism conventions and Security Council resolutions. The captured version is as at 5 April 2025.
 
 - Issuing body: New Zealand Parliamentary Counsel Office (New Zealand Legislation)
-- Date: 2002
+- Date: 2002-10-17
 - Type: statute
 - Tag: `primary`
 - Origin: `government`
@@ -117,21 +117,21 @@ Summary: New Zealand's Terrorism Suppression Act 2002 (2002 No 34), the statute 
 - Theme: laws and treaties
 - URL: [https://www.legislation.govt.nz/act/public/2002/34/en/latest/](https://www.legislation.govt.nz/act/public/2002/34/en/latest/)
 - Accessed: 2026-11-19
-- Verified: `no`
+- Verified: `yes`
 - Language: English
-- Notes: URL from search index; not verified: curl got HTTP 202 with an empty body (bot check) and WebFetch timed out on 2026-11-19. Search listing gives Royal assent 17 October 2002; not confirmed.
+- Notes: Round 5 (2026-11-19): verified; headless Chrome (--dump-dom) on the cited URL: page "Terrorism Suppression Act 2002 | New Zealand Legislation", "Public Act 2002 No 34 Date of assent 17 October 2002", version as at 5 April 2025 (pass5/raw/h5-NZ-TSA2002.*). curl still gets HTTP 202 with an empty body. Earlier (round 3): URL from search index; not verified: curl got HTTP 202 with an empty body (bot check) and WebFetch timed out on 2026-11-19. Search listing gives Royal assent 17 October 2002; not confirmed.
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T238](../../timeline/post-9-11-2001-2014.md#T238)
 
 <a id="NZ-CTLA2021"></a>
 ## NZ-CTLA2021
 
 **Counter-Terrorism Legislation Act 2021 (2021 No 37)**
 
-Summary: New Zealand's Counter-Terrorism Legislation Act 2021 (2021 No 37), as published by the Parliamentary Counsel Office. A search listing gives royal assent as 4 October 2021, but this is not confirmed. The cited copy could not be confirmed: the official site returned a bot check and the fetch timed out. What the Act changes is not recorded in CTA6 \[UNKNOWN\].
+Summary: New Zealand's Counter-Terrorism Legislation Act 2021 (2021 No 37), as published by the Parliamentary Counsel Office. It received royal assent on 4 October 2021 (T244). Its Part 1 amends the Terrorism Suppression Act 2002, and its schedules make consequential amendments to other Acts.
 
 - Issuing body: New Zealand Parliamentary Counsel Office (New Zealand Legislation)
-- Date: 2021
+- Date: 2021-10-04
 - Type: statute
 - Tag: `primary`
 - Origin: `government`
@@ -140,11 +140,11 @@ Summary: New Zealand's Counter-Terrorism Legislation Act 2021 (2021 No 37), as p
 - Theme: laws and treaties
 - URL: [https://www.legislation.govt.nz/act/public/2021/37/en/latest/](https://www.legislation.govt.nz/act/public/2021/37/en/latest/)
 - Accessed: 2026-11-19
-- Verified: `no`
+- Verified: `yes`
 - Language: English
-- Notes: URL from search index; not verified: curl got HTTP 202 with an empty body and WebFetch timed out on 2026-11-19. Search listing gives Royal assent 4 October 2021; not confirmed.
+- Notes: Round 5 (2026-11-19): verified; headless Chrome (--dump-dom) on the cited URL: page "Counter-Terrorism Legislation Act 2021 | New Zealand Legislation", "Public Act 2021 No 37 Date of assent 4 October 2021" (pass5/raw/h5-NZ-CTLA2021.*). curl still gets HTTP 202 with an empty body. Earlier (round 3): URL from search index; not verified: curl got HTTP 202 with an empty body and WebFetch timed out on 2026-11-19. Search listing gives Royal assent 4 October 2021; not confirmed.
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T244](../../timeline/recent-2014-now.md#T244)
 
 <a id="AU-SLAT2002"></a>
 ## AU-SLAT2002

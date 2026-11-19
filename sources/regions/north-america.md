@@ -2,7 +2,7 @@
 
 # Sources: North America
 
-Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
 45 sources in this region (`government` 28, `NGO` 1, `court` 5, `oversight` 11).
 
@@ -13,7 +13,7 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **Wall Street Bombing 1920**
 
-Summary: The FBI's history page on the 1920 Wall Street bombing. It calls the bombing of 16 September 1920 one of the young Bureau's earliest terrorism cases and says the best evidence suggests a small group of Italian anarchists was to blame, but that 'the mystery remains'; milestone T004 records that those responsible were not identified. The page is undated \[UNKNOWN\].
+Summary: The FBI's history page on the 1920 Wall Street bombing. It calls the bombing of 16 September 1920 one of the young Bureau's earliest terrorism cases and says the best evidence suggests a small group of Italian anarchists was to blame, but that 'the mystery remains'; milestone T004 records that those responsible were not identified. The page metadata gives a publication date of 18 May 2016 and a modification date of 6 May 2022.
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -36,7 +36,7 @@ Cited by: [T004](../../timeline/pre-1945.md#T004)
 
 **History of the FBI**
 
-Summary: 'History of the FBI', the FBI's official history page. It dates the founding of the federal investigative agency that became the FBI to 1908, under the heading 'The Nation Calls, 1908-1923'. It is the source for milestone T002 and is the FBI's own account of its origins; the page is undated \[UNKNOWN\].
+Summary: 'History of the FBI', the FBI's official history page. It dates the founding of the federal investigative agency that became the FBI to 1908, under the heading 'The Nation Calls, 1908-1923'. It is the source for milestone T002 and is the FBI's own account of its origins; the page metadata gives a publication date of 3 May 2016 and a modification date of 18 March 2026.
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -460,7 +460,7 @@ Cited by: [T065](../../timeline/post-9-11-2001-2014.md#T065)
 
 **Foreign Terrorist Organizations**
 
-Summary: The US State Department Bureau of Counterterrorism page on Foreign Terrorist Organizations (FTOs). It explains that FTOs are foreign organizations designated by the Secretary of State under section 219 of the Immigration and Nationality Act. It is the official US list of designated organizations; the page is undated, so the date of the list shown is \[UNKNOWN\].
+Summary: The US State Department Bureau of Counterterrorism page on Foreign Terrorist Organizations (FTOs). It explains that FTOs are foreign organizations designated by the Secretary of State under section 219 of the Immigration and Nationality Act. It is the official US list of designated organizations; the page metadata gives a modification date of 16 November 2026, so the list shown is as of about that date.
 
 - Issuing body: US Department of State, Bureau of Counterterrorism
 - Date: \[UNKNOWN\]
@@ -506,7 +506,7 @@ Cited by: none in `data/timeline.csv`.
 
 **World Trade Center Bombing 1993**
 
-Summary: The FBI's history page on the 1993 World Trade Center bombing. It says that on 26 February 1993 a bomb exploded in the parking garage beneath the World Trade Center, leaving a crater several stories deep and killing six people. It is the source for milestone T033; the page is undated \[UNKNOWN\].
+Summary: The FBI's history page on the 1993 World Trade Center bombing. It says that on 26 February 1993 a bomb exploded in the parking garage beneath the World Trade Center, leaving a crater several stories deep and killing six people. It is the source for milestone T033; the page metadata gives a publication date of 18 May 2016 and a modification date of 9 May 2022.
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -529,7 +529,7 @@ Cited by: [T033](../../timeline/1990-2001.md#T033)
 
 **Oklahoma City Bombing**
 
-Summary: The FBI's history page on the Oklahoma City bombing of 19 April 1995. It describes a truck bomb detonated outside the Alfred P. Murrah Federal Building, and milestone T035 records the page's figure of 168 deaths. The page names the convicted perpetrator; CTA6 does not repeat the name here. The page is undated \[UNKNOWN\].
+Summary: The FBI's history page on the Oklahoma City bombing of 19 April 1995. It describes a truck bomb detonated outside the Alfred P. Murrah Federal Building, and milestone T035 records the page's figure of 168 deaths. The page names the convicted perpetrator; CTA6 does not repeat the name here. The page metadata gives a publication date of 18 May 2016 and a modification date of 10 May 2022.
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -552,7 +552,7 @@ Cited by: [T035](../../timeline/1990-2001.md#T035)
 
 **9/11 Investigation**
 
-Summary: The FBI's history page on its 9/11 investigation. It calls the investigation the FBI's largest case ever, saying more than half its agents worked on it at its peak and that it followed more than half a million leads. It is cited for milestone T050; the page is undated \[UNKNOWN\].
+Summary: The FBI's history page on its 9/11 investigation. It calls the investigation the FBI's largest case ever, saying more than half its agents worked on it at its peak and that it followed more than half a million leads. It is cited for milestone T050; the page metadata gives a publication date of 17 May 2016 and a modification date of 13 August 2026.
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -889,7 +889,7 @@ Cited by: [T109](../../timeline/recent-2014-now.md#T109)
 
 **Countering Violent Extremism: Actions Needed to Define Strategy and Assess Progress of Federal Efforts (GAO-17-300)**
 
-Summary: 'Countering Violent Extremism: Actions Needed to Define Strategy and Assess Progress of Federal Efforts' (GAO-17-300), published in April 2017 by the US Government Accountability Office. As its title states, it calls for a defined strategy and progress assessment for federal countering-violent-extremism efforts. It is the source for milestone T120; only the title was confirmed through a text extraction, so its detailed findings are \[UNKNOWN\].
+Summary: 'Countering Violent Extremism: Actions Needed to Define Strategy and Assess Progress of Federal Efforts' (GAO-17-300), published in April 2017 by the US Government Accountability Office. As its title states, it calls for a defined strategy and progress assessment for federal countering-violent-extremism efforts. It is the source for milestone T120; according to its highlights, as of December 2016 the agencies concerned had implemented 19 of the 44 domestically focused tasks in the 2011 Strategic Implementation Plan for countering violent extremism, with 23 in progress and 2 not yet started.
 
 - Issuing body: US Government Accountability Office
 - Date: 2017-04
@@ -934,7 +934,7 @@ Cited by: none in `data/timeline.csv`.
 
 **Currently listed entities**
 
-Summary: Public Safety Canada's page of 'Currently listed entities'. As its title states, it is the Government of Canada's current list of listed entities; the legal basis and contents are not recorded in CTA6 \[UNKNOWN\]. The page is undated, and it was confirmed on a retry by its title only.
+Summary: Public Safety Canada's page of 'Currently listed entities'. As its title states, it is the Government of Canada's current list of entities listed under the Criminal Code, giving for each entity a description, the date listed and the latest date reviewed. The page shows 'Date modified: 2025-09-29'; it was confirmed on a retry by its title only and re-captured in full in round 5.
 
 - Issuing body: Public Safety Canada
 - Date: \[UNKNOWN\]

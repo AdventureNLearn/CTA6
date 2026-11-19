@@ -2,7 +2,7 @@
 
 # Sources: Russia/Central Asia
 
-Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
 19 sources in this region (`government` 11, `international` 4, `court` 2, `oversight` 2).
 
@@ -128,7 +128,7 @@ Cited by: [T148](../../timeline/post-9-11-2001-2014.md#T148)
 
 **Закон Республики Казахстан от 13 июля 1999 года № 416 «О противодействии терроризму»**
 
-Summary: Kazakhstan's Law No. 416 of 13 July 1999, 'On countering terrorism' (О противодействии терроризму), from the Ministry of Justice's Adilet legal database. As its title states, it is Kazakhstan's counter-terrorism law. According to an unofficial consolidated copy in the PRG.kz legal database (SEC-KZ-416-PRG), its full number is 416-I and it has been amended up to 11 August 2026; this has not been verified. The cited Adilet copy could not be confirmed (the expected text was not found), so its official content is \[UNKNOWN\] in CTA6.
+Summary: Kazakhstan's Law No. 416 of 13 July 1999, 'On countering terrorism' (О противодействии терроризму), from the Ministry of Justice's Adilet legal database. Its preamble says it sets out the principles, aim, and legal and organisational basis of countering terrorism, and the current text carries footnotes recording many later amendments. An unofficial consolidated copy (SEC-KZ-416-PRG) gives the full number as 416-I.
 
 - Issuing body: ИПС «Әділет» (Министерство юстиции Республики Казахстан)
 - Date: 1999-07-13
@@ -140,11 +140,11 @@ Summary: Kazakhstan's Law No. 416 of 13 July 1999, 'On countering terrorism' (О
 - Theme: laws and treaties
 - URL: [https://adilet.zan.kz/rus/docs/Z990000416_](https://adilet.zan.kz/rus/docs/Z990000416_)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: Russian
-- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text not confirmed (bot check, timeout or error). URL from search index.
+- Notes: Round 5 (2026-11-19): verified; headless Chrome (--dump-dom) on the cited URL: page "Закон Республики Казахстан «О противодействии терроризму» № 416 — НЦПС «Әділет»", heading "Закон Республики Казахстан от 13 июля 1999 года № 416", with the consolidated text (pass5/raw/h5-KZ-LAW416-1999.*). curl gets only the JavaScript notice. Earlier (round 2): URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text not confirmed (bot check, timeout or error). URL from search index.
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T237](../../timeline/1990-2001.md#T237)
 
 <a id="UZ-LAW167-2000"></a>
 ## UZ-LAW167-2000
@@ -449,6 +449,6 @@ Summary: A consolidated copy of Kazakhstan's Law No. 416-I of 13 July 1999 'On c
 - Stands in for: KZ-LAW416-1999 (Kazakhstan, Law No. 416 «О противодействии терроризму», 1999)
 - Publisher: PRG.kz (Paragraph, commercial legal database)
 - Access date: 2026-11-19
-- Notes: Secondary/unofficial consolidated copy; not verified against the official Adilet text. Re-fetched 2026-11-19 by curl (HTTP 200). Origin describes the underlying instrument, not the publisher. A Continent Online page at https://continent-online.com/Document/?doc_id=1013957 uses the same doc_id and was not added as a separate source.
+- Notes: Secondary/unofficial consolidated copy; not verified against the official Adilet text. Re-fetched 2026-11-19 by curl (HTTP 200). Origin describes the underlying instrument, not the publisher. A Continent Online page at https://continent-online.com/Document/?doc_id=1013957 uses the same doc_id and was not added as a separate source. Round 5 (2026-11-19): the official Adilet text (KZ-LAW416-1999) is verified=yes, readable by headless browser. This stand-in was kept in place and is not treated as proof.
 
 Cited by: none in `data/timeline.csv`.

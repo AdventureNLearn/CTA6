@@ -2,7 +2,7 @@
 
 # Sources: Middle East/North Africa
 
-Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
 36 sources in this region (`government` 11, `international` 11, `NGO` 2, `court` 4, `oversight` 8).
 
@@ -128,7 +128,7 @@ Cited by: [T111](../../timeline/recent-2014-now.md#T111)
 
 **Arab Convention for the Suppression of Terrorism**
 
-Summary: The Arab Convention for the Suppression of Terrorism, adopted in Cairo in April 1998 by the Council of Arab Ministers of the Interior and the Council of Arab Ministers of Justice under the League of Arab States (dated 22 April 1998 in CTA6). The copy is an unofficial UN English translation hosted by UNODC; its preamble says the signatory states desire to promote mutual cooperation in suppressing terrorism. It is the source for milestone T042; its detailed definitions and obligations are not summarized in CTA6 \[UNKNOWN\].
+Summary: The Arab Convention for the Suppression of Terrorism, adopted in Cairo in April 1998 by the Council of Arab Ministers of the Interior and the Council of Arab Ministers of Justice under the League of Arab States (dated 22 April 1998 in CTA6). The copy is an unofficial UN English translation hosted by UNODC; its preamble says the signatory states desire to promote mutual cooperation in suppressing terrorism, and it is the source for milestone T042. Article 1 defines terrorism as any act or threat of violence, whatever its motives or purposes, occurring in the advancement of an individual or collective criminal agenda and seeking to sow panic or to endanger people, property or resources. Article 2(b) provides that the offences it covers shall not be regarded as political offences, and Parts Two and Three set out cooperation and extradition mechanisms.
 
 - Issuing body: League of Arab States (UNODC copy)
 - Date: 1998-04-22
@@ -150,7 +150,7 @@ Cited by: [T042](../../timeline/1990-2001.md#T042)
 
 **The Global Coalition Against Daesh (home page)**
 
-Summary: The home page of the Global Coalition against Daesh. The page says the Coalition was formed in September 2014, has 90 partners, and is committed to degrading Daesh and ensuring its enduring defeat. It is the multinational grouping formed in the same period as Security Council resolutions 2170 and 2178 (T111, T112); the page is undated \[UNKNOWN\].
+Summary: The home page of the Global Coalition against Daesh. The page says the Coalition was formed in September 2014, has 90 partners, and is committed to degrading Daesh and ensuring its enduring defeat. It is the multinational grouping formed in the same period as Security Council resolutions 2170 and 2178 (T111, T112); the page metadata gives a publication date of 23 February 2023 and a modification date of 25 November 2025.
 
 - Issuing body: Global Coalition Against Daesh
 - Date: \[UNKNOWN\]
@@ -396,14 +396,14 @@ Summary: Morocco's Law No. 03.03 on combating terrorism, promulgated by Dahir No
 - Language: Arabic
 - Notes: Verified on retry 2026-11-19. curl HTTP 200; Arabic text layer reads 'القانون رقم 03.03 المتعلق بمكافحة الإرهاب' and 'ظهير شريف رقم 1.03.140'. Consolidated (amended) version. English title: \[UNKNOWN\]. URL taken from a web-search result listing, then fetched. Earlier (round 2): HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T240](../../timeline/post-9-11-2001-2014.md#T240)
 
 <a id="MA-CNASNU"></a>
 ## MA-CNASNU
 
 **Corpus juridique national**
 
-Summary: The 'Corpus juridique national' page of Morocco's national commission responsible for applying sanctions under UN Security Council resolutions. As its name states, it is the body that implements UN sanctions in Morocco, and the page lists national legal texts. The cited copy could not be confirmed (the connection failed), so its content is \[UNKNOWN\].
+Summary: The 'Corpus juridique national' page of Morocco's National Commission responsible for applying the sanctions under UN Security Council resolutions on terrorism, proliferation and their financing. It lists national legal texts, including Law No. 03-03 on combating terrorism, promulgated by Dahir No. 1-03-140 of 28 May 2003 'as amended and supplemented', and Law No. 12-18 of 2021 amending the Penal Code and the anti-money-laundering law. The page is undated \[UNKNOWN\].
 
 - Issuing body: Commission Nationale chargée de l'application des Sanctions prévues par les résolutions du Conseil de sécurité (Maroc)
 - Date: \[UNKNOWN\]
@@ -415,11 +415,11 @@ Summary: The 'Corpus juridique national' page of Morocco's national commission r
 - Theme: laws and treaties
 - URL: [https://cnasnu.justice.gov.ma/language/fr/corpus-juridique-national/](https://cnasnu.justice.gov.ma/language/fr/corpus-juridique-national/)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: French
-- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+- Notes: Round 5 (2026-11-19): verified; headless Chrome (--dump-dom) on the cited URL: page "Corpus juridique national – Commission Nationale chargée de l'application des Sanctions prévues par les résolutions du conseil de sécurité des Nations-Unies relatives au terrorisme..." listing national texts, including Loi n°03-03 promulgated by Dahir n° 1-03-140 of 28 May 2003 (pass5/raw/h5-MA-CNASNU.*). The page is undated. Earlier (round 2): URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T240](../../timeline/post-9-11-2001-2014.md#T240)
 
 <a id="TN-LO2015-26"></a>
 ## TN-LO2015-26
@@ -610,7 +610,7 @@ Cited by: [T144](../../timeline/1990-2001.md#T144)
 
 **Ö. v. Turkey \[GC\], no. 46221/99 (judgment)**
 
-Summary: The Grand Chamber judgment of the European Court of Human Rights of 12 May 2005 in Ö. v. Turkey (no. 46221/99), concerning the applicant's arrest, transfer to Turkey, detention and trial. According to the Court's factsheet, on the conditions of his detention the Court found no violation of Article 3; the factsheet extract in CTA6 does not cover the Court's findings on the arrest and trial \[UNKNOWN\]. It is the source for milestone T152.
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 12 May 2005 in Ö. v. Turkey (no. 46221/99), concerning the applicant's arrest, transfer to Turkey, detention and trial. According to the Court's factsheet, on the conditions of his detention the Court found no violation of Article 3; in the judgment's operative part it also found violations of Article 5 §§ 3 and 4 and of Article 6 (lack of an independent and impartial tribunal and of a fair trial), and of Article 3 as regards the imposition of the death penalty after an unfair trial, and no violation of Article 5 § 1 as regards the arrest. It is the source for milestone T152.
 
 - Issuing body: European Court of Human Rights
 - Date: 2005-05-12
@@ -633,7 +633,7 @@ Cited by: [T152](../../timeline/post-9-11-2001-2014.md#T152)
 
 **Selahattin Demirtaş v. Turkey (No. 2) \[GC\], no. 14305/17 (judgment)**
 
-Summary: The Grand Chamber judgment of the European Court of Human Rights of 22 December 2020 in Selahattin Demirtaş v. Turkey (No. 2) (no. 14305/17). As recorded in milestone T184, it concerned the pre-trial detention of an opposition party leader and member of parliament on terrorism-related charges. The outcome is not recorded in CTA6 \[UNKNOWN\]; the source was verified through HUDOC metadata only.
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 22 December 2020 in Selahattin Demirtaş v. Turkey (No. 2) (no. 14305/17). As recorded in milestone T184, it concerned the pre-trial detention of an opposition party leader and member of parliament on terrorism-related charges. In the operative part, the Court held that there had been violations of Article 5 § 1, Article 5 § 3, Article 10, Article 18 taken with Article 5, and Article 3 of Protocol No. 1, and no violation of Article 5 § 4, and that the respondent State must take all necessary measures to secure the applicant's immediate release.
 
 - Issuing body: European Court of Human Rights
 - Date: 2020-12-22
