@@ -6,7 +6,7 @@ Security Council and General Assembly resolutions, sanctions regimes, and multil
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-55 sources in this theme.
+57 sources in this theme.
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -26,6 +26,7 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 - URL: [https://undocs.org/S/RES/635\(1989\)](https://undocs.org/S/RES/635(1989))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T028](../../timeline/1945-1990.md#T028)
@@ -46,6 +47,7 @@ Cited by: [T028](../../timeline/1945-1990.md#T028)
 - URL: [https://undocs.org/S/RES/731\(1992\)](https://undocs.org/S/RES/731(1992))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T031](../../timeline/1990-2001.md#T031)
@@ -66,6 +68,7 @@ Cited by: [T031](../../timeline/1990-2001.md#T031)
 - URL: [https://undocs.org/S/RES/748\(1992\)](https://undocs.org/S/RES/748(1992))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T032](../../timeline/1990-2001.md#T032)
@@ -86,6 +89,7 @@ Cited by: [T032](../../timeline/1990-2001.md#T032)
 - URL: [https://undocs.org/S/RES/1189\(1998\)](https://undocs.org/S/RES/1189(1998))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T043](../../timeline/1990-2001.md#T043)
@@ -106,6 +110,7 @@ Cited by: [T043](../../timeline/1990-2001.md#T043)
 - URL: [https://undocs.org/S/RES/1267\(1999\)](https://undocs.org/S/RES/1267(1999))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T046](../../timeline/1990-2001.md#T046), [T097](../../timeline/post-9-11-2001-2014.md#T097)
@@ -126,6 +131,7 @@ Cited by: [T046](../../timeline/1990-2001.md#T046), [T097](../../timeline/post-9
 - URL: [https://undocs.org/S/RES/1269\(1999\)](https://undocs.org/S/RES/1269(1999))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T047](../../timeline/1990-2001.md#T047)
@@ -146,6 +152,7 @@ Cited by: [T047](../../timeline/1990-2001.md#T047)
 - URL: [https://undocs.org/S/RES/1368\(2001\)](https://undocs.org/S/RES/1368(2001))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T051](../../timeline/post-9-11-2001-2014.md#T051)
@@ -166,6 +173,7 @@ Cited by: [T051](../../timeline/post-9-11-2001-2014.md#T051)
 - URL: [https://undocs.org/S/RES/1373\(2001\)](https://undocs.org/S/RES/1373(2001))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T055](../../timeline/post-9-11-2001-2014.md#T055)
@@ -186,6 +194,7 @@ Cited by: [T055](../../timeline/post-9-11-2001-2014.md#T055)
 - URL: [https://undocs.org/S/RES/1438\(2002\)](https://undocs.org/S/RES/1438(2002))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T063](../../timeline/post-9-11-2001-2014.md#T063)
@@ -206,9 +215,10 @@ Cited by: [T063](../../timeline/post-9-11-2001-2014.md#T063)
 - URL: [https://undocs.org/S/RES/1530\(2004\)](https://undocs.org/S/RES/1530(2004))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS) Operative text attributes the Madrid bombings to ETA; see NOTES.md.
 
-Cited by: [T072](../../timeline/post-9-11-2001-2014.md#T072)
+Cited by: [T072](../../timeline/post-9-11-2001-2014.md#T072), [T150](../../timeline/post-9-11-2001-2014.md#T150)
 
 <a id="UNSC1535"></a>
 ## UNSC1535
@@ -226,6 +236,7 @@ Cited by: [T072](../../timeline/post-9-11-2001-2014.md#T072)
 - URL: [https://undocs.org/S/RES/1535\(2004\)](https://undocs.org/S/RES/1535(2004))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T073](../../timeline/post-9-11-2001-2014.md#T073)
@@ -246,6 +257,7 @@ Cited by: [T073](../../timeline/post-9-11-2001-2014.md#T073)
 - URL: [https://undocs.org/S/RES/1540\(2004\)](https://undocs.org/S/RES/1540(2004))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T074](../../timeline/post-9-11-2001-2014.md#T074)
@@ -266,6 +278,7 @@ Cited by: [T074](../../timeline/post-9-11-2001-2014.md#T074)
 - URL: [https://undocs.org/S/RES/1566\(2004\)](https://undocs.org/S/RES/1566(2004))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T079](../../timeline/post-9-11-2001-2014.md#T079)
@@ -286,6 +299,7 @@ Cited by: [T079](../../timeline/post-9-11-2001-2014.md#T079)
 - URL: [https://undocs.org/S/RES/1595\(2005\)](https://undocs.org/S/RES/1595(2005))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: none in `data/timeline.csv`.
@@ -306,6 +320,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://undocs.org/S/RES/1611\(2005\)](https://undocs.org/S/RES/1611(2005))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T086](../../timeline/post-9-11-2001-2014.md#T086)
@@ -326,6 +341,7 @@ Cited by: [T086](../../timeline/post-9-11-2001-2014.md#T086)
 - URL: [https://undocs.org/S/RES/1624\(2005\)](https://undocs.org/S/RES/1624(2005))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T087](../../timeline/post-9-11-2001-2014.md#T087)
@@ -346,6 +362,7 @@ Cited by: [T087](../../timeline/post-9-11-2001-2014.md#T087)
 - URL: [https://undocs.org/S/RES/1757\(2007\)](https://undocs.org/S/RES/1757(2007))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T095](../../timeline/post-9-11-2001-2014.md#T095)
@@ -366,6 +383,7 @@ Cited by: [T095](../../timeline/post-9-11-2001-2014.md#T095)
 - URL: [https://undocs.org/S/RES/1904\(2009\)](https://undocs.org/S/RES/1904(2009))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T101](../../timeline/post-9-11-2001-2014.md#T101)
@@ -386,6 +404,7 @@ Cited by: [T101](../../timeline/post-9-11-2001-2014.md#T101)
 - URL: [https://undocs.org/S/RES/1989\(2011\)](https://undocs.org/S/RES/1989(2011))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T104](../../timeline/post-9-11-2001-2014.md#T104)
@@ -406,6 +425,7 @@ Cited by: [T104](../../timeline/post-9-11-2001-2014.md#T104)
 - URL: [https://undocs.org/S/RES/2170\(2014\)](https://undocs.org/S/RES/2170(2014))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T111](../../timeline/recent-2014-now.md#T111)
@@ -426,6 +446,7 @@ Cited by: [T111](../../timeline/recent-2014-now.md#T111)
 - URL: [https://undocs.org/S/RES/2178\(2014\)](https://undocs.org/S/RES/2178(2014))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T112](../../timeline/recent-2014-now.md#T112)
@@ -446,6 +467,7 @@ Cited by: [T112](../../timeline/recent-2014-now.md#T112)
 - URL: [https://undocs.org/S/RES/2253\(2015\)](https://undocs.org/S/RES/2253(2015))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T116](../../timeline/recent-2014-now.md#T116)
@@ -466,6 +488,7 @@ Cited by: [T116](../../timeline/recent-2014-now.md#T116)
 - URL: [https://undocs.org/S/RES/2341\(2017\)](https://undocs.org/S/RES/2341(2017))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: none in `data/timeline.csv`.
@@ -486,6 +509,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://undocs.org/S/RES/2396\(2017\)](https://undocs.org/S/RES/2396(2017))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T124](../../timeline/recent-2014-now.md#T124)
@@ -506,6 +530,7 @@ Cited by: [T124](../../timeline/recent-2014-now.md#T124)
 - URL: [https://undocs.org/S/RES/2462\(2019\)](https://undocs.org/S/RES/2462(2019))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T126](../../timeline/recent-2014-now.md#T126)
@@ -526,6 +551,7 @@ Cited by: [T126](../../timeline/recent-2014-now.md#T126)
 - URL: [https://undocs.org/S/RES/2617\(2021\)](https://undocs.org/S/RES/2617(2021))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T131](../../timeline/recent-2014-now.md#T131)
@@ -546,6 +572,7 @@ Cited by: [T131](../../timeline/recent-2014-now.md#T131)
 - URL: [https://undocs.org/A/RES/3034\(XXVII\)](https://undocs.org/A/RES/3034(XXVII))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T011](../../timeline/1945-1990.md#T011)
@@ -566,6 +593,7 @@ Cited by: [T011](../../timeline/1945-1990.md#T011)
 - URL: [https://undocs.org/A/RES/40/61](https://undocs.org/A/RES/40/61)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T020](../../timeline/1945-1990.md#T020)
@@ -586,6 +614,7 @@ Cited by: [T020](../../timeline/1945-1990.md#T020)
 - URL: [https://undocs.org/A/RES/49/60](https://undocs.org/A/RES/49/60)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T034](../../timeline/1990-2001.md#T034)
@@ -606,6 +635,7 @@ Cited by: [T034](../../timeline/1990-2001.md#T034)
 - URL: [https://undocs.org/A/RES/51/210](https://undocs.org/A/RES/51/210)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T039](../../timeline/1990-2001.md#T039)
@@ -626,6 +656,7 @@ Cited by: [T039](../../timeline/1990-2001.md#T039)
 - URL: [https://undocs.org/A/RES/60/288](https://undocs.org/A/RES/60/288)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T091](../../timeline/post-9-11-2001-2014.md#T091)
@@ -646,6 +677,7 @@ Cited by: [T091](../../timeline/post-9-11-2001-2014.md#T091)
 - URL: [https://undocs.org/A/RES/71/291](https://undocs.org/A/RES/71/291)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T121](../../timeline/recent-2014-now.md#T121)
@@ -666,6 +698,7 @@ Cited by: [T121](../../timeline/recent-2014-now.md#T121)
 - URL: [https://www.un.org/securitycouncil/ctc/content/security-council-resolutions](https://www.un.org/securitycouncil/ctc/content/security-council-resolutions)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -686,6 +719,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://main.un.org/securitycouncil/en/sanctions/1267](https://main.un.org/securitycouncil/en/sanctions/1267)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -706,6 +740,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.un.org/en/sc/1540/](https://www.un.org/en/sc/1540/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T074](../../timeline/post-9-11-2001-2014.md#T074)
@@ -726,6 +761,7 @@ Cited by: [T074](../../timeline/post-9-11-2001-2014.md#T074)
 - URL: [https://www.nato.int/cps/en/natohq/topics_110496.htm](https://www.nato.int/cps/en/natohq/topics_110496.htm)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T052](../../timeline/post-9-11-2001-2014.md#T052)
@@ -746,6 +782,7 @@ Cited by: [T052](../../timeline/post-9-11-2001-2014.md#T052)
 - URL: [https://www.nato.int/cps/en/natohq/official_texts_18553.htm](https://www.nato.int/cps/en/natohq/official_texts_18553.htm)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T052](../../timeline/post-9-11-2001-2014.md#T052)
 
@@ -765,6 +802,7 @@ Cited by: [T052](../../timeline/post-9-11-2001-2014.md#T052)
 - URL: [https://www.christchurchcall.org/](https://www.christchurchcall.org/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T125](../../timeline/recent-2014-now.md#T125)
@@ -785,6 +823,7 @@ Cited by: [T125](../../timeline/recent-2014-now.md#T125)
 - URL: [https://undocs.org/E/CN.4/RES/2005/80](https://undocs.org/E/CN.4/RES/2005/80)
 - Accessed: 2026-11-18
 - Verified: `no`
+- Language: \[UNKNOWN\]
 - Notes: HTTP 200; expected title text not found. UN ODS returned a loading page instead of the PDF.
 
 Cited by: [T084](../../timeline/post-9-11-2001-2014.md#T084)
@@ -805,6 +844,7 @@ Cited by: [T084](../../timeline/post-9-11-2001-2014.md#T084)
 - URL: [https://undocs.org/S/RES/2359\(2017\)](https://undocs.org/S/RES/2359(2017))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T122](../../timeline/recent-2014-now.md#T122)
@@ -825,6 +865,7 @@ Cited by: [T122](../../timeline/recent-2014-now.md#T122)
 - URL: [https://undocs.org/S/RES/2349\(2017\)](https://undocs.org/S/RES/2349(2017))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T119](../../timeline/recent-2014-now.md#T119)
@@ -845,6 +886,7 @@ Cited by: [T119](../../timeline/recent-2014-now.md#T119)
 - URL: [https://undocs.org/S/RES/1192\(1998\)](https://undocs.org/S/RES/1192(1998))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T044](../../timeline/1990-2001.md#T044)
@@ -865,6 +907,7 @@ Cited by: [T044](../../timeline/1990-2001.md#T044)
 - URL: [https://undocs.org/S/RES/1044\(1996\)](https://undocs.org/S/RES/1044(1996))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T037](../../timeline/1990-2001.md#T037)
@@ -885,6 +928,7 @@ Cited by: [T037](../../timeline/1990-2001.md#T037)
 - URL: [https://undocs.org/S/RES/579\(1985\)](https://undocs.org/S/RES/579(1985))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T021](../../timeline/1945-1990.md#T021)
@@ -905,6 +949,7 @@ Cited by: [T021](../../timeline/1945-1990.md#T021)
 - URL: [https://undocs.org/S/RES/1465\(2003\)](https://undocs.org/S/RES/1465(2003))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T067](../../timeline/post-9-11-2001-2014.md#T067)
@@ -925,6 +970,7 @@ Cited by: [T067](../../timeline/post-9-11-2001-2014.md#T067)
 - URL: [https://undocs.org/S/RES/1440\(2002\)](https://undocs.org/S/RES/1440(2002))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T064](../../timeline/post-9-11-2001-2014.md#T064)
@@ -945,6 +991,7 @@ Cited by: [T064](../../timeline/post-9-11-2001-2014.md#T064)
 - URL: [https://undocs.org/S/RES/1450\(2002\)](https://undocs.org/S/RES/1450(2002))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T066](../../timeline/post-9-11-2001-2014.md#T066)
@@ -965,6 +1012,7 @@ Cited by: [T066](../../timeline/post-9-11-2001-2014.md#T066)
 - URL: [https://undocs.org/S/RES/1516\(2003\)](https://undocs.org/S/RES/1516(2003))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T071](../../timeline/post-9-11-2001-2014.md#T071)
@@ -985,6 +1033,7 @@ Cited by: [T071](../../timeline/post-9-11-2001-2014.md#T071)
 - URL: [https://undocs.org/S/RES/2129\(2013\)](https://undocs.org/S/RES/2129(2013))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: none in `data/timeline.csv`.
@@ -1005,6 +1054,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://undocs.org/S/RES/2368\(2017\)](https://undocs.org/S/RES/2368(2017))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: none in `data/timeline.csv`.
@@ -1025,6 +1075,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://undocs.org/S/RES/2255\(2015\)](https://undocs.org/S/RES/2255(2015))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: none in `data/timeline.csv`.
@@ -1045,6 +1096,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://undocs.org/S/RES/1988\(2011\)](https://undocs.org/S/RES/1988(2011))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T104](../../timeline/post-9-11-2001-2014.md#T104)
@@ -1065,6 +1117,7 @@ Cited by: [T104](../../timeline/post-9-11-2001-2014.md#T104)
 - URL: [https://undocs.org/S/RES/2133\(2014\)](https://undocs.org/S/RES/2133(2014))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: none in `data/timeline.csv`.
@@ -1085,6 +1138,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://undocs.org/S/RES/1618\(2005\)](https://undocs.org/S/RES/1618(2005))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: none in `data/timeline.csv`.
@@ -1105,6 +1159,49 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://undocs.org/S/RES/2195\(2014\)](https://undocs.org/S/RES/2195(2014))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: none in `data/timeline.csv`.
+
+<a id="UNSC2056"></a>
+## UNSC2056
+
+**Security Council resolution 2056 (2012): Peace and security in Africa (Mali)**
+
+- Issuing body: UN Security Council
+- Date: 2012-07-05
+- Type: UN resolution
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: UN and international frameworks
+- URL: [https://undocs.org/S/RES/2056\(2012\)](https://undocs.org/S/RES/2056(2012))
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/UNSC2056.*
+
+Cited by: [T163](../../timeline/post-9-11-2001-2014.md#T163)
+
+<a id="UNSC2391"></a>
+## UNSC2391
+
+**Security Council resolution 2391 (2017): Peace and security in Africa (G5 Sahel Joint Force support)**
+
+- Issuing body: UN Security Council
+- Date: 2017-12-08
+- Type: UN resolution
+- Tag: `primary`
+- Origin: `international`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: UN and international frameworks
+- URL: [https://undocs.org/S/RES/2391\(2017\)](https://undocs.org/S/RES/2391(2017))
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/UNSC2391.*
+
+Cited by: [T180](../../timeline/recent-2014-now.md#T180)
