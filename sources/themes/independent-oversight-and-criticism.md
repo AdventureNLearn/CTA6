@@ -2,9 +2,9 @@
 
 # Sources: independent oversight and criticism
 
-Sources whose origin is `oversight`, `court`, or `NGO`. This is a sub-list from the round 1 outline in `docs/STRUCTURE.md`. These records also appear on their region and theme pages. The list is not complete, and this page draws no conclusions from it.
+Sources whose origin is `oversight`, `court`, or `NGO`. This is a sub-list from the outline in `docs/STRUCTURE.md`. These records also appear on their region and theme pages. The list is not complete, and this page draws no conclusions from it.
 
-110 sources (`oversight` 56, `court` 40, `NGO` 14).
+111 sources (`oversight` 56, `court` 41, `NGO` 14).
 
 <a id="US-911COMM"></a>
 ## US-911COMM
@@ -2535,3 +2535,31 @@ Summary: A National Human Rights Commission of Korea press release registered on
 - Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-KR-NHRCK-2026.* Press release registered 2026-04-01; states that on 27 March 2026 the Commission expressed to the Speaker of the National Assembly the opinion that a pending partial amendment to the Act on Anti-Terrorism for the Protection of Citizens and Public Security needs careful review. English title: \[UNKNOWN\] (the source gives none).
 
 Cited by: [T236](../../timeline/recent-2014-now.md#T236)
+
+<a id="SEC-PK-SC-2019-95"></a>
+## SEC-PK-SC-2019-95
+
+**Supreme Court of Pakistan, Criminal Appeals No. 95 and 96 of 2019, Civil Appeal No. 10-L of 2017 and Criminal Appeal No. 63 of 2013 (2020 PLD Supreme Court 61) — pakistancaselaw.com copy**
+
+Summary: An unofficial copy of a Supreme Court of Pakistan larger-bench judgment, reported as 2020 PLD Supreme Court 61, in Criminal Appeals No. 95 and 96 of 2019. According to this copy, the same judgment also decided Civil Appeal No. 10-L of 2017 and Criminal Appeal No. 63 of 2013. It was decided on 30 October 2019 and addresses how 'terrorism' is to be interpreted under section 6 of the Anti-Terrorism Act, 1997. The copy is secondary and has not been checked against the court's own text.
+
+- Issuing body: pakistancaselaw.com (unofficial case-law website)
+- Date: 2019-10-30
+- Type: court record
+- Tag: `secondary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: \[URL withheld: contains a private party's name\]
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Case citation: Supreme Court of Pakistan, 2020 PLD Supreme Court 61; Criminal Appeals No. 95 and 96 of 2019; Civil Appeal No. 10-L of 2017; Criminal Appeal No. 63 of 2013
+- Label: `secondary/unofficial`
+- Stands in for: No CTA6 source yet: Supreme Court of Pakistan judgment in Criminal Appeals No. 95 and 96 of 2019, Civil Appeal No. 10-L of 2017 and Criminal Appeal No. 63 of 2013 (official copy at supremecourt.gov.pk returned HTTP 403 on 2026-11-19)
+- Publisher: pakistancaselaw.com (unofficial case-law website)
+- Access date: 2026-11-19
+- Notes: Secondary/unofficial copy; not verified against the court's own text. The page URL contains a private party's name and no name-free copy was found, so the URL is withheld. The official copy at supremecourt.gov.pk returned HTTP 403 on 2026-11-19. Re-fetched 2026-11-19 by curl (HTTP 200). The party is named by initials only (G.H.).
+
+Cited by: none in `data/timeline.csv`.

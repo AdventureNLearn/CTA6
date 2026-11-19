@@ -4,9 +4,9 @@
 
 National statutes, international and regional treaties, and court rulings that interpret them.
 
-Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-158 sources in this theme.
+165 sources in this theme.
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -1203,7 +1203,7 @@ Cited by: [T097](../../timeline/post-9-11-2001-2014.md#T097)
 
 **Prevention of Terrorism Act, No. 30 of 2012**
 
-Summary: Kenya's Prevention of Terrorism Act, No. 30 of 2012, at the Kenya Law website. Kenya's National Counter Terrorism Centre says it was established by this Act. The cited copy could not be confirmed (HTTP 500), and the same Act at Kenya Law's new site (KE-POTA2012-KL) also could not be verified, so the Act's text is \[UNKNOWN\] in CTA6.
+Summary: Kenya's Prevention of Terrorism Act, No. 30 of 2012, at the Kenya Law website. Kenya's National Counter Terrorism Centre says it was established by this Act. The SheriaNet listing (SEC-KE-POTA-SHERIANET) also gives the citation as Act No. 30 of 2012, according to that unofficial source. The cited copy could not be confirmed (HTTP 500), and the same Act at Kenya Law's new site (KE-POTA2012-KL) also could not be verified, so the Act's text is \[UNKNOWN\] in CTA6.
 
 - Issuing body: Parliament of Kenya (Kenya Law)
 - Date: 2012
@@ -2104,7 +2104,7 @@ Cited by: [T140](../../timeline/1945-1990.md#T140)
 
 **Prevention of Terrorism Act (No. 30 of 2012)**
 
-Summary: Kenya's Prevention of Terrorism Act (No. 30 of 2012) at Kenya Law's current website. It is the same Act as KE-POTA2012, found at a newer address. The cited copy could not be confirmed (HTTP 202 bot check), so the text is \[UNKNOWN\] in CTA6.
+Summary: Kenya's Prevention of Terrorism Act (No. 30 of 2012) at Kenya Law's current website. It is the same Act as KE-POTA2012, found at a newer address; according to an unofficial SheriaNet listing (SEC-KE-POTA-SHERIANET), the citation is Act No. 30 of 2012. The cited copy could not be confirmed (HTTP 202 bot check), so the text is \[UNKNOWN\] in CTA6.
 
 - Issuing body: Kenya Law (National Council for Law Reporting)
 - Date: 2012
@@ -2426,7 +2426,7 @@ Cited by: [T161](../../timeline/post-9-11-2001-2014.md#T161)
 
 **Закон Республики Казахстан от 13 июля 1999 года № 416 «О противодействии терроризму»**
 
-Summary: Kazakhstan's Law No. 416 of 13 July 1999, 'On countering terrorism' (О противодействии терроризму), from the Ministry of Justice's Adilet legal database. As its title states, it is Kazakhstan's counter-terrorism law. The cited copy could not be confirmed (the expected text was not found), so its content is \[UNKNOWN\] in CTA6.
+Summary: Kazakhstan's Law No. 416 of 13 July 1999, 'On countering terrorism' (О противодействии терроризму), from the Ministry of Justice's Adilet legal database. As its title states, it is Kazakhstan's counter-terrorism law. According to an unofficial consolidated copy in the PRG.kz legal database (SEC-KZ-416-PRG), its full number is 416-I and it has been amended up to 11 August 2026; this has not been verified. The cited Adilet copy could not be confirmed (the expected text was not found), so its official content is \[UNKNOWN\] in CTA6.
 
 - Issuing body: ИПС «Әділет» (Министерство юстиции Республики Казахстан)
 - Date: 1999-07-13
@@ -3191,7 +3191,7 @@ Cited by: none in `data/timeline.csv`.
 
 **Закон Республики Таджикистан «О борьбе с терроризмом»**
 
-Summary: Tajikistan's Law 'On combating terrorism' (О борьбе с терроризмом), from the National Legislation Centre under the President. A search listing gives 16 November 1999, No. 845, and says it lost force on 23 December 2021, but this is not confirmed. The cited copy could not be confirmed (the fetch timed out or returned HTTP 504), so its content is \[UNKNOWN\].
+Summary: Tajikistan's Law 'On combating terrorism' (О борьбе с терроризмом), from the National Legislation Centre under the President. According to an unofficial copy in the Spinform legal database (SEC-TJ-845-SPINFORM), it is Law No. 845 of 16 November 1999 and it lost force under article 45 of Law No. 1808 of 23 December 2021; this has not been verified against an official source. The cited official copy could not be confirmed (the fetch timed out or returned HTTP 504), so its content is \[UNKNOWN\].
 
 - Issuing body: Национальный центр законодательства при Президенте Республики Таджикистан
 - Date: \[UNKNOWN\]
@@ -3622,3 +3622,193 @@ Summary: The Anti-terrorism (Amendment) Act, 2020 (Act No. XX of 2020), publishe
 - Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-PK-ATA-AM2020.* Scanned Gazette with an OCR text layer (some characters garbled). Text: 'The following Act of Majlis-e-Shoora (Parliament) received the assent of the President on the 30th July, 2020 ... Act No. XX of 2020 further to amend the Anti-terrorism Act, 1997'.
 
 Cited by: [T235](../../timeline/recent-2014-now.md#T235)
+
+<a id="SEC-TJ-845-SPINFORM"></a>
+## SEC-TJ-845-SPINFORM
+
+**Закон Республики Таджикистан «О борьбе с терроризмом» (16 ноября 1999 года, №845) — Spinform copy**
+
+Summary: A copy of Tajikistan's 1999 Law 'On combating terrorism' (No. 845 of 16 November 1999) in the Spinform legal database. According to this copy, the law lost force under article 45 of Law No. 1808 of 23 December 2021. This is a secondary, unofficial copy and has not been verified against an official source.
+
+- Issuing body: Spinform (base.spinform.ru, commercial legal database)
+- Date: 1999-11-16
+- Type: statute
+- Tag: `secondary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://base.spinform.ru/show_doc.fwx?rgn=2195](https://base.spinform.ru/show_doc.fwx?rgn=2195)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: Russian
+- Label: `secondary/unofficial`
+- Stands in for: TJ-LAW845-1999 (Tajikistan, Law «О борьбе с терроризмом», 1999; official copy unconfirmed)
+- Publisher: Spinform (base.spinform.ru, commercial legal database)
+- Access date: 2026-11-19
+- Notes: Secondary/unofficial copy; not verified against an official source. Re-fetched 2026-11-19 by curl (HTTP 200). Origin describes the underlying instrument, not the publisher.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SEC-KZ-416-PRG"></a>
+## SEC-KZ-416-PRG
+
+**Закон Республики Казахстан от 13 июля 1999 года № 416-I «О противодействии терроризму» (с изменениями и дополнениями по состоянию на 11.08.2026 г.) — PRG.kz copy**
+
+Summary: A consolidated copy of Kazakhstan's Law No. 416-I of 13 July 1999 'On countering terrorism' in the Paragraph (PRG.kz) legal database. According to its title, the text includes amendments up to 11 August 2026. It is a secondary, unofficial copy and has not been verified against the official Adilet text.
+
+- Issuing body: PRG.kz (Paragraph, commercial legal database)
+- Date: 1999-07-13
+- Type: statute
+- Tag: `secondary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://prg.kz/document/?doc_id=1013957](https://prg.kz/document/?doc_id=1013957)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: Russian
+- Label: `secondary/unofficial`
+- Stands in for: KZ-LAW416-1999 (Kazakhstan, Law No. 416 «О противодействии терроризму», 1999)
+- Publisher: PRG.kz (Paragraph, commercial legal database)
+- Access date: 2026-11-19
+- Notes: Secondary/unofficial consolidated copy; not verified against the official Adilet text. Re-fetched 2026-11-19 by curl (HTTP 200). Origin describes the underlying instrument, not the publisher. A Continent Online page at https://continent-online.com/Document/?doc_id=1013957 uses the same doc_id and was not added as a separate source.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SEC-KE-POTA-SHERIANET"></a>
+## SEC-KE-POTA-SHERIANET
+
+**Prevention of Terrorism Act — Act No. 30 of 2012 — SheriaNet listing**
+
+Summary: SheriaNet's listing for Kenya's Prevention of Terrorism Act. According to the listing, its citation is Act No. 30 of 2012, and it links a full-text PDF and lists legal notices made under the Act. Only the citation details were read; the Act's text was not checked, and the listing is secondary and not verified.
+
+- Issuing body: SheriaNet (legal information website)
+- Date: 2012
+- Type: statute
+- Tag: `secondary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://sheria.net/legislation/akn/ke/act/2012/30](https://sheria.net/legislation/akn/ke/act/2012/30)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Label: `secondary/unofficial`
+- Stands in for: KE-POTA2012 and KE-POTA2012-KL (Kenya, Prevention of Terrorism Act No. 30 of 2012)
+- Publisher: SheriaNet (legal information website)
+- Access date: 2026-11-19
+- Notes: Secondary/unofficial listing; not verified. curl got a bot-check interstitial on 2026-11-19; page read via WebFetch. Supports the citation, year and number only; the linked PDF was not opened.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SEC-PK-SC-2019-95"></a>
+## SEC-PK-SC-2019-95
+
+**Supreme Court of Pakistan, Criminal Appeals No. 95 and 96 of 2019, Civil Appeal No. 10-L of 2017 and Criminal Appeal No. 63 of 2013 (2020 PLD Supreme Court 61) — pakistancaselaw.com copy**
+
+Summary: An unofficial copy of a Supreme Court of Pakistan larger-bench judgment, reported as 2020 PLD Supreme Court 61, in Criminal Appeals No. 95 and 96 of 2019. According to this copy, the same judgment also decided Civil Appeal No. 10-L of 2017 and Criminal Appeal No. 63 of 2013. It was decided on 30 October 2019 and addresses how 'terrorism' is to be interpreted under section 6 of the Anti-Terrorism Act, 1997. The copy is secondary and has not been checked against the court's own text.
+
+- Issuing body: pakistancaselaw.com (unofficial case-law website)
+- Date: 2019-10-30
+- Type: court record
+- Tag: `secondary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: \[URL withheld: contains a private party's name\]
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Case citation: Supreme Court of Pakistan, 2020 PLD Supreme Court 61; Criminal Appeals No. 95 and 96 of 2019; Civil Appeal No. 10-L of 2017; Criminal Appeal No. 63 of 2013
+- Label: `secondary/unofficial`
+- Stands in for: No CTA6 source yet: Supreme Court of Pakistan judgment in Criminal Appeals No. 95 and 96 of 2019, Civil Appeal No. 10-L of 2017 and Criminal Appeal No. 63 of 2013 (official copy at supremecourt.gov.pk returned HTTP 403 on 2026-11-19)
+- Publisher: pakistancaselaw.com (unofficial case-law website)
+- Access date: 2026-11-19
+- Notes: Secondary/unofficial copy; not verified against the court's own text. The page URL contains a private party's name and no name-free copy was found, so the URL is withheld. The official copy at supremecourt.gov.pk returned HTTP 403 on 2026-11-19. Re-fetched 2026-11-19 by curl (HTTP 200). The party is named by initials only (G.H.).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SEC-PK-DAWN-2019"></a>
+## SEC-PK-DAWN-2019
+
+**'Terrorism' too widely defined in Anti Terrorism Act, says SC; recommends Parliament bring changes**
+
+Summary: A Dawn news report published on 30 October 2019 about a Supreme Court of Pakistan ruling. As reported by Dawn, the Court found the Anti-Terrorism Act's definition of terrorism too wide and recommended that Parliament change it. It is news reporting, not the judgment itself, and has not been verified.
+
+- Issuing body: Dawn (newspaper)
+- Date: 2019-10-30
+- Type: other
+- Tag: `secondary`
+- Origin: `media`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.dawn.com/news/1513839](https://www.dawn.com/news/1513839)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Label: `secondary/unofficial`
+- Stands in for: No CTA6 source yet: Supreme Court of Pakistan judgment in Criminal Appeals No. 95 and 96 of 2019 (see SEC-PK-SC-2019-95)
+- Publisher: Dawn (newspaper)
+- Access date: 2026-11-19
+- Notes: News report; secondary, not verified against the judgment. Re-fetched 2026-11-19 by curl (HTTP 200); page metadata gives datePublished 2019-10-30.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SEC-PK-DAWNURDU-2025"></a>
+## SEC-PK-DAWNURDU-2025
+
+**سینیٹ: انسداد دہشتگردی ایکٹ ترمیمی بل 2025 منظور (Senate passes Anti-Terrorism Act Amendment Bill 2025)**
+
+Summary: A Dawn News (Urdu) report published on 19 August 2025 about Pakistan's Anti-Terrorism Act Amendment Bill 2025. According to the report, the Senate passed the bill, which is to be in force for three years, allows a suspect to be held for up to three months, and amends sub-section (1) of section 11EEEE. It is news reporting and the bill text has not been verified.
+
+- Issuing body: Dawn News (Urdu)
+- Date: 2025-08-19
+- Type: other
+- Tag: `secondary`
+- Origin: `media`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.dawnnews.tv/news/1267082](https://www.dawnnews.tv/news/1267082)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: Urdu
+- Label: `secondary/unofficial`
+- Stands in for: No CTA6 source yet: Pakistan Anti-terrorism (Amendment) Bill 2025, Senate PDF https://senate.gov.pk/uploads/documents/1755242450_392.pdf (download incomplete twice)
+- Publisher: Dawn News (Urdu)
+- Access date: 2026-11-19
+- Notes: News report in Urdu; secondary, not verified against the bill text. Re-fetched 2026-11-19 by curl (HTTP 200); datePublished 2025-08-19. The official Senate PDF downloaded incomplete twice and was not used.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SEC-PK-BBCURDU-2025"></a>
+## SEC-PK-BBCURDU-2025
+
+**انسداد دہشتگردی قانون میں ترمیم: سکیورٹی اداروں کو ’غیر معمولی‘ حراستی اختیارات کیوں دیے جا رہے ہیں؟ (Anti-terrorism law amendment: why are security agencies being given 'extraordinary' detention powers?)**
+
+Summary: A BBC News Urdu report published on 16 August 2025 about an amendment to Pakistan's anti-terrorism law. As reported by the BBC, the Senate passed the amendment bill after the National Assembly, it allows people considered a security threat to be detained for up to three months, and it was to go to the President for assent. It is news reporting and has not been verified against the bill or Act.
+
+- Issuing body: BBC News Urdu
+- Date: 2025-08-16
+- Type: other
+- Tag: `secondary`
+- Origin: `media`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.bbc.com/urdu/articles/c9wy77558ngo](https://www.bbc.com/urdu/articles/c9wy77558ngo)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: Urdu
+- Label: `secondary/unofficial`
+- Stands in for: No CTA6 source yet: Pakistan Anti-terrorism (Amendment) Bill 2025 (see SEC-PK-DAWNURDU-2025)
+- Publisher: BBC News Urdu
+- Access date: 2026-11-19
+- Notes: News report in Urdu; secondary, not verified against the bill or Act. Re-fetched 2026-11-19 by curl (HTTP 200); published 2025-08-16 11:44 UTC (07:44 ET).
+
+Cited by: none in `data/timeline.csv`.

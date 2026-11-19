@@ -4,7 +4,7 @@
 
 Major attacks and state or coalition responses, at a public-record level only (no tactics).
 
-Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
 11 sources in this theme.
 
