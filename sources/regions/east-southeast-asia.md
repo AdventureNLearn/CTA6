@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-15 sources in this region (`government` 10, `international` 2, `NGO` 1, `court` 2).
+24 sources in this region (`government` 16, `international` 2, `NGO` 1, `court` 2, `oversight` 3).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -321,3 +321,192 @@ Cited by: [T186](../../timeline/recent-2014-now.md#T186)
 - Notes: URL taken from a web-search result listing, then fetched. HTTP 403; expected text not confirmed (bot check, timeout or error). URL from search index. Petitioner name replaced by an initial (CTA6 anonymization rule).
 
 Cited by: [T186](../../timeline/recent-2014-now.md#T186)
+
+<a id="ID-KOMNASHAM-2018"></a>
+## ID-KOMNASHAM-2018
+
+**Perlindungan Hak Asasi Manusia dalam Rancangan Undang-Undang tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2003 (kertas posisi; disampaikan kepada Ketua Panja RUU Pemberantasan Tindak Pidana Terorisme pada 16 April 2018)**
+
+- Issuing body: Komisi Nasional Hak Asasi Manusia (Komnas HAM), Indonesia
+- Date: 2018-04-16
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: studies and evaluations
+- URL: [https://www.komnasham.go.id/files/20181126-kertas-posisi-komnas-ham-dalam-$6BD7T.pdf](https://www.komnasham.go.id/files/20181126-kertas-posisi-komnas-ham-dalam-$6BD7T.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Indonesian
+- Notes: Verified via WebFetch on 2026-11-19 (curl got a Cloudflare challenge, HTTP 403); capture saved as pass3/raw/webfetch-ID-KOMNASHAM-2018.txt. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T223](../../timeline/recent-2014-now.md#T223)
+
+<a id="KR-ATA-DECREE2016"></a>
+## KR-ATA-DECREE2016
+
+**국민보호와 공공안전을 위한 테러방지법 시행령 (대통령령 제27203호, 2016. 5. 31., 제정)**
+
+- Issuing body: Ministry of Government Legislation, Korean Law Information Center (국가법령정보센터)
+- Date: 2016-05-31
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183413](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183413)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Korean
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/KR-ATA-DECREE2016.* Header: '\[시행 2016. 6. 4.\] \[대통령령 제27203호, 2016. 5. 31., 제정\]'. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T219](../../timeline/recent-2014-now.md#T219)
+
+<a id="MY-SUHAKAM-AR2016"></a>
+## MY-SUHAKAM-AR2016
+
+**Annual Report 2016**
+
+- Issuing body: Human Rights Commission of Malaysia (SUHAKAM)
+- Date: 2017
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: studies and evaluations
+- URL: [https://suhakam.org.my/wp-content/uploads/2023/09/2016_Annual-Report.pdf](https://suhakam.org.my/wp-content/uploads/2023/09/2016_Annual-Report.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/MY-SUHAKAM-AR2016.* Discusses use of the Security Offences (Special Measures) Act 2012 (SOSMA). Print file dated 23 March 2017; publication date \[UNKNOWN\].
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="JP-KOUANSHIN-AUM"></a>
+## JP-KOUANSHIN-AUM
+
+**オウム真理教に対する観察処分の期間更新決定の概要について（令和6年1月12日）**
+
+- Issuing body: 公安審査委員会 (Public Security Examination Commission, Ministry of Justice)
+- Date: 2024-01-12
+- Type: other
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: agencies
+- URL: [https://www.moj.go.jp/kouanshin/kouanshin_00025.html](https://www.moj.go.jp/kouanshin/kouanshin_00025.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Japanese
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/JP-KOUANSHIN-AUM.* The Commission states it decided, on the request of the Director-General of the Public Security Intelligence Agency under the Act on the Control of Organizations Which Have Committed Acts of Indiscriminate Mass Murder, to renew the observation measure. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T228](../../timeline/recent-2014-now.md#T228)
+
+<a id="JP-PSIA-AUM2024"></a>
+## JP-PSIA-AUM2024
+
+**無差別大量殺人行為を行った団体の規制に関する法律に基づく観察処分の期間の更新決定（8回目）について（令和6年1月12日決定）**
+
+- Issuing body: 公安調査庁 (Public Security Intelligence Agency)
+- Date: 2024-01-12
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: agencies
+- URL: [https://www.moj.go.jp/psia/aum-20240112kansatsushobun.html](https://www.moj.go.jp/psia/aum-20240112kansatsushobun.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Japanese
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/JP-PSIA-AUM2024.* English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T228](../../timeline/recent-2014-now.md#T228)
+
+<a id="JP-TFINANCE-2002"></a>
+## JP-TFINANCE-2002
+
+**公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する法律**
+
+- Issuing body: e-Gov 法令検索 (Digital Agency, Japan)
+- Date: 2002-06-12
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://laws.e-gov.go.jp/law/414AC0000000067?occasion_date=20260701](https://laws.e-gov.go.jp/law/414AC0000000067?occasion_date=20260701)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: Japanese
+- Notes: URL from a web-search result listing; fetched on 2026-11-19 (HTTP 200) but the page body loads only with JavaScript (23 characters of text), so the content could not be matched. Date from JP-NDL-TFINANCE. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="JP-NDL-TFINANCE"></a>
+## JP-NDL-TFINANCE
+
+**公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する法律（平成14年6月12日法律第67号）（日本法令索引）**
+
+- Issuing body: 国立国会図書館 日本法令索引 (National Diet Library)
+- Date: 2002-06-12
+- Type: database
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://hourei.ndl.go.jp/simple/detail?current=-1&lawId=0000092664](https://hourei.ndl.go.jp/simple/detail?current=-1&lawId=0000092664)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Japanese
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/JP-NDL-TFINANCE.* Record: '法律番号：平成14年法律第67号 公布年月日：平成14年6月12日'; bill submitted by the Cabinet to the 154th Diet session on 12 March 2002. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T200](../../timeline/post-9-11-2001-2014.md#T200)
+
+<a id="SG-ISA-ABRULES"></a>
+## SG-ISA-ABRULES
+
+**Internal Security (Detained Persons Advisory Board) Rules (G.N. No. S 23/1964)**
+
+- Issuing body: Attorney-General's Chambers, Singapore Statutes Online
+- Date: 1964-01-16
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1945-1990
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://sso.agc.gov.sg/SL/ISA1960-R2](https://sso.agc.gov.sg/SL/ISA1960-R2)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/SG-ISA-ABRULES.* Made under Internal Security Act section 11(3); '\[16th January 1964\]'; revised edition 1990. Singapore has no national human rights institution; this advisory board is the statutory review body for ISA detentions.
+
+Cited by: [T193](../../timeline/1945-1990.md#T193)
+
+<a id="SG-NAS-MHA2002"></a>
+## SG-NAS-MHA2002
+
+**Government News Release on the ISA Arrests: The Advisory Board Sits (MHA press release, 25 Feb 2002)**
+
+- Issuing body: Ministry of Home Affairs, Singapore (National Archives of Singapore)
+- Date: 2002-02-25
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: East/Southeast Asia
+- Theme: agencies
+- URL: [https://www.nas.gov.sg/archivesonline/data/pdfdoc/2002022501.htm](https://www.nas.gov.sg/archivesonline/data/pdfdoc/2002022501.htm)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Notes: URL from search index; not verified: curl got HTTP 202 with an empty body on 2026-11-19. Title and date from the search listing.
+
+Cited by: none in `data/timeline.csv`.
