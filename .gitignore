@@ -1,0 +1,14 @@
+# Page captures stay on the local machine and must not be committed.
+raw/
+**/raw/
+
+# Local tooling and secrets (none belong in this archive)
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.swp
+*~
