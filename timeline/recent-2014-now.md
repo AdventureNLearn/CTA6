@@ -4,10 +4,10 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every entry is taken from the cited row in `data/timeline.csv`.
 
-50 milestones in this era.
+64 milestones in this era.
 
-- `we-have-a-record`: 45
-- `not-proven`: 4
+- `we-have-a-record`: 60
+- `not-proven`: 3
 - `people-disagree`: 1
 
 See [GAPS.md](../GAPS.md) for what this round did not gather.
@@ -125,9 +125,9 @@ Citation: [UNSC2253](../sources/regions/global-un.md#UNSC2253) ([https://undocs.
 - Place: Brasília, Brazil
 - Region: Latin America
 - Theme: laws and treaties
-- Status: `not-proven`
+- Status: `we-have-a-record`
 
-Brazil enacted Lei nº 13.260 (anti-terrorism law) (source page not machine-verified).
+Brazil enacted Lei nº 13.260 (anti-terrorism law).
 
 Citation: [BR-L13260](../sources/regions/latin-america.md#BR-L13260) ([https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm))
 
@@ -684,3 +684,188 @@ Citation: [CL-LEY18314](../sources/regions/latin-america.md#CL-LEY18314) ([https
 Australia's Independent National Security Legislation Monitor provided its report on the definition of a 'terrorist act' to the Attorney-General (tabling due by 20 November 2026, per the Monitor's site).
 
 Citation: [AU-INSLM](../sources/regions/oceania.md#AU-INSLM) ([https://www.inslm.gov.au/](https://www.inslm.gov.au/))
+
+<a id="T217"></a>
+## T217
+
+- Date: 2014-12-19
+- Place: Nouakchott, Mauritania
+- Region: Sub-Saharan Africa
+- Theme: UN and international frameworks
+- Status: `we-have-a-record`
+
+The conference of heads of state of the G5 Sahel adopted the Convention establishing the G5 Sahel; Mali ratified it by Decree No. 2015-128 (as listed by Mali's Secretariat General of Government).
+
+Citation: [ML-SGG-CONV](../sources/regions/sub-saharan-africa.md#ML-SGG-CONV) ([https://sgg-mali.ml/2/513/fr/conventions-internationales.html](https://sgg-mali.ml/2/513/fr/conventions-internationales.html))
+
+<a id="T218"></a>
+## T218
+
+- Date: 2015-10-28
+- Place: Maldives
+- Region: South Asia
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+The Maldives Government Gazette (vol. 44, no. 288) published Law No. 32/2015 on terrorism (Dhivehi text).
+
+Citation: [MV-PTA2015-DV](../sources/regions/south-asia.md#MV-PTA2015-DV) ([https://old.mvlaw.gov.mv/pdf/ganoon/chapterVIII/32-2015.pdf](https://old.mvlaw.gov.mv/pdf/ganoon/chapterVIII/32-2015.pdf))
+
+<a id="T219"></a>
+## T219
+
+- Date: 2016-05-31
+- Place: Republic of Korea
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+Korea enacted the Enforcement Decree of the Act on Anti-Terrorism for the Protection of Citizens and Public Security (Presidential Decree No. 27203), in force from 4 June 2016.
+
+Citation: [KR-ATA-DECREE2016](../sources/regions/east-southeast-asia.md#KR-ATA-DECREE2016) ([https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183413](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183413))
+
+<a id="T220"></a>
+## T220
+
+- Date: 2016-06-15
+- Place: Israel (Knesset)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+The Knesset passed the Counter-Terrorism Law, 5776-2016; it was published in Sefer HaHukim No. 2556 on 23 June 2016.
+
+Citation: [IL-CTLAW2016-HE](../sources/regions/middle-east-north-africa.md#IL-CTLAW2016-HE) ([https://fs.knesset.gov.il/20/law/20_lsr_343902.pdf](https://fs.knesset.gov.il/20/law/20_lsr_343902.pdf))
+
+<a id="T221"></a>
+## T221
+
+- Date: 2017-07-10
+- Place: Sri Lanka
+- Region: South Asia
+- Theme: studies and evaluations
+- Status: `we-have-a-record`
+
+The UN Special Rapporteur on human rights while countering terrorism visited Sri Lanka from 10 to 14 July 2017 to assess its counter-terrorism policies, laws and practices.
+
+Citation: [SR-LKA-2019](../sources/regions/south-asia.md#SR-LKA-2019) ([https://undocs.org/A/HRC/40/52/Add.3](https://undocs.org/A/HRC/40/52/Add.3))
+
+<a id="T222"></a>
+## T222
+
+- Date: 2017-09-07
+- Place: Australia
+- Region: Oceania
+- Theme: studies and evaluations
+- Status: `we-have-a-record`
+
+Australia's Independent National Security Legislation Monitor completed statutory reviews of stop, search and seize powers, declared areas, control orders and preventative detention orders.
+
+Citation: [AU-INSLM-2018](../sources/regions/oceania.md#AU-INSLM-2018) ([https://www.inslm.gov.au/reviews/stop-search-and-seize-powers-declared-areas-control-orders-and-preventative-detention-orders](https://www.inslm.gov.au/reviews/stop-search-and-seize-powers-declared-areas-control-orders-and-preventative-detention-orders))
+
+<a id="T223"></a>
+## T223
+
+- Date: 2018-04-16
+- Place: Jakarta, Indonesia
+- Region: East/Southeast Asia
+- Theme: studies and evaluations
+- Status: `we-have-a-record`
+
+Indonesia's National Human Rights Commission (Komnas HAM) submitted a position paper on the draft amendment to the anti-terrorism law to the chair of the parliamentary working committee on the bill.
+
+Citation: [ID-KOMNASHAM-2018](../sources/regions/east-southeast-asia.md#ID-KOMNASHAM-2018) ([https://www.komnasham.go.id/files/20181126-kertas-posisi-komnas-ham-dalam-$6BD7T.pdf](https://www.komnasham.go.id/files/20181126-kertas-posisi-komnas-ham-dalam-$6BD7T.pdf))
+
+<a id="T224"></a>
+## T224
+
+- Date: 2019-03-29
+- Place: \[UNKNOWN\] (African Court on Human and Peoples' Rights)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+The African Court on Human and Peoples' Rights delivered its merits judgment in A. v. Republic of Benin (Application No. 013/2017), which concerned proceedings including those before Benin's Court for the Repression of Economic Offences and Terrorism (CRIET).
+
+Citation: [AFCHPR-2019-013-2017](../sources/regions/sub-saharan-africa.md#AFCHPR-2019-013-2017) ([https://www.african-court.org/ajudata/download-file/782/5f59ee1f3010d110121716.pdf](https://www.african-court.org/ajudata/download-file/782/5f59ee1f3010d110121716.pdf))
+
+<a id="T225"></a>
+## T225
+
+- Date: 2020
+- Place: Sri Lanka
+- Region: South Asia
+- Theme: studies and evaluations
+- Status: `we-have-a-record`
+
+The Human Rights Commission of Sri Lanka published the executive summary of its 2018 prison study, which includes a section on prisoners held under the Prevention of Terrorism Act (day and month [UNKNOWN]).
+
+Citation: [HRCSL-PRISON-2020](../sources/regions/south-asia.md#HRCSL-PRISON-2020) ([https://www.hrcsl.lk/wp-content/uploads/2020/01/Prison-Study-by-HRCSL_Concise-Version.pdf](https://www.hrcsl.lk/wp-content/uploads/2020/01/Prison-Study-by-HRCSL_Concise-Version.pdf))
+
+<a id="T226"></a>
+## T226
+
+- Date: 2022-03-29
+- Place: Sri Lanka
+- Region: South Asia
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+Sri Lanka's Prevention of Terrorism (Temporary Provisions) (Amendment) Act, No. 12 of 2022 was certified; it was published as a Gazette supplement on 1 April 2022.
+
+Citation: [LK-PTA-AM2022](../sources/regions/south-asia.md#LK-PTA-AM2022) ([https://documents.gov.lk/api/content-file-proxy?file=%2Fact-content%2F12-2022_E_1784552906.pdf](https://documents.gov.lk/api/content-file-proxy?file=%2Fact-content%2F12-2022_E_1784552906.pdf))
+
+<a id="T227"></a>
+## T227
+
+- Date: 2023-02-07
+- Place: Nigeria
+- Region: Sub-Saharan Africa
+- Theme: studies and evaluations
+- Status: `we-have-a-record`
+
+Nigeria's National Human Rights Commission announced and inaugurated the Special Independent Investigative Panel on human rights violations in counter-insurgency operations in the North East (SIIP North-East).
+
+Citation: [NG-NHRC-SIIP-NE-ES](../sources/regions/sub-saharan-africa.md#NG-NHRC-SIIP-NE-ES) ([https://www.nigeriarights.gov.ng/files/publications/The%20Executive%20Summary%20Updated%2018-11-24%20\(1\).pdf](https://www.nigeriarights.gov.ng/files/publications/The%20Executive%20Summary%20Updated%2018-11-24%20(1).pdf))
+
+<a id="T228"></a>
+## T228
+
+- Date: 2024-01-12
+- Place: Japan
+- Region: East/Southeast Asia
+- Theme: agencies
+- Status: `we-have-a-record`
+
+Japan's Public Security Examination Commission decided, on the request of the Public Security Intelligence Agency, to renew the observation measure on the organisation known as Aum Shinrikyo (the agency describes it as the eighth renewal).
+
+Citations:
+
+- [JP-KOUANSHIN-AUM](../sources/regions/east-southeast-asia.md#JP-KOUANSHIN-AUM) ([https://www.moj.go.jp/kouanshin/kouanshin_00025.html](https://www.moj.go.jp/kouanshin/kouanshin_00025.html))
+- [JP-PSIA-AUM2024](../sources/regions/east-southeast-asia.md#JP-PSIA-AUM2024) ([https://www.moj.go.jp/psia/aum-20240112kansatsushobun.html](https://www.moj.go.jp/psia/aum-20240112kansatsushobun.html))
+
+<a id="T229"></a>
+## T229
+
+- Date: 2024-11-09
+- Place: Nigeria
+- Region: Sub-Saharan Africa
+- Theme: studies and evaluations
+- Status: `we-have-a-record`
+
+Nigeria's National Human Rights Commission posted the report of the SIIP North-East panel.
+
+Citation: [NG-NHRC-SIIP-NE](../sources/regions/sub-saharan-africa.md#NG-NHRC-SIIP-NE) ([https://www.nigeriarights.gov.ng/publications/more/504-report-of-the-special-independent-investigative-panel-on-human-rights-violations-in-counter-insurgency-operations-in-the-north-east-siip-north-east.html](https://www.nigeriarights.gov.ng/publications/more/504-report-of-the-special-independent-investigative-panel-on-human-rights-violations-in-counter-insurgency-operations-in-the-north-east-siip-north-east.html))
+
+<a id="T230"></a>
+## T230
+
+- Date: 2024-11-28
+- Place: Papua New Guinea (National Parliament)
+- Region: Oceania
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+Papua New Guinea's Parliament passed the Counter-Terrorism Bill 2024 by 84 votes to 0, according to the Department of Prime Minister and National Executive Council.
+
+Citation: [PG-PMNEC-CTA2024](../sources/regions/oceania.md#PG-PMNEC-CTA2024) ([https://www.pmnec.gov.pg/pm-marape-commends-government-opposition-members-for-uniting-to-pass-new-monumental-counter-terrorism-law/](https://www.pmnec.gov.pg/pm-marape-commends-government-opposition-members-for-uniting-to-pass-new-monumental-counter-terrorism-law/))
