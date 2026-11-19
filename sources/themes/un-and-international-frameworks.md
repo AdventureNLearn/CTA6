@@ -15,6 +15,8 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **Security Council resolution 635 (1989): Marking of plastic or sheet explosives for the purpose of detection**
 
+Summary: UN Security Council resolution 635, adopted on 14 June 1989, on marking plastic or sheet explosives so that they can be detected. In it the Council condemns all acts of unlawful interference against the security of civil aviation and calls on all States to cooperate in measures to prevent terrorism, including acts involving explosives. It is the source for milestone T028 and links aviation security to the detection of explosives.
+
 - Issuing body: UN Security Council
 - Date: 1989-06-14
 - Type: UN resolution
@@ -35,6 +37,8 @@ Cited by: [T028](../../timeline/1945-1990.md#T028)
 ## UNSC731
 
 **Security Council resolution 731 (1992): Libyan Arab Jamahiriya (Pan Am 103 and UTA 772)**
+
+Summary: UN Security Council resolution 731, adopted on 21 January 1992, concerning Libya and the investigations into the destruction of Pan Am flight 103 and UTA flight 772. The Council condemns the destruction of the two aircraft and the loss of hundreds of lives and states it is determined to eliminate international terrorism. It is the source for milestone T031 and was followed by sanctions in resolution 748 (T032).
 
 - Issuing body: UN Security Council
 - Date: 1992-01-21
@@ -57,6 +61,8 @@ Cited by: [T031](../../timeline/1990-2001.md#T031)
 
 **Security Council resolution 748 (1992): Libyan Arab Jamahiriya sanctions**
 
+Summary: UN Security Council resolution 748, adopted on 31 March 1992, imposing measures on Libya. It decides that the Libyan Government must comply without further delay with the requests made under resolution 731 regarding the Pan Am 103 and UTA 772 investigations, and must commit definitively to cease all forms of terrorist action and assistance to terrorist groups. It is the source for milestone T032.
+
 - Issuing body: UN Security Council
 - Date: 1992-03-31
 - Type: UN resolution
@@ -77,6 +83,8 @@ Cited by: [T032](../../timeline/1990-2001.md#T032)
 ## UNSC1189
 
 **Security Council resolution 1189 (1998): Bombings in Nairobi and Dar-es-Salaam**
+
+Summary: UN Security Council resolution 1189, adopted on 13 August 1998, after the bombings in Nairobi and Dar-es-Salaam. The Council strongly condemns the bomb attacks of 7 August 1998 in Kenya and Tanzania, which it says claimed hundreds of lives and injured thousands, and calls on States to support the investigations in Kenya, Tanzania and the United States. It is the source for milestone T043.
 
 - Issuing body: UN Security Council
 - Date: 1998-08-13
@@ -99,6 +107,8 @@ Cited by: [T043](../../timeline/1990-2001.md#T043)
 
 **Security Council resolution 1267 (1999): Afghanistan (Taliban sanctions; 1267 Committee)**
 
+Summary: UN Security Council resolution 1267, adopted on 15 October 1999, concerning the Taliban in Afghanistan. It decided that all States would impose measures from 14 November 1999, including denying landing and take-off rights to aircraft owned, leased or operated by or for the Taliban, and it established a Security Council committee (the 1267 Committee) to oversee them. Later CTA6 milestones record that the regime was extended and renamed and then adapted to include ISIL (T104, T116), and that its listings were challenged in court (the people-disagree milestone T097).
+
 - Issuing body: UN Security Council
 - Date: 1999-10-15
 - Type: UN resolution
@@ -119,6 +129,8 @@ Cited by: [T046](../../timeline/1990-2001.md#T046), [T097](../../timeline/post-9
 ## UNSC1269
 
 **Security Council resolution 1269 (1999): Responsibility of the Security Council in the maintenance of international peace and security (terrorism)**
+
+Summary: UN Security Council resolution 1269, adopted on 19 October 1999, on the Council's responsibility for international peace and security in relation to terrorism. It calls on all States to fully implement the anti-terrorism conventions they are party to, to consider joining the others, and to cooperate through bilateral and multilateral arrangements. It is the source for milestone T047 and is one of the Council's general resolutions on terrorism before September 2001.
 
 - Issuing body: UN Security Council
 - Date: 1999-10-19
@@ -141,6 +153,8 @@ Cited by: [T047](../../timeline/1990-2001.md#T047)
 
 **Security Council resolution 1368 (2001): Threats to international peace and security caused by terrorist acts**
 
+Summary: UN Security Council resolution 1368, adopted on 12 September 2001, the day after the 11 September attacks. The Council states it is determined to combat by all means threats to international peace and security caused by terrorist acts, and in its preamble recognizes the inherent right of individual or collective self-defence under the Charter. It is the source for milestone T051.
+
 - Issuing body: UN Security Council
 - Date: 2001-09-12
 - Type: UN resolution
@@ -161,6 +175,8 @@ Cited by: [T051](../../timeline/post-9-11-2001-2014.md#T051)
 ## UNSC1373
 
 **Security Council resolution 1373 (2001): Threats to international peace and security caused by terrorist acts (Counter-Terrorism Committee)**
+
+Summary: UN Security Council resolution 1373, adopted on 28 September 2001. It decides that all States shall prevent and suppress the financing of terrorist acts, criminalize the provision or collection of funds for them, and refrain from supporting entities or persons involved in terrorist acts, and it calls for faster exchange of operational information. It also established the Counter-Terrorism Committee (milestone T055); later resolutions such as 1535 and 2462 build on it.
 
 - Issuing body: UN Security Council
 - Date: 2001-09-28
@@ -183,6 +199,8 @@ Cited by: [T055](../../timeline/post-9-11-2001-2014.md#T055)
 
 **Security Council resolution 1438 (2002): Threats to international peace and security caused by terrorist acts (Bali)**
 
+Summary: UN Security Council resolution 1438, adopted on 14 October 2002 after the bomb attacks in Bali, Indonesia, on 12 October 2002. The Council condemns the attacks 'in the strongest terms', regards them, like any act of international terrorism, as a threat to international peace and security, and expresses condolences to Indonesia and the victims. It is the source for milestone T063.
+
 - Issuing body: UN Security Council
 - Date: 2002-10-14
 - Type: UN resolution
@@ -203,6 +221,8 @@ Cited by: [T063](../../timeline/post-9-11-2001-2014.md#T063)
 ## UNSC1530
 
 **Security Council resolution 1530 (2004): Threats to international peace and security caused by terrorist acts (Madrid)**
+
+Summary: UN Security Council resolution 1530, adopted on 11 March 2004, the day of the Madrid train bombings. The Council condemns the attacks in the strongest terms, and its operative text attributes them to ETA. That attribution is disputed by a later UN source: milestone T150 records that the UN Special Rapporteur's 2008 report on Spain describes the bombings as carried out by members of an international terrorist cell. CTA6 records what each source says without deciding between them.
 
 - Issuing body: UN Security Council
 - Date: 2004-03-11
@@ -225,6 +245,8 @@ Cited by: [T072](../../timeline/post-9-11-2001-2014.md#T072), [T150](../../timel
 
 **Security Council resolution 1535 (2004): Establishment of the Counter-Terrorism Committee Executive Directorate (CTED)**
 
+Summary: UN Security Council resolution 1535, adopted on 26 March 2004. It revitalized the Counter-Terrorism Committee created by resolution 1373 and set up the Counter-Terrorism Committee Executive Directorate (CTED), headed by an Executive Director, with the Committee continuing to report to the Council. It is the source for milestone T073; CTED's mandate was later renewed by resolution 2617 (T131).
+
 - Issuing body: UN Security Council
 - Date: 2004-03-26
 - Type: UN resolution
@@ -245,6 +267,8 @@ Cited by: [T073](../../timeline/post-9-11-2001-2014.md#T073)
 ## UNSC1540
 
 **Security Council resolution 1540 (2004): Non-proliferation of weapons of mass destruction to non-State actors**
+
+Summary: UN Security Council resolution 1540, adopted on 28 April 2004 under Chapter VII of the UN Charter, on non-proliferation of weapons of mass destruction to non-State actors. It decides that all States shall refrain from supporting non-State actors that attempt to develop, acquire, possess, transfer or use nuclear, chemical or biological weapons and their means of delivery. It is the source for milestone T074.
 
 - Issuing body: UN Security Council
 - Date: 2004-04-28
@@ -267,6 +291,8 @@ Cited by: [T074](../../timeline/post-9-11-2001-2014.md#T074)
 
 **Security Council resolution 1566 (2004): Threats to international peace and security caused by terrorist acts**
 
+Summary: UN Security Council resolution 1566, adopted on 8 October 2004. It condemns all acts of terrorism irrespective of motivation, recalls that criminal acts committed with intent to cause death or serious injury or to take hostages, for the purpose of provoking terror, intimidating a population or compelling a government, are not justifiable, and sets up a working group on measures against individuals and groups. Its wording is one of the two definitions compared in the people-disagree milestone T079, alongside the 1937 League of Nations convention.
+
 - Issuing body: UN Security Council
 - Date: 2004-10-08
 - Type: UN resolution
@@ -287,6 +313,8 @@ Cited by: [T079](../../timeline/post-9-11-2001-2014.md#T079)
 ## UNSC1595
 
 **Security Council resolution 1595 (2005): The situation in the Middle East (International Independent Investigation Commission, Lebanon)**
+
+Summary: UN Security Council resolution 1595, adopted on 7 April 2005, on the situation in the Middle East. At Lebanon's request, it established an international independent investigation commission based in Lebanon to help the Lebanese authorities investigate 'this terrorist act', including identifying its perpetrators, sponsors, organizers and accomplices. The act itself is identified in the resolution, but CTA6 does not record which attack it was \[UNKNOWN\]; resolution 1757 later established the Special Tribunal for Lebanon (T095).
 
 - Issuing body: UN Security Council
 - Date: 2005-04-07
@@ -309,6 +337,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Security Council resolution 1611 (2005): Threats to international peace and security caused by terrorist acts (London)**
 
+Summary: UN Security Council resolution 1611, adopted on 7 July 2005, the day of the London transport bombings. The Council condemns the attacks in London without reservation and regards any act of terrorism as a threat to peace and security. It is cited for milestone T086.
+
 - Issuing body: UN Security Council
 - Date: 2005-07-07
 - Type: UN resolution
@@ -329,6 +359,8 @@ Cited by: [T086](../../timeline/post-9-11-2001-2014.md#T086)
 ## UNSC1624
 
 **Security Council resolution 1624 (2005): Threats to international peace and security (incitement to commit terrorist acts)**
+
+Summary: UN Security Council resolution 1624, adopted on 14 September 2005, on incitement to commit terrorist acts. It calls on all States to prohibit incitement by law, in line with their obligations under international law, to strengthen border security, and to promote dialogue among civilizations. It is the source for milestone T087.
 
 - Issuing body: UN Security Council
 - Date: 2005-09-14
@@ -351,6 +383,8 @@ Cited by: [T087](../../timeline/post-9-11-2001-2014.md#T087)
 
 **Security Council resolution 1757 (2007): The situation in the Middle East (Special Tribunal for Lebanon)**
 
+Summary: UN Security Council resolution 1757, adopted on 30 May 2007. Acting under Chapter VII of the UN Charter, the Council decided that the provisions of the annexed document on establishing a Special Tribunal for Lebanon would enter into force. It is the source for milestone T095 and follows the investigation commission set up by resolution 1595 (2005).
+
 - Issuing body: UN Security Council
 - Date: 2007-05-30
 - Type: UN resolution
@@ -371,6 +405,8 @@ Cited by: [T095](../../timeline/post-9-11-2001-2014.md#T095)
 ## UNSC1904
 
 **Security Council resolution 1904 (2009): Threats to international peace and security caused by terrorist acts (Office of the Ombudsperson)**
+
+Summary: UN Security Council resolution 1904, adopted on 17 December 2009, on the Al-Qaida and Taliban sanctions measures first imposed under resolutions 1267, 1333 and 1390. It continued those measures and created the Office of the Ombudsperson to handle requests from those seeking removal from the sanctions list (milestone T101). It is part of how the Council responded to concerns about the listing process, which also appear in court challenges such as T097.
 
 - Issuing body: UN Security Council
 - Date: 2009-12-17
@@ -393,6 +429,8 @@ Cited by: [T101](../../timeline/post-9-11-2001-2014.md#T101)
 
 **Security Council resolution 1989 (2011): Threats to international peace and security caused by terrorist acts (Al-Qaida sanctions)**
 
+Summary: UN Security Council resolution 1989, adopted on 17 June 2011, on the Al-Qaida sanctions measures. Together with resolution 1988 it separated the Taliban and Al-Qaida sanctions regimes, which had been run together since resolution 1267 (milestone T104). It continues the asset-freeze, travel and arms measures from earlier resolutions.
+
 - Issuing body: UN Security Council
 - Date: 2011-06-17
 - Type: UN resolution
@@ -413,6 +451,8 @@ Cited by: [T104](../../timeline/post-9-11-2001-2014.md#T104)
 ## UNSC2170
 
 **Security Council resolution 2170 (2014): Threats to international peace and security caused by terrorist acts (ISIL and ANF)**
+
+Summary: UN Security Council resolution 2170, adopted on 15 August 2014, concerning ISIL and the Al-Nusrah Front (ANF). The Council strongly condemns their killing and targeting of civilians and other atrocities, condemns their recruitment of foreign terrorist fighters, and reaffirms that States must prevent arms and other support from reaching them. It is the source for milestone T111; the foreign-fighter resolution 2178 followed a month later (T112).
 
 - Issuing body: UN Security Council
 - Date: 2014-08-15
@@ -435,6 +475,8 @@ Cited by: [T111](../../timeline/recent-2014-now.md#T111)
 
 **Security Council resolution 2178 (2014): Threats to international peace and security caused by terrorist acts (foreign terrorist fighters)**
 
+Summary: UN Security Council resolution 2178, adopted on 24 September 2014, on foreign terrorist fighters. It decides that Member States shall, consistent with international human rights, refugee and humanitarian law, prevent and suppress the recruiting, organizing, transporting or equipping of foreign terrorist fighters, and reaffirms that States must control borders and travel documents. It is the source for milestone T112; resolution 2396 (2017) built on it.
+
 - Issuing body: UN Security Council
 - Date: 2014-09-24
 - Type: UN resolution
@@ -455,6 +497,8 @@ Cited by: [T112](../../timeline/recent-2014-now.md#T112)
 ## UNSC2253
 
 **Security Council resolution 2253 (2015): Threats to international peace and security caused by terrorist acts (ISIL (Da'esh) and Al-Qaida sanctions)**
+
+Summary: UN Security Council resolution 2253, adopted on 17 December 2015. It renamed the 1267/1989 Al-Qaida Sanctions Committee the '1267/1989/2253 ISIL (Da'esh) and Al-Qaida Sanctions Committee' and extended listing criteria to those associated with ISIL. It is the source for milestone T116 and shows the 1999 sanctions regime being adapted to ISIL.
 
 - Issuing body: UN Security Council
 - Date: 2015-12-17
@@ -477,6 +521,8 @@ Cited by: [T116](../../timeline/recent-2014-now.md#T116)
 
 **Security Council resolution 2341 (2017): Threats to international peace and security caused by terrorist acts (critical infrastructure)**
 
+Summary: UN Security Council resolution 2341, adopted on 13 February 2017, on protecting critical infrastructure against terrorist attacks. It encourages all States to raise awareness of the risks and improve preparedness, and calls on Member States to develop or improve strategies for reducing risks to critical infrastructure. No timeline milestone in CTA6 cites it yet.
+
 - Issuing body: UN Security Council
 - Date: 2017-02-13
 - Type: UN resolution
@@ -497,6 +543,8 @@ Cited by: none in `data/timeline.csv`.
 ## UNSC2396
 
 **Security Council resolution 2396 (2017): Threats to international peace and security caused by terrorist acts (returning and relocating foreign terrorist fighters)**
+
+Summary: UN Security Council resolution 2396, adopted on 21 December 2017, on returning and relocating foreign terrorist fighters. Building on resolution 2178, it decides that Member States shall use advance passenger information, develop the capability to collect and analyse passenger name record data, and develop watch lists or databases of known and suspected terrorists. It is the source for milestone T124.
 
 - Issuing body: UN Security Council
 - Date: 2017-12-21
@@ -519,6 +567,8 @@ Cited by: [T124](../../timeline/recent-2014-now.md#T124)
 
 **Security Council resolution 2462 (2019): Threats to international peace and security caused by terrorist acts (financing of terrorism)**
 
+Summary: UN Security Council resolution 2462, adopted on 28 March 2019, on countering the financing of terrorism. It reaffirms the financing obligations in resolution 1373 (2001), requires States to criminalize terrorist financing consistent with international humanitarian, human rights and refugee law, and calls for more traceable and transparent financial transactions. It is the source for milestone T126.
+
 - Issuing body: UN Security Council
 - Date: 2019-03-28
 - Type: UN resolution
@@ -539,6 +589,8 @@ Cited by: [T126](../../timeline/recent-2014-now.md#T126)
 ## UNSC2617
 
 **Security Council resolution 2617 (2021): Threats to international peace and security caused by terrorist acts (CTED mandate renewal)**
+
+Summary: UN Security Council resolution 2617, adopted on 30 December 2021. It decided that the Counter-Terrorism Committee Executive Directorate (CTED) would continue as a special political mission under the Committee's guidance until 31 December 2025, with an interim review by 31 December 2023. It is the source for milestone T131 and continues the body created by resolution 1535 (T073).
 
 - Issuing body: UN Security Council
 - Date: 2021-12-30
@@ -561,6 +613,8 @@ Cited by: [T131](../../timeline/recent-2014-now.md#T131)
 
 **General Assembly resolution A/RES/3034(XXVII): Measures to prevent international terrorism**
 
+Summary: UN General Assembly resolution 3034 (XXVII), adopted on 18 December 1972, on measures to prevent international terrorism. It established a 35-member Ad Hoc Committee on International Terrorism appointed by the President of the General Assembly. It is the source for milestone T011 and is the earliest General Assembly resolution on terrorism in CTA6.
+
 - Issuing body: UN General Assembly
 - Date: 1972-12-18
 - Type: UN resolution
@@ -581,6 +635,8 @@ Cited by: [T011](../../timeline/1945-1990.md#T011)
 ## UNGA40-61
 
 **General Assembly resolution A/RES/40/61: Measures to prevent international terrorism**
+
+Summary: UN General Assembly resolution 40/61, adopted on 9 December 1985, on measures to prevent international terrorism. It calls on all States to refrain from organizing, instigating, assisting or participating in terrorist acts in other States, or acquiescing in such activities on their territory, and to implement the recommendations of the Ad Hoc Committee on International Terrorism. It is the source for milestone T020.
 
 - Issuing body: UN General Assembly
 - Date: 1985-12-09
@@ -603,6 +659,8 @@ Cited by: [T020](../../timeline/1945-1990.md#T020)
 
 **General Assembly resolution A/RES/49/60: Measures to eliminate international terrorism (Declaration)**
 
+Summary: UN General Assembly resolution 49/60, adopted on 9 December 1994, which contains the Declaration on Measures to Eliminate International Terrorism. In the Declaration, UN Member States reaffirm their unequivocal condemnation of all acts, methods and practices of terrorism as criminal and unjustifiable, wherever and by whomever committed. It is the source for milestone T034, and later resolution 51/210 reaffirms it.
+
 - Issuing body: UN General Assembly
 - Date: 1994-12-09
 - Type: UN resolution
@@ -623,6 +681,8 @@ Cited by: [T034](../../timeline/1990-2001.md#T034)
 ## UNGA51-210
 
 **General Assembly resolution A/RES/51/210: Measures to eliminate international terrorism (Ad Hoc Committee)**
+
+Summary: UN General Assembly resolution 51/210, adopted on 17 December 1996, on measures to eliminate international terrorism. It strongly condemns all acts of terrorism as criminal and unjustifiable, calls on States to take further measures consistent with international law and human rights standards, reaffirms the 1994 Declaration, and established an Ad Hoc Committee on international terrorism conventions. It is the source for milestone T039.
 
 - Issuing body: UN General Assembly
 - Date: 1996-12-17
@@ -645,6 +705,8 @@ Cited by: [T039](../../timeline/1990-2001.md#T039)
 
 **General Assembly resolution A/RES/60/288: The United Nations Global Counter-Terrorism Strategy**
 
+Summary: UN General Assembly resolution 60/288, adopted on 8 September 2006, which sets out the United Nations Global Counter-Terrorism Strategy with a plan of action annexed. In it Member States resolve to condemn terrorism in all its forms consistently and strongly, as one of the most serious threats to international peace and security. The UN Office of Counter-Terrorism describes it as adopted by consensus; it is the source for milestone T091, and resolution 71/291 later created an office to help implement it.
+
 - Issuing body: UN General Assembly
 - Date: 2006-09-08
 - Type: UN resolution
@@ -665,6 +727,8 @@ Cited by: [T091](../../timeline/post-9-11-2001-2014.md#T091)
 ## UNGA71-291
 
 **General Assembly resolution A/RES/71/291: Strengthening the capability of the UN system to assist Member States in implementing the Global Counter-Terrorism Strategy (Office of Counter-Terrorism)**
+
+Summary: UN General Assembly resolution 71/291, adopted on 15 June 2017, on strengthening the UN system's capability to help Member States implement the Global Counter-Terrorism Strategy. It decides to establish the Office of Counter-Terrorism, with the competencies and functions set out in a report of the Secretary-General (A/71/858). It is the source for milestone T121.
 
 - Issuing body: UN General Assembly
 - Date: 2017-06-15
@@ -687,6 +751,8 @@ Cited by: [T121](../../timeline/recent-2014-now.md#T121)
 
 **Security Council resolutions on counter-terrorism (CTC list)**
 
+Summary: A list of Security Council resolutions on counter-terrorism kept by the Council's Counter-Terrorism Committee. It is the Committee's own index of the resolutions that define its work and is a finding aid for the resolutions in CTA6. No milestone cites it directly, and the page is undated \[UNKNOWN\].
+
 - Issuing body: UN Security Council Counter-Terrorism Committee
 - Date: \[UNKNOWN\]
 - Type: other
@@ -707,6 +773,8 @@ Cited by: none in `data/timeline.csv`.
 ## UN-1267COMM
 
 **Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015)**
+
+Summary: The page of the Security Council committee established under resolutions 1267 (1999), 1989 (2011) and 2253 (2015), now the ISIL (Da'esh) and Al-Qaida Sanctions Committee. The committee oversees the sanctions regime that began with resolution 1267, and the UN sanctions site lists it alongside the Council's other sanctions committees. The page is undated \[UNKNOWN\].
 
 - Issuing body: UN Security Council
 - Date: \[UNKNOWN\]
@@ -729,6 +797,8 @@ Cited by: none in `data/timeline.csv`.
 
 **1540 Committee**
 
+Summary: The home page of the 1540 Committee, the Security Council committee established under resolution 1540 (2004) on keeping weapons of mass destruction away from non-State actors. The site holds the related resolutions, committee reports and Council briefings. CTA6 cites it for milestone T074. The page is undated \[UNKNOWN\].
+
 - Issuing body: UN Security Council
 - Date: \[UNKNOWN\]
 - Type: other
@@ -749,6 +819,8 @@ Cited by: [T074](../../timeline/post-9-11-2001-2014.md#T074)
 ## NATO-ART5
 
 **Collective defence and Article 5**
+
+Summary: NATO's page on collective defence and Article 5 of the Washington Treaty. It states that NATO invoked Article 5 for the first and only time in its history after the 9/11 attacks on the United States in 2001, and that the article underpins NATO's wider deterrence and defence activities. It is cited for milestone T052. The page is undated \[UNKNOWN\].
 
 - Issuing body: North Atlantic Treaty Organization
 - Date: \[UNKNOWN\]
@@ -771,6 +843,8 @@ Cited by: [T052](../../timeline/post-9-11-2001-2014.md#T052)
 
 **Statement by the North Atlantic Council (Press Release (2001)124)**
 
+Summary: Press Release (2001)124, the statement by the North Atlantic Council dated 12 September 2001. It is the statement recorded in milestone T052: the Council said that, if the attack on the United States was directed from abroad, it would be regarded as an action covered by Article 5 of the Washington Treaty. NATO's Article 5 page (NATO-ART5) describes this as the only time Article 5 has been invoked.
+
 - Issuing body: North Atlantic Treaty Organization
 - Date: 2001-09-12
 - Type: other
@@ -790,6 +864,8 @@ Cited by: [T052](../../timeline/post-9-11-2001-2014.md#T052)
 ## CHCH-CALL
 
 **Christchurch Call (home page)**
+
+Summary: The home page of the Christchurch Call, a grouping of governments and online service providers. The page says the Call was formed two months after the Christchurch mosque attacks, and that its supporters have made 25 commitments to eliminate terrorist and violent extremist content online while upholding human rights and a free, open, secure internet. CTA6 cites it with the Royal Commission report for milestone T125. The page is undated \[UNKNOWN\].
 
 - Issuing body: Christchurch Call
 - Date: \[UNKNOWN\]
@@ -812,6 +888,8 @@ Cited by: [T125](../../timeline/recent-2014-now.md#T125)
 
 **Commission on Human Rights resolution 2005/80: Protection of human rights and fundamental freedoms while countering terrorism**
 
+Summary: UN Commission on Human Rights resolution 2005/80, dated 21 April 2005, on protecting human rights and fundamental freedoms while countering terrorism. The OHCHR page (OHCHR-SR-CT) says this resolution created the Special Rapporteur mandate. The cited copy could not be confirmed: the UN document system returned a loading page instead of the PDF, which is why milestone T084 is not-proven.
+
 - Issuing body: UN Commission on Human Rights
 - Date: 2005-04-21
 - Type: UN resolution
@@ -832,6 +910,8 @@ Cited by: [T084](../../timeline/post-9-11-2001-2014.md#T084)
 ## UNSC-ACSRT-SAHEL
 
 **Security Council resolution 2359 (2017): Peace and security in Africa (G5 Sahel Joint Force)**
+
+Summary: UN Security Council resolution 2359, adopted on 21 June 2017, on peace and security in Africa. It welcomes the deployment of the G5 Sahel Joint Force (FC-G5S) across its contributing countries, with up to 5,000 military and police personnel, to restore peace and security in the Sahel region. It is the source for milestone T122; resolution 2391 later addressed support to the force (T180).
 
 - Issuing body: UN Security Council
 - Date: 2017-06-21
@@ -854,6 +934,8 @@ Cited by: [T122](../../timeline/recent-2014-now.md#T122)
 
 **Security Council resolution 2349 (2017): Peace and security in Africa (Lake Chad Basin)**
 
+Summary: UN Security Council resolution 2349, adopted on 31 March 2017, on the Lake Chad Basin region. The Council strongly condemns terrorist attacks and abuses by Boko Haram and ISIL in the region, including killings, abductions, sexual violence and forced marriage. It is the source for milestone T119.
+
 - Issuing body: UN Security Council
 - Date: 2017-03-31
 - Type: UN resolution
@@ -874,6 +956,8 @@ Cited by: [T119](../../timeline/recent-2014-now.md#T119)
 ## UNSC1192
 
 **Security Council resolution 1192 (1998): Libyan Arab Jamahiriya (trial in the Netherlands, Lockerbie)**
+
+Summary: UN Security Council resolution 1192, adopted on 27 August 1998, on a trial in the Netherlands relating to the Pan Am 103 bombing. It decides that Libya shall ensure the two accused appear in the Netherlands for trial, that the Netherlands shall detain them on arrival, and that the measures in resolutions 748 and 883 remain in effect. It is the source for milestone T044 and continues the sequence that began with resolution 731 (T031).
 
 - Issuing body: UN Security Council
 - Date: 1998-08-27
@@ -896,6 +980,8 @@ Cited by: [T044](../../timeline/1990-2001.md#T044)
 
 **Security Council resolution 1044 (1996): Sudan (attempted assassination of President Mubarak in Addis Ababa)**
 
+Summary: UN Security Council resolution 1044, adopted on 31 January 1996, concerning Sudan. The Council condemns the terrorist assassination attempt on the President of Egypt in Addis Ababa, Ethiopia, on 26 June 1995. It is the source for milestone T037.
+
 - Issuing body: UN Security Council
 - Date: 1996-01-31
 - Type: UN resolution
@@ -916,6 +1002,8 @@ Cited by: [T037](../../timeline/1990-2001.md#T037)
 ## UNSC579
 
 **Security Council resolution 579 (1985): Hostage-taking and abduction**
+
+Summary: UN Security Council resolution 579, adopted on 18 December 1985, on hostage-taking and abduction. In it the Council condemns unequivocally all acts of hostage-taking and abduction. It is the source for milestone T021 and is one of the Council's earliest resolutions on terrorism-related acts in CTA6.
 
 - Issuing body: UN Security Council
 - Date: 1985-12-18
@@ -938,6 +1026,8 @@ Cited by: [T021](../../timeline/1945-1990.md#T021)
 
 **Security Council resolution 1465 (2003): Bombing in Bogota, Colombia**
 
+Summary: UN Security Council resolution 1465, adopted on 13 February 2003 after a bomb attack in Bogota, Colombia, on 7 February 2003. The Council condemns the attack 'in the strongest terms' and regards it, like any act of terrorism, as a threat to peace and security. It is the source for milestone T067.
+
 - Issuing body: UN Security Council
 - Date: 2003-02-13
 - Type: UN resolution
@@ -958,6 +1048,8 @@ Cited by: [T067](../../timeline/post-9-11-2001-2014.md#T067)
 ## UNSC1440
 
 **Security Council resolution 1440 (2002): Hostage-taking in Moscow**
+
+Summary: UN Security Council resolution 1440, adopted on 24 October 2002. The Council condemns in the strongest terms the taking of hostages in Moscow on 23 October 2002, as well as other recent terrorist acts, and regards them as a threat to international peace and security. It is the source for milestone T064; the European Court of Human Rights later ruled on the rescue operation (ECHR-2011-18299).
 
 - Issuing body: UN Security Council
 - Date: 2002-10-24
@@ -980,6 +1072,8 @@ Cited by: [T064](../../timeline/post-9-11-2001-2014.md#T064)
 
 **Security Council resolution 1450 (2002): Terrorist attacks in Kenya (Kikambala and Mombasa)**
 
+Summary: UN Security Council resolution 1450, adopted on 13 December 2002. The Council condemns in the strongest terms the terrorist attacks in Kenya at Kikambala and Mombasa, including the bomb attack at the Paradise hotel. It is the source for milestone T066.
+
 - Issuing body: UN Security Council
 - Date: 2002-12-13
 - Type: UN resolution
@@ -1000,6 +1094,8 @@ Cited by: [T066](../../timeline/post-9-11-2001-2014.md#T066)
 ## UNSC1516
 
 **Security Council resolution 1516 (2003): Bombings in Istanbul**
+
+Summary: UN Security Council resolution 1516, adopted on 20 November 2003. The Council condemns in the strongest terms the bomb attacks in Istanbul, Turkey. It is the source for milestone T071.
 
 - Issuing body: UN Security Council
 - Date: 2003-11-20
@@ -1022,6 +1118,8 @@ Cited by: [T071](../../timeline/post-9-11-2001-2014.md#T071)
 
 **Security Council resolution 2129 (2013): CTED mandate**
 
+Summary: UN Security Council resolution 2129, adopted on 17 December 2013. It decided that the Counter-Terrorism Committee Executive Directorate (CTED) would continue as a special political mission under the Committee's guidance until 31 December 2017, with an interim review. It is one of the renewals of the body created by resolution 1535 (2004), later followed by resolution 2617 (2021); no milestone cites it directly.
+
 - Issuing body: UN Security Council
 - Date: 2013-12-17
 - Type: UN resolution
@@ -1042,6 +1140,8 @@ Cited by: none in `data/timeline.csv`.
 ## UNSC2368
 
 **Security Council resolution 2368 (2017): ISIL (Da'esh) and Al-Qaida sanctions**
+
+Summary: UN Security Council resolution 2368, adopted on 20 July 2017, on the ISIL (Da'esh) and Al-Qaida sanctions. It continues the asset-freeze, travel and arms measures imposed under earlier resolutions and restates the criteria for listing those associated with ISIL or Al-Qaida. It updates the regime that began with resolution 1267 (1999); no milestone cites it directly.
 
 - Issuing body: UN Security Council
 - Date: 2017-07-20
@@ -1064,6 +1164,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Security Council resolution 2255 (2015): Taliban sanctions (1988 regime)**
 
+Summary: UN Security Council resolution 2255, adopted on 21 December 2015, on the Taliban sanctions regime created by resolution 1988 (2011). It decides that all States shall take measures against individuals and entities designated as the Taliban or associated with them, and sets out the acts or activities that make someone eligible for listing. No milestone cites it directly; it updates the regime separated from the Al-Qaida regime in 2011 (T104).
+
 - Issuing body: UN Security Council
 - Date: 2015-12-21
 - Type: UN resolution
@@ -1084,6 +1186,8 @@ Cited by: none in `data/timeline.csv`.
 ## UNSC1988
 
 **Security Council resolution 1988 (2011): Taliban sanctions split from Al-Qaida regime**
+
+Summary: UN Security Council resolution 1988, adopted on 17 June 2011. It decides that all States shall take measures against individuals and entities designated as the Taliban and those associated with them, separately from the Al-Qaida regime (milestone T104 records that the two regimes were separated). Together with resolution 1989 it is the source for milestone T104.
 
 - Issuing body: UN Security Council
 - Date: 2011-06-17
@@ -1106,6 +1210,8 @@ Cited by: [T104](../../timeline/post-9-11-2001-2014.md#T104)
 
 **Security Council resolution 2133 (2014): Kidnapping for ransom**
 
+Summary: UN Security Council resolution 2133, adopted on 27 January 2014, on kidnapping for ransom. It condemns kidnapping and hostage-taking by terrorist groups for raising funds or gaining political concessions, expresses concern at an increase in such incidents, and reaffirms the obligations of resolution 1373 (2001). No milestone cites it directly.
+
 - Issuing body: UN Security Council
 - Date: 2014-01-27
 - Type: UN resolution
@@ -1126,6 +1232,8 @@ Cited by: none in `data/timeline.csv`.
 ## UNSC1618
 
 **Security Council resolution 1618 (2005): Iraq (condemnation of attacks)**
+
+Summary: UN Security Council resolution 1618, adopted on 4 August 2005, on Iraq. The Council condemns without reservation the terrorist attacks in Iraq, regards any act of terrorism as a threat to peace and security, and reaffirms Member States' obligations under resolutions 1373, 1267 and related resolutions. No milestone cites it yet.
 
 - Issuing body: UN Security Council
 - Date: 2005-08-04
@@ -1148,6 +1256,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Security Council resolution 2195 (2014): Terrorism and transnational organized crime**
 
+Summary: UN Security Council resolution 2195, adopted on 19 December 2014, on terrorism and transnational organized crime. In its preamble the Council expresses concern that terrorists in some regions benefit from organized crime, including trafficking in arms, persons, drugs and artefacts, illicit trade in natural resources, and kidnapping for ransom. No milestone cites it directly.
+
 - Issuing body: UN Security Council
 - Date: 2014-12-19
 - Type: UN resolution
@@ -1169,6 +1279,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Security Council resolution 2056 (2012): Peace and security in Africa (Mali)**
 
+Summary: UN Security Council resolution 2056, adopted on 5 July 2012, on the situation in Mali. Among other things, the Council condemns the physical assault on Mali's Interim President. It is the source for milestone T163; the resolution's other provisions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: UN Security Council
 - Date: 2012-07-05
 - Type: UN resolution
@@ -1189,6 +1301,8 @@ Cited by: [T163](../../timeline/post-9-11-2001-2014.md#T163)
 ## UNSC2391
 
 **Security Council resolution 2391 (2017): Peace and security in Africa (G5 Sahel Joint Force support)**
+
+Summary: UN Security Council resolution 2391, adopted on 8 December 2017, on support to the G5 Sahel Joint Force. It reaffirms the UN integrated strategy for the Sahel as the framework for governance, security and development in the region and sets reporting arrangements on the Joint Force. It is the source for milestone T180 and follows resolution 2359 (T122).
 
 - Issuing body: UN Security Council
 - Date: 2017-12-08

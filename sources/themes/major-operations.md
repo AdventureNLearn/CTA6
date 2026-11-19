@@ -15,6 +15,8 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **The Global Coalition Against Daesh (home page)**
 
+Summary: The home page of the Global Coalition against Daesh. The page says the Coalition was formed in September 2014, has 90 partners, and is committed to degrading Daesh and ensuring its enduring defeat. It is the multinational grouping formed in the same period as Security Council resolutions 2170 and 2178 (T111, T112); the page is undated \[UNKNOWN\].
+
 - Issuing body: Global Coalition Against Daesh
 - Date: \[UNKNOWN\]
 - Type: other
@@ -35,6 +37,8 @@ Cited by: none in `data/timeline.csv`.
 ## FBI-WALLST1920
 
 **Wall Street Bombing 1920**
+
+Summary: The FBI's history page on the 1920 Wall Street bombing. It calls the bombing of 16 September 1920 one of the young Bureau's earliest terrorism cases and says the best evidence suggests a small group of Italian anarchists was to blame, but that 'the mystery remains'; milestone T004 records that those responsible were not identified. The page is undated \[UNKNOWN\].
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -57,6 +61,8 @@ Cited by: [T004](../../timeline/pre-1945.md#T004)
 
 **World Trade Center Bombing 1993**
 
+Summary: The FBI's history page on the 1993 World Trade Center bombing. It says that on 26 February 1993 a bomb exploded in the parking garage beneath the World Trade Center, leaving a crater several stories deep and killing six people. It is the source for milestone T033; the page is undated \[UNKNOWN\].
+
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -77,6 +83,8 @@ Cited by: [T033](../../timeline/1990-2001.md#T033)
 ## FBI-OKC
 
 **Oklahoma City Bombing**
+
+Summary: The FBI's history page on the Oklahoma City bombing of 19 April 1995. It describes a truck bomb detonated outside the Alfred P. Murrah Federal Building, and milestone T035 records the page's figure of 168 deaths. The page names the convicted perpetrator; CTA6 does not repeat the name here. The page is undated \[UNKNOWN\].
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -99,6 +107,8 @@ Cited by: [T035](../../timeline/1990-2001.md#T035)
 
 **9/11 Investigation**
 
+Summary: The FBI's history page on its 9/11 investigation. It calls the investigation the FBI's largest case ever, saying more than half its agents worked on it at its peak and that it followed more than half a million leads. It is cited for milestone T050; the page is undated \[UNKNOWN\].
+
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -119,6 +129,8 @@ Cited by: [T050](../../timeline/post-9-11-2001-2014.md#T050)
 ## FBI-PANAM103
 
 **Pan Am 103 Bombing**
+
+Summary: The FBI's history page on the Pan Am 103 bombing. It says the flight left Heathrow for New York on 21 December 1988 and exploded over Lockerbie, Scotland, less than 40 minutes later, killing all 259 passengers and crew, including 190 Americans, and 11 people on the ground, and calls it one of the world's most lethal acts of air terrorism before 9/11. It is the source for milestone T026; the page is undated \[UNKNOWN\].
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -141,6 +153,8 @@ Cited by: [T026](../../timeline/1945-1990.md#T026)
 
 **Agreement for Bringing Peace to Afghanistan**
 
+Summary: The 'Agreement for Bringing Peace to Afghanistan', signed by the United States and the Taliban on 29 February 2020, as published by the US Department of State. The text says a comprehensive peace agreement has four parts, including guarantees that Afghan soil will not be used against the security of the United States and its allies, and a timeline for the withdrawal of all foreign forces. It is the source for milestone T128.
+
 - Issuing body: US Department of State
 - Date: 2020-02-29
 - Type: treaty
@@ -160,6 +174,8 @@ Cited by: [T128](../../timeline/recent-2014-now.md#T128)
 ## CIA-SSCI-2013
 
 **CIA's June 2013 Response to the SSCI Study on the Former Detention and Interrogation Program**
+
+Summary: The CIA's June 2013 response to the Senate Intelligence Committee's study of its former detention and interrogation program, dated 27 June 2013 and approved for release on 8 December 2014. The response groups the study's findings into four themes and states that the Agency disagrees with some of its assertions, including those about the intelligence the program produced. It is one side of the people-disagree milestone T166, opposite the committee's study (US-SSCI2014).
 
 - Issuing body: Central Intelligence Agency
 - Date: 2013-06-27
@@ -182,6 +198,8 @@ Cited by: [T166](../../timeline/post-9-11-2001-2014.md#T166)
 
 **Stars on their shoulders. Blood on their hands. War crimes committed by the Nigerian military (AFR 44/1657/2015)**
 
+Summary: 'Stars on their shoulders. Blood on their hands. War crimes committed by the Nigerian military' (AFR 44/1657/2015), an Amnesty International report of 3 June 2015. Amnesty says it is based on more than 412 interviews and documents extrajudicial executions in Adamawa, Borno and Yobe states during operations against Boko Haram. The characterisation of the acts as war crimes is Amnesty's; it is the source for milestone T170.
+
 - Issuing body: Amnesty International
 - Date: 2015-06-03
 - Type: other
@@ -203,6 +221,8 @@ Cited by: [T170](../../timeline/recent-2014-now.md#T170)
 
 **Deaths and Disappearances: Abuses in Counterterrorism Operations in Nairobi and in Northeastern Kenya**
 
+Summary: 'Deaths and Disappearances: Abuses in Counterterrorism Operations in Nairobi and in Northeastern Kenya', a Human Rights Watch report of 20 July 2016. HRW says it documents abuses by law enforcement agencies during operations against Al-Shabab in north-eastern Kenya from December 2013, including raids by officers often without uniforms or identification. The allegations are HRW's; it is the source for milestone T177.
+
 - Issuing body: Human Rights Watch
 - Date: 2016-07-20
 - Type: other
@@ -223,6 +243,8 @@ Cited by: [T177](../../timeline/recent-2014-now.md#T177)
 ## FIDH-MLI-2018
 
 **Central Mali: populations caught between terrorism and counter-terrorism**
+
+Summary: 'Central Mali: populations caught between terrorism and counter-terrorism', an FIDH fact-finding mission report from November 2018. As its title states, it examines the situation of civilians in central Mali, which it defines as the Ségou and Mopti regions, between armed groups and counter-terrorism operations. Its findings are FIDH's and are not summarized in CTA6 \[UNKNOWN\]; no milestone cites it yet.
 
 - Issuing body: FIDH (International Federation for Human Rights)
 - Date: 2018-11

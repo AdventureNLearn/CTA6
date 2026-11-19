@@ -15,6 +15,8 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **International legal instruments (counter-terrorism)**
 
+Summary: A page of the UN Office of Counter-Terrorism summarizing the international legal instruments against terrorism. It says that since 1963 the international community has developed 19 instruments under the United Nations and the IAEA, open to all Member States, and gives a short description of each, for example on aircraft, hostages, nuclear material, maritime navigation, bombings and financing. It is the UN's own overview of the treaty framework that the convention entries in CTA6 belong to. The page is undated \[UNKNOWN\].
+
 - Issuing body: UN Office of Counter-Terrorism
 - Date: \[UNKNOWN\]
 - Type: other
@@ -35,6 +37,8 @@ Cited by: none in `data/timeline.csv`.
 ## UNTC-XVIII
 
 **Multilateral treaties deposited with the Secretary-General, Chapter XVIII (Penal Matters)**
+
+Summary: Chapter XVIII (Penal Matters) of the UN Treaty Collection, which lists the multilateral treaties deposited with the UN Secretary-General, including counter-terrorism conventions. It is the official depositary record for those treaties and is cited for milestones T013, T018, T040, T048 and T083. The page is undated \[UNKNOWN\].
 
 - Issuing body: UN Treaty Collection
 - Date: \[UNKNOWN\]
@@ -57,6 +61,8 @@ Cited by: [T013](../../timeline/1945-1990.md#T013), [T018](../../timeline/1945-1
 
 **Convention on Offences and Certain Other Acts Committed on Board Aircraft (Tokyo)**
 
+Summary: The Convention on Offences and Certain Other Acts Committed on Board Aircraft, concluded in Tokyo on 14 September 1963. According to the UN Office of Counter-Terrorism, it applies to acts affecting in-flight safety, lets the aircraft commander restrain a person believed to have committed or to be about to commit such an act, and requires States to take custody of offenders. UNOCT lists it as the first of the international legal instruments against terrorism (from 1963); it is the source for milestone T008. The cited copy is a scanned PDF whose title and date were confirmed by OCR.
+
 - Issuing body: ICAO / UN Treaty Collection
 - Date: 1963-09-14
 - Type: treaty
@@ -77,6 +83,8 @@ Cited by: [T008](../../timeline/1945-1990.md#T008)
 ## CONV-HAGUE1970
 
 **Convention for the Suppression of Unlawful Seizure of Aircraft (The Hague)**
+
+Summary: The Convention for the Suppression of Unlawful Seizure of Aircraft, concluded in The Hague on 16 December 1970. According to the UN Office of Counter-Terrorism, it makes it an offence to seize or control an aircraft in flight by force or threat, requires 'severe penalties', and requires States holding an offender to extradite or prosecute. It is the source for milestone T009; the cited copy is a scanned PDF whose title and date were confirmed by OCR.
 
 - Issuing body: ICAO / UN Treaty Collection
 - Date: 1970-12-16
@@ -99,6 +107,8 @@ Cited by: [T009](../../timeline/1945-1990.md#T009)
 
 **Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation (Montreal)**
 
+Summary: The Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, concluded in Montreal on 23 September 1971. According to the UN Office of Counter-Terrorism, it makes it an offence to commit violence on board an aircraft in flight that endangers it or to place an explosive device on an aircraft, and requires States to extradite or prosecute offenders. A 1988 protocol extended it to attacks at airports. It is the source for milestone T010; the cited copy is a scanned PDF confirmed by OCR.
+
 - Issuing body: ICAO / UN Treaty Collection
 - Date: 1971-09-23
 - Type: treaty
@@ -119,6 +129,8 @@ Cited by: [T010](../../timeline/1945-1990.md#T010)
 ## CONV-IPP1973
 
 **Convention on the Prevention and Punishment of Crimes against Internationally Protected Persons, including Diplomatic Agents**
+
+Summary: The Convention on the Prevention and Punishment of Crimes against Internationally Protected Persons, including Diplomatic Agents, adopted on 14 December 1973. According to the UN Office of Counter-Terrorism, it defines protected persons (such as heads of State, foreign ministers and officials entitled to special protection abroad) and requires States to criminalize murder, kidnapping and other attacks on them or their official premises. It is the source for milestone T013; the cited copy is a scanned PDF confirmed by OCR.
 
 - Issuing body: UN General Assembly / UN Treaty Collection
 - Date: 1973-12-14
@@ -141,6 +153,8 @@ Cited by: [T013](../../timeline/1945-1990.md#T013)
 
 **International Convention against the Taking of Hostages**
 
+Summary: The International Convention against the Taking of Hostages, adopted on 17 December 1979. According to the UN Office of Counter-Terrorism, it defines hostage-taking as seizing or detaining a person and threatening them in order to compel a third party, such as a State or international organization, to act or refrain from acting. It is the source for milestone T018; the cited copy is a scanned PDF confirmed by OCR.
+
 - Issuing body: UN General Assembly / UN Treaty Collection
 - Date: 1979-12-17
 - Type: treaty
@@ -161,6 +175,8 @@ Cited by: [T018](../../timeline/1945-1990.md#T018)
 ## CONV-NUCMAT1980
 
 **Convention on the Physical Protection of Nuclear Material**
+
+Summary: The Convention on the Physical Protection of Nuclear Material, opened for signature on 3 March 1980 (IAEA). According to the UN Office of Counter-Terrorism, it criminalizes the unlawful possession, use, transfer or theft of nuclear material and threats to use it, and 2005 amendments extended protection to nuclear facilities and material in domestic use, storage and transport. It is the source for milestone T019; the cited copy is a scanned PDF confirmed by OCR.
 
 - Issuing body: IAEA / UN Treaty Collection
 - Date: 1980-03-03
@@ -183,6 +199,8 @@ Cited by: [T019](../../timeline/1945-1990.md#T019)
 
 **International Convention for the Suppression of Terrorist Bombings**
 
+Summary: The International Convention for the Suppression of Terrorist Bombings, adopted by the UN General Assembly on 15 December 1997. According to the UN Office of Counter-Terrorism, it creates a regime of universal jurisdiction over the intentional use of explosives or other lethal devices in or against defined public places with intent to kill, seriously injure or cause extensive destruction. It is the source for milestone T040; the cited copy is a scanned PDF confirmed by OCR.
+
 - Issuing body: UN General Assembly / UN Treaty Collection
 - Date: 1997-12-15
 - Type: treaty
@@ -204,6 +222,8 @@ Cited by: [T040](../../timeline/1990-2001.md#T040)
 
 **International Convention for the Suppression of the Financing of Terrorism**
 
+Summary: The International Convention for the Suppression of the Financing of Terrorism, adopted by the UN General Assembly on 9 December 1999. According to the UN Office of Counter-Terrorism, it requires States to prevent and counteract direct or indirect financing of terrorists, including through groups claiming charitable, social or cultural goals, to hold financiers liable, and to identify, freeze and seize funds. It is the source for milestone T048; Security Council resolutions 1373 and 2462 later added binding financing obligations.
+
 - Issuing body: UN General Assembly / UN Treaty Collection
 - Date: 1999-12-09
 - Type: treaty
@@ -223,6 +243,8 @@ Cited by: [T048](../../timeline/1990-2001.md#T048)
 ## CONV-NUCLEAR2005
 
 **International Convention for the Suppression of Acts of Nuclear Terrorism**
+
+Summary: The International Convention for the Suppression of Acts of Nuclear Terrorism, adopted on 13 April 2005. According to the UN Office of Counter-Terrorism, it covers a broad range of acts and targets, including nuclear power plants and reactors, as well as threats and attempts, requires offenders to be extradited or prosecuted, and provides for making nuclear material safe through the IAEA after a crisis. It is the source for milestone T083.
 
 - Issuing body: UN General Assembly / UN Treaty Collection
 - Date: 2005-04-13
@@ -244,6 +266,8 @@ Cited by: [T083](../../timeline/post-9-11-2001-2014.md#T083)
 
 **Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism**
 
+Summary: Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism, adopted by the Council of the European Union. It set common EU rules on terrorist offences and defines a 'terrorist group' as a structured group of more than two persons, established over time and acting in concert to commit terrorist offences. It is the source for milestone T062; Directive (EU) 2017/541 followed it in 2017 (T118).
+
 - Issuing body: Council of the European Union
 - Date: 2002-06-13
 - Type: statute
@@ -264,6 +288,8 @@ Cited by: [T062](../../timeline/post-9-11-2001-2014.md#T062)
 
 **Directive (EU) 2017/541 on combating terrorism**
 
+Summary: Directive (EU) 2017/541 of the European Parliament and the Council on combating terrorism, dated 15 March 2017. The Directive states that it establishes minimum rules on the definition of criminal offences and sanctions for terrorist offences, offences related to a terrorist group and related offences, and that Union-wide harmonised rules are needed because Member States acting alone could not achieve its objectives. It is the source for milestone T118 and follows the 2002 Framework Decision (EU-FD2002).
+
 - Issuing body: European Parliament and Council of the EU
 - Date: 2017-03-15
 - Type: statute
@@ -283,6 +309,8 @@ Cited by: [T118](../../timeline/recent-2014-now.md#T118)
 ## COE-ECST1977
 
 **European Convention on the Suppression of Terrorism (ETS No. 090)**
+
+Summary: The Council of Europe's European Convention on the Suppression of Terrorism (ETS No. 090), dated 27 January 1977. It is a regional European treaty on terrorism; its provisions are not summarized in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed (HTTP 403), although the same document was found at an official Council of Europe copy, which is why milestone T015 is not-proven.
 
 - Issuing body: Council of Europe
 - Date: 1977-01-27
@@ -305,6 +333,8 @@ Cited by: [T015](../../timeline/1945-1990.md#T015)
 
 **Council of Europe Convention on the Prevention of Terrorism (CETS No. 196)**
 
+Summary: The Council of Europe Convention on the Prevention of Terrorism (CETS No. 196), dated 16 May 2005. As its title states, it is a regional treaty aimed at preventing terrorism; its provisions are not summarized in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed (HTTP 403), although the same document was found at an official Council of Europe copy, which is why milestone T085 is not-proven.
+
 - Issuing body: Council of Europe
 - Date: 2005-05-16
 - Type: treaty
@@ -325,6 +355,8 @@ Cited by: [T085](../../timeline/post-9-11-2001-2014.md#T085)
 ## OAS-CICTE2002
 
 **Inter-American Convention against Terrorism (A-66)**
+
+Summary: The Inter-American Convention against Terrorism (A-66) of the Organization of American States, dated 3 June 2002. As its title states, it is the Americas' regional treaty against terrorism. The cited copy could not be confirmed (HTTP 503/500 on repeated tries), so milestone T061 is marked not-proven and the Convention's content is \[UNKNOWN\] in CTA6.
 
 - Issuing body: Organization of American States
 - Date: 2002-06-03
@@ -347,6 +379,8 @@ Cited by: [T061](../../timeline/post-9-11-2001-2014.md#T061)
 
 **OAU Convention on the Prevention and Combating of Terrorism (Algiers)**
 
+Summary: The African Union's treaty page for the OAU Convention on the Prevention and Combating of Terrorism (Algiers). The page gives the date of adoption as 1 July 1999 and entry into force as 6 December 2002. Other sources give 14 July 1999 as the adoption date, which is recorded as the people-disagree milestone T145; it is also cited for T045. It is Africa's continental treaty on terrorism.
+
 - Issuing body: Organisation of African Unity / African Union
 - Date: 1999-07-14
 - Type: treaty
@@ -368,6 +402,8 @@ Cited by: [T045](../../timeline/1990-2001.md#T045), [T145](../../timeline/1990-2
 
 **Arab Convention for the Suppression of Terrorism**
 
+Summary: The Arab Convention for the Suppression of Terrorism, adopted in Cairo in April 1998 by the Council of Arab Ministers of the Interior and the Council of Arab Ministers of Justice under the League of Arab States (dated 22 April 1998 in CTA6). The copy is an unofficial UN English translation hosted by UNODC; its preamble says the signatory states desire to promote mutual cooperation in suppressing terrorism. It is the source for milestone T042; its detailed definitions and obligations are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: League of Arab States (UNODC copy)
 - Date: 1998-04-22
 - Type: treaty
@@ -387,6 +423,8 @@ Cited by: [T042](../../timeline/1990-2001.md#T042)
 ## ASEAN-ACCT2007
 
 **ASEAN Convention on Counter Terrorism**
+
+Summary: The ASEAN Convention on Counter Terrorism, concluded on 13 January 2007. Article I says it provides the framework for regional cooperation to counter, prevent and suppress terrorism and to deepen cooperation among law enforcement agencies; it defines offences by reference to a list of international counter-terrorism treaties. It is the Southeast Asian regional treaty in CTA6 and the source for milestone T093.
 
 - Issuing body: Association of Southeast Asian Nations
 - Date: 2007-01-13
@@ -408,6 +446,8 @@ Cited by: [T093](../../timeline/post-9-11-2001-2014.md#T093)
 
 **Explosive Substances Act 1883**
 
+Summary: The UK's Explosive Substances Act 1883, as published on legislation.gov.uk. Its sections include causing an explosion likely to endanger life or property, attempting to cause one or making or keeping explosives with intent, and making or possessing explosives under suspicious circumstances. It is the earliest statute in CTA6 (milestone T001), and the site shows no outstanding changes to it.
+
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 1883-04-10
 - Type: statute
@@ -427,6 +467,8 @@ Cited by: [T001](../../timeline/pre-1945.md#T001)
 ## IE-OASA1939
 
 **Offences against the State Act, 1939**
+
+Summary: Ireland's Offences against the State Act, 1939 (No. 13 of 1939), as published in the Irish Statute Book. Its long title says it makes provision about actions and conduct calculated to undermine public order and the authority of the State, punishes offences against the State, regulates the formation of associations, and establishes Special Criminal Courts under Article 38 of the Constitution. It is the source for milestone T007.
 
 - Issuing body: Oireachtas (Irish Statute Book)
 - Date: 1939-06-14
@@ -448,6 +490,8 @@ Cited by: [T007](../../timeline/pre-1945.md#T007)
 
 **Antiterrorism and Effective Death Penalty Act of 1996 (Pub. L. 104-132)**
 
+Summary: The US Antiterrorism and Effective Death Penalty Act of 1996 (Pub. L. 104-132), enacted on 24 April 1996. Its long title says it is an Act to deter terrorism, provide justice for victims and provide for an effective death penalty, and it also contains rules for habeas cases brought by State prisoners under capital sentence. It is the source for milestone T038.
+
 - Issuing body: US Congress
 - Date: 1996-04-24
 - Type: statute
@@ -467,6 +511,8 @@ Cited by: [T038](../../timeline/1990-2001.md#T038)
 ## US-AUMF2001
 
 **Authorization for Use of Military Force (Pub. L. 107-40)**
+
+Summary: The Authorization for Use of Military Force (Pub. L. 107-40), enacted on 18 September 2001. It authorizes the President to use all necessary and appropriate force against those nations, organizations or persons he determines planned, authorized, committed or aided the 11 September 2001 attacks, or harbored them, to prevent future acts of international terrorism against the United States. It is the source for milestone T053, and its continued application was the subject of a 2015 Congressional Research Service report (CRS-R43983).
 
 - Issuing body: US Congress
 - Date: 2001-09-18
@@ -488,6 +534,8 @@ Cited by: [T053](../../timeline/post-9-11-2001-2014.md#T053)
 
 **USA PATRIOT Act (Pub. L. 107-56)**
 
+Summary: The USA PATRIOT Act (Pub. L. 107-56), enacted on 26 October 2001. Its long title says it is an Act to deter and punish terrorist acts in the United States and around the world and to enhance law enforcement investigatory tools; among other things it amended surveillance law, for example to cover electronic communications. It is the source for milestone T056, and parts of it were later reviewed by the Justice Department Inspector General (T094) and the Privacy and Civil Liberties Oversight Board (T109).
+
 - Issuing body: US Congress
 - Date: 2001-10-26
 - Type: statute
@@ -507,6 +555,8 @@ Cited by: [T056](../../timeline/post-9-11-2001-2014.md#T056)
 ## US-HSA2002
 
 **Homeland Security Act of 2002 (Pub. L. 107-296)**
+
+Summary: The Homeland Security Act of 2002 (Pub. L. 107-296), enacted on 25 November 2002. Its long title says it is an Act to establish the Department of Homeland Security. It is the source for milestone T065; DHS's own history says the Department combined all or part of 22 federal departments and agencies.
 
 - Issuing body: US Congress
 - Date: 2002-11-25
@@ -528,6 +578,8 @@ Cited by: [T065](../../timeline/post-9-11-2001-2014.md#T065)
 
 **Intelligence Reform and Terrorism Prevention Act of 2004 (Pub. L. 108-458)**
 
+Summary: The Intelligence Reform and Terrorism Prevention Act of 2004 (Pub. L. 108-458), enacted on 17 December 2004. Its long title says it is an Act to reform the US intelligence community and the Government's intelligence and intelligence-related activities. It is the source for milestone T081 and followed the 9/11 Commission Report of July 2004 (T077).
+
 - Issuing body: US Congress
 - Date: 2004-12-17
 - Type: statute
@@ -547,6 +599,8 @@ Cited by: [T081](../../timeline/post-9-11-2001-2014.md#T081)
 ## US-MCA2006
 
 **Military Commissions Act of 2006 (Pub. L. 109-366)**
+
+Summary: The Military Commissions Act of 2006 (Pub. L. 109-366), enacted on 17 October 2006. Its long title says it authorizes trial by military commission for violations of the law of war, and it establishes procedures for trying alien unlawful enemy combatants. It is the source for milestone T092 and one side of the people-disagree milestone T096, because it restricted habeas corpus before the Supreme Court's 2008 ruling.
 
 - Issuing body: US Congress
 - Date: 2006-10-17
@@ -568,6 +622,8 @@ Cited by: [T092](../../timeline/post-9-11-2001-2014.md#T092), [T096](../../timel
 
 **USA FREEDOM Act of 2015 (Pub. L. 114-23)**
 
+Summary: The USA FREEDOM Act of 2015 (Pub. L. 114-23), enacted on 2 June 2015. Its long title says it reforms the Federal Government's authorities to require the production of business records, conduct electronic surveillance, use pen registers and trap and trace devices, and gather information for foreign intelligence, counterterrorism and criminal purposes. It is the source for milestone T115 and followed the 2014 oversight board report on the Section 215 records program (T109).
+
 - Issuing body: US Congress
 - Date: 2015-06-02
 - Type: statute
@@ -587,6 +643,8 @@ Cited by: [T115](../../timeline/recent-2014-now.md#T115)
 ## US-EO13224
 
 **Executive Order 13224**
+
+Summary: US Executive Order 13224 of 23 September 2001 on blocking property of designated persons, as published by the Department of State. The order states its objectives include preventing and suppressing terrorism, denying financing and financial services to terrorists and terrorist organizations, and sharing information. It is the source for milestone T054 and is the basis of US terrorist-financing designations.
 
 - Issuing body: US Department of State
 - Date: 2001-09-23
@@ -608,6 +666,8 @@ Cited by: [T054](../../timeline/post-9-11-2001-2014.md#T054)
 
 **Detention, Treatment, and Trial of Certain Non-Citizens in the War Against Terrorism (Military Order of November 13, 2001)**
 
+Summary: The US President's Military Order of 13 November 2001, 'Detention, Treatment, and Trial of Certain Non-Citizens in the War Against Terrorism', published in the Federal Register. It created military commissions for certain non-citizens (milestone T058). The Supreme Court later held that the commission convened under it to try one petitioner lacked power to proceed, which is recorded as the people-disagree milestone T090.
+
 - Issuing body: Executive Office of the President (Federal Register)
 - Date: 2001-11-13
 - Type: statute
@@ -628,6 +688,8 @@ Cited by: [T058](../../timeline/post-9-11-2001-2014.md#T058), [T090](../../timel
 
 **Executive Order 13491: Ensuring Lawful Interrogations**
 
+Summary: US Executive Order 13491, 'Ensuring Lawful Interrogations', of 22 January 2009. The order states it is issued to improve the effectiveness of human intelligence-gathering, to promote the safe, lawful and humane treatment of individuals in US custody, and to ensure compliance with US treaty obligations. It is the source for milestone T098.
+
 - Issuing body: Executive Office of the President (Federal Register)
 - Date: 2009-01-22
 - Type: statute
@@ -647,6 +709,8 @@ Cited by: [T098](../../timeline/post-9-11-2001-2014.md#T098)
 ## USSC-2004-542-466
 
 **R. v. Bush, 542 U.S. 466 (2004)**
+
+Summary: The US Supreme Court decision R. v. Bush, 542 U.S. 466, decided on 28 June 2004, from the official U.S. Reports. As recorded in milestone T075, it concerned whether federal courts had jurisdiction over habeas petitions from detainees at Guantanamo. It is the first of the Guantanamo detention cases in CTA6, followed by T090 and T096; the holding is not quoted in CTA6 \[UNKNOWN\].
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2004-06-28
@@ -669,6 +733,8 @@ Cited by: [T075](../../timeline/post-9-11-2001-2014.md#T075)
 
 **H. v. Rumsfeld, 542 U.S. 507 (2004)**
 
+Summary: The US Supreme Court decision H. v. Rumsfeld, 542 U.S. 507, decided on 28 June 2004. The syllabus records the plurality's conclusion that, although Congress authorized detention of combatants in the narrow circumstances alleged, due process demands that a US citizen held as an enemy combatant be given a meaningful opportunity to contest the factual basis for that detention before a neutral decisionmaker. It is the source for milestone T076.
+
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2004-06-28
 - Type: court record
@@ -689,6 +755,8 @@ Cited by: [T076](../../timeline/post-9-11-2001-2014.md#T076)
 ## USSC-2006-548-557
 
 **H. v. Rumsfeld, 548 U.S. 557 (2006)**
+
+Summary: The US Supreme Court decision H. v. Rumsfeld, 548 U.S. 557, decided on 29 June 2006. The Court held that the military commission convened to try the petitioner lacked power to proceed because its structure and procedures violated both the Uniform Code of Military Justice and the Geneva Conventions. It is one side of the people-disagree milestone T090, opposite the 2001 Military Order that created the commissions; Congress then passed the Military Commissions Act of 2006 (T092).
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2006-06-29
@@ -711,6 +779,8 @@ Cited by: [T090](../../timeline/post-9-11-2001-2014.md#T090)
 
 **B. v. Bush, 553 U.S. 723 (2008)**
 
+Summary: The US Supreme Court decision B. v. Bush, 553 U.S. 723, decided on 12 June 2008. The Court held that Guantanamo detainees have the constitutional privilege of habeas corpus and are not barred from seeking it because they were designated enemy combatants or held at Guantanamo, even though section 7 of the Military Commissions Act of 2006 denied courts jurisdiction. It is one side of the people-disagree milestone T096.
+
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2008-06-12
 - Type: court record
@@ -732,6 +802,8 @@ Cited by: [T096](../../timeline/post-9-11-2001-2014.md#T096)
 
 **Holder v. Humanitarian Law Project, 561 U.S. 1 (2010)**
 
+Summary: The US Supreme Court decision Holder v. Humanitarian Law Project, 561 U.S. 1, decided on 21 June 2010. The Court held that the federal material-support statute (18 U.S.C. § 2339B) is constitutional as applied to the forms of support the plaintiffs wanted to give to designated foreign terrorist organizations. It is the source for milestone T102.
+
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2010-06-21
 - Type: court record
@@ -751,6 +823,8 @@ Cited by: [T102](../../timeline/post-9-11-2001-2014.md#T102)
 ## CA-ATA2001
 
 **Anti-terrorism Act (S.C. 2001, c. 41)**
+
+Summary: Canada's Anti-terrorism Act (S.C. 2001, c. 41), dated 18 December 2001, as published on the Justice Laws website. It is the source for milestone T060. Its provisions are not summarized in CTA6 \[UNKNOWN\], and the exact assent date is not shown on the fetched page.
 
 - Issuing body: Parliament of Canada (Justice Laws)
 - Date: 2001-12-18
@@ -772,6 +846,8 @@ Cited by: [T060](../../timeline/post-9-11-2001-2014.md#T060)
 
 **Northern Ireland (Emergency Provisions) Act 1973**
 
+Summary: The UK's Northern Ireland (Emergency Provisions) Act 1973, dated 25 July 1973. Its parts cover the trial and punishment of certain offences, offences against public security and public order, and miscellaneous provisions. It is an emergency law for Northern Ireland and the source for milestone T012.
+
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 1973-07-25
 - Type: statute
@@ -791,6 +867,8 @@ Cited by: [T012](../../timeline/1945-1990.md#T012)
 ## UK-PTA1974
 
 **Prevention of Terrorism (Temporary Provisions) Act 1974**
+
+Summary: The UK's Prevention of Terrorism (Temporary Provisions) Act 1974, dated 29 November 1974. Its parts cover proscribed organisations, exclusion orders, and offences, detention and prosecution. As its title states, it was made as a temporary measure; it is the source for milestone T014 and was later replaced by the 1989 Act (UK-PTA1989).
 
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 1974-11-29
@@ -812,6 +890,8 @@ Cited by: [T014](../../timeline/1945-1990.md#T014)
 
 **Prevention of Terrorism (Temporary Provisions) Act 1989**
 
+Summary: The UK's Prevention of Terrorism (Temporary Provisions) Act 1989, dated 15 March 1989. Its parts cover proscribed organisations, exclusion, financial assistance for terrorism, powers of arrest, stop and search and detention, and further provisions for Northern Ireland. It is the source for milestone T027 and continues the temporary-provisions model of the 1974 Act.
+
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 1989-03-15
 - Type: statute
@@ -831,6 +911,8 @@ Cited by: [T027](../../timeline/1945-1990.md#T027)
 ## UK-TA2000
 
 **Terrorism Act 2000**
+
+Summary: The UK's Terrorism Act 2000, dated 20 July 2000. Its parts cover proscribed organisations, terrorist property, terrorist investigations, terrorist offences, and provisions for Northern Ireland. It is the source for milestone T049.
 
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 2000-07-20
@@ -852,6 +934,8 @@ Cited by: [T049](../../timeline/1990-2001.md#T049)
 
 **Anti-terrorism, Crime and Security Act 2001**
 
+Summary: The UK's Anti-terrorism, Crime and Security Act 2001, dated 14 December 2001. Its parts cover terrorist property and freezing orders, the security of pathogens and nuclear material, aviation, police powers and retention of communications data, and, in Part 4, the certification, detention and deportation of suspected international terrorists. The Part 4 detention powers are the subject of the people-disagree milestone T080, after the House of Lords held a related provision incompatible with the European Convention on Human Rights.
+
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 2001-12-14
 - Type: statute
@@ -871,6 +955,8 @@ Cited by: [T059](../../timeline/post-9-11-2001-2014.md#T059), [T080](../../timel
 ## UK-PTA2005
 
 **Prevention of Terrorism Act 2005**
+
+Summary: The UK's Prevention of Terrorism Act 2005, dated 11 March 2005, now shown as repealed. Its sections created control orders, both non-derogating orders supervised by the court and derogating orders made by the court. It followed the House of Lords ruling on Part 4 of the 2001 Act (T080) and is the source for milestone T082; the 2011 TPIM Act later abolished control orders.
 
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 2005-03-11
@@ -892,6 +978,8 @@ Cited by: [T082](../../timeline/post-9-11-2001-2014.md#T082)
 
 **Terrorism Act 2006**
 
+Summary: The UK's Terrorism Act 2006, dated 30 March 2006. Part 1 creates offences including encouragement of terrorism, dissemination of terrorist publications (with provisions on internet activity), preparation of terrorist acts and terrorist training. It is the source for milestone T089.
+
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 2006-03-30
 - Type: statute
@@ -911,6 +999,8 @@ Cited by: [T089](../../timeline/post-9-11-2001-2014.md#T089)
 ## UK-TPIM2011
 
 **Terrorism Prevention and Investigation Measures Act 2011**
+
+Summary: The UK's Terrorism Prevention and Investigation Measures Act 2011, dated 14 December 2011. Its first sections abolish control orders and replace them with terrorism prevention and investigation measures (TPIMs), with conditions for imposing them, a five-year limit on TPIM notices, and court scrutiny. It is the source for milestone T106 and replaced the control-order regime of the 2005 Act.
 
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 2011-12-14
@@ -932,6 +1022,8 @@ Cited by: [T106](../../timeline/post-9-11-2001-2014.md#T106)
 
 **Counter-Terrorism and Security Act 2015**
 
+Summary: The UK's Counter-Terrorism and Security Act 2015, dated 12 February 2015. Its parts cover temporary restrictions on travel, changes to terrorism prevention and investigation measures, data retention, aviation, shipping and rail security, and a duty concerning the risk of people being drawn into terrorism. It is the source for milestone T114.
+
 - Issuing body: UK Parliament (legislation.gov.uk)
 - Date: 2015-02-12
 - Type: statute
@@ -951,6 +1043,8 @@ Cited by: [T114](../../timeline/recent-2014-now.md#T114)
 ## UK-AvSSHD2004
 
 **A and others v Secretary of State for the Home Department \[2004\] UKHL 56**
+
+Summary: A and others v Secretary of State for the Home Department \[2004\] UKHL 56, a House of Lords judgment of 16 December 2004. The court declared that section 23 of the Anti-terrorism, Crime and Security Act 2001, the detention power in Part 4, is incompatible with the European Convention on Human Rights. It is one of the two positions in the people-disagree milestone T080; the title, date and citation were confirmed from official House of Lords papers because the BAILII copy was behind a bot check.
 
 - Issuing body: House of Lords
 - Date: 2004-12-16
@@ -973,6 +1067,8 @@ Cited by: [T080](../../timeline/post-9-11-2001-2014.md#T080)
 
 **The Belfast Agreement**
 
+Summary: The Belfast (Good Friday) Agreement of 10 April 1998, as published by the Northern Ireland Office on GOV.UK. The page says the Agreement covered identity and citizenship and made commitments on decommissioning, security, policing and prisoners. It is the source for milestone T041 and marks a political settlement in Northern Ireland, where several earlier UK emergency and terrorism laws applied.
+
 - Issuing body: Northern Ireland Office (GOV.UK)
 - Date: 1998-04-10
 - Type: treaty
@@ -992,6 +1088,8 @@ Cited by: [T041](../../timeline/1990-2001.md#T041)
 ## FR-LOI1986
 
 **Loi n° 86-1020 du 9 septembre 1986 relative à la lutte contre le terrorisme**
+
+Summary: France's Loi n° 86-1020 of 9 September 1986 on the fight against terrorism ('relative à la lutte contre le terrorisme'), as published on Légifrance. As its title states, it is a French counter-terrorism statute; its provisions are not summarized in CTA6 \[UNKNOWN\]. It is the source for milestone T022; only the title was confirmed through a text extraction because the site blocked a direct capture.
 
 - Issuing body: République française (Légifrance)
 - Date: 1986-09-09
@@ -1014,6 +1112,8 @@ Cited by: [T022](../../timeline/1945-1990.md#T022)
 
 **Loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre le terrorisme**
 
+Summary: France's Loi n° 2017-1510 of 30 October 2017 strengthening internal security and the fight against terrorism, as published on Légifrance. As its title states, it strengthened French internal-security and counter-terrorism law; its provisions are not summarized in CTA6 \[UNKNOWN\]. It is the source for milestone T123; only the title was confirmed through a text extraction.
+
 - Issuing body: République française (Légifrance)
 - Date: 2017-10-30
 - Type: statute
@@ -1034,6 +1134,8 @@ Cited by: [T123](../../timeline/recent-2014-now.md#T123)
 ## DE-STGB129A
 
 **Strafgesetzbuch § 129a: Bildung terroristischer Vereinigungen**
+
+Summary: Section 129a of Germany's Criminal Code (Strafgesetzbuch), 'Bildung terroristischer Vereinigungen' (forming terrorist organisations), as published by the Federal Ministry of Justice. It makes it an offence to found an organisation whose purposes or activities are directed at offences such as murder, manslaughter, genocide, crimes against humanity, war crimes or offences against personal liberty. It is the core German terrorist-organisation offence; the page is undated, so the version date is \[UNKNOWN\].
 
 - Issuing body: Bundesministerium der Justiz (gesetze-im-internet.de)
 - Date: \[UNKNOWN\]
@@ -1056,6 +1158,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Ley Orgánica 2/2015, de 30 de marzo (delitos de terrorismo)**
 
+Summary: Spain's Ley Orgánica 2/2015 of 30 March 2015, published in the Boletín Oficial del Estado (BOE-A-2015-3440). Its full title says it amends Ley Orgánica 10/1995, the Criminal Code, in the area of terrorist offences. It is Spain's 2015 revision of how terrorism is defined and punished in its Criminal Code; the specific changes are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: Jefatura del Estado (BOE)
 - Date: 2015-03-30
 - Type: statute
@@ -1075,6 +1179,8 @@ Cited by: none in `data/timeline.csv`.
 ## CJEU-2008-C402-05P
 
 **K. and Al Barakaat v Council and Commission (Joined Cases C-402/05 P and C-415/05 P)**
+
+Summary: The judgment of the Court of Justice of the European Communities of 3 September 2008 in K. and Al Barakaat v Council and Commission (Joined Cases C-402/05 P and C-415/05 P). As recorded in milestone T097, the Court annulled the EU regulation implementing UN sanctions listings as it concerned the applicants, on fundamental-rights grounds, while the UN 1267 listing regime itself continued. It is one side of that people-disagree milestone and shows the tension between UN listings and EU fundamental-rights review.
 
 - Issuing body: Court of Justice of the European Communities (EUR-Lex)
 - Date: 2008-09-03
@@ -1097,6 +1203,8 @@ Cited by: [T097](../../timeline/post-9-11-2001-2014.md#T097)
 
 **Prevention of Terrorism Act, No. 30 of 2012**
 
+Summary: Kenya's Prevention of Terrorism Act, No. 30 of 2012, at the Kenya Law website. Kenya's National Counter Terrorism Centre says it was established by this Act. The cited copy could not be confirmed (HTTP 500), and the same Act at Kenya Law's new site (KE-POTA2012-KL) also could not be verified, so the Act's text is \[UNKNOWN\] in CTA6.
+
 - Issuing body: Parliament of Kenya (Kenya Law)
 - Date: 2012
 - Type: statute
@@ -1118,6 +1226,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Protection of Constitutional Democracy against Terrorist and Related Activities Act, 2004**
 
+Summary: South Africa's Protection of Constitutional Democracy against Terrorist and Related Activities Act, 2004. Its long title says it provides measures to prevent and combat terrorist and related activities, creates an offence of terrorism and related offences, gives effect to international instruments on terrorism, and provides a mechanism to comply with UN Security Council resolutions. It was amended in 2022 (T190).
+
 - Issuing body: Government of South Africa
 - Date: 2004
 - Type: statute
@@ -1137,6 +1247,8 @@ Cited by: none in `data/timeline.csv`.
 ## PH-RA11479
 
 **Republic Act No. 11479 (Anti-Terrorism Act of 2020)**
+
+Summary: Republic Act No. 11479, the Philippines' Anti-Terrorism Act of 2020, dated 3 July 2020, from the Official Gazette. The cited copy could not be confirmed (HTTP 403), so milestone T129 is marked not-proven: CTA6 records the enactment, but the source page itself was not verified. Its provisions are \[UNKNOWN\] in CTA6; a Supreme Court case on the Act is recorded as T186.
 
 - Issuing body: Official Gazette of the Republic of the Philippines
 - Date: 2020-07-03
@@ -1159,6 +1271,8 @@ Cited by: [T129](../../timeline/recent-2014-now.md#T129)
 
 **Lei nº 13.260, de 16 de março de 2016 (Lei Antiterrorismo)**
 
+Summary: Brazil's Lei nº 13.260 of 16 March 2016, the Anti-Terrorism Law, from the Presidency's Planalto website. CTA6 confirmed the heading 'LEI Nº 13.260, DE 16 DE MARÇO DE 2016' via WebFetch. It is the source for milestone T117; its provisions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: Presidência da República (Planalto)
 - Date: 2016-03-16
 - Type: statute
@@ -1179,6 +1293,8 @@ Cited by: [T117](../../timeline/recent-2014-now.md#T117)
 ## CONV-AIRPORTS1988
 
 **Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation**
+
+Summary: The Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, concluded on 24 February 1988. According to the UN Office of Counter-Terrorism, it extends the 1971 Montreal Convention to terrorist acts at airports serving international civil aviation. It is the source for milestone T023; the cited copy is a scanned PDF whose title and date were confirmed by OCR.
 
 - Issuing body: ICAO / UN Treaty Collection
 - Date: 1988-02-24
@@ -1201,6 +1317,8 @@ Cited by: [T023](../../timeline/1945-1990.md#T023)
 
 **Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation**
 
+Summary: The Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation, concluded on 10 March 1988 (IMO). According to the UN Office of Counter-Terrorism, it sets up a legal regime for acts against international shipping similar to the aviation regimes, making it an offence to seize a ship by force or to endanger its safe navigation; a 2005 protocol added further offences. It is the source for milestone T024; the cited copy is a scanned PDF confirmed by OCR.
+
 - Issuing body: IMO / UN Treaty Collection
 - Date: 1988-03-10
 - Type: treaty
@@ -1221,6 +1339,8 @@ Cited by: [T024](../../timeline/1945-1990.md#T024)
 ## CONV-PLASTIC1991
 
 **Convention on the Marking of Plastic Explosives for the Purpose of Detection**
+
+Summary: The Convention on the Marking of Plastic Explosives for the Purpose of Detection, concluded on 1 March 1991. According to the UN Office of Counter-Terrorism, it is designed to control unmarked, undetectable plastic explosives: parties must prohibit their manufacture and movement and destroy or mark existing stocks within set periods. It follows Security Council resolution 635 (1989) on the same subject and is the source for milestone T030; the cited copy is a scanned PDF confirmed by OCR.
 
 - Issuing body: ICAO / UN Treaty Collection
 - Date: 1991-03-01
@@ -1243,6 +1363,8 @@ Cited by: [T030](../../timeline/1990-2001.md#T030)
 
 **Convention for the Prevention and Punishment of Terrorism (League of Nations Official Journal, January 1938, C.546.M.383.1937.V)**
 
+Summary: The League of Nations Convention for the Prevention and Punishment of Terrorism, dated 16 November 1937 and printed in the League's Official Journal in January 1938 (C.546.M.383.1937.V). It is an early attempt at a multilateral treaty on terrorism; milestone T006 notes that a Library of Congress record says it never came into effect. Its definition of terrorism is compared with Security Council resolution 1566 in the people-disagree milestone T079. The cited copy is a scanned PDF whose title and date were confirmed by OCR.
+
 - Issuing body: League of Nations (UN Audiovisual Library of International Law copy)
 - Date: 1937-11-16
 - Type: treaty
@@ -1263,6 +1385,8 @@ Cited by: [T006](../../timeline/pre-1945.md#T006)
 ## LON-1937-LOC
 
 **Convention for the Prevention and Punishment of Terrorism (archival copy, item record)**
+
+Summary: The Library of Congress item record (World Digital Library item 11579) for the League of Nations Convention for the Prevention and Punishment of Terrorism of 16 November 1937. The record states that France proposed a League convention on terrorism after the 1934 assassination of King Alexander I of Yugoslavia (T005), and that the convention never came into effect (T006). It is also the second source for the definitions compared in the people-disagree milestone T079.
 
 - Issuing body: League of Nations (Library of Congress / World Digital Library item 11579)
 - Date: 1937-11-16
@@ -1285,6 +1409,8 @@ Cited by: [T005](../../timeline/pre-1945.md#T005), [T006](../../timeline/pre-194
 
 **Ireland v. the United Kingdom (no. 5310/71), judgment**
 
+Summary: The European Court of Human Rights judgment of 18 January 1978 in Ireland v. the United Kingdom (no. 5310/71), an inter-State case. The case concerned UK extrajudicial arrest, detention and internment in Northern Ireland from 1971 to 1975, including five interrogation techniques (wall standing, hooding, noise, and deprivation of sleep, food and drink); the Court held there had been a violation of Article 3, according to the Court's factsheet 'Terrorism and the ECHR'. It is the source for milestone T016.
+
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1978-01-18
 - Type: court record
@@ -1305,6 +1431,8 @@ Cited by: [T016](../../timeline/1945-1990.md#T016)
 ## ECHR-1978-5029
 
 **K. and Others v. Germany, no. 5029/71, judgment**
+
+Summary: The European Court of Human Rights judgment of 6 September 1978 in K. and Others v. Germany (no. 5029/71), on German secret-surveillance legislation. According to the Court's factsheet 'Terrorism and the ECHR', the Court found no violation of Article 8, holding that because of the threat of espionage and terrorism, secret surveillance powers could be necessary in a democratic society under exceptional conditions. It is the source for milestone T017.
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1978-09-06
@@ -1328,6 +1456,8 @@ Cited by: [T017](../../timeline/1945-1990.md#T017)
 
 **B. and Others v. the United Kingdom, nos. 11209/84, 11234/84, 11266/84 and 11386/85, judgment**
 
+Summary: The European Court of Human Rights judgment of 29 November 1988 in B. and Others v. the United Kingdom (nos. 11209/84, 11234/84, 11266/84 and 11386/85). The four applicants, suspected of terrorism, were held in Northern Ireland for between four days six hours and six days sixteen and a half hours without being brought before a judge; the Court found a violation of Article 5 § 3, holding that 'promptness' could not stretch that far, according to the Court's factsheet. It is the source for milestone T025.
+
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1988-11-29
 - Type: court record
@@ -1349,6 +1479,8 @@ Cited by: [T025](../../timeline/1945-1990.md#T025)
 ## ECHR-1995-18984
 
 **M. and Others v. the United Kingdom, no. 18984/91, judgment**
+
+Summary: The European Court of Human Rights judgment of 27 September 1995 in M. and Others v. the United Kingdom (no. 18984/91), on the 1988 shooting in Gibraltar of three IRA members by soldiers. According to the Court's factsheet, the Court found a violation of Article 2 (right to life) because the operation could have been planned and controlled without the need to kill the suspects. It is the source for milestone T036.
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1995-09-27
@@ -1372,6 +1504,8 @@ Cited by: [T036](../../timeline/1990-2001.md#T036)
 
 **A. and Others v. the United Kingdom (no. 3455/05), Grand Chamber judgment**
 
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 19 February 2009 in A. and Others v. the United Kingdom (no. 3455/05), on detention under the Anti-terrorism, Crime and Security Act 2001. According to the Court's factsheet, the Court found no violation of Article 3 but found violations of Article 5 § 1 for most applicants, because the indefinite detention of non-nationals suspected of terrorism discriminated unjustifiably between nationals and non-nationals, as the House of Lords had also found (T080). It is the source for milestone T099.
+
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 2009-02-19
 - Type: court record
@@ -1392,6 +1526,8 @@ Cited by: [T099](../../timeline/post-9-11-2001-2014.md#T099)
 ## ECHR-2012-39630
 
 **E. v. the former Yugoslav Republic of Macedonia, no. 39630/09, Grand Chamber judgment**
+
+Summary: The Grand Chamber judgment of the European Court of Human Rights of 13 December 2012 in E. v. the former Yugoslav Republic of Macedonia (no. 39630/09). According to the Court's factsheet, the applicant said he had been held and ill-treated in a Skopje hotel for 23 days and then handed to CIA agents in a secret 'rendition'; the Court found his account established and held the State responsible for torture and ill-treatment, a violation of Article 3. It is the source for milestone T108.
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 2012-12-13
@@ -1415,6 +1551,8 @@ Cited by: [T108](../../timeline/post-9-11-2001-2014.md#T108)
 
 **A.N. v. Poland, no. 28761/11, judgment**
 
+Summary: The European Court of Human Rights judgment of 24 July 2014 in A.N. v. Poland (no. 28761/11), on alleged secret detention at a CIA 'black site' in Poland. According to the Court's factsheet, the Court found the applicant's allegations sufficiently convincing and found that Poland had cooperated in the preparation and execution of CIA rendition, secret detention and interrogation operations on its territory. It is the source for milestone T110; the companion case is H. v. Poland (ECHR-2014-7511).
+
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 2014-07-24
 - Type: court record
@@ -1437,6 +1575,8 @@ Cited by: [T110](../../timeline/recent-2014-now.md#T110)
 
 **Jurisdicción Especial para la Paz (home page)**
 
+Summary: The home page of Colombia's Jurisdicción Especial para la Paz (JEP, Special Jurisdiction for Peace). The page links to the JEP's mission and functions, its chambers and Tribunal for Peace, and its cases. It is undated \[UNKNOWN\]; its role in counter-terrorism is not stated in CTA6 \[UNKNOWN\].
+
 - Issuing body: JEP, Colombia
 - Date: \[UNKNOWN\]
 - Type: court record
@@ -1457,6 +1597,8 @@ Cited by: none in `data/timeline.csv`.
 ## DE-BVERFG-BKAG2016
 
 **BVerfG, Urteil des Ersten Senats vom 20. April 2016, 1 BvR 966/09 (BKA-Gesetz)**
+
+Summary: The judgment of the First Senate of Germany's Federal Constitutional Court of 20 April 2016 (1 BvR 966/09) on the Federal Criminal Police Office Act (BKA-Gesetz). As recorded in milestone T176, it ruled on the BKA's surveillance powers for countering international terrorism. The outcome is not recorded in CTA6 \[UNKNOWN\]; the source was verified through a text extraction only.
 
 - Issuing body: Bundesverfassungsgericht
 - Date: 2016-04-20
@@ -1479,6 +1621,8 @@ Cited by: [T176](../../timeline/recent-2014-now.md#T176)
 
 **BVerfG, Urteil des Ersten Senats vom 15. Februar 2006, 1 BvR 357/05 (Luftsicherheitsgesetz)**
 
+Summary: The judgment of the First Senate of Germany's Federal Constitutional Court of 15 February 2006 (1 BvR 357/05) on the Aviation Security Act (Luftsicherheitsgesetz). The constitutional complaint challenged the power of the armed forces to shoot down aircraft intended to be used as a weapon against human life, and the Court declared section 14(3) of the Act incompatible with the Basic Law and void. It is the source for milestone T153.
+
 - Issuing body: Bundesverfassungsgericht
 - Date: 2006-02-15
 - Type: court record
@@ -1499,6 +1643,8 @@ Cited by: [T153](../../timeline/post-9-11-2001-2014.md#T153)
 ## FR-CC-86-213
 
 **Décision n° 86-213 DC du 3 septembre 1986 (Loi relative à la lutte contre le terrorisme)**
+
+Summary: Decision no. 86-213 DC of France's Constitutional Council (Conseil constitutionnel), dated 3 September 1986, on the 1986 law on combating terrorism and attacks on State security. The Council declared Article 4 of the law not in conformity with the Constitution and found the other provisions not contrary to it. It is the source for milestone T139 and reviewed the law recorded at T022.
 
 - Issuing body: Conseil constitutionnel
 - Date: 1986-09-03
@@ -1521,6 +1667,8 @@ Cited by: [T139](../../timeline/1945-1990.md#T139)
 
 **Décision n° 2015-527 QPC du 22 décembre 2015 (assignations à résidence dans le cadre de l'état d'urgence)**
 
+Summary: Decision no. 2015-527 QPC of France's Constitutional Council, dated 22 December 2015, on house arrest (assignation à résidence) under the state of emergency. The Council declared the first nine paragraphs of Article 6 of Law no. 55-385 of 3 April 1955 on the state of emergency to be in conformity with the Constitution. No milestone cites it yet.
+
 - Issuing body: Conseil constitutionnel
 - Date: 2015-12-22
 - Type: court record
@@ -1541,6 +1689,8 @@ Cited by: none in `data/timeline.csv`.
 ## IACTHR-2014-279
 
 **Caso N.C. y otros (Dirigentes, miembros y activista del Pueblo Indígena Mapuche) vs. Chile, Serie C No. 279. Sentencia de 29 de mayo de 2014**
+
+Summary: The Inter-American Court of Human Rights judgment of 29 May 2014 in N.C. y otros (leaders, members and an activist of the Mapuche Indigenous People) vs. Chile, Serie C No. 279. CTA6 records that the case concerned convictions under Chile's anti-terrorism Law 18.314 (T167). The ruling's findings were not captured, so the outcome is \[UNKNOWN\] in CTA6; party names are reduced to initials.
 
 - Issuing body: Corte Interamericana de Derechos Humanos
 - Date: 2014-05-29
@@ -1563,6 +1713,8 @@ Cited by: [T167](../../timeline/recent-2014-now.md#T167)
 
 **Código Penal Federal (incluye artículo 139, terrorismo)**
 
+Summary: Mexico's Federal Penal Code (Código Penal Federal), in the consolidated version from the Chamber of Deputies, including Article 139 on terrorism. Article 139 sets prison terms of fifteen to forty years for listed acts, including the use of toxic substances, chemical or biological weapons or radioactive or nuclear material; the paragraph was last amended in 2024. The consolidated code places the original terrorism chapter in 1970 (T137).
+
 - Issuing body: Cámara de Diputados del H. Congreso de la Unión (México)
 - Date: \[UNKNOWN\]
 - Type: statute
@@ -1583,6 +1735,8 @@ Cited by: [T137](../../timeline/1945-1990.md#T137)
 ## CL-LEY18314
 
 **Ley 18.314: Determina conductas terroristas y fija su penalidad**
+
+Summary: Chile's Law 18.314, which defines terrorist conduct and sets its penalties, from the National Congress Library. According to the Library's record, it was promulgated on 16 May 1984, published on 17 May 1984, and repealed on 12 February 2025 by Law 21.732. It is the source for milestones T138 and T191 and the law at issue in the Inter-American Court's Mapuche case (T167).
 
 - Issuing body: Biblioteca del Congreso Nacional de Chile
 - Date: 1984-05-17
@@ -1605,6 +1759,8 @@ Cited by: [T138](../../timeline/1945-1990.md#T138), [T167](../../timeline/recent
 
 **Internal Security Act 1960**
 
+Summary: Singapore's Internal Security Act 1960, from Singapore Statutes Online. Its long title says it provides for the internal security of Singapore, preventive detention, the prevention of subversion and the suppression of organised violence in specified areas. It is the source for milestone T135; detentions under it are reviewed by an advisory board (T193).
+
 - Issuing body: Attorney-General's Chambers, Singapore (Singapore Statutes Online)
 - Date: 1960
 - Type: statute
@@ -1625,6 +1781,8 @@ Cited by: [T135](../../timeline/1945-1990.md#T135)
 ## TR-TMK3713
 
 **Terörle Mücadele Kanunu (Kanun Numarası 3713)**
+
+Summary: Türkiye's Anti-Terror Law (Terörle Mücadele Kanunu, Law No. 3713), adopted on 12 April 1991. Article 1, as amended in 2003, defines terror as acts using force and violence, or methods of pressure, intimidation or threat, aimed at changing the characteristics of the Republic set out in the Constitution or at other listed aims such as harming the indivisible integrity of the State. It is the source for milestone T141, and its article 10 was later the subject of a 2013 Constitutional Court decision (T216).
 
 - Issuing body: Türkiye Büyük Millet Meclisi (Mevzuat Bilgi Sistemi)
 - Date: 1991-04-12
@@ -1647,6 +1805,8 @@ Cited by: [T141](../../timeline/1990-2001.md#T141)
 
 **Protocol to the OAU Convention on the Prevention and Combating of Terrorism**
 
+Summary: The Protocol to the OAU Convention on the Prevention and Combating of Terrorism, with the AU treaty page giving its date of adoption as 1 July 2004. As its title states, it supplements the 1999 OAU Convention; its provisions are not summarized in CTA6 \[UNKNOWN\]. It is the source for milestone T151.
+
 - Issuing body: African Union
 - Date: 2004-07-01
 - Type: treaty
@@ -1667,6 +1827,8 @@ Cited by: [T151](../../timeline/post-9-11-2001-2014.md#T151)
 ## HIST-SPB1904-EBID
 
 **Союзъ импepiaлиcтoвъ \[sic\] противъ анархистовъ. Протоколъ. 1/14 Марта 1904 г. (catalogue record)**
+
+Summary: A catalogue record in the Russian Historical Society's electronic library of historical documents for the 1904 anti-anarchist protocol, as published by the Soviet foreign affairs commissariat in 1918. The record dates the protocol 1/14 March 1904 (Julian/Gregorian calendars). It is the primary-text reference for milestone T134, the secret protocol signed by Russia, Germany, Austria-Hungary and other states; an official English title is \[UNKNOWN\].
 
 - Issuing body: Электронная библиотека исторических документов (Российское историческое общество); source: Сборник секретных документов из Архива бывшего Министерства иностранных дел, № 6, 1918
 - Date: 1904-03-14
@@ -1689,6 +1851,8 @@ Cited by: [T134](../../timeline/pre-1945.md#T134)
 
 **Федеральный закон от 06.03.2006 г. № 35-ФЗ «О противодействии терроризму»**
 
+Summary: Russia's Federal Law No. 35-FZ of 6 March 2006, 'On countering terrorism' (О противодействии терроризму), from the Kremlin website. According to the page, the State Duma adopted it on 26 February 2006 and the Federation Council approved it on 1 March 2006. It is the source for milestone T155; its provisions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: Президент России (kremlin.ru)
 - Date: 2006-03-06
 - Type: statute
@@ -1709,6 +1873,8 @@ Cited by: [T155](../../timeline/post-9-11-2001-2014.md#T155)
 ## SCO-CONV2001
 
 **The Shanghai Convention on Combating Terrorism, Separatism and Extremism**
+
+Summary: The Shanghai Convention on Combating Terrorism, Separatism and Extremism, done at Shanghai on 15 June 2001. It defines 'terrorism' partly by reference to offences in the treaties listed in its Annex, and it defines 'separatism' as acts intended to violate a State's territorial integrity or to disintegrate a State violently. It is the founding counter-terrorism treaty of the SCO states in CTA6 and a source for milestone T148.
 
 - Issuing body: Shanghai Cooperation Organisation
 - Date: 2001-06-15
@@ -1731,6 +1897,8 @@ Cited by: [T148](../../timeline/post-9-11-2001-2014.md#T148)
 
 **打击恐怖主义、分裂主义和极端主义上海公约 (条约数据库)**
 
+Summary: The Chinese Ministry of Foreign Affairs treaty-database record for the Shanghai Convention on Combating Terrorism, Separatism and Extremism. The record gives adoption on 15 June 2001, signing in Shanghai and entry into force on 29 March 2003. It is a source for milestone T148.
+
 - Issuing body: 中华人民共和国外交部 条约数据库
 - Date: 2001-06-15
 - Type: treaty
@@ -1751,6 +1919,8 @@ Cited by: [T148](../../timeline/post-9-11-2001-2014.md#T148)
 ## CN-CTLAW2015
 
 **中华人民共和国反恐怖主义法**
+
+Summary: The Counter-Terrorism Law of the People's Republic of China (中华人民共和国反恐怖主义法), adopted by the NPC Standing Committee on 27 December 2015 and amended on 27 April 2018, from the NPC website. Article 97 provides that it took effect on 1 January 2016. It is China's national counter-terrorism statute and the source for milestone T174; its provisions are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: 全国人民代表大会常务委员会 (中国人大网)
 - Date: 2015-12-27
@@ -1773,6 +1943,8 @@ Cited by: [T174](../../timeline/recent-2014-now.md#T174)
 
 **Undang-Undang Nomor 5 Tahun 2018 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2003 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2002 tentang Pemberantasan Tindak Pidana Terorisme Menjadi Undang-Undang**
 
+Summary: Indonesia's Law No. 5 of 2018 amending Law No. 15 of 2003 on combating criminal acts of terrorism, from the JDIH BPK legal database. The database lists it as enacted on 21 June 2018 and promulgated on 22 June 2018. It is the source for milestone T182; Komnas HAM had commented on the draft (T223).
+
 - Issuing body: JDIH BPK (Badan Pemeriksa Keuangan), Republik Indonesia
 - Date: 2018-06-21
 - Type: statute
@@ -1793,6 +1965,8 @@ Cited by: [T182](../../timeline/recent-2014-now.md#T182)
 ## IN-UAPA1967
 
 **The Unlawful Activities (Prevention) Act, 1967**
+
+Summary: India's Unlawful Activities (Prevention) Act, 1967, at India Code. Amnesty International describes it as India's counterterrorism law (AMN-IND-2023); it was enacted on 30 December 1967 according to the Hindi text (T136). The cited English copy could not be confirmed (HTTP 000), so the milestone relies on the Hindi text (IN-UAPA-HI).
 
 - Issuing body: India Code (Legislative Department, Ministry of Law and Justice)
 - Date: 1967-12-30
@@ -1815,6 +1989,8 @@ Cited by: [T136](../../timeline/1945-1990.md#T136)
 
 **Anti Terrorism Act (ATA), 1997**
 
+Summary: Pakistan's Anti Terrorism Act (ATA), 1997, at the Pakistan Code website, dated 20 August 1997 in CTA6. The cited copy could not be confirmed (HTTP 000); milestone T195 relies instead on separate official copies (PK-NACTA-ATA and PK-FMU-ATA1997).
+
 - Issuing body: Pakistan Code (Ministry of Law and Justice)
 - Date: 1997-08-20
 - Type: statute
@@ -1835,6 +2011,8 @@ Cited by: none in `data/timeline.csv`.
 ## PK-ATA1997-FIA
 
 **The Anti-Terrorism Act, 1997**
+
+Summary: Pakistan's Anti-Terrorism Act, 1997, as published by the Federal Investigation Agency. It is a second official copy of the 1997 Act. The cited copy could not be confirmed (HTTP 500).
 
 - Issuing body: Federal Investigation Agency, Pakistan
 - Date: 1997-08-20
@@ -1857,6 +2035,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Prevention of Terrorism (Temporary Provisions) Act, No. 48 of 1979 (public consultation page)**
 
+Summary: A public consultation page of Sri Lanka's Ministry of Justice on the Prevention of Terrorism (Temporary Provisions) Act, No. 48 of 1979. It gives the Act's official number and year (T194) and shows the Act was the subject of a ministry public consultation; the consultation's date and content are \[UNKNOWN\]. It is also cited for milestone T187.
+
 - Issuing body: Ministry of Justice, Sri Lanka
 - Date: \[UNKNOWN\]
 - Type: other
@@ -1877,6 +2057,8 @@ Cited by: [T187](../../timeline/recent-2014-now.md#T187), [T194](../../timeline/
 ## BD-ATA2009
 
 **সন্ত্রাস বিরোধী আইন, ২০০৯**
+
+Summary: Bangladesh's Anti-Terrorism Act, 2009 (Act No. 16 of 2009), in Bengali, from the official Bangladesh Laws website. The site dates it 24 February 2009 (T159). As its title states, it is Bangladesh's anti-terrorism statute; its provisions are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: Bangladesh Laws (Legislative and Parliamentary Affairs Division)
 - Date: 2009-02-24
@@ -1899,6 +2081,8 @@ Cited by: [T159](../../timeline/post-9-11-2001-2014.md#T159)
 
 **SAARC Regional Convention on Suppression of Terrorism (Kathmandu, 4 November 1987)**
 
+Summary: The SAARC Regional Convention on Suppression of Terrorism, done at Kathmandu on 4 November 1987 and in force from 22 August 1988 (text hosted by the University of Oslo treaty library). Article I provides that conduct constituting listed offences shall be regarded as terroristic and, for extradition, shall not be treated as a political offence. It is the South Asian regional treaty on terrorism and the source for milestone T140.
+
 - Issuing body: SAARC (text hosted by the University of Oslo Faculty of Law treaty library)
 - Date: 1987-11-04
 - Type: treaty
@@ -1919,6 +2103,8 @@ Cited by: [T140](../../timeline/1945-1990.md#T140)
 ## KE-POTA2012-KL
 
 **Prevention of Terrorism Act (No. 30 of 2012)**
+
+Summary: Kenya's Prevention of Terrorism Act (No. 30 of 2012) at Kenya Law's current website. It is the same Act as KE-POTA2012, found at a newer address. The cited copy could not be confirmed (HTTP 202 bot check), so the text is \[UNKNOWN\] in CTA6.
 
 - Issuing body: Kenya Law (National Council for Law Reporting)
 - Date: 2012
@@ -1941,6 +2127,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Terrorism (Prevention and Prohibition) Act, 2022 (Federal Republic of Nigeria Official Gazette)**
 
+Summary: Nigeria's Terrorism (Prevention and Prohibition) Act, 2022, enacted on 12 May 2022 and published in the Official Gazette No. 91 of 16 May 2022 (copy from the Special Control Unit against Money Laundering). Section 1 says its objective is a unified, comprehensive legal, regulatory and institutional framework for detecting, preventing, prosecuting and punishing terrorism, terrorist financing and the financing of weapons of mass destruction. It is the source for milestone T188.
+
 - Issuing body: Special Control Unit against Money Laundering (EFCC), Nigeria
 - Date: 2022-05-12
 - Type: statute
@@ -1961,6 +2149,8 @@ Cited by: [T188](../../timeline/recent-2014-now.md#T188)
 ## EG-LAW94-2015
 
 **قانون مكافحة الإرهاب رقم 94 لسنة 2015**
+
+Summary: Egypt's Counter-Terrorism Law, issued by Presidential Decree-Law No. 94 of 2015 and published in the Official Gazette No. 33 bis on 15 August 2015 (copy hosted by the Financial Regulatory Authority). The gazette page was checked visually because the text layer is unreadable. It is the source for milestone T172 and one side of the people-disagree milestone T173, because Human Rights Watch refers to the law by a different number.
 
 - Issuing body: الهيئة العامة للرقابة المالية (Financial Regulatory Authority, Egypt)
 - Date: 2015-08-15
@@ -1983,6 +2173,8 @@ Cited by: [T172](../../timeline/recent-2014-now.md#T172), [T173](../../timeline/
 
 **القانون رقم 03.03 المتعلق بمكافحة الإرهاب (ظهير شريف رقم 1.03.140)**
 
+Summary: Morocco's Law No. 03.03 on combating terrorism, promulgated by Dahir No. 1.03.140 and dated 28 May 2003, as published by the Ministry of Justice in a consolidated (amended) version. As its title states, it is Morocco's law on combating terrorism; its provisions are not summarized in CTA6 \[UNKNOWN\]. It was verified on a retry.
+
 - Issuing body: وزارة العدل، المملكة المغربية (adala.justice.gov.ma)
 - Date: 2003-05-28
 - Type: statute
@@ -2003,6 +2195,8 @@ Cited by: none in `data/timeline.csv`.
 ## MA-CNASNU
 
 **Corpus juridique national**
+
+Summary: The 'Corpus juridique national' page of Morocco's national commission responsible for applying sanctions under UN Security Council resolutions. As its name states, it is the body that implements UN sanctions in Morocco, and the page lists national legal texts. The cited copy could not be confirmed (the connection failed), so its content is \[UNKNOWN\].
 
 - Issuing body: Commission Nationale chargée de l'application des Sanctions prévues par les résolutions du Conseil de sécurité (Maroc)
 - Date: \[UNKNOWN\]
@@ -2025,6 +2219,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Loi organique n° 2015-26 du 7 août 2015, relative à la lutte contre le terrorisme et à la répression du blanchiment d'argent (JORT n° 63)**
 
+Summary: Tunisia's Organic Law No. 2015-26 of 7 August 2015 on combating terrorism and suppressing money laundering, published in the Journal officiel (JORT) No. 63. Milestone T171 records that the Assembly of the Representatives of the People adopted it on 25 July 2015. Its provisions are not summarized in CTA6 \[UNKNOWN\]; it was verified through a text extraction only.
+
 - Issuing body: République Tunisienne (portail des marchés publics, téléchargement du JORT)
 - Date: 2015-08-07
 - Type: statute
@@ -2045,6 +2241,8 @@ Cited by: [T171](../../timeline/recent-2014-now.md#T171)
 ## DZ-DL92-03
 
 **Décret législatif n° 92-03 du 30 septembre 1992 relatif à la lutte contre la subversion et le terrorisme**
+
+Summary: Algeria's Legislative Decree No. 92-03 of 30 September 1992 on combating subversion and terrorism, published in the Official Journal No. 70 of 1 October 1992 (a copy hosted by ecoi.net/UNHCR). As its title states, it is an Algerian law against subversion and terrorism from 1992; its provisions are not summarized in CTA6 \[UNKNOWN\]. The scanned gazette was read by OCR, and it is the source for milestone T143.
 
 - Issuing body: Algeria (JORADP n° 70, 1 Oct 1992; copy hosted by ecoi.net / UNHCR)
 - Date: 1992-09-30
@@ -2067,6 +2265,8 @@ Cited by: [T143](../../timeline/1990-2001.md#T143)
 
 **Act on the Control of Organizations Which Have Committed Acts of Indiscriminate Mass Murder (Act No. 147 of 1999)**
 
+Summary: Japan's Act on the Control of Organizations Which Have Committed Acts of Indiscriminate Mass Murder (Act No. 147 of 7 December 1999), in the official English translation, which is not the authoritative text. Its stated purpose is to set control measures on an organization whose members have committed indiscriminate mass murder as an organizational activity, 'by using sarin gas for example'. It is the source for milestone T146 and the basis for the Aum Shinrikyo observation measure (T228).
+
 - Issuing body: Japanese Law Translation (Ministry of Justice, Japan)
 - Date: 1999-12-07
 - Type: statute
@@ -2087,6 +2287,8 @@ Cited by: [T146](../../timeline/1990-2001.md#T146)
 ## KR-ATA2016
 
 **국민보호와 공공안전을 위한 테러방지법 (법률 제14071호)**
+
+Summary: South Korea's Act on Counter-Terrorism for the Protection of Citizens and Public Security (Act No. 14071), in Korean, from the Korean Law Information Center. CTA6 records it as enacted on 3 March 2016, with the captured text version effective 4 June 2016. It is the source for milestone T175; its provisions are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: 국가법령정보센터 (Korea Ministry of Government Legislation)
 - Date: 2016-03-03
@@ -2109,6 +2311,8 @@ Cited by: [T175](../../timeline/recent-2014-now.md#T175)
 
 **Security Offences (Special Measures) Act 2012 (Act 747)**
 
+Summary: Malaysia's Security Offences (Special Measures) Act 2012 (Act 747), which received Royal Assent on 18 June 2012. Its long title says it provides special measures relating to security offences to maintain public order and security, and it states that no one may be arrested and detained under its arrest section solely for political belief or political activity. It is the source for milestone T162; Malaysia's human rights commission later raised concerns about its use (MY-SUHAKAM-AR2016).
+
 - Issuing body: Attorney General's Chambers of Malaysia (Laws of Malaysia)
 - Date: 2012-06-18
 - Type: statute
@@ -2129,6 +2333,8 @@ Cited by: [T162](../../timeline/post-9-11-2001-2014.md#T162)
 ## PH-SC-2021-252578-D
 
 **G.R. Nos. 252578, et al. (Anti-Terrorism Act oral arguments: docket of petitions, notices and announcements)**
+
+Summary: The Supreme Court of the Philippines' docket page for G.R. Nos. 252578 et al., the petitions against the Anti-Terrorism Act of 2020, listing petitions, notices and announcements for the oral arguments. It shows the Act was challenged in the Supreme Court, but it is not the decision. Milestone T186 is therefore marked not-proven: the docket is verified, but the decision text is not captured.
 
 - Issuing body: Supreme Court of the Philippines
 - Date: \[UNKNOWN\]
@@ -2151,6 +2357,8 @@ Cited by: [T186](../../timeline/recent-2014-now.md#T186)
 
 **G.R. No. 252578, C. et al. v. Executive Secretary et al. (full text)**
 
+Summary: The full text of the Supreme Court of the Philippines' decision in G.R. No. 252578, C. et al. v. Executive Secretary et al., dated 7 December 2021, on the Anti-Terrorism Act of 2020. The cited copy could not be confirmed (HTTP 403), so the ruling's content is \[UNKNOWN\] in CTA6 and milestone T186 is not-proven. The petitioner's name is reduced to an initial under CTA6's rule.
+
 - Issuing body: Supreme Court of the Philippines E-Library
 - Date: 2021-12-07
 - Type: court record
@@ -2171,6 +2379,8 @@ Cited by: [T186](../../timeline/recent-2014-now.md#T186)
 ## PE-DL25475
 
 **Decreto Ley N° 25475: Establecen la penalidad para los delitos de terrorismo y los procedimientos para la investigación, la instrucción y el juicio**
+
+Summary: Peru's Decree Law No. 25475, which sets penalties for terrorism offences and procedures for their investigation and trial, dated 6 May 1992 per the search listing. Its Article 2 defines the offence, starting with whoever 'provokes, creates or maintains a state of anxiety, alarm or fear' in the population. It is the source for milestone T142; parts of it were later declared unconstitutional by Peru's Constitutional Tribunal (T202).
 
 - Issuing body: Congreso de la República del Perú (Archivo Digital de la Legislación)
 - Date: 1992-05-06
@@ -2193,6 +2403,8 @@ Cited by: [T142](../../timeline/1990-2001.md#T142)
 
 **Ley 26.734: Código Penal, modificación (financiamiento del terrorismo; art. 41 quinquies)**
 
+Summary: Argentina's Law 26.734, passed on 22 December 2011, which amends the Penal Code on terrorism financing. It adds Article 41 quinquies, which doubles the penalty range when an offence is committed to terrorize the population or to compel public authorities, foreign governments or international organizations to act or refrain from acting. It is the source for milestone T161.
+
 - Issuing body: InfoLEG, Ministerio de Economía (Argentina)
 - Date: 2011-12-22
 - Type: statute
@@ -2213,6 +2425,8 @@ Cited by: [T161](../../timeline/post-9-11-2001-2014.md#T161)
 ## KZ-LAW416-1999
 
 **Закон Республики Казахстан от 13 июля 1999 года № 416 «О противодействии терроризму»**
+
+Summary: Kazakhstan's Law No. 416 of 13 July 1999, 'On countering terrorism' (О противодействии терроризму), from the Ministry of Justice's Adilet legal database. As its title states, it is Kazakhstan's counter-terrorism law. The cited copy could not be confirmed (the expected text was not found), so its content is \[UNKNOWN\] in CTA6.
 
 - Issuing body: ИПС «Әділет» (Министерство юстиции Республики Казахстан)
 - Date: 1999-07-13
@@ -2235,6 +2449,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Закон Республики Узбекистан от 15.12.2000 г. № 167-II «О борьбе с терроризмом»**
 
+Summary: Uzbekistan's Law No. 167-II of 15 December 2000, 'On combating terrorism' (О борьбе с терроризмом), from the national legislation database lex.uz. Article 1 says its purpose is to regulate relations in the field of combating terrorism. It is the source for milestone T147.
+
 - Issuing body: Национальная база данных законодательства Республики Узбекистан (lex.uz)
 - Date: 2000-12-15
 - Type: statute
@@ -2255,6 +2471,8 @@ Cited by: [T147](../../timeline/1990-2001.md#T147)
 ## AU-OAU1999-TEXT
 
 **List of countries which have signed, ratified/acceded to the OAU Convention on the Prevention and Combating of Terrorism (status list dated 15/06/2017)**
+
+Summary: The African Union's list of countries that have signed, ratified or acceded to the OAU Convention on the Prevention and Combating of Terrorism (status list dated 15 June 2017). The list states the Convention was adopted in Algiers on 14 July 1999. It shows which African states had joined the Convention as of 2017 and is one of the sources for the 14 July date in the people-disagree milestone T145.
 
 - Issuing body: African Union
 - Date: 2017-06-15
@@ -2277,6 +2495,8 @@ Cited by: none in `data/timeline.csv`.
 
 **OAU Convention on the Prevention and Combating of Terrorism, 1999 (UN Treaty Collection compilation copy)**
 
+Summary: A copy of the OAU Convention on the Prevention and Combating of Terrorism, 1999, in the UN Treaty Collection compilation. The text reads 'Adopted at Algiers on 14 July 1999', and it is the first source in the people-disagree milestone T145 on the adoption date. Its provisions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: United Nations Treaty Collection
 - Date: 1999-07-14
 - Type: treaty
@@ -2297,6 +2517,8 @@ Cited by: [T145](../../timeline/1990-2001.md#T145)
 ## AU-AHG-DEC132
 
 **AHG/Dec.132 (XXXV) Decision on the Report of the Secretary-General on the Ministerial Conference on the OAU Convention on the Prevention and Combating of Terrorism**
+
+Summary: OAU decision AHG/Dec.132 (XXXV) of the Assembly of Heads of State and Government, adopted at its 35th session in Algiers, 12-14 July 1999. In it the Assembly adopts the OAU Convention on the Prevention and Combating of Terrorism. It supports the 14 July 1999 date in the people-disagree milestone T145.
 
 - Issuing body: OAU Assembly of Heads of State and Government (AU Archives)
 - Date: 1999-07
@@ -2319,6 +2541,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Protection of Constitutional Democracy against Terrorist and Related Activities Amendment Act 23 of 2022**
 
+Summary: South Africa's Protection of Constitutional Democracy against Terrorist and Related Activities Amendment Act 23 of 2022, assented to on 23 December 2022. It amends the 2004 Act (ZA-POCDATARA2004); its sections include provisions on training for terrorist purposes, including online training, and on disclosure of information. It is the source for milestone T190.
+
 - Issuing body: Government of South Africa (gov.za)
 - Date: 2022-12-23
 - Type: statute
@@ -2339,6 +2563,8 @@ Cited by: [T190](../../timeline/recent-2014-now.md#T190)
 ## OIC-CONV1999
 
 **OIC Convention on Combating International Terrorism**
+
+Summary: The Organisation of Islamic Cooperation (OIC) Convention on Combating International Terrorism, dated 1 July 1999. As its title states, it is the OIC member states' treaty on international terrorism; its provisions are not summarized in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed (the server returned HTTP 522).
 
 - Issuing body: Organisation of Islamic Cooperation
 - Date: 1999-07-01
@@ -2361,6 +2587,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Journal officiel de la République du Mali 2008 n° 34 (contient la loi n° 08-025 du 23 juillet 2008 portant répression du terrorisme)**
 
+Summary: Mali's Journal officiel 2008 No. 34, which contains Law No. 08-025 of 23 July 2008 on the repression of terrorism in Mali. As its title states, it is Mali's terrorism statute; its provisions are not summarized in CTA6 \[UNKNOWN\]. It is the source for milestone T157.
+
 - Issuing body: Secrétariat général du Gouvernement, Mali
 - Date: 2008-07-23
 - Type: statute
@@ -2381,6 +2609,8 @@ Cited by: [T157](../../timeline/post-9-11-2001-2014.md#T157)
 ## SA-CTLAW2017
 
 **نظام مكافحة جرائم الإرهاب وتمويله**
+
+Summary: Saudi Arabia's Law of Combating Crimes of Terrorism and its Financing, issued by Royal Decree M/21 of 12/2/1439H (dated 1 November 2017 in CTA6), as published by the Bureau of Experts at the Council of Ministers. As its title states, it covers terrorism and terrorist financing; its provisions are not summarized in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed (the connection failed).
 
 - Issuing body: هيئة الخبراء بمجلس الوزراء (Bureau of Experts at the Council of Ministers, Saudi Arabia)
 - Date: 2017-11-01
@@ -2403,6 +2633,8 @@ Cited by: none in `data/timeline.csv`.
 
 **"In a Legal Black Hole": Sri Lanka's Failure to Reform the Prevention of Terrorism Act**
 
+Summary: 'In a Legal Black Hole': Sri Lanka's Failure to Reform the Prevention of Terrorism Act', a Human Rights Watch report of 7 February 2022. HRW says it gives a critical assessment of the PTA and its recent use, based on research since 2018 and interviews in 2021, and argues the proposed amendments would leave the framework largely intact; these are HRW's own assessments. It is the source for milestone T187; Sri Lanka's amendment act followed in March 2022 (T226).
+
 - Issuing body: Human Rights Watch
 - Date: 2022-02-07
 - Type: other
@@ -2423,6 +2655,8 @@ Cited by: [T187](../../timeline/recent-2014-now.md#T187)
 ## AMN-IND-2023
 
 **India: Arrests, raids target critics of government (ASA 20/7303/2023)**
+
+Summary: 'India: Arrests, raids target critics of government' (ASA 20/7303/2023), an Amnesty International statement of October 2023. It is a joint statement by several international organizations, which says cases were registered against critics under India's counter-terrorism law, the Unlawful Activities (Prevention) Act (UAPA). The characterisations are Amnesty's and the co-signers'; no milestone cites it yet.
 
 - Issuing body: Amnesty International
 - Date: 2023-10
@@ -2445,6 +2679,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Human Rights Charter - India (ASA 20/8154/2024)**
 
+Summary: 'Human Rights Charter - India' (ASA 20/8154/2024), an Amnesty International document of 13 June 2024. It sets out Amnesty's recommendations to the Indian government, for example on remedies for forced evictions. Its specific counter-terrorism content is not recorded in CTA6 \[UNKNOWN\]; the recommendations are Amnesty's.
+
 - Issuing body: Amnesty International
 - Date: 2024-06-13
 - Type: other
@@ -2465,6 +2701,8 @@ Cited by: none in `data/timeline.csv`.
 ## HRW-EGY-2015
 
 **Egypt: Counterterrorism Law Erodes Basic Rights**
+
+Summary: 'Egypt: Counterterrorism Law Erodes Basic Rights', a Human Rights Watch statement dated 19 August 2015. HRW says the new decree allows wide-ranging and potentially indefinite surveillance of suspects without a court order and argues it moves toward a permanent state of emergency; these are HRW's own views. HRW calls it 'Law 95 of 2015', while the Official Gazette shows Decree-Law No. 94, which is recorded as the people-disagree milestone T173.
 
 - Issuing body: Human Rights Watch
 - Date: 2015-08-19
@@ -2487,6 +2725,8 @@ Cited by: [T173](../../timeline/recent-2014-now.md#T173)
 
 **विधिविरुद्ध क्रियाकलाप (निवारण) अधिनियम, 1967 (हिंदी पाठ)**
 
+Summary: The Hindi text of India's Unlawful Activities (Prevention) Act, 1967, hosted on a Government of India platform (the hosting ministry is \[UNKNOWN\]). It states the Act is No. 37 of 1967, dated 30 December 1967, and is the source for milestone T136. The Act's provisions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: Government of India (file on the government s3waas hosting platform)
 - Date: 1967-12-30
 - Type: statute
@@ -2507,6 +2747,8 @@ Cited by: [T136](../../timeline/1945-1990.md#T136)
 ## PK-CODE-URDU
 
 **Pakistan Code: Urdu laws index**
+
+Summary: The Pakistan Code index of Urdu-language laws (Ministry of Law and Justice). It is the official index of Urdu texts of Pakistani laws; an Urdu text of the Anti-Terrorism Act 1997 was not confirmed. The cited copy could not be confirmed (HTTP 000), and CTA6 still has no Urdu-language source.
 
 - Issuing body: Pakistan Code (Ministry of Law and Justice)
 - Date: \[UNKNOWN\]
@@ -2529,6 +2771,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Anti-Terrorism Act, 1997 (as published by NACTA)**
 
+Summary: Pakistan's Anti-Terrorism Act, 1997, as published by the National Counter Terrorism Authority (NACTA). Its provisions include when an organization is 'concerned in terrorism', for example if it commits, facilitates, prepares for, or promotes or encourages terrorism. It is a verified official copy used for milestone T195, since the Pakistan Code copy could not be confirmed.
+
 - Issuing body: National Counter Terrorism Authority, Pakistan
 - Date: 1997
 - Type: statute
@@ -2549,6 +2793,8 @@ Cited by: [T195](../../timeline/1990-2001.md#T195)
 ## BR-PORTARIA2-2017
 
 **Portaria conjunta nº 2, de 31 de janeiro de 2017 (registro na Biblioteca Digital do MJ)**
+
+Summary: The Brazilian Ministry of Justice digital library record for Joint Ordinance No. 2 (Portaria conjunta nº 2) of 31 January 2017. The record summarizes it as setting procedures for handling foreign requests to freeze assets, values and rights linked to terrorism, its financing or related conduct, and says no express repeal is recorded. No milestone cites it.
 
 - Issuing body: Ministério da Justiça e Segurança Pública (Brasil)
 - Date: 2017-01-31
@@ -2571,6 +2817,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Ordonnance n° 06-01 du 28 Moharram 1427 correspondant au 27 février 2006 portant mise en œuvre de la Charte pour la paix et la réconciliation nationale (Journal officiel n° 11 du 28 février 2006)**
 
+Summary: Algeria's Ordinance No. 06-01 of 27 February 2006 implementing the Charter for Peace and National Reconciliation, published in the Journal officiel No. 11 of 28 February 2006. Article 1 states its purpose is to implement the Charter, described as the expression of the sovereign will of the Algerian people, and to complete the policy of peace and national reconciliation. It is the source for milestone T209 and was approved by Parliament in Law No. 06-07 (T210).
+
 - Issuing body: Présidence de la République (Journal officiel de la République algérienne)
 - Date: 2006-02-27
 - Type: statute
@@ -2592,6 +2840,8 @@ Cited by: [T209](../../timeline/post-9-11-2001-2014.md#T209)
 
 **Loi n° 06-07 du 18 Rabie El Aouel 1427 correspondant au 17 avril 2006 portant approbation de l'ordonnance n° 06-01 (Journal officiel n° 27 du 26 avril 2006)**
 
+Summary: Algeria's Law No. 06-07 of 17 April 2006 approving Ordinance No. 06-01, published in the Journal officiel No. 27 of 26 April 2006. It is the parliamentary approval of the ordinance implementing the Charter for Peace and National Reconciliation (T209), and the source for milestone T210.
+
 - Issuing body: Présidence de la République (Journal officiel de la République algérienne)
 - Date: 2006-04-17
 - Type: statute
@@ -2612,6 +2862,8 @@ Cited by: [T210](../../timeline/post-9-11-2001-2014.md#T210)
 ## TR-RG-AYM2013
 
 **Anayasa Mahkemesi Kararı, Esas Sayısı 2012/100, Karar Sayısı 2013/84, Karar Günü 4.7.2013 (Resmî Gazete, 2 Ağustos 2013, Sayı 28726)**
+
+Summary: A decision of Türkiye's Constitutional Court (Anayasa Mahkemesi), case E. 2012/100, K. 2013/84, decided on 4 July 2013 and published in the Resmî Gazete on 2 August 2013 (No. 28726). It reviewed Law No. 6352 on a petition by 123 members of parliament, including the law's amendments to article 10 of Anti-Terror Law No. 3713. It is the source for milestone T216; the outcome on each provision is not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: Anayasa Mahkemesi (Constitutional Court of Türkiye), published in the Resmî Gazete
 - Date: 2013-07-04
@@ -2635,6 +2887,8 @@ Cited by: [T216](../../timeline/post-9-11-2001-2014.md#T216)
 
 **חוק המאבק בטרור, התשע"ו-2016 (ספר החוקים 2556, עמ' 898)**
 
+Summary: Israel's Counter-Terrorism Law, 5776-2016, in Hebrew, as published in Sefer HaHukim No. 2556 (page 898) on 23 June 2016. Milestone T220 records that the Knesset passed it on 15 June 2016. As its title states, it is Israel's counter-terrorism statute; its provisions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: הכנסת (Knesset), Reshumot
 - Date: 2016-06-23
 - Type: statute
@@ -2655,6 +2909,8 @@ Cited by: [T220](../../timeline/recent-2014-now.md#T220)
 ## IR-CFT-LAW1394
 
 **قانون مبارزه با تامین مالی تروریسم**
+
+Summary: Iran's law on combating the financing of terrorism, in Persian, from the Islamic Consultative Assembly Research Center's legal database. A search listing gives approval on 13 Bahman 1394 (early February 2016), but this is not confirmed. The cited copy could not be confirmed (the fetch timed out and returned an error), so its content is \[UNKNOWN\].
 
 - Issuing body: مجلس شورای اسلامی (Islamic Consultative Assembly), Research Center legal database
 - Date: \[UNKNOWN\]
@@ -2677,6 +2933,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Conventions internationales (liste; inclut la Convention portant création du G5 Sahel, adoptée à Nouakchott le 19 décembre 2014; ratification: décret n° 2015-128)**
 
+Summary: A list of international conventions kept by Mali's Secretariat General of Government. It includes the Convention establishing the G5 Sahel, adopted at Nouakchott on 19 December 2014 and ratified by Mali by Decree No. 2015-128. It is the source for milestone T217 and for the date of the G5 Sahel convention copy (G5S-CONV2014-WA).
+
 - Issuing body: Secrétariat Général du Gouvernement du Mali
 - Date: \[UNKNOWN\]
 - Type: database
@@ -2698,6 +2956,8 @@ Cited by: [T217](../../timeline/recent-2014-now.md#T217)
 
 **Convention portant création du G5 Sahel (archived copy of g5sahel.org/images/convention.pdf)**
 
+Summary: The Convention establishing the G5 Sahel (Convention portant création du G5 Sahel), dated 19 December 2014, from an Internet Archive capture of 2 June 2017. It is the founding treaty of the G5 Sahel. The cited copy could not be confirmed: the PDF has no text layer and was not read by OCR, so its content is \[UNKNOWN\], and the date comes from Mali's list (ML-SGG-CONV).
+
 - Issuing body: G5 Sahel (Internet Archive capture of 2 June 2017)
 - Date: 2014-12-19
 - Type: treaty
@@ -2718,6 +2978,8 @@ Cited by: none in `data/timeline.csv`.
 ## AFCHPR-2019-013-2017
 
 **A. v. Republic of Benin, Application No. 013/2017, Judgment (Merits), 29 March 2019**
+
+Summary: The merits judgment of the African Court on Human and Peoples' Rights of 29 March 2019 in A. v. Republic of Benin (Application No. 013/2017). The case concerned proceedings including those before Benin's newly created Court for the Repression of Economic Offences and Terrorism (CRIET). It is the source for milestone T224; the outcome is not recorded in CTA6 \[UNKNOWN\] because the scanned text layer is partly garbled.
 
 - Issuing body: African Court on Human and Peoples' Rights
 - Date: 2019-03-29
@@ -2741,6 +3003,8 @@ Cited by: [T224](../../timeline/recent-2014-now.md#T224)
 
 **Ley 1121 de 2006 (diciembre 29): por la cual se dictan normas para la prevención, detección, investigación y sanción de la financiación del terrorismo y otras disposiciones**
 
+Summary: Colombia's Law 1121 of 29 December 2006 on the prevention, detection, investigation and punishment of terrorism financing, from the Senate's legal database. Its Article 1 amends the financial regime (Decree 663 of 1993) to set obligations for institutions supervised by the Financial Superintendency. It was published in Diario Oficial No. 46.497 on 30 December 2006 and is the source for milestone T212.
+
 - Issuing body: Congreso de la República de Colombia (Secretaría General del Senado, base documental)
 - Date: 2006-12-29
 - Type: statute
@@ -2761,6 +3025,8 @@ Cited by: [T212](../../timeline/post-9-11-2001-2014.md#T212)
 ## IACTHR-1997-33
 
 **Caso L.T. Vs. Perú, Sentencia de 17 de septiembre de 1997 (Fondo), Serie C No. 33**
+
+Summary: The Inter-American Court of Human Rights' merits judgment of 17 September 1997 in L.T. v. Peru (Serie C No. 33), from petition No. 11.154. According to milestone T196, the Commission submitted the case on 12 January 1995 alleging unlawful detention, torture and a second trial on the same facts. The captured text is cut off before the Court's operative points, so the outcome is \[UNKNOWN\] in CTA6; the victim is given as initials.
 
 - Issuing body: Corte Interamericana de Derechos Humanos
 - Date: 1997-09-17
@@ -2784,6 +3050,8 @@ Cited by: [T196](../../timeline/1990-2001.md#T196)
 
 **Caso C.P. y otros Vs. Perú, Sentencia de 30 de mayo de 1999 (Fondo, Reparaciones y Costas), Serie C No. 52**
 
+Summary: The Inter-American Court of Human Rights' judgment on merits, reparations and costs of 30 May 1999 in C.P. y otros v. Peru (Serie C No. 52), from petition No. 11.319. As described in the judgment, it concerns four Chilean nationals tried by a military tribunal under Decree-Law No. 25.659 (T197). The captured text is cut off before the operative points, so the outcome is \[UNKNOWN\] in CTA6; the victims are given as initials.
+
 - Issuing body: Corte Interamericana de Derechos Humanos
 - Date: 1999-05-30
 - Type: court record
@@ -2805,6 +3073,8 @@ Cited by: [T197](../../timeline/1990-2001.md#T197)
 ## IACTHR-2000-69
 
 **Caso C.B. Vs. Perú, Sentencia de 18 de agosto de 2000 (Fondo), Serie C No. 69**
+
+Summary: The Inter-American Court of Human Rights' merits judgment of 18 August 2000 in C.B. v. Peru (Serie C No. 69). The captured part shows the Commission had found Peru responsible for violating the rights to personal liberty, personal integrity and judicial guarantees (Articles 7, 5 and 8 of the American Convention); that was the Commission's finding, not the Court's. The Court's own operative points are not in the capture, so the outcome is \[UNKNOWN\]; it is the source for T198.
 
 - Issuing body: Corte Interamericana de Derechos Humanos
 - Date: 2000-08-18
@@ -2828,6 +3098,8 @@ Cited by: [T198](../../timeline/1990-2001.md#T198)
 
 **Sentencia del Tribunal Constitucional, Exp. N.º 010-2002-AI/TC (T.S. y más de 5,000 ciudadanos; legislación antiterrorista de 1992)**
 
+Summary: The judgment of Peru's Constitutional Tribunal of 3 January 2003 in Exp. No. 010-2002-AI/TC, brought by T.S. and more than 5,000 citizens against the 1992 anti-terrorism decree-laws. The Tribunal declared the challenge founded in part and declared unconstitutional, among other provisions, Article 7 and Article 13(h) of Decree-Law No. 25475 and phrases imposing continuous solitary confinement in the first year of detention. It is the source for milestone T202.
+
 - Issuing body: Tribunal Constitucional del Perú
 - Date: 2003-01-03
 - Type: court record
@@ -2850,6 +3122,8 @@ Cited by: [T202](../../timeline/post-9-11-2001-2014.md#T202)
 
 **Decreto 812/2005: apruébase el Acta de fecha 4 de marzo de 2005 firmada en el marco del 122 período ordinario de sesiones de la Comisión Interamericana de Derechos Humanos, petición N° 12.204 (atentado a la sede de la AMIA)**
 
+Summary: Argentina's Decree 812/2005 of 12 July 2005, from InfoLeg. It approves the record (acta) of a 4 March 2005 hearing before the Inter-American Commission on Human Rights in petition No. 12.204, in which Argentina recognized State responsibility in relation to the 18 July 1994 attack on the AMIA, citing a failure of prevention given the earlier attack on the Israeli Embassy and a serious, deliberate cover-up of the investigation. It is the source for milestone T207.
+
 - Issuing body: Poder Ejecutivo Nacional (InfoLeg, Ministerio de Justicia)
 - Date: 2005-07-12
 - Type: statute
@@ -2870,6 +3144,8 @@ Cited by: [T207](../../timeline/post-9-11-2001-2014.md#T207)
 ## KG-LAW178-2006
 
 **Закон КР от 8 ноября 2006 года № 178 «О противодействии терроризму»**
+
+Summary: Kyrgyzstan's Law No. 178 of 8 November 2006, 'On countering terrorism' (О противодействии терроризму), from the Ministry of Justice's legal database. Only the page title could be read without JavaScript; it matches the law's date and number, but the body text was not read. It is the source for milestone T211; its content is \[UNKNOWN\] in CTA6.
 
 - Issuing body: Министерство юстиции Кыргызской Республики (Централизованный банк данных правовой информации)
 - Date: 2006-11-08
@@ -2892,6 +3168,8 @@ Cited by: [T211](../../timeline/post-9-11-2001-2014.md#T211)
 
 **Закон КР от 4 июля 2022 года № 55 «О противодействии терроризму»**
 
+Summary: Kyrgyzstan's Law No. 55 of 4 July 2022, 'On countering terrorism', from the Ministry of Justice's legal database. Only the page title, which matches the law's date and number, could be read; the body text was not. Its content, and how it relates to the 2006 law (KG-LAW178-2006), are \[UNKNOWN\] in CTA6.
+
 - Issuing body: Министерство юстиции Кыргызской Республики (Централизованный банк данных правовой информации)
 - Date: 2022-07-04
 - Type: statute
@@ -2912,6 +3190,8 @@ Cited by: none in `data/timeline.csv`.
 ## TJ-LAW845-1999
 
 **Закон Республики Таджикистан «О борьбе с терроризмом»**
+
+Summary: Tajikistan's Law 'On combating terrorism' (О борьбе с терроризмом), from the National Legislation Centre under the President. A search listing gives 16 November 1999, No. 845, and says it lost force on 23 December 2021, but this is not confirmed. The cited copy could not be confirmed (the fetch timed out or returned HTTP 504), so its content is \[UNKNOWN\].
 
 - Issuing body: Национальный центр законодательства при Президенте Республики Таджикистан
 - Date: \[UNKNOWN\]
@@ -2934,6 +3214,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Закон Туркменистана «О внесении изменения в Закон Туркменистана „О борьбе с терроризмом“»**
 
+Summary: A Turkmen law amending the Law of Turkmenistan 'On combating terrorism', posted on the State information portal on 8 January 2013. It states that the original law was adopted on 15 August 2003 (Vedomosti Mejlisa 2003, No. 3, art. 28), and it replaces references to the State Drug Control Service in Articles 6 and 8 with 'State Service of Turkmenistan for the Protection of the Security of a Healthy Society'. It is the source for milestone T203.
+
 - Issuing body: Государственный информационный портал Туркменистана (turkmenistan.gov.tm)
 - Date: 2013-01-08
 - Type: statute
@@ -2954,6 +3236,8 @@ Cited by: [T203](../../timeline/post-9-11-2001-2014.md#T203)
 ## SCO-CONV2009-RU
 
 **Конвенция Шанхайской организации сотрудничества против терроризма**
+
+Summary: The Shanghai Cooperation Organisation Convention against Terrorism, in Russian, from the SCO's document records. The record gives adoption by the Council of Heads of State on 16 June 2009 in Yekaterinburg, entry into force from signature, and status as in force. It is the source for milestone T214; its provisions are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: Шанхайская организация сотрудничества (Совет глав государств)
 - Date: 2009-06-16
@@ -2976,6 +3260,8 @@ Cited by: [T214](../../timeline/post-9-11-2001-2014.md#T214)
 
 **Terrorism Suppression Act 2002 (2002 No 34)**
 
+Summary: New Zealand's Terrorism Suppression Act 2002 (2002 No 34), the statute as published by the Parliamentary Counsel Office. A search listing gives royal assent as 17 October 2002, but this is not confirmed. The cited copy could not be confirmed: the official site returned a bot check and the fetch timed out. What the Act provides is not recorded in CTA6 \[UNKNOWN\].
+
 - Issuing body: New Zealand Parliamentary Counsel Office (New Zealand Legislation)
 - Date: 2002
 - Type: statute
@@ -2996,6 +3282,8 @@ Cited by: none in `data/timeline.csv`.
 ## NZ-CTLA2021
 
 **Counter-Terrorism Legislation Act 2021 (2021 No 37)**
+
+Summary: New Zealand's Counter-Terrorism Legislation Act 2021 (2021 No 37), as published by the Parliamentary Counsel Office. A search listing gives royal assent as 4 October 2021, but this is not confirmed. The cited copy could not be confirmed: the official site returned a bot check and the fetch timed out. What the Act changes is not recorded in CTA6 \[UNKNOWN\].
 
 - Issuing body: New Zealand Parliamentary Counsel Office (New Zealand Legislation)
 - Date: 2021
@@ -3018,6 +3306,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Security Legislation Amendment (Terrorism) Act 2002 (No. 65, 2002)**
 
+Summary: Australia's Security Legislation Amendment (Terrorism) Act 2002 (No. 65, 2002), as shown on the Federal Register of Legislation, which lists it as administered by the Attorney-General's Department. As its title states, it amended Australia's security legislation on terrorism; its specific provisions are not recorded in CTA6 \[UNKNOWN\]. It is the source for milestone T201. The assent date is not in the capture; a search listing gives 5 July 2002.
+
 - Issuing body: Australian Government, Federal Register of Legislation
 - Date: 2002
 - Type: statute
@@ -3038,6 +3328,8 @@ Cited by: [T201](../../timeline/post-9-11-2001-2014.md#T201)
 ## AU-APH-CT-CHRON
 
 **Chronology of legislative developments (Terrorism law)**
+
+Summary: A chronology of Australian terrorism-law developments compiled by the Parliamentary Library of the Parliament of Australia. It is a secondary compilation that lists Acts with short descriptions, for example laws setting procedures for surveillance-device warrants and a maritime transport security framework. It is useful as a guide to how Australia's counter-terrorism laws were built up over time. The page is undated \[UNKNOWN\].
 
 - Issuing body: Parliament of Australia, Parliamentary Library
 - Date: \[UNKNOWN\]
@@ -3060,6 +3352,8 @@ Cited by: none in `data/timeline.csv`.
 
 **PM Marape commends Government, Opposition members for uniting to pass new 'monumental' Counter-Terrorism law**
 
+Summary: A news release of Papua New Guinea's Department of Prime Minister and National Executive Council, posted 3 December 2024. It states that Parliament passed the Counter-Terrorism Bill 2024 by 84 votes to 0 on 28 November 2024, above the 60-vote absolute majority required, and quotes Prime Minister Marape calling it 'a monumental, milestone law'; that description is the government's own. It is the source for milestone T230 because the text of the Act could not be retrieved.
+
 - Issuing body: Department of Prime Minister and National Executive Council (Papua New Guinea)
 - Date: 2024-12-03
 - Type: other
@@ -3080,6 +3374,8 @@ Cited by: [T230](../../timeline/recent-2014-now.md#T230)
 ## IN-POTA-REPEAL2004
 
 **The Prevention of Terrorism (Repeal) Act, 2004 (No. 26 of 2004)**
+
+Summary: India's Prevention of Terrorism (Repeal) Act, 2004 (No. 26 of 2004), dated 21 December 2004 (copy hosted by PRS Legislative Research). Its long title says it is an Act to repeal the Prevention of Terrorism Act, 2002, and milestone T206 records that the repeal took effect from 21 September 2004. It marks the end of India's 2002 terrorism law.
 
 - Issuing body: Parliament of India (copy hosted by PRS Legislative Research)
 - Date: 2004-12-21
@@ -3102,6 +3398,8 @@ Cited by: [T206](../../timeline/post-9-11-2001-2014.md#T206)
 
 **Constitution (Twenty-first Amendment) Act, 2015 (as passed by the National Assembly)**
 
+Summary: Pakistan's Constitution (Twenty-first Amendment) Act, 2015, as passed by the National Assembly. A search listing gives 7 January 2015, but this is not confirmed. The cited copy could not be confirmed (the fetch timed out or returned HTTP 504), so its content is \[UNKNOWN\] in CTA6.
+
 - Issuing body: National Assembly of Pakistan
 - Date: 2015
 - Type: statute
@@ -3122,6 +3420,8 @@ Cited by: none in `data/timeline.csv`.
 ## PK-FMU-ATA1997
 
 **The Anti-Terrorism Act, 1997 (XXVII of 1997), complete text**
+
+Summary: The complete text of Pakistan's Anti-Terrorism Act, 1997 (XXVII of 1997), from the Government of Pakistan's Financial Monitoring Unit. It is a separate official copy of the Act, including its provisions on organizations concerned in terrorism and terrorist investigations. It supports milestone T195; it does not change the unverified status of the Pakistan Code copy (PK-ATA1997).
 
 - Issuing body: Financial Monitoring Unit (Government of Pakistan)
 - Date: 1997
@@ -3144,6 +3444,8 @@ Cited by: [T195](../../timeline/1990-2001.md#T195)
 
 **Prevention of Terrorism (Temporary Provisions) (Amendment) Act, No. 12 of 2022**
 
+Summary: Sri Lanka's Prevention of Terrorism (Temporary Provisions) (Amendment) Act, No. 12 of 2022, certified on 29 March 2022 and published as a Gazette supplement. Its long title says it is an Act to amend the Prevention of Terrorism (Temporary Provisions) Act, No. 48 of 1979. It is the source for milestone T226 and is the amendment assessed by Human Rights Watch as a bill (T187).
+
 - Issuing body: Parliament of Sri Lanka (Department of Government Printing)
 - Date: 2022-03-29
 - Type: statute
@@ -3164,6 +3466,8 @@ Cited by: [T226](../../timeline/recent-2014-now.md#T226)
 ## MV-PTA2015-DV
 
 **ޓެރަރިޒަމް މަނާކުރުމުގެ ޤާނޫނު (ޤާނޫނު ނަންބަރު 32/2015)**
+
+Summary: The Maldives' Prevention of Terrorism Act, Law No. 32/2015, in Dhivehi, published in the Government Gazette vol. 44, no. 288 on 28 October 2015. As its title states, it is the Maldives' terrorism statute; the UN Special Rapporteur later found the Anti-Terrorism Act vaguely defined (SR-MDV-2023). It is the source for milestone T218.
 
 - Issuing body: Government Gazette of the Maldives (Dhivehi Raajjeyge Gazette), vol. 44, no. 288
 - Date: 2015-10-28
@@ -3186,6 +3490,8 @@ Cited by: [T218](../../timeline/recent-2014-now.md#T218)
 
 **국민보호와 공공안전을 위한 테러방지법 시행령 (대통령령 제27203호, 2016. 5. 31., 제정)**
 
+Summary: The Enforcement Decree of South Korea's Act on Anti-Terrorism for the Protection of Citizens and Public Security (Presidential Decree No. 27203), dated 31 May 2016 and in force from 4 June 2016, from the Korean Law Information Center. It is the implementing decree of the 2016 Act (T175). It is the source for milestone T219; its provisions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: Ministry of Government Legislation, Korean Law Information Center (국가법령정보센터)
 - Date: 2016-05-31
 - Type: statute
@@ -3206,6 +3512,8 @@ Cited by: [T219](../../timeline/recent-2014-now.md#T219)
 ## JP-TFINANCE-2002
 
 **公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する法律**
+
+Summary: Japan's Act on the Punishment of the Provision of Funds for Criminal Acts Intended to Intimidate the Public (Act No. 67 of 2002), in Japanese, from the e-Gov law search. The cited copy could not be confirmed, because the page loads only with JavaScript; its date comes from the National Diet Library record (JP-NDL-TFINANCE). Its content is \[UNKNOWN\] in CTA6.
 
 - Issuing body: e-Gov 法令検索 (Digital Agency, Japan)
 - Date: 2002-06-12
@@ -3228,6 +3536,8 @@ Cited by: none in `data/timeline.csv`.
 
 **公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する法律（平成14年6月12日法律第67号）（日本法令索引）**
 
+Summary: The National Diet Library's Japanese law index record for Act No. 67 of 2002, promulgated on 12 June 2002. The record gives its common name as the act punishing the provision of funds for terrorism, its classification as criminal law, and its status as in force, and says the Cabinet submitted the bill to the 154th Diet session. It is the source for milestone T200.
+
 - Issuing body: 国立国会図書館 日本法令索引 (National Diet Library)
 - Date: 2002-06-12
 - Type: database
@@ -3248,6 +3558,8 @@ Cited by: [T200](../../timeline/post-9-11-2001-2014.md#T200)
 ## SG-ISA-ABRULES
 
 **Internal Security (Detained Persons Advisory Board) Rules (G.N. No. S 23/1964)**
+
+Summary: Singapore's Internal Security (Detained Persons Advisory Board) Rules (G.N. No. S 23/1964), made under section 11(3) of the Internal Security Act and dated 16 January 1964 (revised edition 1990). CTA6's notes say Singapore has no national human rights institution and that this advisory board is the statutory review body for ISA detentions. It is the source for milestone T193.
 
 - Issuing body: Attorney-General's Chambers, Singapore Statutes Online
 - Date: 1964-01-16
