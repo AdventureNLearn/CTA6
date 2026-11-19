@@ -13,6 +13,8 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **Wall Street Bombing 1920**
 
+Summary: The FBI's history page on the 1920 Wall Street bombing. It calls the bombing of 16 September 1920 one of the young Bureau's earliest terrorism cases and says the best evidence suggests a small group of Italian anarchists was to blame, but that 'the mystery remains'; milestone T004 records that those responsible were not identified. The page is undated \[UNKNOWN\].
+
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -33,6 +35,8 @@ Cited by: [T004](../../timeline/pre-1945.md#T004)
 ## FBI-HIST
 
 **A Brief History (History of the FBI)**
+
+Summary: 'A Brief History', the FBI's official history page. It dates the founding of the federal investigative agency that became the FBI to 1908, under the heading 'The Nation Calls, 1908-1923'. It is the source for milestone T002 and is the FBI's own account of its origins; the page is undated \[UNKNOWN\].
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -55,6 +59,8 @@ Cited by: [T002](../../timeline/pre-1945.md#T002)
 
 **Antiterrorism and Effective Death Penalty Act of 1996 (Pub. L. 104-132)**
 
+Summary: The US Antiterrorism and Effective Death Penalty Act of 1996 (Pub. L. 104-132), enacted on 24 April 1996. Its long title says it is an Act to deter terrorism, provide justice for victims and provide for an effective death penalty, and it also contains rules for habeas cases brought by State prisoners under capital sentence. It is the source for milestone T038.
+
 - Issuing body: US Congress
 - Date: 1996-04-24
 - Type: statute
@@ -74,6 +80,8 @@ Cited by: [T038](../../timeline/1990-2001.md#T038)
 ## US-AUMF2001
 
 **Authorization for Use of Military Force (Pub. L. 107-40)**
+
+Summary: The Authorization for Use of Military Force (Pub. L. 107-40), enacted on 18 September 2001. It authorizes the President to use all necessary and appropriate force against those nations, organizations or persons he determines planned, authorized, committed or aided the 11 September 2001 attacks, or harbored them, to prevent future acts of international terrorism against the United States. It is the source for milestone T053, and its continued application was the subject of a 2015 Congressional Research Service report (CRS-R43983).
 
 - Issuing body: US Congress
 - Date: 2001-09-18
@@ -95,6 +103,8 @@ Cited by: [T053](../../timeline/post-9-11-2001-2014.md#T053)
 
 **USA PATRIOT Act (Pub. L. 107-56)**
 
+Summary: The USA PATRIOT Act (Pub. L. 107-56), enacted on 26 October 2001. Its long title says it is an Act to deter and punish terrorist acts in the United States and around the world and to enhance law enforcement investigatory tools; among other things it amended surveillance law, for example to cover electronic communications. It is the source for milestone T056, and parts of it were later reviewed by the Justice Department Inspector General (T094) and the Privacy and Civil Liberties Oversight Board (T109).
+
 - Issuing body: US Congress
 - Date: 2001-10-26
 - Type: statute
@@ -114,6 +124,8 @@ Cited by: [T056](../../timeline/post-9-11-2001-2014.md#T056)
 ## US-HSA2002
 
 **Homeland Security Act of 2002 (Pub. L. 107-296)**
+
+Summary: The Homeland Security Act of 2002 (Pub. L. 107-296), enacted on 25 November 2002. Its long title says it is an Act to establish the Department of Homeland Security. It is the source for milestone T065; DHS's own history says the Department combined all or part of 22 federal departments and agencies.
 
 - Issuing body: US Congress
 - Date: 2002-11-25
@@ -135,6 +147,8 @@ Cited by: [T065](../../timeline/post-9-11-2001-2014.md#T065)
 
 **Intelligence Reform and Terrorism Prevention Act of 2004 (Pub. L. 108-458)**
 
+Summary: The Intelligence Reform and Terrorism Prevention Act of 2004 (Pub. L. 108-458), enacted on 17 December 2004. Its long title says it is an Act to reform the US intelligence community and the Government's intelligence and intelligence-related activities. It is the source for milestone T081 and followed the 9/11 Commission Report of July 2004 (T077).
+
 - Issuing body: US Congress
 - Date: 2004-12-17
 - Type: statute
@@ -154,6 +168,8 @@ Cited by: [T081](../../timeline/post-9-11-2001-2014.md#T081)
 ## US-MCA2006
 
 **Military Commissions Act of 2006 (Pub. L. 109-366)**
+
+Summary: The Military Commissions Act of 2006 (Pub. L. 109-366), enacted on 17 October 2006. Its long title says it authorizes trial by military commission for violations of the law of war, and it establishes procedures for trying alien unlawful enemy combatants. It is the source for milestone T092 and one side of the people-disagree milestone T096, because it restricted habeas corpus before the Supreme Court's 2008 ruling.
 
 - Issuing body: US Congress
 - Date: 2006-10-17
@@ -175,6 +191,8 @@ Cited by: [T092](../../timeline/post-9-11-2001-2014.md#T092), [T096](../../timel
 
 **USA FREEDOM Act of 2015 (Pub. L. 114-23)**
 
+Summary: The USA FREEDOM Act of 2015 (Pub. L. 114-23), enacted on 2 June 2015. Its long title says it reforms the Federal Government's authorities to require the production of business records, conduct electronic surveillance, use pen registers and trap and trace devices, and gather information for foreign intelligence, counterterrorism and criminal purposes. It is the source for milestone T115 and followed the 2014 oversight board report on the Section 215 records program (T109).
+
 - Issuing body: US Congress
 - Date: 2015-06-02
 - Type: statute
@@ -194,6 +212,8 @@ Cited by: [T115](../../timeline/recent-2014-now.md#T115)
 ## US-EO13224
 
 **Executive Order 13224**
+
+Summary: US Executive Order 13224 of 23 September 2001 on blocking property of designated persons, as published by the Department of State. The order states its objectives include preventing and suppressing terrorism, denying financing and financial services to terrorists and terrorist organizations, and sharing information. It is the source for milestone T054 and is the basis of US terrorist-financing designations.
 
 - Issuing body: US Department of State
 - Date: 2001-09-23
@@ -215,6 +235,8 @@ Cited by: [T054](../../timeline/post-9-11-2001-2014.md#T054)
 
 **Detention, Treatment, and Trial of Certain Non-Citizens in the War Against Terrorism (Military Order of November 13, 2001)**
 
+Summary: The US President's Military Order of 13 November 2001, 'Detention, Treatment, and Trial of Certain Non-Citizens in the War Against Terrorism', published in the Federal Register. It created military commissions for certain non-citizens (milestone T058). The Supreme Court later held that the commission convened under it to try one petitioner lacked power to proceed, which is recorded as the people-disagree milestone T090.
+
 - Issuing body: Executive Office of the President (Federal Register)
 - Date: 2001-11-13
 - Type: statute
@@ -235,6 +257,8 @@ Cited by: [T058](../../timeline/post-9-11-2001-2014.md#T058), [T090](../../timel
 
 **Executive Order 13491: Ensuring Lawful Interrogations**
 
+Summary: US Executive Order 13491, 'Ensuring Lawful Interrogations', of 22 January 2009. The order states it is issued to improve the effectiveness of human intelligence-gathering, to promote the safe, lawful and humane treatment of individuals in US custody, and to ensure compliance with US treaty obligations. It is the source for milestone T098.
+
 - Issuing body: Executive Office of the President (Federal Register)
 - Date: 2009-01-22
 - Type: statute
@@ -254,6 +278,8 @@ Cited by: [T098](../../timeline/post-9-11-2001-2014.md#T098)
 ## US-911COMM
 
 **The 9/11 Commission Report**
+
+Summary: The 9/11 Commission Report of the National Commission on Terrorist Attacks Upon the United States, released on 22 July 2004. The Commission's page says it was mandated to examine the attacks and to provide recommendations designed to guard against future attacks. It is the official commission report on the 11 September attacks cited in CTA6 (T050, T077), and the 2004 intelligence reform law followed it (T081).
 
 - Issuing body: National Commission on Terrorist Attacks Upon the United States
 - Date: 2004-07-22
@@ -276,6 +302,8 @@ Cited by: [T050](../../timeline/post-9-11-2001-2014.md#T050), [T077](../../timel
 
 **Committee Study of the CIA's Detention and Interrogation Program (Executive Summary, S. Rpt. 113-288)**
 
+Summary: The executive summary of the US Senate Select Committee on Intelligence's 'Committee Study of the CIA's Detention and Interrogation Program' (S. Rpt. 113-288), released on 9 December 2014 with additional and minority views. It is the Senate's study of the CIA programme and the source for milestone T113. The CIA disputed some of its assertions (people-disagree milestone T166), and the European Court of Human Rights later drew on it in a rendition case (T181).
+
 - Issuing body: US Senate Select Committee on Intelligence
 - Date: 2014-12-09
 - Type: commission report
@@ -297,6 +325,8 @@ Cited by: [T113](../../timeline/recent-2014-now.md#T113), [T166](../../timeline/
 
 **National Strategy for Combating Terrorism**
 
+Summary: The National Strategy for Combating Terrorism, listed in CTA6 with the date 14 February 2003 (White House, State Department archive). The page captured at the cited link is the September 2006 version of the strategy, which says it builds directly on the February 2003 strategy, so the 2003 text itself was not confirmed at this link \[UNKNOWN\]. It belongs to the series of US national counterterrorism strategies continued in 2011 and 2018.
+
 - Issuing body: The White House (State Dept archive)
 - Date: 2003-02-14
 - Type: other
@@ -317,6 +347,8 @@ Cited by: none in `data/timeline.csv`.
 
 **National Strategy for Counterterrorism**
 
+Summary: The US National Strategy for Counterterrorism issued by the White House on 28 June 2011. The document says it sets out the overarching goals of US counterterrorism and the steps necessary to achieve them. It is the source for milestone T105.
+
 - Issuing body: The White House
 - Date: 2011-06-28
 - Type: other
@@ -336,6 +368,8 @@ Cited by: [T105](../../timeline/post-9-11-2001-2014.md#T105)
 ## US-NSCT2018
 
 **National Strategy for Counterterrorism of the United States of America**
+
+Summary: The National Strategy for Counterterrorism of the United States of America, issued by the White House in October 2018. As its title states, it is the US national counterterrorism strategy of that year; its contents are not summarized in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed: the link returned HTTP 403 and later 404, although the document had been found at an official archive copy.
 
 - Issuing body: The White House (hosted by ODNI/NCTC)
 - Date: 2018-10
@@ -358,6 +392,8 @@ Cited by: none in `data/timeline.csv`.
 
 **National Strategy for Countering Domestic Terrorism**
 
+Summary: The US National Strategy for Countering Domestic Terrorism, issued by the National Security Council in June 2021. The strategy says it is narrowly tailored to address violence that violates the law and threatens public safety, while protecting free expression. It is the source for milestone T130 and is the first national strategy in CTA6 focused on domestic terrorism.
+
 - Issuing body: National Security Council (The White House)
 - Date: 2021-06
 - Type: other
@@ -377,6 +413,8 @@ Cited by: [T130](../../timeline/recent-2014-now.md#T130)
 ## US-NCTC-HIST
 
 **NCTC History**
+
+Summary: The history page of the US National Counterterrorism Center (NCTC), part of the Office of the Director of National Intelligence. CTA6 cites it for two milestones: the opening of the Terrorist Threat Integration Center (T068) and Executive Order 13354 incorporating it into the NCTC (T078). The page is undated \[UNKNOWN\] and was confirmed through a text extraction only.
 
 - Issuing body: Office of the Director of National Intelligence / National Counterterrorism Center
 - Date: \[UNKNOWN\]
@@ -399,6 +437,8 @@ Cited by: [T068](../../timeline/post-9-11-2001-2014.md#T068), [T078](../../timel
 
 **Creation of the Department of Homeland Security**
 
+Summary: The US Department of Homeland Security's page on its own creation. It says DHS was created by combining all or part of 22 federal departments and agencies into a unified department. It is cited for milestone T065; the page is undated \[UNKNOWN\].
+
 - Issuing body: US Department of Homeland Security
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -419,6 +459,8 @@ Cited by: [T065](../../timeline/post-9-11-2001-2014.md#T065)
 ## US-STATE-FTO
 
 **Foreign Terrorist Organizations**
+
+Summary: The US State Department Bureau of Counterterrorism page on Foreign Terrorist Organizations (FTOs). It explains that FTOs are foreign organizations designated by the Secretary of State under section 219 of the Immigration and Nationality Act. It is the official US list of designated organizations; the page is undated, so the date of the list shown is \[UNKNOWN\].
 
 - Issuing body: US Department of State, Bureau of Counterterrorism
 - Date: \[UNKNOWN\]
@@ -441,6 +483,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Coordinator for Counterterrorism (Principal Officers)**
 
+Summary: The US State Department Office of the Historian's page on the Coordinator for Counterterrorism, in its Principal Officers database. It would record the holders of the State Department's counterterrorism coordinator post. The cited copy could not be confirmed: the page loaded only a script shell, and a later retry showed a notice that database updates are suspended; its content is \[UNKNOWN\].
+
 - Issuing body: US Department of State, Office of the Historian
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -461,6 +505,8 @@ Cited by: none in `data/timeline.csv`.
 ## FBI-WTC1993
 
 **World Trade Center Bombing 1993**
+
+Summary: The FBI's history page on the 1993 World Trade Center bombing. It says that on 26 February 1993 a bomb exploded in the parking garage beneath the World Trade Center, leaving a crater several stories deep and killing six people. It is the source for milestone T033; the page is undated \[UNKNOWN\].
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -483,6 +529,8 @@ Cited by: [T033](../../timeline/1990-2001.md#T033)
 
 **Oklahoma City Bombing**
 
+Summary: The FBI's history page on the Oklahoma City bombing of 19 April 1995. It describes a truck bomb detonated outside the Alfred P. Murrah Federal Building, and milestone T035 records the page's figure of 168 deaths. The page names the convicted perpetrator; CTA6 does not repeat the name here. The page is undated \[UNKNOWN\].
+
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -503,6 +551,8 @@ Cited by: [T035](../../timeline/1990-2001.md#T035)
 ## FBI-911
 
 **9/11 Investigation**
+
+Summary: The FBI's history page on its 9/11 investigation. It calls the investigation the FBI's largest case ever, saying more than half its agents worked on it at its peak and that it followed more than half a million leads. It is cited for milestone T050; the page is undated \[UNKNOWN\].
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -525,6 +575,8 @@ Cited by: [T050](../../timeline/post-9-11-2001-2014.md#T050)
 
 **R. v. Bush, 542 U.S. 466 (2004)**
 
+Summary: The US Supreme Court decision R. v. Bush, 542 U.S. 466, decided on 28 June 2004, from the official U.S. Reports. As recorded in milestone T075, it concerned whether federal courts had jurisdiction over habeas petitions from detainees at Guantanamo. It is the first of the Guantanamo detention cases in CTA6, followed by T090 and T096; the holding is not quoted in CTA6 \[UNKNOWN\].
+
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2004-06-28
 - Type: court record
@@ -545,6 +597,8 @@ Cited by: [T075](../../timeline/post-9-11-2001-2014.md#T075)
 ## USSC-2004-542-507
 
 **H. v. Rumsfeld, 542 U.S. 507 (2004)**
+
+Summary: The US Supreme Court decision H. v. Rumsfeld, 542 U.S. 507, decided on 28 June 2004. The syllabus records the plurality's conclusion that, although Congress authorized detention of combatants in the narrow circumstances alleged, due process demands that a US citizen held as an enemy combatant be given a meaningful opportunity to contest the factual basis for that detention before a neutral decisionmaker. It is the source for milestone T076.
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2004-06-28
@@ -567,6 +621,8 @@ Cited by: [T076](../../timeline/post-9-11-2001-2014.md#T076)
 
 **H. v. Rumsfeld, 548 U.S. 557 (2006)**
 
+Summary: The US Supreme Court decision H. v. Rumsfeld, 548 U.S. 557, decided on 29 June 2006. The Court held that the military commission convened to try the petitioner lacked power to proceed because its structure and procedures violated both the Uniform Code of Military Justice and the Geneva Conventions. It is one side of the people-disagree milestone T090, opposite the 2001 Military Order that created the commissions; Congress then passed the Military Commissions Act of 2006 (T092).
+
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2006-06-29
 - Type: court record
@@ -587,6 +643,8 @@ Cited by: [T090](../../timeline/post-9-11-2001-2014.md#T090)
 ## USSC-2008-553-723
 
 **B. v. Bush, 553 U.S. 723 (2008)**
+
+Summary: The US Supreme Court decision B. v. Bush, 553 U.S. 723, decided on 12 June 2008. The Court held that Guantanamo detainees have the constitutional privilege of habeas corpus and are not barred from seeking it because they were designated enemy combatants or held at Guantanamo, even though section 7 of the Military Commissions Act of 2006 denied courts jurisdiction. It is one side of the people-disagree milestone T096.
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2008-06-12
@@ -609,6 +667,8 @@ Cited by: [T096](../../timeline/post-9-11-2001-2014.md#T096)
 
 **Holder v. Humanitarian Law Project, 561 U.S. 1 (2010)**
 
+Summary: The US Supreme Court decision Holder v. Humanitarian Law Project, 561 U.S. 1, decided on 21 June 2010. The Court held that the federal material-support statute (18 U.S.C. § 2339B) is constitutional as applied to the forms of support the plaintiffs wanted to give to designated foreign terrorist organizations. It is the source for milestone T102.
+
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2010-06-21
 - Type: court record
@@ -628,6 +688,8 @@ Cited by: [T102](../../timeline/post-9-11-2001-2014.md#T102)
 ## CRS-R43983
 
 **2001 Authorization for Use of Military Force: Issues Concerning Its Continued Application (R43983)**
+
+Summary: '2001 Authorization for Use of Military Force: Issues Concerning Its Continued Application' (R43983), a 2015 report of the Congressional Research Service, Congress's research agency. As its title states, it examines questions about the continued use of the 2001 AUMF (T053). The cited copy could not be confirmed (HTTP 403), so its contents are \[UNKNOWN\] in CTA6.
 
 - Issuing body: Congressional Research Service
 - Date: 2015
@@ -650,6 +712,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Anti-terrorism Act (S.C. 2001, c. 41)**
 
+Summary: Canada's Anti-terrorism Act (S.C. 2001, c. 41), dated 18 December 2001, as published on the Justice Laws website. It is the source for milestone T060. Its provisions are not summarized in CTA6 \[UNKNOWN\], and the exact assent date is not shown on the fetched page.
+
 - Issuing body: Parliament of Canada (Justice Laws)
 - Date: 2001-12-18
 - Type: statute
@@ -669,6 +733,8 @@ Cited by: [T060](../../timeline/post-9-11-2001-2014.md#T060)
 ## CA-CTSTRAT2012
 
 **Building Resilience Against Terrorism: Canada's Counter-terrorism Strategy**
+
+Summary: 'Building Resilience Against Terrorism: Canada's Counter-terrorism Strategy', published by Public Safety Canada in 2012. The strategy says its aim is countering domestic and international terrorism to protect Canada, Canadians and Canadian interests, and for each element it sets out the purpose, desired outcomes and main programs. No milestone cites it yet.
 
 - Issuing body: Public Safety Canada
 - Date: 2012
@@ -690,6 +756,8 @@ Cited by: none in `data/timeline.csv`.
 
 **A Review of the Federal Bureau of Investigation's Use of National Security Letters**
 
+Summary: 'A Review of the Federal Bureau of Investigation's Use of National Security Letters', issued in March 2007 by the US Department of Justice Office of the Inspector General. Milestone T094 records that the review was directed by the 2005 PATRIOT Act reauthorization. It is an internal oversight review of an investigative power expanded after 2001; its findings are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: US Department of Justice, Office of the Inspector General
 - Date: 2007-03
 - Type: commission report
@@ -709,6 +777,8 @@ Cited by: [T094](../../timeline/post-9-11-2001-2014.md#T094)
 ## DOJOIG-215-2007
 
 **A Review of the FBI's Use of Section 215 Orders for Business Records**
+
+Summary: 'A Review of the FBI's Use of Section 215 Orders for Business Records', issued in March 2007 by the US Department of Justice Office of the Inspector General. As its title states, it reviews FBI use of the business-records power in section 215 of the PATRIOT Act, a power the Privacy and Civil Liberties Oversight Board also reviewed in 2014 (T109). Its findings are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: US Department of Justice, Office of the Inspector General
 - Date: 2007-03
@@ -730,6 +800,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Review of Four FISA Applications and Other Aspects of the FBI's Crossfire Hurricane Investigation**
 
+Summary: 'Review of Four FISA Applications and Other Aspects of the FBI's Crossfire Hurricane Investigation', issued by the US Department of Justice Office of the Inspector General (originally issued 9 December 2019). The report describes the investigation's initial analysis of links between members of a presidential campaign and Russia and says it found serious performance failures by agents responsible for the FISA applications; these are the Inspector General's findings. It is the source for milestone T127.
+
 - Issuing body: US Department of Justice, Office of the Inspector General
 - Date: 2019-12
 - Type: commission report
@@ -750,6 +822,8 @@ Cited by: [T127](../../timeline/recent-2014-now.md#T127)
 
 **The September 11 Detainees: A Review of the Treatment of Aliens Held on Immigration Charges in Connection with the Investigation of the September 11 Attacks**
 
+Summary: 'The September 11 Detainees', a review released on 2 June 2003 by the US Department of Justice Office of the Inspector General. It examines the treatment of non-citizens held on immigration charges in connection with the September 11 investigation, including the Department's decision to limit public information about the arrests. It is the source for milestone T069 and is an internal oversight review of post-9/11 detention practice.
+
 - Issuing body: US Department of Justice, Office of the Inspector General
 - Date: 2003-06-02
 - Type: commission report
@@ -769,6 +843,8 @@ Cited by: [T069](../../timeline/post-9-11-2001-2014.md#T069)
 ## PCLOB-HOME
 
 **Privacy and Civil Liberties Oversight Board (home page)**
+
+Summary: The home page of the US Privacy and Civil Liberties Oversight Board (PCLOB). The site holds the Board's oversight reports, semi-annual reports and projects. It is the Board that issued the 2014 Section 215 report (T109); the page is undated \[UNKNOWN\].
 
 - Issuing body: US Privacy and Civil Liberties Oversight Board
 - Date: \[UNKNOWN\]
@@ -791,6 +867,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Report on the Telephone Records Program Conducted under Section 215 of the USA PATRIOT Act and on the Operations of the Foreign Intelligence Surveillance Court**
 
+Summary: The Privacy and Civil Liberties Oversight Board's 'Report on the Telephone Records Program Conducted under Section 215 of the USA PATRIOT Act and on the Operations of the Foreign Intelligence Surveillance Court', dated 23 January 2014. The report says it arises from the Board's duty to review executive branch actions, gives its analysis and recommendations on the program and the FISA Court, and is the Board's first comprehensive study of a government program. It is the source for milestone T109.
+
 - Issuing body: US Privacy and Civil Liberties Oversight Board
 - Date: 2014-01-23
 - Type: commission report
@@ -810,6 +888,8 @@ Cited by: [T109](../../timeline/recent-2014-now.md#T109)
 ## GAO-17-300
 
 **Countering Violent Extremism: Actions Needed to Define Strategy and Assess Progress of Federal Efforts (GAO-17-300)**
+
+Summary: 'Countering Violent Extremism: Actions Needed to Define Strategy and Assess Progress of Federal Efforts' (GAO-17-300), published in April 2017 by the US Government Accountability Office. As its title states, it calls for a defined strategy and progress assessment for federal countering-violent-extremism efforts. It is the source for milestone T120; only the title was confirmed through a text extraction, so its detailed findings are \[UNKNOWN\].
 
 - Issuing body: US Government Accountability Office
 - Date: 2017-04
@@ -832,6 +912,8 @@ Cited by: [T120](../../timeline/recent-2014-now.md#T120)
 
 **Getting Away with Torture: The Bush Administration and Mistreatment of Detainees**
 
+Summary: 'Getting Away with Torture: The Bush Administration and Mistreatment of Detainees', a Human Rights Watch report dated 12 July 2011. HRW says it summarizes public information on the role of senior US officials in setting post-9/11 interrogation and detention policies, analyzes it under US and international law, and argues there is a basis for a criminal investigation. These are HRW's own conclusions; CTA6 lists it as an NGO critique.
+
 - Issuing body: Human Rights Watch
 - Date: 2011-07-12
 - Type: other
@@ -851,6 +933,8 @@ Cited by: none in `data/timeline.csv`.
 ## CA-LISTED
 
 **Currently listed entities**
+
+Summary: Public Safety Canada's page of 'Currently listed entities'. As its title states, it is the Government of Canada's current list of listed entities; the legal basis and contents are not recorded in CTA6 \[UNKNOWN\]. The page is undated, and it was confirmed on a retry by its title only.
 
 - Issuing body: Public Safety Canada
 - Date: \[UNKNOWN\]
@@ -873,6 +957,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to United States of America (A/HRC/6/17/Add.3)**
 
+Summary: Report A/HRC/6/17/Add.3 of the UN Special Rapporteur on human rights and counter-terrorism, Martin Scheinin, on his mission to the United States (November 2007). The report says the United States has a special responsibility to protect human rights while countering terrorism, and it raises concerns that military tribunals under the Military Commissions Act of 2006 have multiple incompatibilities with the ICCPR. These are the Special Rapporteur's assessments.
+
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2007-11-22
 - Type: commission report
@@ -894,6 +980,8 @@ Cited by: none in `data/timeline.csv`.
 
 **National Security and Intelligence Review Agency (home page)**
 
+Summary: The home page of Canada's National Security and Intelligence Review Agency (NSIRA). As its name states, it is Canada's review body for national security and intelligence activities; its mandate is not described in the capture \[UNKNOWN\]. The page is undated \[UNKNOWN\].
+
 - Issuing body: NSIRA (Canada)
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -914,6 +1002,8 @@ Cited by: none in `data/timeline.csv`.
 ## CIA-SSCI-2013
 
 **CIA's June 2013 Response to the SSCI Study on the Former Detention and Interrogation Program**
+
+Summary: The CIA's June 2013 response to the Senate Intelligence Committee's study of its former detention and interrogation program, dated 27 June 2013 and approved for release on 8 December 2014. The response groups the study's findings into four themes and states that the Agency disagrees with some of its assertions, including those about the intelligence the program produced. It is one side of the people-disagree milestone T166, opposite the committee's study (US-SSCI2014).
 
 - Issuing body: Central Intelligence Agency
 - Date: 2013-06-27

@@ -13,6 +13,8 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **Agreement for Bringing Peace to Afghanistan**
 
+Summary: The 'Agreement for Bringing Peace to Afghanistan', signed by the United States and the Taliban on 29 February 2020, as published by the US Department of State. The text says a comprehensive peace agreement has four parts, including guarantees that Afghan soil will not be used against the security of the United States and its allies, and a timeline for the withdrawal of all foreign forces. It is the source for milestone T128.
+
 - Issuing body: US Department of State
 - Date: 2020-02-29
 - Type: treaty
@@ -32,6 +34,8 @@ Cited by: [T128](../../timeline/recent-2014-now.md#T128)
 ## IN-NIA
 
 **National Investigation Agency (home page)**
+
+Summary: The home page of India's National Investigation Agency (NIA). It is the website of the agency created under the NIA Act, 2008 (T213). The cited copy could not be confirmed (HTTP 000), so its content is \[UNKNOWN\], and the page is undated.
 
 - Issuing body: National Investigation Agency, India
 - Date: \[UNKNOWN\]
@@ -54,6 +58,8 @@ Cited by: none in `data/timeline.csv`.
 
 **National Counter Terrorism Authority (home page)**
 
+Summary: The home page of Pakistan's National Counter Terrorism Authority (NACTA). The page says NACTA was assigned the role of monitoring body for Pakistan's National Action Plan, with provincial committees overseeing provincial agenda points. NACTA was established by the NACTA Act, 2013 (T215); the page is undated \[UNKNOWN\].
+
 - Issuing body: NACTA, Pakistan
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -74,6 +80,8 @@ Cited by: none in `data/timeline.csv`.
 ## UNSC2255
 
 **Security Council resolution 2255 (2015): Taliban sanctions (1988 regime)**
+
+Summary: UN Security Council resolution 2255, adopted on 21 December 2015, on the Taliban sanctions regime created by resolution 1988 (2011). It decides that all States shall take measures against individuals and entities designated as the Taliban or associated with them, and sets out the acts or activities that make someone eligible for listing. No milestone cites it directly; it updates the regime separated from the Al-Qaida regime in 2011 (T104).
 
 - Issuing body: UN Security Council
 - Date: 2015-12-21
@@ -96,6 +104,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Security Council resolution 1988 (2011): Taliban sanctions split from Al-Qaida regime**
 
+Summary: UN Security Council resolution 1988, adopted on 17 June 2011. It decides that all States shall take measures against individuals and entities designated as the Taliban and those associated with them, separately from the Al-Qaida regime (milestone T104 records that the two regimes were separated). Together with resolution 1989 it is the source for milestone T104.
+
 - Issuing body: UN Security Council
 - Date: 2011-06-17
 - Type: UN resolution
@@ -116,6 +126,8 @@ Cited by: [T104](../../timeline/post-9-11-2001-2014.md#T104)
 ## SR-LKA-2019
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Sri Lanka (A/HRC/40/52/Add.3)**
+
+Summary: Report A/HRC/40/52/Add.3 of the former UN Special Rapporteur on human rights and counter-terrorism on his visit to Sri Lanka from 10 to 14 July 2017 (dated 14 December 2018 in CTA6). The report says the visit assessed Sri Lanka's progress in counter-terrorism policies, laws and practices since the end of its internal armed conflict, which it links to accountability and reconciliation. It is the source for milestone T221.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2018-12-14
@@ -138,6 +150,8 @@ Cited by: [T221](../../timeline/recent-2014-now.md#T221)
 
 **The Unlawful Activities (Prevention) Act, 1967**
 
+Summary: India's Unlawful Activities (Prevention) Act, 1967, at India Code. Amnesty International describes it as India's counterterrorism law (AMN-IND-2023); it was enacted on 30 December 1967 according to the Hindi text (T136). The cited English copy could not be confirmed (HTTP 000), so the milestone relies on the Hindi text (IN-UAPA-HI).
+
 - Issuing body: India Code (Legislative Department, Ministry of Law and Justice)
 - Date: 1967-12-30
 - Type: statute
@@ -158,6 +172,8 @@ Cited by: [T136](../../timeline/1945-1990.md#T136)
 ## IN-NIA-UAPA
 
 **Unlawful Activities Prevention Act and Rules**
+
+Summary: A National Investigation Agency page titled 'Unlawful Activities Prevention Act and Rules'. It would hold the UAPA and its rules as published by the agency. The cited copy could not be confirmed (HTTP 000), so its content and date are \[UNKNOWN\].
 
 - Issuing body: National Investigation Agency, India
 - Date: \[UNKNOWN\]
@@ -180,6 +196,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Anti Terrorism Act (ATA), 1997**
 
+Summary: Pakistan's Anti Terrorism Act (ATA), 1997, at the Pakistan Code website, dated 20 August 1997 in CTA6. The cited copy could not be confirmed (HTTP 000); milestone T195 relies instead on separate official copies (PK-NACTA-ATA and PK-FMU-ATA1997).
+
 - Issuing body: Pakistan Code (Ministry of Law and Justice)
 - Date: 1997-08-20
 - Type: statute
@@ -200,6 +218,8 @@ Cited by: none in `data/timeline.csv`.
 ## PK-ATA1997-FIA
 
 **The Anti-Terrorism Act, 1997**
+
+Summary: Pakistan's Anti-Terrorism Act, 1997, as published by the Federal Investigation Agency. It is a second official copy of the 1997 Act. The cited copy could not be confirmed (HTTP 500).
 
 - Issuing body: Federal Investigation Agency, Pakistan
 - Date: 1997-08-20
@@ -222,6 +242,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Prevention of Terrorism (Temporary Provisions) Act, No. 48 of 1979 (public consultation page)**
 
+Summary: A public consultation page of Sri Lanka's Ministry of Justice on the Prevention of Terrorism (Temporary Provisions) Act, No. 48 of 1979. It gives the Act's official number and year (T194) and shows the Act was the subject of a ministry public consultation; the consultation's date and content are \[UNKNOWN\]. It is also cited for milestone T187.
+
 - Issuing body: Ministry of Justice, Sri Lanka
 - Date: \[UNKNOWN\]
 - Type: other
@@ -242,6 +264,8 @@ Cited by: [T187](../../timeline/recent-2014-now.md#T187), [T194](../../timeline/
 ## BD-ATA2009
 
 **সন্ত্রাস বিরোধী আইন, ২০০৯**
+
+Summary: Bangladesh's Anti-Terrorism Act, 2009 (Act No. 16 of 2009), in Bengali, from the official Bangladesh Laws website. The site dates it 24 February 2009 (T159). As its title states, it is Bangladesh's anti-terrorism statute; its provisions are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: Bangladesh Laws (Legislative and Parliamentary Affairs Division)
 - Date: 2009-02-24
@@ -264,6 +288,8 @@ Cited by: [T159](../../timeline/post-9-11-2001-2014.md#T159)
 
 **SAARC Regional Convention on Suppression of Terrorism (Kathmandu, 4 November 1987)**
 
+Summary: The SAARC Regional Convention on Suppression of Terrorism, done at Kathmandu on 4 November 1987 and in force from 22 August 1988 (text hosted by the University of Oslo treaty library). Article I provides that conduct constituting listed offences shall be regarded as terroristic and, for extradition, shall not be treated as a political offence. It is the South Asian regional treaty on terrorism and the source for milestone T140.
+
 - Issuing body: SAARC (text hosted by the University of Oslo Faculty of Law treaty library)
 - Date: 1987-11-04
 - Type: treaty
@@ -284,6 +310,8 @@ Cited by: [T140](../../timeline/1945-1990.md#T140)
 ## HRW-LKA-2022
 
 **"In a Legal Black Hole": Sri Lanka's Failure to Reform the Prevention of Terrorism Act**
+
+Summary: 'In a Legal Black Hole': Sri Lanka's Failure to Reform the Prevention of Terrorism Act', a Human Rights Watch report of 7 February 2022. HRW says it gives a critical assessment of the PTA and its recent use, based on research since 2018 and interviews in 2021, and argues the proposed amendments would leave the framework largely intact; these are HRW's own assessments. It is the source for milestone T187; Sri Lanka's amendment act followed in March 2022 (T226).
 
 - Issuing body: Human Rights Watch
 - Date: 2022-02-07
@@ -306,6 +334,8 @@ Cited by: [T187](../../timeline/recent-2014-now.md#T187)
 
 **India: Arrests, raids target critics of government (ASA 20/7303/2023)**
 
+Summary: 'India: Arrests, raids target critics of government' (ASA 20/7303/2023), an Amnesty International statement of October 2023. It is a joint statement by several international organizations, which says cases were registered against critics under India's counter-terrorism law, the Unlawful Activities (Prevention) Act (UAPA). The characterisations are Amnesty's and the co-signers'; no milestone cites it yet.
+
 - Issuing body: Amnesty International
 - Date: 2023-10
 - Type: other
@@ -326,6 +356,8 @@ Cited by: none in `data/timeline.csv`.
 ## AMN-IND-2024
 
 **Human Rights Charter - India (ASA 20/8154/2024)**
+
+Summary: 'Human Rights Charter - India' (ASA 20/8154/2024), an Amnesty International document of 13 June 2024. It sets out Amnesty's recommendations to the Indian government, for example on remedies for forced evictions. Its specific counter-terrorism content is not recorded in CTA6 \[UNKNOWN\]; the recommendations are Amnesty's.
 
 - Issuing body: Amnesty International
 - Date: 2024-06-13
@@ -348,6 +380,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: visit to Maldives (A/HRC/52/39/Add.1)**
 
+Summary: Report A/HRC/52/39/Add.1 of the UN Special Rapporteur on human rights and counter-terrorism on her visit to the Maldives from 15 to 24 May 2022, dated 15 March 2023. The Special Rapporteur identifies human rights challenges arising from the Maldives' security, counter-terrorism and 'extremism' frameworks and finds the Anti-Terrorism Act vaguely defined; these are her assessments. It is the source for milestone T189.
+
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2023-03-15
 - Type: commission report
@@ -368,6 +402,8 @@ Cited by: [T189](../../timeline/recent-2014-now.md#T189)
 ## HRCSL-PRISON-2020
 
 **Prison Study by the Human Rights Commission of Sri Lanka (concise version)**
+
+Summary: The concise version of the Prison Study by the Human Rights Commission of Sri Lanka, published in 2020. The study says it covers the physical and social dimensions of prisons and the legal framework, and it includes a section on prisoners held under the Prevention of Terrorism Act. It is the source for milestone T225; its findings are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: Human Rights Commission of Sri Lanka
 - Date: 2020
@@ -390,6 +426,8 @@ Cited by: [T225](../../timeline/recent-2014-now.md#T225)
 
 **विधिविरुद्ध क्रियाकलाप (निवारण) अधिनियम, 1967 (हिंदी पाठ)**
 
+Summary: The Hindi text of India's Unlawful Activities (Prevention) Act, 1967, hosted on a Government of India platform (the hosting ministry is \[UNKNOWN\]). It states the Act is No. 37 of 1967, dated 30 December 1967, and is the source for milestone T136. The Act's provisions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: Government of India (file on the government s3waas hosting platform)
 - Date: 1967-12-30
 - Type: statute
@@ -410,6 +448,8 @@ Cited by: [T136](../../timeline/1945-1990.md#T136)
 ## IN-NIA-UAPA-HI
 
 **यूएपीए | राष्ट्रीय अन्वेषण अभिकरण**
+
+Summary: The Hindi-language UAPA page of India's National Investigation Agency. It would present the Unlawful Activities (Prevention) Act in Hindi. The cited copy could not be confirmed (HTTP 000), so its content is \[UNKNOWN\].
 
 - Issuing body: राष्ट्रीय अन्वेषण अभिकरण (National Investigation Agency, India)
 - Date: \[UNKNOWN\]
@@ -432,6 +472,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Pakistan Code: Urdu laws index**
 
+Summary: The Pakistan Code index of Urdu-language laws (Ministry of Law and Justice). It is the official index of Urdu texts of Pakistani laws; an Urdu text of the Anti-Terrorism Act 1997 was not confirmed. The cited copy could not be confirmed (HTTP 000), and CTA6 still has no Urdu-language source.
+
 - Issuing body: Pakistan Code (Ministry of Law and Justice)
 - Date: \[UNKNOWN\]
 - Type: other
@@ -452,6 +494,8 @@ Cited by: none in `data/timeline.csv`.
 ## PK-NACTA-ATA
 
 **Anti-Terrorism Act, 1997 (as published by NACTA)**
+
+Summary: Pakistan's Anti-Terrorism Act, 1997, as published by the National Counter Terrorism Authority (NACTA). Its provisions include when an organization is 'concerned in terrorism', for example if it commits, facilitates, prepares for, or promotes or encourages terrorism. It is a verified official copy used for milestone T195, since the Pakistan Code copy could not be confirmed.
 
 - Issuing body: National Counter Terrorism Authority, Pakistan
 - Date: 1997
@@ -474,6 +518,8 @@ Cited by: [T195](../../timeline/1990-2001.md#T195)
 
 **राष्ट्रीय अन्वेषण अभिकरण अधिनियम, 2008 (2008 का अधिनियम संख्यांक 34)**
 
+Summary: The Hindi text of India's National Investigation Agency Act, 2008 (Act No. 34 of 2008), hosted by the Ministry of Home Affairs / NIA. It bears the date 31 December 2008 and is the source for milestone T213. As its title states, it is the law establishing the NIA; its provisions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: Ministry of Home Affairs / National Investigation Agency (Government of India, S3WaaS)
 - Date: 2008-12-31
 - Type: statute
@@ -494,6 +540,8 @@ Cited by: [T213](../../timeline/post-9-11-2001-2014.md#T213)
 ## IN-NIA-ACT2008
 
 **National Investigation Agency Act, 2008**
+
+Summary: India's National Investigation Agency Act, 2008, in English at India Code. It is the law that created India's National Investigation Agency. The cited copy could not be confirmed (the fetch timed out), and its date is taken from the Hindi text (IN-NIA-ACT2008-HI).
 
 - Issuing body: Legislative Department, Government of India (India Code)
 - Date: 2008-12-31
@@ -516,6 +564,8 @@ Cited by: none in `data/timeline.csv`.
 
 **The Prevention of Terrorism (Repeal) Act, 2004 (No. 26 of 2004)**
 
+Summary: India's Prevention of Terrorism (Repeal) Act, 2004 (No. 26 of 2004), dated 21 December 2004 (copy hosted by PRS Legislative Research). Its long title says it is an Act to repeal the Prevention of Terrorism Act, 2002, and milestone T206 records that the repeal took effect from 21 September 2004. It marks the end of India's 2002 terrorism law.
+
 - Issuing body: Parliament of India (copy hosted by PRS Legislative Research)
 - Date: 2004-12-21
 - Type: statute
@@ -536,6 +586,8 @@ Cited by: [T206](../../timeline/post-9-11-2001-2014.md#T206)
 ## PK-NACTA-ACT2013
 
 **National Counter Terrorism Authority Act, 2013 (Act No. XIX of 2013)**
+
+Summary: Pakistan's National Counter Terrorism Authority Act, 2013 (Act No. XIX of 2013), as published by NACTA. Its preamble describes terrorism and extremism as an existential threat to the State and says a focal institution is needed to unify the national response, and the Act establishes the National Counter Terrorism Authority. It is the source for milestone T215; the day and month are \[UNKNOWN\].
 
 - Issuing body: National Counter Terrorism Authority (Government of Pakistan)
 - Date: 2013
@@ -558,6 +610,8 @@ Cited by: [T215](../../timeline/post-9-11-2001-2014.md#T215)
 
 **Constitution (Twenty-first Amendment) Act, 2015 (as passed by the National Assembly)**
 
+Summary: Pakistan's Constitution (Twenty-first Amendment) Act, 2015, as passed by the National Assembly. A search listing gives 7 January 2015, but this is not confirmed. The cited copy could not be confirmed (the fetch timed out or returned HTTP 504), so its content is \[UNKNOWN\] in CTA6.
+
 - Issuing body: National Assembly of Pakistan
 - Date: 2015
 - Type: statute
@@ -578,6 +632,8 @@ Cited by: none in `data/timeline.csv`.
 ## PK-FMU-ATA1997
 
 **The Anti-Terrorism Act, 1997 (XXVII of 1997), complete text**
+
+Summary: The complete text of Pakistan's Anti-Terrorism Act, 1997 (XXVII of 1997), from the Government of Pakistan's Financial Monitoring Unit. It is a separate official copy of the Act, including its provisions on organizations concerned in terrorism and terrorist investigations. It supports milestone T195; it does not change the unverified status of the Pakistan Code copy (PK-ATA1997).
 
 - Issuing body: Financial Monitoring Unit (Government of Pakistan)
 - Date: 1997
@@ -600,6 +656,8 @@ Cited by: [T195](../../timeline/1990-2001.md#T195)
 
 **Prevention of Terrorism (Temporary Provisions) (Amendment) Act, No. 12 of 2022**
 
+Summary: Sri Lanka's Prevention of Terrorism (Temporary Provisions) (Amendment) Act, No. 12 of 2022, certified on 29 March 2022 and published as a Gazette supplement. Its long title says it is an Act to amend the Prevention of Terrorism (Temporary Provisions) Act, No. 48 of 1979. It is the source for milestone T226 and is the amendment assessed by Human Rights Watch as a bill (T187).
+
 - Issuing body: Parliament of Sri Lanka (Department of Government Printing)
 - Date: 2022-03-29
 - Type: statute
@@ -620,6 +678,8 @@ Cited by: [T226](../../timeline/recent-2014-now.md#T226)
 ## MV-PTA2015-DV
 
 **ޓެރަރިޒަމް މަނާކުރުމުގެ ޤާނޫނު (ޤާނޫނު ނަންބަރު 32/2015)**
+
+Summary: The Maldives' Prevention of Terrorism Act, Law No. 32/2015, in Dhivehi, published in the Government Gazette vol. 44, no. 288 on 28 October 2015. As its title states, it is the Maldives' terrorism statute; the UN Special Rapporteur later found the Anti-Terrorism Act vaguely defined (SR-MDV-2023). It is the source for milestone T218.
 
 - Issuing body: Government Gazette of the Maldives (Dhivehi Raajjeyge Gazette), vol. 44, no. 288
 - Date: 2015-10-28
@@ -642,6 +702,8 @@ Cited by: [T218](../../timeline/recent-2014-now.md#T218)
 
 **National Counter Terrorism Centre (laws page)**
 
+Summary: The laws page of the Maldives' National Counter Terrorism Centre. It lists the Prevention of Terrorism Act (Act No. 32/2015) and its 2016 amendment, a state policy on terrorism and violent extremism, and the Prevention of Money Laundering and Financing of Terrorism Act (No. 10/2014). The page is undated \[UNKNOWN\].
+
 - Issuing body: National Counter Terrorism Centre (Maldives)
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -663,6 +725,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Annual Report 2019-2020**
 
+Summary: The Annual Report 2019-2020 of India's National Human Rights Commission, covering 1 April 2019 to 31 March 2020. It covers issues including civil liberties, terrorism and militancy, custodial violence and torture. Its specific findings on counter-terrorism are not summarized in CTA6 \[UNKNOWN\], and its publication date is \[UNKNOWN\].
+
 - Issuing body: National Human Rights Commission, India
 - Date: \[UNKNOWN\]
 - Type: commission report
@@ -683,6 +747,8 @@ Cited by: none in `data/timeline.csv`.
 ## PK-NCHR-AR2024
 
 **Annual Report 2024**
+
+Summary: The Annual Report 2024 of Pakistan's National Commission for Human Rights, published in 2025. The report lists among the Commission's functions reviewing factors, including acts of terrorism, that inhibit the enjoyment of human rights and recommending remedies. Its specific counter-terrorism findings are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: National Commission for Human Rights (Pakistan)
 - Date: 2025

@@ -13,6 +13,8 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **Christchurch Call (home page)**
 
+Summary: The home page of the Christchurch Call, a grouping of governments and online service providers. The page says the Call was formed two months after the Christchurch mosque attacks, and that its supporters have made 25 commitments to eliminate terrorist and violent extremist content online while upholding human rights and a free, open, secure internet. CTA6 cites it with the Royal Commission report for milestone T125. The page is undated \[UNKNOWN\].
+
 - Issuing body: Christchurch Call
 - Date: \[UNKNOWN\]
 - Type: other
@@ -33,6 +35,8 @@ Cited by: [T125](../../timeline/recent-2014-now.md#T125)
 ## NZ-RCOI
 
 **Royal Commission of Inquiry into the terrorist attack on Christchurch masjidain**
+
+Summary: The report of New Zealand's Royal Commission of Inquiry into the terrorist attack on the Christchurch masjidain (mosques), dated 26 November 2020. It is the official inquiry record of the 15 March 2019 attack and is the source for milestone T125. Its findings are not summarized in CTA6 \[UNKNOWN\]; the title was confirmed through a text extraction because the site blocked a direct capture.
 
 - Issuing body: Royal Commission of Inquiry (New Zealand)
 - Date: 2020-11-26
@@ -55,6 +59,8 @@ Cited by: [T125](../../timeline/recent-2014-now.md#T125)
 
 **Australian National Security: Terrorism (Listed terrorist organisations)**
 
+Summary: An Australian Government web page on the Australian National Security site listing the organisations Australia has listed as terrorist organisations. It records which groups carry that legal designation in Australia. The page is undated, so the date of the list it shows is \[UNKNOWN\].
+
 - Issuing body: Australian Government
 - Date: \[UNKNOWN\]
 - Type: other
@@ -75,6 +81,8 @@ Cited by: none in `data/timeline.csv`.
 ## AU-INSLM
 
 **Independent National Security Legislation Monitor (home page)**
+
+Summary: The home page of Australia's Independent National Security Legislation Monitor (INSLM), an independent office that reviews national security and counter-terrorism laws. CTA6 cites it for milestone T192, the Monitor's October 2026 report to the Attorney-General on the definition of a 'terrorist act'. The page is undated \[UNKNOWN\] and was verified through a text extraction only.
 
 - Issuing body: Independent National Security Legislation Monitor (Australia)
 - Date: \[UNKNOWN\]
@@ -97,6 +105,8 @@ Cited by: [T192](../../timeline/recent-2014-now.md#T192)
 
 **Terrorism Suppression Act 2002 (2002 No 34)**
 
+Summary: New Zealand's Terrorism Suppression Act 2002 (2002 No 34), the statute as published by the Parliamentary Counsel Office. A search listing gives royal assent as 17 October 2002, but this is not confirmed. The cited copy could not be confirmed: the official site returned a bot check and the fetch timed out. What the Act provides is not recorded in CTA6 \[UNKNOWN\].
+
 - Issuing body: New Zealand Parliamentary Counsel Office (New Zealand Legislation)
 - Date: 2002
 - Type: statute
@@ -117,6 +127,8 @@ Cited by: none in `data/timeline.csv`.
 ## NZ-CTLA2021
 
 **Counter-Terrorism Legislation Act 2021 (2021 No 37)**
+
+Summary: New Zealand's Counter-Terrorism Legislation Act 2021 (2021 No 37), as published by the Parliamentary Counsel Office. A search listing gives royal assent as 4 October 2021, but this is not confirmed. The cited copy could not be confirmed: the official site returned a bot check and the fetch timed out. What the Act changes is not recorded in CTA6 \[UNKNOWN\].
 
 - Issuing body: New Zealand Parliamentary Counsel Office (New Zealand Legislation)
 - Date: 2021
@@ -139,6 +151,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Security Legislation Amendment (Terrorism) Act 2002 (No. 65, 2002)**
 
+Summary: Australia's Security Legislation Amendment (Terrorism) Act 2002 (No. 65, 2002), as shown on the Federal Register of Legislation, which lists it as administered by the Attorney-General's Department. As its title states, it amended Australia's security legislation on terrorism; its specific provisions are not recorded in CTA6 \[UNKNOWN\]. It is the source for milestone T201. The assent date is not in the capture; a search listing gives 5 July 2002.
+
 - Issuing body: Australian Government, Federal Register of Legislation
 - Date: 2002
 - Type: statute
@@ -159,6 +173,8 @@ Cited by: [T201](../../timeline/post-9-11-2001-2014.md#T201)
 ## AU-SENATE-BALI2004
 
 **Bali 2002: Security threats to Australians in South East Asia**
+
+Summary: A report of the Australian Senate's Foreign Affairs, Defence and Trade committee, 'Bali 2002: Security threats to Australians in South East Asia', dated 12 August 2004. Its contents page shows chapters on travel advice in the lead-up to the Bali attacks of 12 October 2002, on intelligence reports and threat assessments, and on compensation for victims, plus remarks by Government Senators and a dissenting report. It is a parliamentary review of how threat information was handled before the attacks and is the source for milestone T205; its findings are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: Parliament of Australia, Senate (Foreign Affairs, Defence and Trade committee, per the page path)
 - Date: 2004-08-12
@@ -181,6 +197,8 @@ Cited by: [T205](../../timeline/post-9-11-2001-2014.md#T205)
 
 **Chronology of legislative developments (Terrorism law)**
 
+Summary: A chronology of Australian terrorism-law developments compiled by the Parliamentary Library of the Parliament of Australia. It is a secondary compilation that lists Acts with short descriptions, for example laws setting procedures for surveillance-device warrants and a maritime transport security framework. It is useful as a guide to how Australia's counter-terrorism laws were built up over time. The page is undated \[UNKNOWN\].
+
 - Issuing body: Parliament of Australia, Parliamentary Library
 - Date: \[UNKNOWN\]
 - Type: other
@@ -201,6 +219,8 @@ Cited by: none in `data/timeline.csv`.
 ## AU-INSLM-2018
 
 **Stop, search and seize powers; Declared Areas; Control orders and Preventative detention orders (INSLM statutory deadline reviews)**
+
+Summary: Reports by Australia's Independent National Security Legislation Monitor on statutory deadline reviews of stop, search and seize powers, declared areas, control orders and preventative detention orders. The Monitor's page says the reviews were completed on 7 September 2017 after a public hearing on 19 May 2017, and that the Parliamentary Joint Committee on Intelligence and Security published its own reports on the same powers on 1 March 2018. It shows the independent review of these counter-terrorism powers required by law and is the source for milestone T222.
 
 - Issuing body: Independent National Security Legislation Monitor (Australia)
 - Date: 2017-09-07
@@ -223,6 +243,8 @@ Cited by: [T222](../../timeline/recent-2014-now.md#T222)
 
 **Government response to INSLM Reviews of Control Orders and Preventative Detention Orders; Declared Areas; and Stop, Search and Seize Powers**
 
+Summary: The Australian Government's response, published by the Attorney-General's Department, to the Monitor's reviews of control orders, preventative detention orders, declared areas, and stop, search and seize powers. It is the government's reply to the reviews listed under AU-INSLM-2018. The cited copy could not be confirmed (the fetch timed out), and its date and content are \[UNKNOWN\].
+
 - Issuing body: Attorney-General's Department (Australia)
 - Date: \[UNKNOWN\]
 - Type: other
@@ -243,6 +265,8 @@ Cited by: none in `data/timeline.csv`.
 ## PG-PMNEC-CTA2024
 
 **PM Marape commends Government, Opposition members for uniting to pass new 'monumental' Counter-Terrorism law**
+
+Summary: A news release of Papua New Guinea's Department of Prime Minister and National Executive Council, posted 3 December 2024. It states that Parliament passed the Counter-Terrorism Bill 2024 by 84 votes to 0 on 28 November 2024, above the 60-vote absolute majority required, and quotes Prime Minister Marape calling it 'a monumental, milestone law'; that description is the government's own. It is the source for milestone T230 because the text of the Act could not be retrieved.
 
 - Issuing body: Department of Prime Minister and National Executive Council (Papua New Guinea)
 - Date: 2024-12-03

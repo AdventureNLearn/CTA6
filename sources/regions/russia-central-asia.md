@@ -13,6 +13,8 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Kazakhstan (A/HRC/43/46/Add.1)**
 
+Summary: Report A/HRC/43/46/Add.1 of the UN Special Rapporteur on human rights and counter-terrorism on her visit to Kazakhstan from 10 to 17 May 2019, dated 22 January 2020. Among other concerns, she says detention and prison regimes for people accused or convicted of terrorism are subject to exceptional rules, and that terrorism offences are not eligible for bail or early release; these are her assessments. It is the source for milestone T183.
+
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2020-01-22
 - Type: commission report
@@ -33,6 +35,8 @@ Cited by: [T183](../../timeline/recent-2014-now.md#T183)
 ## SCO-RATS
 
 **Regional Anti-Terrorist Structure of the Shanghai Cooperation Organisation (official site)**
+
+Summary: The official website of the Regional Anti-Terrorist Structure of the Shanghai Cooperation Organisation (RATS SCO), in Russian. The site has sections on the structure's history and mission, its leadership and the SCO member states. RATS was set up under the 2002 agreement (T199); the page is undated \[UNKNOWN\].
 
 - Issuing body: SCO RATS
 - Date: \[UNKNOWN\]
@@ -55,6 +59,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Федеральный закон от 06.03.2006 г. № 35-ФЗ «О противодействии терроризму»**
 
+Summary: Russia's Federal Law No. 35-FZ of 6 March 2006, 'On countering terrorism' (О противодействии терроризму), from the Kremlin website. According to the page, the State Duma adopted it on 26 February 2006 and the Federation Council approved it on 1 March 2006. It is the source for milestone T155; its provisions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: Президент России (kremlin.ru)
 - Date: 2006-03-06
 - Type: statute
@@ -75,6 +81,8 @@ Cited by: [T155](../../timeline/post-9-11-2001-2014.md#T155)
 ## SCO-CONV2001
 
 **The Shanghai Convention on Combating Terrorism, Separatism and Extremism**
+
+Summary: The Shanghai Convention on Combating Terrorism, Separatism and Extremism, done at Shanghai on 15 June 2001. It defines 'terrorism' partly by reference to offences in the treaties listed in its Annex, and it defines 'separatism' as acts intended to violate a State's territorial integrity or to disintegrate a State violently. It is the founding counter-terrorism treaty of the SCO states in CTA6 and a source for milestone T148.
 
 - Issuing body: Shanghai Cooperation Organisation
 - Date: 2001-06-15
@@ -97,6 +105,8 @@ Cited by: [T148](../../timeline/post-9-11-2001-2014.md#T148)
 
 **打击恐怖主义、分裂主义和极端主义上海公约 (条约数据库)**
 
+Summary: The Chinese Ministry of Foreign Affairs treaty-database record for the Shanghai Convention on Combating Terrorism, Separatism and Extremism. The record gives adoption on 15 June 2001, signing in Shanghai and entry into force on 29 March 2003. It is a source for milestone T148.
+
 - Issuing body: 中华人民共和国外交部 条约数据库
 - Date: 2001-06-15
 - Type: treaty
@@ -117,6 +127,8 @@ Cited by: [T148](../../timeline/post-9-11-2001-2014.md#T148)
 ## KZ-LAW416-1999
 
 **Закон Республики Казахстан от 13 июля 1999 года № 416 «О противодействии терроризму»**
+
+Summary: Kazakhstan's Law No. 416 of 13 July 1999, 'On countering terrorism' (О противодействии терроризму), from the Ministry of Justice's Adilet legal database. As its title states, it is Kazakhstan's counter-terrorism law. The cited copy could not be confirmed (the expected text was not found), so its content is \[UNKNOWN\] in CTA6.
 
 - Issuing body: ИПС «Әділет» (Министерство юстиции Республики Казахстан)
 - Date: 1999-07-13
@@ -139,6 +151,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Закон Республики Узбекистан от 15.12.2000 г. № 167-II «О борьбе с терроризмом»**
 
+Summary: Uzbekistan's Law No. 167-II of 15 December 2000, 'On combating terrorism' (О борьбе с терроризмом), from the national legislation database lex.uz. Article 1 says its purpose is to regulate relations in the field of combating terrorism. It is the source for milestone T147.
+
 - Issuing body: Национальная база данных законодательства Республики Узбекистан (lex.uz)
 - Date: 2000-12-15
 - Type: statute
@@ -159,6 +173,8 @@ Cited by: [T147](../../timeline/1990-2001.md#T147)
 ## SR-UZB-2022
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: visit to Uzbekistan (A/HRC/49/45/Add.1)**
+
+Summary: Report A/HRC/49/45/Add.1 of the UN Special Rapporteur on human rights and counter-terrorism on her visit to Uzbekistan from 29 November to 7 December 2021, dated 25 February 2022. She notes reforms under way and says she is concerned that security-related provisions are used to discourage criticism of the State and are linked to rights violations in trials and sentencing; these are her assessments. It is the source for milestone T185.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
 - Date: 2022-02-25
@@ -181,6 +197,8 @@ Cited by: [T185](../../timeline/recent-2014-now.md#T185)
 
 **T. and Others v. Russia, no. 26562/07 and 6 other applications (judgment; 2004 Beslan school siege)**
 
+Summary: The European Court of Human Rights' judgment of 13 April 2017 in T. and Others v. Russia (no. 26562/07 and six other applications), concerning the September 2004 Beslan school siege. According to the Court's terrorism factsheet (ECHR-FS-TERR), the Court found violations of Article 2 (right to life), including a failure to take preventive measures despite specific information about a planned attack, an investigation unable to determine whether the force used was justified, and serious shortcomings in planning and controlling the security operation. It is the source for milestone T178; applicant names are given as initials.
+
 - Issuing body: European Court of Human Rights
 - Date: 2017-04-13
 - Type: court record
@@ -201,6 +219,8 @@ Cited by: [T178](../../timeline/recent-2014-now.md#T178)
 ## ECHR-2011-18299
 
 **F. and Others v. Russia, nos. 18299/03 and 27311/03 (judgment; 2002 Moscow theatre hostage crisis)**
+
+Summary: The European Court of Human Rights' judgment of 20 December 2011 in F. and Others v. Russia (nos. 18299/03 and 27311/03), concerning the October 2002 Moscow 'Dubrovka' theatre hostage crisis. According to the Court's terrorism factsheet (ECHR-FS-TERR), the Court found no violation of Article 2 in the decision to resolve the crisis by force and use gas, but found violations over the inadequate planning and implementation of the rescue operation and the ineffective investigation. It is the source for milestone T160; applicant names are given as initials.
 
 - Issuing body: European Court of Human Rights
 - Date: 2011-12-20
@@ -223,6 +243,8 @@ Cited by: [T160](../../timeline/post-9-11-2001-2014.md#T160)
 
 **Закон КР от 8 ноября 2006 года № 178 «О противодействии терроризму»**
 
+Summary: Kyrgyzstan's Law No. 178 of 8 November 2006, 'On countering terrorism' (О противодействии терроризму), from the Ministry of Justice's legal database. Only the page title could be read without JavaScript; it matches the law's date and number, but the body text was not read. It is the source for milestone T211; its content is \[UNKNOWN\] in CTA6.
+
 - Issuing body: Министерство юстиции Кыргызской Республики (Централизованный банк данных правовой информации)
 - Date: 2006-11-08
 - Type: statute
@@ -243,6 +265,8 @@ Cited by: [T211](../../timeline/post-9-11-2001-2014.md#T211)
 ## KG-LAW55-2022
 
 **Закон КР от 4 июля 2022 года № 55 «О противодействии терроризму»**
+
+Summary: Kyrgyzstan's Law No. 55 of 4 July 2022, 'On countering terrorism', from the Ministry of Justice's legal database. Only the page title, which matches the law's date and number, could be read; the body text was not. Its content, and how it relates to the 2006 law (KG-LAW178-2006), are \[UNKNOWN\] in CTA6.
 
 - Issuing body: Министерство юстиции Кыргызской Республики (Централизованный банк данных правовой информации)
 - Date: 2022-07-04
@@ -265,6 +289,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Закон Республики Таджикистан «О борьбе с терроризмом»**
 
+Summary: Tajikistan's Law 'On combating terrorism' (О борьбе с терроризмом), from the National Legislation Centre under the President. A search listing gives 16 November 1999, No. 845, and says it lost force on 23 December 2021, but this is not confirmed. The cited copy could not be confirmed (the fetch timed out or returned HTTP 504), so its content is \[UNKNOWN\].
+
 - Issuing body: Национальный центр законодательства при Президенте Республики Таджикистан
 - Date: \[UNKNOWN\]
 - Type: statute
@@ -285,6 +311,8 @@ Cited by: none in `data/timeline.csv`.
 ## TM-GOV-CTLAW-AM
 
 **Закон Туркменистана «О внесении изменения в Закон Туркменистана „О борьбе с терроризмом“»**
+
+Summary: A Turkmen law amending the Law of Turkmenistan 'On combating terrorism', posted on the State information portal on 8 January 2013. It states that the original law was adopted on 15 August 2003 (Vedomosti Mejlisa 2003, No. 3, art. 28), and it replaces references to the State Drug Control Service in Articles 6 and 8 with 'State Service of Turkmenistan for the Protection of the Security of a Healthy Society'. It is the source for milestone T203.
 
 - Issuing body: Государственный информационный портал Туркменистана (turkmenistan.gov.tm)
 - Date: 2013-01-08
@@ -307,6 +335,8 @@ Cited by: [T203](../../timeline/post-9-11-2001-2014.md#T203)
 
 **Указ Президента Российской Федерации от 15.02.2006 г. № 116 «О мерах по противодействию терроризму»**
 
+Summary: Russian Presidential Decree No. 116 of 15 February 2006, 'On measures to counter terrorism', from the Kremlin website, in its text as amended to 25 November 2019. Point 1 establishes the National Anti-Terrorism Committee. It is the source for milestone T208.
+
 - Issuing body: Президент Российской Федерации (kremlin.ru)
 - Date: 2006-02-15
 - Type: statute
@@ -328,6 +358,8 @@ Cited by: [T208](../../timeline/post-9-11-2001-2014.md#T208)
 
 **Конвенция Шанхайской организации сотрудничества против терроризма**
 
+Summary: The Shanghai Cooperation Organisation Convention against Terrorism, in Russian, from the SCO's document records. The record gives adoption by the Council of Heads of State on 16 June 2009 in Yekaterinburg, entry into force from signature, and status as in force. It is the source for milestone T214; its provisions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: Шанхайская организация сотрудничества (Совет глав государств)
 - Date: 2009-06-16
 - Type: treaty
@@ -348,6 +380,8 @@ Cited by: [T214](../../timeline/post-9-11-2001-2014.md#T214)
 ## SCO-RATS2002-SCO
 
 **Соглашение между государствами-членами Шанхайской организации сотрудничества о Региональной антитеррористической структуре**
+
+Summary: The Agreement among SCO member states on the Regional Anti-Terrorist Structure, in Russian, from the SCO's document records. The record gives adoption by the Council of Heads of State on 7 June 2002 in Saint Petersburg, entry into force from signature, and status as in force. It is the source for milestone T199 and the legal basis of RATS (SCO-RATS).
 
 - Issuing body: Шанхайская организация сотрудничества (Совет глав государств)
 - Date: 2002-06-07
