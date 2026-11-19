@@ -2,9 +2,9 @@
 
 # Sources: Latin America
 
-Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-27 sources in this region (`government` 13, `international` 3, `court` 6, `oversight` 5).
+28 sources in this region (`government` 13, `international` 4, `court` 6, `oversight` 5).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -13,7 +13,7 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **Inter-American Convention against Terrorism (A-66)**
 
-Summary: The Inter-American Convention against Terrorism (A-66) of the Organization of American States, dated 3 June 2002. As its title states, it is the Americas' regional treaty against terrorism. The cited OAS copy could not be confirmed (HTTP 503/500 on repeated tries), so milestone T061 is marked not-proven. An official Peruvian government Spanish copy of the Convention text is recorded separately as PE-GOB-CIAT2002-ES.
+Summary: The Inter-American Convention against Terrorism (A-66) of the Organization of American States, adopted on 3 June 2002. Article 1 states that its purposes are 'to prevent, punish, and eliminate terrorism', and the states parties agree to strengthen cooperation among them; Article 22 provides for entry into force on the 30th day after the sixth ratification. The OAS page was readable again in round 5, and an official Peruvian government Spanish copy is recorded separately as PE-GOB-CIAT2002-ES.
 
 - Issuing body: Organization of American States
 - Date: 2002-06-03
@@ -25,18 +25,18 @@ Summary: The Inter-American Convention against Terrorism (A-66) of the Organizat
 - Theme: laws and treaties
 - URL: [https://www.oas.org/juridico/english/treaties/a-66.html](https://www.oas.org/juridico/english/treaties/a-66.html)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: HTTP 503. Retried https://www.oas.org/juridico/english/sigs/a-66.html and the original URL: HTTP 503/500 (curl and WebFetch). Still not verified. Round 4 (2026-11-19): OAS URLs still under maintenance (HTTP 503). An official Peruvian government Spanish copy of the Convention is recorded separately as PE-GOB-CIAT2002-ES; it does not replace this entry.
+- Notes: Round 5 (2026-11-19): verified; curl on the cited URL: HTTP 200, page titled "INTER-AMERICAN CONVENTION AGAINST TERRORISM" with the full treaty text, Articles 1 to 23 (pass5/raw/r5-OAS-CICTE2002.*). Earlier: HTTP 503. Retried https://www.oas.org/juridico/english/sigs/a-66.html and the original URL: HTTP 503/500 (curl and WebFetch). Still not verified. Earlier (round 4, 2026-11-19): OAS URLs still under maintenance (HTTP 503). An official Peruvian government Spanish copy of the Convention is recorded separately as PE-GOB-CIAT2002-ES; it does not replace this entry.
 
-Cited by: [T061](../../timeline/post-9-11-2001-2014.md#T061)
+Cited by: [T061](../../timeline/post-9-11-2001-2014.md#T061), [T241](../../timeline/post-9-11-2001-2014.md#T241)
 
 <a id="OAS-CICTE"></a>
 ## OAS-CICTE
 
 **Inter-American Committee against Terrorism (CICTE)**
 
-Summary: The page of the OAS Inter-American Committee against Terrorism (CICTE). It would describe the OAS body that works on counter-terrorism, but the cited copy could not be confirmed (HTTP 503). Its content and date are \[UNKNOWN\].
+Summary: The page of the Executive Secretariat of the OAS Inter-American Committee against Terrorism (CICTE). It is the OAS body's own page on its counter-terrorism work. The page is undated \[UNKNOWN\].
 
 - Issuing body: Organization of American States
 - Date: \[UNKNOWN\]
@@ -48,9 +48,9 @@ Summary: The page of the OAS Inter-American Committee against Terrorism (CICTE).
 - Theme: agencies
 - URL: [https://www.oas.org/en/sms/cicte/](https://www.oas.org/en/sms/cicte/)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: HTTP 503. Undated web page; date \[UNKNOWN\].
+- Notes: Round 5 (2026-11-19): verified; curl on the cited URL: HTTP 200, page titled "Executive Secretariat of the Inter-American Committee against Terrorism (CICTE)" (pass5/raw/r5-OAS-CICTE.*). The page is undated. Earlier: HTTP 503. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
 
@@ -81,7 +81,7 @@ Cited by: [T070](../../timeline/post-9-11-2001-2014.md#T070)
 
 **Lei nº 13.260, de 16 de março de 2016 (Lei Antiterrorismo)**
 
-Summary: Brazil's Lei nº 13.260 of 16 March 2016, the Anti-Terrorism Law, from the Presidency's Planalto website. CTA6 confirmed the heading 'LEI Nº 13.260, DE 16 DE MARÇO DE 2016' via WebFetch. It is the source for milestone T117; its provisions are not summarized in CTA6 \[UNKNOWN\].
+Summary: Brazil's Lei nº 13.260 of 16 March 2016, the Anti-Terrorism Law, from the Presidency's Planalto website. CTA6 confirmed the heading 'LEI Nº 13.260, DE 16 DE MARÇO DE 2016' via WebFetch. It is the source for milestone T117; its preamble says it regulates article 5(XLIII) of the Federal Constitution, defining terrorism, setting out investigative and procedural provisions and reformulating the concept of a terrorist organization, and it amends Laws 7.960 of 1989 and 12.850 of 2013.
 
 - Issuing body: Presidência da República (Planalto)
 - Date: 2016-03-16
@@ -380,7 +380,7 @@ Cited by: [T212](../../timeline/post-9-11-2001-2014.md#T212)
 
 **Informe sobre terrorismo y derechos humanos (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.)**
 
-Summary: The Inter-American Commission on Human Rights' Report on Terrorism and Human Rights (Informe sobre terrorismo y derechos humanos, OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.), in Spanish, dated 22 October 2002 per the search listing. As its title states, it is the Commission's report on terrorism and human rights. The cited copy could not be confirmed (HTTP 503, server maintenance), so its content is \[UNKNOWN\] in CTA6.
+Summary: The Inter-American Commission on Human Rights' Report on Terrorism and Human Rights (Informe sobre terrorismo y derechos humanos, OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.), in Spanish, dated 22 October 2002. The document states that its original language is English. It is the Commission's report on how anti-terrorism measures relate to states' human rights obligations; the English executive summary is IACHR-2002-TERR-EN.
 
 - Issuing body: Comisión Interamericana de Derechos Humanos (OEA)
 - Date: 2002-10-22
@@ -392,18 +392,18 @@ Summary: The Inter-American Commission on Human Rights' Report on Terrorism and 
 - Theme: studies and evaluations
 - URL: [https://www.oas.org/dil/esp/informe_sobre_terrorismo_derechos_humanos.pdf](https://www.oas.org/dil/esp/informe_sobre_terrorismo_derechos_humanos.pdf)
 - Accessed: 2026-11-19
-- Verified: `no`
+- Verified: `yes`
 - Language: Spanish
-- Notes: URL from search index; not verified: oas.org returned HTTP 503 'server is currently under maintenance' to curl and to WebFetch on 2026-11-19. Symbol and date (22 octubre 2002) taken from the search listing's extract of this PDF.
+- Notes: Round 5 (2026-11-19): verified; curl on the cited URL: HTTP 200, PDF headed "OEA/Ser.L/V/ll.116 Doc. 5 rev. 1 corr. 22 octubre 2002 Original: Inglés INFORME SOBRE TERRORISMO Y DERECHOS HUMANOS" (pass5/raw/r5-IACHR-2002-TERR-ES.*). The date is now read from the document itself. Earlier (round 3): URL from search index; not verified: oas.org returned HTTP 503 'server is currently under maintenance' to curl and to WebFetch on 2026-11-19. Symbol and date (22 octubre 2002) taken from the search listing's extract of this PDF.
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T239](../../timeline/post-9-11-2001-2014.md#T239)
 
 <a id="IACHR-2002-TERR-EN"></a>
 ## IACHR-2002-TERR-EN
 
 **Report on Terrorism and Human Rights: Executive Summary (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.)**
 
-Summary: The English executive summary of the Inter-American Commission on Human Rights' Report on Terrorism and Human Rights (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.). The cited copy could not be confirmed (HTTP 503, maintenance), and its date comes from the Spanish listing (IACHR-2002-TERR-ES). Its content is \[UNKNOWN\] in CTA6.
+Summary: The English executive summary of the Inter-American Commission on Human Rights' Report on Terrorism and Human Rights (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.), dated 22 October 2002. It notes that the OAS General Assembly adopted and opened for signature the Inter-American Convention against Terrorism on 3 June 2002, and that the Convention recognizes that anti-terrorist initiatives must comply with states' existing international obligations. The Spanish full report is IACHR-2002-TERR-ES.
 
 - Issuing body: Inter-American Commission on Human Rights (OAS)
 - Date: 2002-10-22
@@ -415,11 +415,11 @@ Summary: The English executive summary of the Inter-American Commission on Human
 - Theme: studies and evaluations
 - URL: [https://cidh.oas.org/Terrorism/Eng/exe.htm](https://cidh.oas.org/Terrorism/Eng/exe.htm)
 - Accessed: 2026-11-19
-- Verified: `no`
+- Verified: `yes`
 - Language: English
-- Notes: URL from search index; not verified: cidh.oas.org returned HTTP 503 (maintenance) to curl and WebFetch on 2026-11-19. Date from the Spanish listing (IACHR-2002-TERR-ES).
+- Notes: Round 5 (2026-11-19): verified; curl on the cited URL: HTTP 200, page headed "OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr. 22 October 2002 Original: English REPORT ON TERRORISM AND HUMAN RIGHTS EXECUTIVE SUMMARY" (pass5/raw/r5-IACHR-2002-TERR-EN.*). The date is now read from this page itself. Earlier (round 3): URL from search index; not verified: cidh.oas.org returned HTTP 503 (maintenance) to curl and WebFetch on 2026-11-19. Date from the Spanish listing (IACHR-2002-TERR-ES).
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T239](../../timeline/post-9-11-2001-2014.md#T239)
 
 <a id="IACTHR-1997-33"></a>
 ## IACTHR-1997-33
@@ -614,7 +614,7 @@ Cited by: [T233](../../timeline/recent-2014-now.md#T233)
 
 **Convención Interamericana contra el Terrorismo (pages 1-9 of a multilingual copy published on gob.pe)**
 
-Summary: The Spanish text of the Inter-American Convention against Terrorism, from a copy published on the Peruvian government's gob.pe platform. The Convention was adopted within the OAS in June 2002 and covers the financing of terrorism, cooperation among states parties and entry into force after the sixth ratification. In CTA6 it is the readable official text behind OAS-CICTE2002, whose OAS page could not be reached.
+Summary: The Spanish text of the Inter-American Convention against Terrorism, from a copy published on the Peruvian government's gob.pe platform. The Convention was adopted within the OAS in June 2002 and covers the financing of terrorism, cooperation among states parties and entry into force after the sixth ratification. In CTA6 it is a Spanish official copy of the same Convention as OAS-CICTE2002, whose OAS page was readable again in round 5.
 
 - Issuing body: Gobierno del Perú (gob.pe; publishing entity \[UNKNOWN\])
 - Date: 2002-06-03
@@ -628,6 +628,29 @@ Summary: The Spanish text of the Inter-American Convention against Terrorism, fr
 - Accessed: 2026-11-19
 - Verified: `yes`
 - Language: Spanish
-- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-OAS-A66-GOBPE.* The 9-page file opens with the title in four languages and gives the Spanish text through article 23; the adoption date is not printed in these pages and is taken from the OAS-CICTE2002 record. Added as a separate official copy; it does not replace OAS-CICTE2002, whose OAS URL was still under maintenance (HTTP 503).
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-OAS-A66-GOBPE.* The 9-page file opens with the title in four languages and gives the Spanish text through article 23; the adoption date is not printed in these pages and is taken from the OAS-CICTE2002 record. Added as a separate official copy; it does not replace OAS-CICTE2002, whose OAS URL was still under maintenance (HTTP 503). Round 5 (2026-11-19): OAS-CICTE2002 was verified at the cited OAS URL; this Peruvian copy remains a separate official source and does not replace it.
 
 Cited by: none in `data/timeline.csv`.
+
+<a id="OAS-A66-SIGS"></a>
+## OAS-A66-SIGS
+
+**A-66: Inter-American Convention against Terrorism — Signatories and Ratifications**
+
+Summary: The OAS treaty status page for the Inter-American Convention against Terrorism (A-66). It records that the Convention was adopted at Bridgetown, Barbados, on 3 June 2002 at the thirty-second regular session of the OAS General Assembly, entered into force on 10 July 2003, and has the OAS General Secretariat as depositary. It lists each member state's signature and ratification dates. The page is undated \[UNKNOWN\].
+
+- Issuing body: Organization of American States, Department of International Law
+- Date: \[UNKNOWN\]
+- Type: database
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.oas.org/juridico/english/sigs/a-66.html](https://www.oas.org/juridico/english/sigs/a-66.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: Official OAS treaty status page, fetched by curl on 2026-11-19: HTTP 200 (pass5/raw/r5-OAS-SIGS-A66.*). The page is linked from the treaty text page (OAS-CICTE2002), which is verified=yes. Dates on the page are in US month/day/year order. The page is undated.
+
+Cited by: [T061](../../timeline/post-9-11-2001-2014.md#T061), [T241](../../timeline/post-9-11-2001-2014.md#T241)

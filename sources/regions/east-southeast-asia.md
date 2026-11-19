@@ -2,7 +2,7 @@
 
 # Sources: East/Southeast Asia
 
-Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
 27 sources in this region (`government` 16, `international` 2, `NGO` 1, `court` 2, `oversight` 6).
 
@@ -81,7 +81,7 @@ Cited by: [T129](../../timeline/recent-2014-now.md#T129)
 
 **Badan Nasional Penanggulangan Terorisme (BNPT) (home page)**
 
-Summary: The home page of Indonesia's Badan Nasional Penanggulangan Terorisme (BNPT, National Counter-Terrorism Agency). The cited copy could not be confirmed: the fetch returned a bot-detection page instead of the site's content. Its content and date are \[UNKNOWN\].
+Summary: The home page of Indonesia's Badan Nasional Penanggulangan Terorisme (BNPT, National Counter-Terrorism Agency). The page describes BNPT as at the forefront of countering terrorism through cross-agency coordination, a humane approach and the involvement of all parts of society, and links to its vision, mission, duties and public services. The page metadata gives a modification date of 11 June 2025.
 
 - Issuing body: BNPT, Republic of Indonesia
 - Date: \[UNKNOWN\]
@@ -93,9 +93,9 @@ Summary: The home page of Indonesia's Badan Nasional Penanggulangan Terorisme (B
 - Theme: agencies
 - URL: [https://www.bnpt.go.id/](https://www.bnpt.go.id/)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: HTTP 200; expected title text not found. Bot-detection page. Undated web page; date \[UNKNOWN\].
+- Notes: Round 5 (2026-11-19): verified; headless Chrome (--dump-dom) on the cited URL: page "BNPT – Badan Nasional Penanggulangan Terorisme" with site content; the page metadata gives dateModified 2025-06-11 (pass5/raw/h5-ID-BNPT.*). Earlier: HTTP 200; expected title text not found. Bot-detection page. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
 
@@ -265,7 +265,7 @@ Cited by: [T146](../../timeline/1990-2001.md#T146)
 
 **국민보호와 공공안전을 위한 테러방지법 (법률 제14071호)**
 
-Summary: South Korea's Act on Counter-Terrorism for the Protection of Citizens and Public Security (Act No. 14071), in Korean, from the Korean Law Information Center. CTA6 records it as enacted on 3 March 2016, with the captured text version effective 4 June 2016. It is the source for milestone T175; its provisions are not summarized in CTA6 \[UNKNOWN\].
+Summary: South Korea's Act on Counter-Terrorism for the Protection of Citizens and Public Security (Act No. 14071), in Korean, from the Korean Law Information Center. CTA6 records it as enacted on 3 March 2016, with the captured text version effective 4 June 2016. It is the source for milestone T175; Article 1 states its purpose as protecting citizens' lives and property from terrorism and securing national and public safety, and its articles include a National Counter-Terrorism Committee (Art. 5), a Counter-Terrorism Center (Art. 6) and a counter-terrorism human rights protection officer (Art. 7).
 
 - Issuing body: 국가법령정보센터 (Korea Ministry of Government Legislation)
 - Date: 2016-03-03
@@ -472,7 +472,7 @@ Cited by: [T228](../../timeline/recent-2014-now.md#T228)
 
 **公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する法律**
 
-Summary: Japan's Act on the Punishment of the Provision of Funds for Criminal Acts Intended to Intimidate the Public (Act No. 67 of 2002), in Japanese, from the e-Gov law search. The cited copy could not be confirmed, because the page loads only with JavaScript; its date comes from the National Diet Library record (JP-NDL-TFINANCE). Its content is \[UNKNOWN\] in CTA6.
+Summary: Japan's Act on the Punishment of the Provision of Funds for Criminal Acts Intended to Intimidate the Public (Act No. 67 of 2002), in Japanese, from the e-Gov law search. Article 1 defines the 'criminal acts intended to intimidate the public' that the Act covers, and the page's revision history shows later amendments, including in 2014 and 2022. Its date comes from the National Diet Library record (JP-NDL-TFINANCE).
 
 - Issuing body: e-Gov 法令検索 (Digital Agency, Japan)
 - Date: 2002-06-12
@@ -484,9 +484,9 @@ Summary: Japan's Act on the Punishment of the Provision of Funds for Criminal Ac
 - Theme: laws and treaties
 - URL: [https://laws.e-gov.go.jp/law/414AC0000000067?occasion_date=20260701](https://laws.e-gov.go.jp/law/414AC0000000067?occasion_date=20260701)
 - Accessed: 2026-11-19
-- Verified: `no`
+- Verified: `yes`
 - Language: Japanese
-- Notes: URL from a web-search result listing; fetched on 2026-11-19 (HTTP 200) but the page body loads only with JavaScript (23 characters of text), so the content could not be matched. Date from JP-NDL-TFINANCE. English title: \[UNKNOWN\] (the source gives none).
+- Notes: Round 5 (2026-11-19): verified; headless Chrome (--dump-dom) on the cited URL: page "公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する法律 | e-Gov 法令検索", "（平成十四年法律第六十七号）", with the article text and revision history (pass5/raw/h5-JP-TFINANCE-2002.*). Earlier (round 3): URL from a web-search result listing; fetched on 2026-11-19 (HTTP 200) but the page body loads only with JavaScript (23 characters of text), so the content could not be matched. Date from JP-NDL-TFINANCE. English title: \[UNKNOWN\] (the source gives none).
 
 Cited by: none in `data/timeline.csv`.
 

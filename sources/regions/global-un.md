@@ -2,7 +2,7 @@
 
 # Sources: Global/UN
 
-Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
 68 sources in this region (`international` 56, `academic` 8, `NGO` 2, `oversight` 2).
 
@@ -1159,7 +1159,7 @@ Cited by: none in `data/timeline.csv`.
 
 **Global Terrorism Index**
 
-Summary: The Global Terrorism Index (GTI), produced by the Institute for Economics & Peace. Its page describes it as a study of the impact of terrorism in 163 countries covering 99.7 per cent of the world's population, using Terrorism Tracker and other data to score each country from 0 to 10 and rank them. It is a secondary composite index, so its rankings depend on the producer's methodology; the page is undated \[UNKNOWN\].
+Summary: The Global Terrorism Index (GTI), produced by the Institute for Economics & Peace. Its page describes it as a study of the impact of terrorism in 163 countries covering 99.7 per cent of the world's population, using Terrorism Tracker and other data to score each country from 0 to 10 and rank them. It is a secondary composite index, so its rankings depend on the producer's methodology; the page metadata gives a publication date of 15 October 2020 and a modification date of 1 September 2026.
 
 - Issuing body: Institute for Economics & Peace
 - Date: \[UNKNOWN\]

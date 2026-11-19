@@ -2,9 +2,9 @@
 
 # Sources: Europe
 
-Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-67 sources in this region (`government` 22, `international` 12, `academic` 3, `NGO` 1, `court` 20, `oversight` 9).
+69 sources in this region (`government` 22, `international` 14, `academic` 3, `NGO` 1, `court` 20, `oversight` 9).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -126,7 +126,7 @@ Cited by: [T088](../../timeline/post-9-11-2001-2014.md#T088)
 
 **European Convention on the Suppression of Terrorism (ETS No. 090)**
 
-Summary: The Council of Europe's European Convention on the Suppression of Terrorism (ETS No. 090), dated 27 January 1977, from the official Council of Europe PDF. The text reads 'Done at Strasbourg, this 27th day of January 1977'. Its provisions are not summarized in CTA6 \[UNKNOWN\]. Milestone T015 stays not-proven because the words 'opened for signature' have not been confirmed from a fetched page.
+Summary: The Council of Europe's European Convention on the Suppression of Terrorism (ETS No. 090), dated 27 January 1977, from the official Council of Europe PDF. The text reads 'Done at Strasbourg, this 27th day of January 1977'. Article 1 provides that, for the purposes of extradition between Contracting States, the offences it lists, such as offences under the 1970 Hague and 1971 Montreal aviation conventions, shall not be regarded as political offences. Its explanatory report (COE-ECST1977-ER) states that it was opened to signature on 27 January 1977, which supports milestone T015.
 
 - Issuing body: Council of Europe
 - Date: 1977-01-27
@@ -149,7 +149,7 @@ Cited by: [T015](../../timeline/1945-1990.md#T015)
 
 **Council of Europe Convention on the Prevention of Terrorism (CETS No. 196)**
 
-Summary: The Council of Europe Convention on the Prevention of Terrorism (CETS No. 196), dated 16 May 2005, from the official Council of Europe PDF. The text reads 'Warsaw, 16.V.2005' and 'Done at Warsaw, this 16th day of May 2005'. Its provisions are not summarized in CTA6 \[UNKNOWN\]. Milestone T085 stays not-proven because the words 'opened for signature' have not been confirmed from a fetched page.
+Summary: The Council of Europe Convention on the Prevention of Terrorism (CETS No. 196), dated 16 May 2005, from the official Council of Europe PDF. The text reads 'Warsaw, 16.V.2005' and 'Done at Warsaw, this 16th day of May 2005'. Article 2 states that its purpose is to enhance the Parties' efforts in preventing terrorism and its negative effects on human rights, and Articles 5 to 7 define three offences: public provocation to commit a terrorist offence, recruitment for terrorism and training for terrorism. Its explanatory report (COE-CPT2005-ER) states that it was opened for signature on 16 May 2005, which supports milestone T085.
 
 - Issuing body: Council of Europe
 - Date: 2005-05-16
@@ -284,7 +284,7 @@ Cited by: [T007](../../timeline/pre-1945.md#T007)
 
 **Pan Am 103 Bombing**
 
-Summary: The FBI's history page on the Pan Am 103 bombing. It says the flight left Heathrow for New York on 21 December 1988 and exploded over Lockerbie, Scotland, less than 40 minutes later, killing all 259 passengers and crew, including 190 Americans, and 11 people on the ground, and calls it one of the world's most lethal acts of air terrorism before 9/11. It is the source for milestone T026; the page is undated \[UNKNOWN\].
+Summary: The FBI's history page on the Pan Am 103 bombing. It says the flight left Heathrow for New York on 21 December 1988 and exploded over Lockerbie, Scotland, less than 40 minutes later, killing all 259 passengers and crew, including 190 Americans, and 11 people on the ground, and calls it one of the world's most lethal acts of air terrorism before 9/11. It is the source for milestone T026; the page metadata gives a publication date of 18 May 2016 and a modification date of 25 June 2025.
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -572,7 +572,7 @@ Cited by: [T041](../../timeline/1990-2001.md#T041)
 
 **Report of the Official Account of the Bombings in London on 7th July 2005**
 
-Summary: The 'Report of the Official Account of the Bombings in London on 7th July 2005', published by the UK Home Office on 11 May 2006. It is the government's official account of the 7 July 2005 attacks on London's transport system. It is cited for milestone T086; its contents are not summarized in CTA6 \[UNKNOWN\] because the capture shows only the GOV.UK landing page.
+Summary: The 'Report of the Official Account of the Bombings in London on 7th July 2005', published by the UK Home Office on 11 May 2006. It is the government's official account of the 7 July 2005 attacks on London's transport system. It is cited for milestone T086; the GOV.UK page confirms publication by the Home Office on 11 May 2006, but the report's contents are not summarized in CTA6 \[UNKNOWN\] because the PDF itself was not opened.
 
 - Issuing body: UK Home Office (GOV.UK)
 - Date: 2006-05-11
@@ -732,7 +732,7 @@ Cited by: none in `data/timeline.csv`.
 
 **Gemeinsames Terrorismusabwehrzentrum (GTAZ)**
 
-Summary: A Federal Criminal Police Office (Bundeskriminalamt) page on the Gemeinsames Terrorismusabwehrzentrum (GTAZ), Germany's Joint Counter-Terrorism Centre. As its name states, it is a joint centre for countering terrorism; its role is not described in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed (the connection failed), and the page is undated \[UNKNOWN\].
+Summary: A Federal Criminal Police Office (Bundeskriminalamt) page on the Gemeinsames Terrorismusabwehrzentrum (GTAZ), Germany's Joint Counter-Terrorism Centre. It says the GTAZ was founded in Berlin in 2004 in response to the 11 September 2001 attacks and the continuing Islamist terrorist threat (T242), and that it is not a separate authority but a platform where 40 federal and state police, intelligence and other security authorities work together. The page is undated \[UNKNOWN\].
 
 - Issuing body: Bundeskriminalamt
 - Date: \[UNKNOWN\]
@@ -744,11 +744,11 @@ Summary: A Federal Criminal Police Office (Bundeskriminalamt) page on the Gemein
 - Theme: agencies
 - URL: [https://www.bka.de/DE/UnsereAufgaben/Kooperationen/GTAZ/gtaz_node.html](https://www.bka.de/DE/UnsereAufgaben/Kooperationen/GTAZ/gtaz_node.html)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: HTTP 000. Undated web page; date \[UNKNOWN\].
+- Notes: Round 5 (2026-11-19): verified; headless Chrome (--dump-dom) on the cited URL: page "BKA - Gemeinsames Terrorismusabwehrzentrum (GTAZ)" stating that the GTAZ "wurde im Jahr 2004 ... gegründet und hat seinen Sitz in Berlin" (pass5/raw/h5-DE-GTAZ.*). The page is undated. Earlier: HTTP 000. Undated web page; date \[UNKNOWN\].
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T242](../../timeline/post-9-11-2001-2014.md#T242)
 
 <a id="ES-LO2-2015"></a>
 ## ES-LO2-2015
@@ -1217,7 +1217,7 @@ Cited by: none in `data/timeline.csv`.
 
 **BVerfG, Urteil des Ersten Senats vom 20. April 2016, 1 BvR 966/09 (BKA-Gesetz)**
 
-Summary: The judgment of the First Senate of Germany's Federal Constitutional Court of 20 April 2016 (1 BvR 966/09) on the Federal Criminal Police Office Act (BKA-Gesetz). As recorded in milestone T176, it ruled on the BKA's surveillance powers for countering international terrorism. The outcome is not recorded in CTA6 \[UNKNOWN\]; the source was verified through a text extraction only.
+Summary: The judgment of the First Senate of Germany's Federal Constitutional Court of 20 April 2016 (1 BvR 966/09) on the Federal Criminal Police Office Act (BKA-Gesetz). As recorded in milestone T176, it ruled on the BKA's surveillance powers for countering international terrorism. According to its headnotes, the BKA's power to use covert surveillance to avert dangers of international terrorism is in principle compatible with the Basic Law but must satisfy proportionality, and the operative part declares several provisions of the BKA Act void or incompatible with the Basic Law.
 
 - Issuing body: Bundesverfassungsgericht
 - Date: 2016-04-20
@@ -1378,7 +1378,7 @@ Cited by: [T134](../../timeline/pre-1945.md#T134)
 
 **Avis sur le projet de loi renforçant la sécurité intérieure et la lutte contre le terrorisme (6 juillet 2017)**
 
-Summary: An opinion (avis) of France's National Consultative Commission on Human Rights (CNCDH), dated 6 July 2017, on the bill strengthening internal security and the fight against terrorism. It is an independent advisory body's opinion on the bill that became Loi n° 2017-1510 (T123). The cited copy could not be confirmed (bot check or error), so its content is \[UNKNOWN\] in CTA6.
+Summary: An opinion (avis) of France's National Consultative Commission on Human Rights (CNCDH) on the bill strengthening internal security and the fight against terrorism, adopted at its plenary assembly on 6 July 2017 by 25 votes to 4 with 2 abstentions. It is an independent advisory body's opinion on the bill that became Loi n° 2017-1510 (T123). The opinion recognizes the authorities' duty to protect the population and then sets out the Commission's concerns about the bill.
 
 - Issuing body: Commission nationale consultative des droits de l'homme (France)
 - Date: 2017-07-06
@@ -1390,9 +1390,9 @@ Summary: An opinion (avis) of France's National Consultative Commission on Human
 - Theme: studies and evaluations
 - URL: [https://www.cncdh.fr/sites/default/files/2021-04/170706_avis%20sur%20le%20PJL%20s%C3%A9curit%C3%A9%20int%C3%A9rieure_terrorisme%20p%C3%A0p.pdf](https://www.cncdh.fr/sites/default/files/2021-04/170706_avis%20sur%20le%20PJL%20s%C3%A9curit%C3%A9%20int%C3%A9rieure_terrorisme%20p%C3%A0p.pdf)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: French
-- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text not confirmed (bot check, timeout or error). URL from search index.
+- Notes: Round 5 (2026-11-19): verified; curl on the cited URL: HTTP 200, PDF headed "AVIS SUR LE PROJET DE LOI RENFORÇANT LA SÉCURITÉ INTÉRIEURE ET LA LUTTE CONTRE LE TERRORISME 6 JUILLET 2017" (pass5/raw/r5-CNCDH-2017.*). Earlier (round 2): URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text not confirmed (bot check, timeout or error). URL from search index.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -1533,3 +1533,49 @@ Summary: The European Court of Human Rights judgment of 17 January 2012 in O. v.
 - Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2012-01-17 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
 
 Cited by: none in `data/timeline.csv`.
+
+<a id="COE-ECST1977-ER"></a>
+## COE-ECST1977-ER
+
+**Explanatory Report to the European Convention on the Suppression of Terrorism (ETS No. 90)**
+
+Summary: The Council of Europe's explanatory report to the European Convention on the Suppression of Terrorism (ETS No. 90), headed Strasbourg, 27 January 1977. It states that the Convention was drawn up by a committee of governmental experts under the European Committee on Crime Problems and 'was opened to signature by the member states of the Council of Europe on 27 January 1977'. The report says it is not an authoritative interpretation of the Convention. It supports milestone T015.
+
+- Issuing body: Council of Europe
+- Date: 1977-01-27
+- Type: other
+- Tag: `primary`
+- Origin: `international`
+- Era: 1945-1990
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://rm.coe.int/16800c9a69](https://rm.coe.int/16800c9a69)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: Official Council of Europe PDF (URL from a web-search result listing), fetched by curl on 2026-11-19: HTTP 200, PDF headed "European Treaty Series - No. 90 Explanatory Report to the European Convention on the Suppression of Terrorism Strasbourg, 27.I.1977" (pass5/raw/r5-COE-ER-ETS090.*). The report states that it is not an authoritative interpretation of the Convention.
+
+Cited by: [T015](../../timeline/1945-1990.md#T015)
+
+<a id="COE-CPT2005-ER"></a>
+## COE-CPT2005-ER
+
+**Explanatory Report to the Council of Europe Convention on the Prevention of Terrorism (CETS No. 196)**
+
+Summary: The Council of Europe's explanatory report to the Convention on the Prevention of Terrorism (CETS No. 196), headed Warsaw, 16 May 2005. It states that the Convention and the report were adopted by the Committee of Ministers at its 925th meeting, and that the Convention 'was then opened for signature' on 16 May 2005 at the Third Summit of Heads of State and Government of the Council of Europe. The report says it is not an authoritative interpretation of the Convention. It supports milestone T085.
+
+- Issuing body: Council of Europe
+- Date: 2005-05-16
+- Type: other
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://rm.coe.int/16800d3811](https://rm.coe.int/16800d3811)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: Official Council of Europe PDF (URL from a web-search result listing), fetched by curl on 2026-11-19: HTTP 200, PDF headed "Council of Europe Treaty Series - No. 196 Explanatory Report to the Council of Europe Convention on the Prevention of Terrorism * Warsaw, 16.V.2005" (pass5/raw/r5-COE-ER-CETS196.*). The report states that it is not an authoritative interpretation of the Convention.
+
+Cited by: [T085](../../timeline/post-9-11-2001-2014.md#T085)
