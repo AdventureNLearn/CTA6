@@ -51,6 +51,7 @@ def check_sources(rows: list[dict[str, str]], fields: list[str], problems: list[
     ids: set[str] = set()
     for i, row in enumerate(rows, start=2):
         loc = f"data/sources.csv:{i} ({row.get('id') or 'missing-id'})"
+        # SOURCE_REQUIRED includes summary, so every source needs a non-empty summary.
         for key in S.SOURCE_REQUIRED:
             if key not in row or blank(row[key]):
                 error(problems, f"{loc} missing required field {key}")
@@ -88,6 +89,7 @@ def check_timeline(
     ids: set[str] = set()
     for i, row in enumerate(rows, start=2):
         loc = f"data/timeline.csv:{i} ({row.get('id') or 'missing-id'})"
+        # TIMELINE_REQUIRED includes summary, so every milestone needs a non-empty summary.
         for key in S.TIMELINE_REQUIRED:
             if key not in row or blank(row[key]):
                 error(problems, f"{loc} missing required field {key}")

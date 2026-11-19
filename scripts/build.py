@@ -73,6 +73,9 @@ def timeline_entry_md(row: dict[str, str], sources_by_id: dict[str, dict[str, st
         row["what_happened"],
         "",
     ]
+    if (row.get("summary") or "").strip():
+        lines.append(f'Summary: {md_cell(row["summary"])}')
+        lines.append("")
     if (row.get("notes") or "").strip():
         lines.append(f'- Notes: {md_cell(row["notes"])}')
         lines.append("")
@@ -99,6 +102,10 @@ def source_entry_md(
         "",
         f'**{md_cell(src["title"])}**',
         "",
+    ]
+    if (src.get("summary") or "").strip():
+        lines += [f'Summary: {md_cell(src["summary"])}', ""]
+    lines += [
         f'- Issuing body: {md_cell(src["author_or_issuing_body"])}',
         f'- Date: {md_cell(src["date"])}',
         f'- Type: {md_cell(src["type"])}',
@@ -352,6 +359,10 @@ def build_structure(sources: list[dict[str, str]], timeline: list[dict[str, str]
         "Where sources disagree, both are cited and the timeline row is marked people-disagree.",
         "",
         "This is round 1 of an ongoing archive. It is not complete.",
+        "",
+        "Every source and timeline row carries a `summary` column: two to four short sentences on what the item is "
+        "and why it matters, written only from what the archive holds. Gaps are marked [UNKNOWN]. "
+        "The pages show the summary under each entry, with the citation and link still shown.",
         "",
         "## Part A: Eras",
         "",

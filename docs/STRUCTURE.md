@@ -8,6 +8,8 @@ Wording rule: contested labels are attributed to whoever applied them (for examp
 
 This is round 1 of an ongoing archive. It is not complete.
 
+Every source and timeline row carries a `summary` column: two to four short sentences on what the item is and why it matters, written only from what the archive holds. Gaps are marked [UNKNOWN]. The pages show the summary under each entry, with the citation and link still shown.
+
 ## Part A: Eras
 
 ### pre-1945

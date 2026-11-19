@@ -40,6 +40,12 @@ Every source has a `language` column. Pass 2 recorded the language of the source
 
 An optional `case_citation` column holds the official case number or citation when one was recorded in the pass 2 corrections.
 
+## Summaries
+
+Every source and every timeline row has a required `summary` column: two to four short sentences on what the item is and why it matters. The summary sits beside the original fields; it does not replace `title`, `what_happened`, `notes`, the citations or the URLs, and the built pages show it under each entry with the citation and link still shown.
+
+Summaries are written only from what the archive already holds for that row: its own fields, the rows it links to, the round notes and the local page captures. They follow the same rules as the rest of the archive. Contested claims are attributed to whoever made them. Where a source is `verified=no`, the summary says the cited copy could not be confirmed. Where a row is `not-proven` or `people-disagree`, the summary says what is and is not backed. Private individuals stay as initials. Where the archive does not show why an item matters, the summary says what it is and marks the rest `[UNKNOWN]`.
+
 ## Status labels
 
 Every timeline row has one of these status labels, in the `confidence` column:
@@ -56,8 +62,8 @@ Sources also carry `verified=yes` or `verified=no`, which records whether the ci
 
 ## How to add to the archive
 
-1. Add a row to `data/sources.csv` with every required field: `id`, `title`, `author_or_issuing_body`, `date`, `type`, `tag`, `origin`, `era`, `region`, `theme`, `url`, `accessed`, `verified`, and `language`. Use the vocabularies already used in the spreadsheet (see `docs/STRUCTURE.md`). If a date or language is not known, write `[UNKNOWN]`. Put confirmation details in `notes`. If the record is a case, add the official citation in `case_citation` and follow the naming rule above.
-2. If the record is also a milestone, add a row to `data/timeline.csv`. `citation_source_id` must be an `id` that already exists in `data/sources.csv`. Every statement in `what_happened` must come from the cited source. Set `confidence` to one of the three status labels above. If sources disagree, fill `citation_source_id_2` and `url_2`, and mark the row `people-disagree`.
+1. Add a row to `data/sources.csv` with every required field: `id`, `title`, `author_or_issuing_body`, `date`, `type`, `tag`, `origin`, `era`, `region`, `theme`, `url`, `accessed`, `verified`, `language` and `summary`. Use the vocabularies already used in the spreadsheet (see `docs/STRUCTURE.md`). If a date or language is not known, write `[UNKNOWN]`. Put confirmation details in `notes`. If the record is a case, add the official citation in `case_citation` and follow the naming rule above.
+2. If the record is also a milestone, add a row to `data/timeline.csv`. `citation_source_id` must be an `id` that already exists in `data/sources.csv`. Every statement in `what_happened` and `summary` must come from the cited source or the archive's own records. Set `confidence` to one of the three status labels above. If sources disagree, fill `citation_source_id_2` and `url_2`, and mark the row `people-disagree`.
 3. From the repository root, run `python3 scripts/check.py` and fix any errors.
 4. Run `python3 scripts/build.py` to regenerate `timeline/`, `sources/` and `docs/STRUCTURE.md`.
 5. Do not invent facts, do not commit page captures or working maps of old names, and do not add personal data or secrets.
