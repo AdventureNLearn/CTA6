@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-24 sources in this region (`government` 16, `international` 2, `NGO` 1, `court` 2, `oversight` 3).
+27 sources in this region (`government` 16, `international` 2, `NGO` 1, `court` 2, `oversight` 6).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -558,3 +558,72 @@ Summary: A Singapore Ministry of Home Affairs press release of 25 February 2002,
 - Notes: URL from search index; not verified: curl got HTTP 202 with an empty body on 2026-11-19. Title and date from the search listing.
 
 Cited by: none in `data/timeline.csv`.
+
+<a id="KR-NHRCK-2001-OPINION"></a>
+## KR-NHRCK-2001-OPINION
+
+**테러방지법심의관련 의견제출 (보도자료)**
+
+Summary: A National Human Rights Commission of Korea press release, registered on 1 December 2001, stating that on 30 November the Commission submitted its opinion to the National Assembly in connection with deliberation of the draft Terrorism Prevention Act. The attached opinion itself was not read \[UNKNOWN\]. In CTA6 it is the earliest Korean oversight record and precedes the 2016 enforcement decree (KR-ATA-DECREE2016).
+
+- Issuing body: 국가인권위원회 (National Human Rights Commission of Korea)
+- Date: 2001-12-01
+- Type: other
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: East/Southeast Asia
+- Theme: studies and evaluations
+- URL: [https://www.humanrights.go.kr/base/board/read?boardManagementNo=24&boardNo=4866&menuLevel=3&menuNo=91&page=474&searchCategory=&searchType=&searchWord=](https://www.humanrights.go.kr/base/board/read?boardManagementNo=24&boardNo=4866&menuLevel=3&menuNo=91&page=474&searchCategory=&searchType=&searchWord=)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Korean
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-KR-NHRCK-SUBMIT.* Press-release page registered 2001-12-01; text: '11. 30. 국회 "테러방지법(안)"심의 관련, 국가인권위원회의 의견을 제출했습니다.' The attached .hwp opinion was not opened. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T231](../../timeline/post-9-11-2001-2014.md#T231)
+
+<a id="KR-NHRCK-2002-OPINION"></a>
+## KR-NHRCK-2002-OPINION
+
+**테러방지법(안)에 대한 의견서 (요약) (일반공지)**
+
+Summary: A National Human Rights Commission of Korea notice of 4 April 2002 announcing that the Commission's chairperson would visit the National Assembly that day to deliver the Commission's opposing opinion on the pending draft Terrorism Prevention Act. It attaches a summary of the opinion, which was not read \[UNKNOWN\]. In CTA6 it follows the Commission's November 2001 submission (KR-NHRCK-2001-OPINION).
+
+- Issuing body: 국가인권위원회 (National Human Rights Commission of Korea)
+- Date: 2002-04-04
+- Type: other
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: East/Southeast Asia
+- Theme: studies and evaluations
+- URL: [https://www.humanrights.go.kr/base/board/read?boardManagementNo=9&boardNo=556724&menuLevel=3&menuNo=88&page=95&searchCategory=&searchType=&searchWord=](https://www.humanrights.go.kr/base/board/read?boardManagementNo=9&boardNo=556724&menuLevel=3&menuNo=88&page=95&searchCategory=&searchType=&searchWord=)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Korean
+- Notes: URL from a web-search result listing. curl failed (no response) on 2026-11-19; verified via WebFetch the same day; transcribed excerpt (contact block omitted) saved as pass4/raw/webfetch-KR-NHRCK-OPINION.txt. Notice registered 2002-04-04: '위원장, 테러방지법(안) 반대 의견 국회의장에 직접 전달'. The attached .hwp summary was not opened. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T232](../../timeline/post-9-11-2001-2014.md#T232)
+
+<a id="KR-NHRCK-2026-AMEND"></a>
+## KR-NHRCK-2026-AMEND
+
+**정당 활동 방해 목적을 ‘테러’ 정의에 포함... 국민의 기본권 침해 우려 (보도자료)**
+
+Summary: A National Human Rights Commission of Korea press release registered on 1 April 2026. It reports that on 27 March 2026 the Commission told the Speaker of the National Assembly that a pending amendment adding the purpose of obstructing the democratic organisation and activities of political parties to the definition of terrorism needs careful review, citing the principles of clarity and proportionality (the Commission's assessment). In CTA6 it links to the 2016 Anti-Terrorism Act framework (KR-ATA-DECREE2016).
+
+- Issuing body: 국가인권위원회 (National Human Rights Commission of Korea)
+- Date: 2026-04-01
+- Type: other
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: studies and evaluations
+- URL: [https://www.humanrights.go.kr/base/board/read?boardManagementNo=24&boardNo=7611956&menuLevel=3&menuNo=91&page=7&searchCategory=&searchType=&searchWord=](https://www.humanrights.go.kr/base/board/read?boardManagementNo=24&boardNo=7611956&menuLevel=3&menuNo=91&page=7&searchCategory=&searchType=&searchWord=)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Korean
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-KR-NHRCK-2026.* Press release registered 2026-04-01; states that on 27 March 2026 the Commission expressed to the Speaker of the National Assembly the opinion that a pending partial amendment to the Act on Anti-Terrorism for the Protection of Citizens and Public Security needs careful review. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T236](../../timeline/recent-2014-now.md#T236)
