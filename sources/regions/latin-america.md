@@ -2,7 +2,7 @@
 
 # Sources: Latin America
 
-Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
 27 sources in this region (`government` 13, `international` 3, `court` 6, `oversight` 5).
 

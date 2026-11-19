@@ -2,9 +2,9 @@
 
 # Sources: Global/UN
 
-Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-67 sources in this region (`international` 55, `academic` 8, `NGO` 2, `oversight` 2).
+68 sources in this region (`international` 56, `academic` 8, `NGO` 2, `oversight` 2).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -1343,7 +1343,7 @@ Cited by: none in `data/timeline.csv`.
 
 **Commission on Human Rights resolution 2005/80: Protection of human rights and fundamental freedoms while countering terrorism**
 
-Summary: UN Commission on Human Rights resolution 2005/80, dated 21 April 2005, on protecting human rights and fundamental freedoms while countering terrorism. The OHCHR page (OHCHR-SR-CT) says this resolution created the Special Rapporteur mandate. The cited copy could not be confirmed: the UN document system returned a loading page instead of the PDF, which is why milestone T084 is not-proven.
+Summary: UN Commission on Human Rights resolution 2005/80, dated 21 April 2005, on protecting human rights and fundamental freedoms while countering terrorism. The OHCHR page (OHCHR-SR-CT) says this resolution created the Special Rapporteur mandate. According to an unofficial copy hosted by Security Council Report (SEC-CHR-2005-80-SCR), paragraph 14 decided to appoint the special rapporteur for three years and the resolution was adopted without a vote on 21 April 2005; this has not been verified. The cited UN copy could not be confirmed (the UN document system returned a loading page instead of the PDF), which is why milestone T084 is not-proven.
 
 - Issuing body: UN Commission on Human Rights
 - Date: 2005-04-21
@@ -1543,3 +1543,30 @@ Summary: 'Assessing Damage, Urging Action', the 2009 report of the International
 - Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/ICJ-EJP2009.*
 
 Cited by: [T158](../../timeline/post-9-11-2001-2014.md#T158)
+
+<a id="SEC-CHR-2005-80-SCR"></a>
+## SEC-CHR-2005-80-SCR
+
+**Protection of human rights and fundamental freedoms while countering terrorism, Human Rights Resolution 2005/80 — Security Council Report copy**
+
+Summary: A copy of UN Commission on Human Rights resolution 2005/80 on protecting human rights while countering terrorism, hosted by Security Council Report. According to this copy, paragraph 14 decided to appoint a special rapporteur on the subject for three years, and the resolution was adopted without a vote at the 60th meeting on 21 April 2005. It is a secondary copy and has not been verified against the official UN text.
+
+- Issuing body: Security Council Report (independent non-profit; copy of an OHCHR-formatted text)
+- Date: 2005-04-21
+- Type: UN resolution
+- Tag: `secondary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Global/UN
+- Theme: UN and international frameworks
+- URL: [https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/Terrorism%20Commision%20on%20Human%20Rights%20RES-2005-80.pdf](https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/Terrorism%20Commision%20on%20Human%20Rights%20RES-2005-80.pdf)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Label: `secondary/unofficial`
+- Stands in for: CHR-2005-80 (UN Commission on Human Rights resolution 2005/80)
+- Publisher: Security Council Report (independent non-profit; copy of an OHCHR-formatted text)
+- Access date: 2026-11-19
+- Notes: Secondary/unofficial copy; not verified against the UN document system. curl returned HTTP 403 on 2026-11-19; text read via WebFetch.
+
+Cited by: none in `data/timeline.csv`.
