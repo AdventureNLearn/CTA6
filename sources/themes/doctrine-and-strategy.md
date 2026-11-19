@@ -6,7 +6,7 @@ Published national and regional strategy documents.
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-11 sources in this theme.
+12 sources in this theme.
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -82,7 +82,7 @@ Cited by: [T105](../../timeline/post-9-11-2001-2014.md#T105)
 
 **National Strategy for Counterterrorism of the United States of America**
 
-Summary: The National Strategy for Counterterrorism of the United States of America, issued by the White House in October 2018. As its title states, it is the US national counterterrorism strategy of that year; its contents are not summarized in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed: the link returned HTTP 403 and later 404, although the document had been found at an official archive copy.
+Summary: The National Strategy for Counterterrorism of the United States of America, issued by the White House in October 2018, from the White House archive copy of the official PDF. As its title states, it is the US national counterterrorism strategy of that year; its contents are not summarized in CTA6 \[UNKNOWN\]. The original dni.gov URL returned 404 in round 4 and was replaced by this archive copy, which matches a Wayback Machine capture of the dni.gov file (20191222211347).
 
 - Issuing body: The White House (hosted by ODNI/NCTC)
 - Date: 2018-10
@@ -92,11 +92,11 @@ Summary: The National Strategy for Counterterrorism of the United States of Amer
 - Era: recent (2014-now)
 - Region: North America
 - Theme: doctrine and strategy
-- URL: [https://www.dni.gov/files/NCTC/documents/news_documents/NSCT.pdf](https://www.dni.gov/files/NCTC/documents/news_documents/NSCT.pdf)
-- Accessed: 2026-11-18
-- Verified: `no`
+- URL: [https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/NSCT.pdf](https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/NSCT.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/NSCT.pdf Accessed 2026-11-18. Retry 2026-11-19: curl HTTP 403 (Access Denied); WebFetch returned 404 - the file may have been removed from dni.gov \[UNKNOWN\]; verified stays no.
+- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/NSCT.pdf Accessed 2026-11-18. Retry 2026-11-19: curl HTTP 403 (Access Denied); WebFetch returned 404 - the file may have been removed from dni.gov \[UNKNOWN\]; verified stays no. Round 4 (2026-11-19): original dni.gov URL gone (404); replaced by the White House archive copy, which matches a Wayback Machine capture of the original dni.gov copy (https://web.archive.org/web/20191222211347/https://www.dni.gov/files/NCTC/documents/news_documents/NSCT.pdf). verified is now yes at the White House archive URL.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -257,3 +257,26 @@ Summary: A copy of the same 2002 AU Plan of Action on the Prevention and Combati
 - Notes: URL taken from a web-search result listing, then fetched. HTTP 202; expected text not confirmed (bot check, timeout or error). URL from search index.
 
 Cited by: [T149](../../timeline/post-9-11-2001-2014.md#T149)
+
+<a id="PK-NACTA-NAP2014"></a>
+## PK-NACTA-NAP2014
+
+**National Action Plan, 2014**
+
+Summary: An undated NACTA page on Pakistan's National Action Plan, 2014. According to NACTA, the 20-point plan was drawn up by NACTA and the Ministry of Interior and approved on 24 December 2014 by a special session of Parliament, following the 16 December 2014 attack on the Army Public School. In CTA6 it adds to the NACTA record (PK-NACTA, PK-NACTA-ACT2013).
+
+- Issuing body: National Counter Terrorism Authority (NACTA), Pakistan
+- Date: \[UNKNOWN\]
+- Type: agency history
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: South Asia
+- Theme: doctrine and strategy
+- URL: [https://nacta.gov.pk/laws-policies/nap-2014/](https://nacta.gov.pk/laws-policies/nap-2014/)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-PK-NACTA-NAP.* Undated page (date \[UNKNOWN\]). It states the 20-point National Action Plan was 'approved on 24th of December, 2014 by the Parliament' after the Army Public School attack of 16 December 2014, and that NACTA is the NAP monitoring body. The page's status figures are NACTA's own and are not used in CTA6.
+
+Cited by: [T234](../../timeline/post-9-11-2001-2014.md#T234)

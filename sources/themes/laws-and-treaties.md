@@ -6,7 +6,7 @@ National statutes, international and regional treaties, and court rulings that i
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-156 sources in this theme.
+158 sources in this theme.
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -310,7 +310,7 @@ Cited by: [T118](../../timeline/recent-2014-now.md#T118)
 
 **European Convention on the Suppression of Terrorism (ETS No. 090)**
 
-Summary: The Council of Europe's European Convention on the Suppression of Terrorism (ETS No. 090), dated 27 January 1977. It is a regional European treaty on terrorism; its provisions are not summarized in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed (HTTP 403), although the same document was found at an official Council of Europe copy, which is why milestone T015 is not-proven.
+Summary: The Council of Europe's European Convention on the Suppression of Terrorism (ETS No. 090), dated 27 January 1977, from the official Council of Europe PDF. The text reads 'Done at Strasbourg, this 27th day of January 1977'. Its provisions are not summarized in CTA6 \[UNKNOWN\]. Milestone T015 stays not-proven because the words 'opened for signature' have not been confirmed from a fetched page.
 
 - Issuing body: Council of Europe
 - Date: 1977-01-27
@@ -320,11 +320,11 @@ Summary: The Council of Europe's European Convention on the Suppression of Terro
 - Era: 1945-1990
 - Region: Europe
 - Theme: laws and treaties
-- URL: [https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=090](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=090)
-- Accessed: 2026-11-18
-- Verified: `no`
+- URL: [https://rm.coe.int/16800771b2](https://rm.coe.int/16800771b2)
+- Accessed: 2026-11-19
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://rm.coe.int/16800771b2 Accessed 2026-11-18.
+- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://rm.coe.int/16800771b2 Accessed 2026-11-18. Round 4 (2026-11-19): cited URL replaced by this official Council of Europe PDF; verified is now yes.
 
 Cited by: [T015](../../timeline/1945-1990.md#T015)
 
@@ -333,7 +333,7 @@ Cited by: [T015](../../timeline/1945-1990.md#T015)
 
 **Council of Europe Convention on the Prevention of Terrorism (CETS No. 196)**
 
-Summary: The Council of Europe Convention on the Prevention of Terrorism (CETS No. 196), dated 16 May 2005. As its title states, it is a regional treaty aimed at preventing terrorism; its provisions are not summarized in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed (HTTP 403), although the same document was found at an official Council of Europe copy, which is why milestone T085 is not-proven.
+Summary: The Council of Europe Convention on the Prevention of Terrorism (CETS No. 196), dated 16 May 2005, from the official Council of Europe PDF. The text reads 'Warsaw, 16.V.2005' and 'Done at Warsaw, this 16th day of May 2005'. Its provisions are not summarized in CTA6 \[UNKNOWN\]. Milestone T085 stays not-proven because the words 'opened for signature' have not been confirmed from a fetched page.
 
 - Issuing body: Council of Europe
 - Date: 2005-05-16
@@ -343,11 +343,11 @@ Summary: The Council of Europe Convention on the Prevention of Terrorism (CETS N
 - Era: post-9/11 (2001-2014)
 - Region: Europe
 - Theme: laws and treaties
-- URL: [https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=196](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=196)
-- Accessed: 2026-11-18
-- Verified: `no`
+- URL: [https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=09000016808c3f55](https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=09000016808c3f55)
+- Accessed: 2026-11-19
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://rm.coe.int/16808c3f55 Accessed 2026-11-18.
+- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://rm.coe.int/16808c3f55 Accessed 2026-11-18. Round 4 (2026-11-19): cited URL replaced by this official Council of Europe PDF; verified is now yes.
 
 Cited by: [T085](../../timeline/post-9-11-2001-2014.md#T085)
 
@@ -356,7 +356,7 @@ Cited by: [T085](../../timeline/post-9-11-2001-2014.md#T085)
 
 **Inter-American Convention against Terrorism (A-66)**
 
-Summary: The Inter-American Convention against Terrorism (A-66) of the Organization of American States, dated 3 June 2002. As its title states, it is the Americas' regional treaty against terrorism. The cited copy could not be confirmed (HTTP 503/500 on repeated tries), so milestone T061 is marked not-proven and the Convention's content is \[UNKNOWN\] in CTA6.
+Summary: The Inter-American Convention against Terrorism (A-66) of the Organization of American States, dated 3 June 2002. As its title states, it is the Americas' regional treaty against terrorism. The cited OAS copy could not be confirmed (HTTP 503/500 on repeated tries), so milestone T061 is marked not-proven. An official Peruvian government Spanish copy of the Convention text is recorded separately as PE-GOB-CIAT2002-ES.
 
 - Issuing body: Organization of American States
 - Date: 2002-06-03
@@ -370,7 +370,7 @@ Summary: The Inter-American Convention against Terrorism (A-66) of the Organizat
 - Accessed: 2026-11-18
 - Verified: `no`
 - Language: \[UNKNOWN\]
-- Notes: HTTP 503. Retried https://www.oas.org/juridico/english/sigs/a-66.html and the original URL: HTTP 503/500 (curl and WebFetch). Still not verified.
+- Notes: HTTP 503. Retried https://www.oas.org/juridico/english/sigs/a-66.html and the original URL: HTTP 503/500 (curl and WebFetch). Still not verified. Round 4 (2026-11-19): OAS URLs still under maintenance (HTTP 503). An official Peruvian government Spanish copy of the Convention is recorded separately as PE-GOB-CIAT2002-ES; it does not replace this entry.
 
 Cited by: [T061](../../timeline/post-9-11-2001-2014.md#T061)
 
@@ -710,7 +710,7 @@ Cited by: [T098](../../timeline/post-9-11-2001-2014.md#T098)
 
 **R. v. Bush, 542 U.S. 466 (2004)**
 
-Summary: The US Supreme Court decision R. v. Bush, 542 U.S. 466, decided on 28 June 2004, from the official U.S. Reports. As recorded in milestone T075, it concerned whether federal courts had jurisdiction over habeas petitions from detainees at Guantanamo. It is the first of the Guantanamo detention cases in CTA6, followed by T090 and T096; the holding is not quoted in CTA6 \[UNKNOWN\].
+Summary: The US Supreme Court decision R. v. Bush, 542 U.S. 466, decided on 28 June 2004, from the official U.S. Reports. As recorded in milestone T075, it concerned whether federal courts had jurisdiction over habeas petitions from detainees at Guantanamo. It is the first of the Guantanamo detention cases in CTA6, followed by T090 and T096; according to the syllabus, the Court held that United States courts have jurisdiction to consider challenges to the legality of the detention of foreign nationals captured abroad in connection with hostilities and incarcerated at Guantanamo Bay.
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2004-06-28
@@ -2956,7 +2956,7 @@ Cited by: [T217](../../timeline/recent-2014-now.md#T217)
 
 **Convention portant création du G5 Sahel (archived copy of g5sahel.org/images/convention.pdf)**
 
-Summary: The Convention establishing the G5 Sahel (Convention portant création du G5 Sahel), dated 19 December 2014, from an Internet Archive capture of 2 June 2017. It is the founding treaty of the G5 Sahel. The cited copy could not be confirmed: the PDF has no text layer and was not read by OCR, so its content is \[UNKNOWN\], and the date comes from Mali's list (ML-SGG-CONV).
+Summary: The Convention establishing the G5 Sahel (Convention portant création du G5 Sahel), dated 19 December 2014, from an Internet Archive capture of 2 June 2017. It is the founding treaty of the G5 Sahel. Its text, read by OCR in round 4, establishes the G5 Sahel among Burkina Faso, Mali, Mauritania, Niger and Chad (article 1), fixes the seat initially in Nouakchott (article 3), provides for entry into force on ratification by at least three member states (article 18) and closes 'Fait à Nouakchott, le 19 décembre 2014'.
 
 - Issuing body: G5 Sahel (Internet Archive capture of 2 June 2017)
 - Date: 2014-12-19
@@ -2968,9 +2968,9 @@ Summary: The Convention establishing the G5 Sahel (Convention portant création 
 - Theme: laws and treaties
 - URL: [https://web.archive.org/web/20170602170931/http:/www.g5sahel.org/images/convention.pdf](https://web.archive.org/web/20170602170931/http:/www.g5sahel.org/images/convention.pdf)
 - Accessed: 2026-11-19
-- Verified: `no`
+- Verified: `yes`
 - Language: French
-- Notes: URL from a web-search result listing; fetched on 2026-11-19 (HTTP 200, application/pdf) but the PDF has no text layer and no OCR tool was available, so the content could not be matched. Date taken from ML-SGG-CONV.
+- Notes: URL from a web-search result listing; fetched 2026-11-19 (HTTP 200, image-only PDF). verified by OCR of scanned original in round 4 (RapidOCR; pass4/raw/G5S-CONV2014-WA.ocr.txt): title, art. 1, art. 3 (seat Nouakchott), art. 18, and "Fait a Nouakchott, le 19 decembre 2014". OCR text is unaccented and has some merged words.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -3576,3 +3576,49 @@ Summary: Singapore's Internal Security (Detained Persons Advisory Board) Rules (
 - Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/SG-ISA-ABRULES.* Made under Internal Security Act section 11(3); '\[16th January 1964\]'; revised edition 1990. Singapore has no national human rights institution; this advisory board is the statutory review body for ISA detentions.
 
 Cited by: [T193](../../timeline/1945-1990.md#T193)
+
+<a id="MX-DOF-CPF2014"></a>
+## MX-DOF-CPF2014
+
+**DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; del Código Fiscal de la Federación y de la Ley Federal de Extinción de Dominio (DOF, 14 de marzo de 2014)**
+
+Summary: The decree published in Mexico's Diario Oficial de la Federación on 14 March 2014 that amended the Federal Penal Code and four other federal laws. Its first article rewrote article 139 (terrorism) and added a chapter on the financing of terrorism (articles 139 Quáter and 139 Quinquies). In CTA6 it fills the Mexico 2014 reform gap and follows the 1970 addition of article 139 recorded in T137 (MX-CPF).
+
+- Issuing body: Presidencia de la República / Congreso General de los Estados Unidos Mexicanos (Diario Oficial de la Federación; copy held by the Cámara de Diputados)
+- Date: 2014-03-14
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref119_14mar14.pdf](https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref119_14mar14.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-MX-DIP-CPFREF119.* The PDF reproduces the DOF pages ('Viernes 14 de marzo de 2014 DIARIO OFICIAL (Primera Sección)'). Article 1 reforms art. 139 and adds Chapter VI Bis 'Del Financiamiento al Terrorismo' (arts. 139 Quáter and 139 Quinquies). Promulgated 'a doce de marzo de dos mil catorce'. The DOF's own page (dof.gob.mx nota 5337124, URL cited in two search-listed pages) returned HTTP 500 to curl and 403 to WebFetch. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T233](../../timeline/recent-2014-now.md#T233)
+
+<a id="PK-ATA-AM2020"></a>
+## PK-ATA-AM2020
+
+**The Anti-terrorism (Amendment) Act, 2020 (Act No. XX of 2020), The Gazette of Pakistan, Extraordinary, Part I, 30 July 2020**
+
+Summary: The Anti-terrorism (Amendment) Act, 2020 (Act No. XX of 2020), published in the Gazette of Pakistan on 30 July 2020 after presidential assent the same day. It amends the Anti-Terrorism Act, 1997, including a new definition of 'person' and a new section 11OOO on failure to comply with orders under the United Nations (Security Council) Act, 1948. In CTA6 it continues the ATA 1997 record (PK-FMU-ATA1997, PK-NACTA-ATA).
+
+- Issuing body: National Assembly Secretariat, Pakistan (Gazette of Pakistan; copy hosted by the Senate of Pakistan)
+- Date: 2020-07-30
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://senate.gov.pk/uploads/documents/1597043393_568.pdf](https://senate.gov.pk/uploads/documents/1597043393_568.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-PK-ATA-AM2020.* Scanned Gazette with an OCR text layer (some characters garbled). Text: 'The following Act of Majlis-e-Shoora (Parliament) received the assent of the President on the 30th July, 2020 ... Act No. XX of 2020 further to amend the Anti-terrorism Act, 1997'.
+
+Cited by: [T235](../../timeline/recent-2014-now.md#T235)

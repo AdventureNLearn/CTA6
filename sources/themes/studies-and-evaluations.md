@@ -6,7 +6,7 @@ Commission reports, inspector-general and oversight reviews, NGO reports, databa
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-88 sources in this theme.
+91 sources in this theme.
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -106,7 +106,7 @@ Cited by: [T113](../../timeline/recent-2014-now.md#T113), [T166](../../timeline/
 
 **2001 Authorization for Use of Military Force: Issues Concerning Its Continued Application (R43983)**
 
-Summary: '2001 Authorization for Use of Military Force: Issues Concerning Its Continued Application' (R43983), a 2015 report of the Congressional Research Service, Congress's research agency. As its title states, it examines questions about the continued use of the 2001 AUMF (T053). The cited copy could not be confirmed (HTTP 403), so its contents are \[UNKNOWN\] in CTA6.
+Summary: '2001 Authorization for Use of Military Force: Issues Concerning Its Continued Application' (R43983), a Congressional Research Service report updated 14 April 2015, from the congress.gov copy of the official PDF. As its title states, it examines questions about the continued use of the 2001 AUMF (T053). The body of the report is not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: Congressional Research Service
 - Date: 2015
@@ -116,11 +116,11 @@ Summary: '2001 Authorization for Use of Military Force: Issues Concerning Its Co
 - Era: recent (2014-now)
 - Region: North America
 - Theme: studies and evaluations
-- URL: [https://crsreports.congress.gov/product/pdf/R/R43983](https://crsreports.congress.gov/product/pdf/R/R43983)
-- Accessed: 2026-11-18
-- Verified: `no`
+- URL: [https://www.congress.gov/crs_external_products/R/PDF/R43983/R43983.3.pdf](https://www.congress.gov/crs_external_products/R/PDF/R43983/R43983.3.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: HTTP 403. CRS is a congressional research agency; listed as scholarly/secondary per brief.
+- Notes: HTTP 403. CRS is a congressional research agency; listed as scholarly/secondary per brief. Round 4 (2026-11-19): cited URL replaced by the congress.gov official copy of the same report (R43983, 'Updated April 14, 2015'); verified is now yes.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -876,10 +876,10 @@ Cited by: [T150](../../timeline/post-9-11-2001-2014.md#T150)
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Egypt (A/HRC/13/37/Add.2)**
 
-Summary: Report A/HRC/13/37/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Egypt (17-21 April 2009). The report examines Egypt's emergency law, criminal provisions on terrorist crimes and the amended article 179 of the Constitution, and discusses issues for the anti-terrorism legislation then being prepared. The report's date is \[UNKNOWN\] in CTA6.
+Summary: Report A/HRC/13/37/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Egypt (17-21 April 2009). The report examines Egypt's emergency law, criminal provisions on terrorist crimes and the amended article 179 of the Constitution, and discusses issues for the anti-terrorism legislation then being prepared. The report is dated 14 October 2009.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
-- Date: \[UNKNOWN\]
+- Date: 2009-10-14
 - Type: commission report
 - Tag: `primary`
 - Origin: `oversight`
@@ -899,10 +899,10 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Tunisia (A/HRC/16/51/Add.2)**
 
-Summary: Report A/HRC/16/51/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Tunisia (22-26 January 2010). The report examines terrorist threats and Tunisia's legal and institutional framework, and concludes that Tunisia's definition of terrorism at the time was vague and broad; this is the Special Rapporteur's assessment. The report's date is \[UNKNOWN\] in CTA6.
+Summary: Report A/HRC/16/51/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Tunisia (22-26 January 2010). The report examines terrorist threats and Tunisia's legal and institutional framework, and concludes that Tunisia's definition of terrorism at the time was vague and broad; this is the Special Rapporteur's assessment. The report is dated 28 December 2010.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
-- Date: \[UNKNOWN\]
+- Date: 2010-12-28
 - Type: commission report
 - Tag: `primary`
 - Origin: `oversight`
@@ -922,10 +922,10 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Peru (A/HRC/16/51/Add.3)**
 
-Summary: Report A/HRC/16/51/Add.3 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Peru from 1 to 8 September 2010. The report examines Peru's support for victims of terrorist crimes and of human rights violations by State security forces during the 1980-2000 internal armed conflict, and analyses Peru's counter-terrorism laws; these are the Special Rapporteur's assessments. Its date is \[UNKNOWN\] in CTA6.
+Summary: Report A/HRC/16/51/Add.3 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Peru from 1 to 8 September 2010. The report examines Peru's support for victims of terrorist crimes and of human rights violations by State security forces during the 1980-2000 internal armed conflict, and analyses Peru's counter-terrorism laws; these are the Special Rapporteur's assessments. The report is dated 15 December 2010.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
-- Date: \[UNKNOWN\]
+- Date: 2010-12-15
 - Type: commission report
 - Tag: `primary`
 - Origin: `oversight`
@@ -945,10 +945,10 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Chile (A/HRC/25/59/Add.2)**
 
-Summary: Report A/HRC/25/59/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Chile from 17 to 30 July 2013. The report says the main focus was the use of anti-terrorism legislation in connection with protests by Mapuche activists seeking to reclaim ancestral lands. It relates to Chile's Law 18.314 (T138) and the Inter-American Court case on its use (T167); its date is \[UNKNOWN\].
+Summary: Report A/HRC/25/59/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Chile from 17 to 30 July 2013. The report says the main focus was the use of anti-terrorism legislation in connection with protests by Mapuche activists seeking to reclaim ancestral lands. It relates to Chile's Law 18.314 (T138) and the Inter-American Court case on its use (T167); it is dated 14 April 2014.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
-- Date: \[UNKNOWN\]
+- Date: 2014-04-14
 - Type: commission report
 - Tag: `primary`
 - Origin: `oversight`
@@ -1037,10 +1037,10 @@ Cited by: [T183](../../timeline/recent-2014-now.md#T183)
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Saudi Arabia (A/HRC/40/52/Add.2)**
 
-Summary: Report A/HRC/40/52/Add.2 of the former UN Special Rapporteur on human rights and counter-terrorism on his official visit to Saudi Arabia (30 April-4 May 2017). The report says the visit assessed Saudi Arabia's counter-terrorism law, policy and practice against international human rights law; it commends programmes for victims of terrorism and also sets out concerns. It is the source for milestone T179; the report's date is \[UNKNOWN\] in CTA6.
+Summary: Report A/HRC/40/52/Add.2 of the former UN Special Rapporteur on human rights and counter-terrorism on his official visit to Saudi Arabia (30 April-4 May 2017). The report says the visit assessed Saudi Arabia's counter-terrorism law, policy and practice against international human rights law; it commends programmes for victims of terrorism and also sets out concerns. It is the source for milestone T179; the report is dated 13 December 2018.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
-- Date: \[UNKNOWN\]
+- Date: 2018-12-13
 - Type: commission report
 - Tag: `primary`
 - Origin: `oversight`
@@ -1405,10 +1405,10 @@ Cited by: none in `data/timeline.csv`.
 
 **Prison Study by the Human Rights Commission of Sri Lanka (concise version)**
 
-Summary: The concise version of the Prison Study by the Human Rights Commission of Sri Lanka, published in 2020. The study says it covers the physical and social dimensions of prisons and the legal framework, and it includes a section on prisoners held under the Prevention of Terrorism Act. It is the source for milestone T225; its findings are not summarized in CTA6 \[UNKNOWN\].
+Summary: The concise version of the Prison Study by the Human Rights Commission of Sri Lanka, published on 25 November 2020. The study says it covers the physical and social dimensions of prisons and the legal framework, and it includes a section on prisoners held under the Prevention of Terrorism Act. It is the source for milestone T225; its findings are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: Human Rights Commission of Sri Lanka
-- Date: 2020
+- Date: 2020-11-25
 - Type: commission report
 - Tag: `primary`
 - Origin: `oversight`
@@ -1681,7 +1681,7 @@ Cited by: none in `data/timeline.csv`.
 
 **The Eighteenth Report of the National Council for Human Rights (1 July 2024 – 30 June 2025)**
 
-Summary: The Eighteenth Report of Egypt's National Council for Human Rights, covering 1 July 2024 to 30 June 2025. The Council describes it as a holistic assessment of rights in Egypt, and it mentions recommendations to review laws providing for the death penalty, including counter-terrorism law, so that it applies only to the most serious crimes. It is the Council's own assessment; the day and month of publication are \[UNKNOWN\].
+Summary: The Eighteenth Report of Egypt's National Council for Human Rights, covering 1 July 2024 to 30 June 2025. The Council describes it as a holistic assessment of rights in Egypt, and it mentions recommendations to review laws providing for the death penalty, including counter-terrorism law, so that it applies only to the most serious crimes. It is the Council's own assessment; it mentions an event on 2 July 2025, so it was published after that date; the exact day and month are not printed \[UNKNOWN\].
 
 - Issuing body: National Council for Human Rights (Egypt)
 - Date: 2025
@@ -2020,3 +2020,72 @@ Summary: The Annual Report 2016 of the Human Rights Commission of Malaysia (SUHA
 - Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/MY-SUHAKAM-AR2016.* Discusses use of the Security Offences (Special Measures) Act 2012 (SOSMA). Print file dated 23 March 2017; publication date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
+
+<a id="KR-NHRCK-2001-OPINION"></a>
+## KR-NHRCK-2001-OPINION
+
+**테러방지법심의관련 의견제출 (보도자료)**
+
+Summary: A National Human Rights Commission of Korea press release, registered on 1 December 2001, stating that on 30 November the Commission submitted its opinion to the National Assembly in connection with deliberation of the draft Terrorism Prevention Act. The attached opinion itself was not read \[UNKNOWN\]. In CTA6 it is the earliest Korean oversight record and precedes the 2016 enforcement decree (KR-ATA-DECREE2016).
+
+- Issuing body: 국가인권위원회 (National Human Rights Commission of Korea)
+- Date: 2001-12-01
+- Type: other
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: East/Southeast Asia
+- Theme: studies and evaluations
+- URL: [https://www.humanrights.go.kr/base/board/read?boardManagementNo=24&boardNo=4866&menuLevel=3&menuNo=91&page=474&searchCategory=&searchType=&searchWord=](https://www.humanrights.go.kr/base/board/read?boardManagementNo=24&boardNo=4866&menuLevel=3&menuNo=91&page=474&searchCategory=&searchType=&searchWord=)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Korean
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-KR-NHRCK-SUBMIT.* Press-release page registered 2001-12-01; text: '11. 30. 국회 "테러방지법(안)"심의 관련, 국가인권위원회의 의견을 제출했습니다.' The attached .hwp opinion was not opened. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T231](../../timeline/post-9-11-2001-2014.md#T231)
+
+<a id="KR-NHRCK-2002-OPINION"></a>
+## KR-NHRCK-2002-OPINION
+
+**테러방지법(안)에 대한 의견서 (요약) (일반공지)**
+
+Summary: A National Human Rights Commission of Korea notice of 4 April 2002 announcing that the Commission's chairperson would visit the National Assembly that day to deliver the Commission's opposing opinion on the pending draft Terrorism Prevention Act. It attaches a summary of the opinion, which was not read \[UNKNOWN\]. In CTA6 it follows the Commission's November 2001 submission (KR-NHRCK-2001-OPINION).
+
+- Issuing body: 국가인권위원회 (National Human Rights Commission of Korea)
+- Date: 2002-04-04
+- Type: other
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: East/Southeast Asia
+- Theme: studies and evaluations
+- URL: [https://www.humanrights.go.kr/base/board/read?boardManagementNo=9&boardNo=556724&menuLevel=3&menuNo=88&page=95&searchCategory=&searchType=&searchWord=](https://www.humanrights.go.kr/base/board/read?boardManagementNo=9&boardNo=556724&menuLevel=3&menuNo=88&page=95&searchCategory=&searchType=&searchWord=)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Korean
+- Notes: URL from a web-search result listing. curl failed (no response) on 2026-11-19; verified via WebFetch the same day; transcribed excerpt (contact block omitted) saved as pass4/raw/webfetch-KR-NHRCK-OPINION.txt. Notice registered 2002-04-04: '위원장, 테러방지법(안) 반대 의견 국회의장에 직접 전달'. The attached .hwp summary was not opened. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T232](../../timeline/post-9-11-2001-2014.md#T232)
+
+<a id="KR-NHRCK-2026-AMEND"></a>
+## KR-NHRCK-2026-AMEND
+
+**정당 활동 방해 목적을 ‘테러’ 정의에 포함... 국민의 기본권 침해 우려 (보도자료)**
+
+Summary: A National Human Rights Commission of Korea press release registered on 1 April 2026. It reports that on 27 March 2026 the Commission told the Speaker of the National Assembly that a pending amendment adding the purpose of obstructing the democratic organisation and activities of political parties to the definition of terrorism needs careful review, citing the principles of clarity and proportionality (the Commission's assessment). In CTA6 it links to the 2016 Anti-Terrorism Act framework (KR-ATA-DECREE2016).
+
+- Issuing body: 국가인권위원회 (National Human Rights Commission of Korea)
+- Date: 2026-04-01
+- Type: other
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: studies and evaluations
+- URL: [https://www.humanrights.go.kr/base/board/read?boardManagementNo=24&boardNo=7611956&menuLevel=3&menuNo=91&page=7&searchCategory=&searchType=&searchWord=](https://www.humanrights.go.kr/base/board/read?boardManagementNo=24&boardNo=7611956&menuLevel=3&menuNo=91&page=7&searchCategory=&searchType=&searchWord=)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Korean
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-KR-NHRCK-2026.* Press release registered 2026-04-01; states that on 27 March 2026 the Commission expressed to the Speaker of the National Assembly the opinion that a pending partial amendment to the Act on Anti-Terrorism for the Protection of Citizens and Public Security needs careful review. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T236](../../timeline/recent-2014-now.md#T236)
