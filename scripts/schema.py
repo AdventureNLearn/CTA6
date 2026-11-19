@@ -5,7 +5,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 
 # Generated pages and the README use this label for the current archive round.
-CURRENT_ROUND = 4
+CURRENT_ROUND = 5
 DATA = ROOT / "data"
 SOURCES_CSV = DATA / "sources.csv"
 TIMELINE_CSV = DATA / "timeline.csv"
