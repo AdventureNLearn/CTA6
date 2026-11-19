@@ -2,7 +2,7 @@
 
 # Timeline: recent (2014-now)
 
-Round 1 of an ongoing archive. This list is not complete. Every entry is taken from the cited row in `data/timeline.csv`.
+Round 4 of an ongoing archive. This list is not complete. Every entry is taken from the cited row in `data/timeline.csv`.
 
 67 milestones in this era.
 
