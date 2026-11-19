@@ -13,6 +13,8 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **Security Council resolution 1438 (2002): Threats to international peace and security caused by terrorist acts (Bali)**
 
+Summary: UN Security Council resolution 1438, adopted on 14 October 2002 after the bomb attacks in Bali, Indonesia, on 12 October 2002. The Council condemns the attacks 'in the strongest terms', regards them, like any act of international terrorism, as a threat to international peace and security, and expresses condolences to Indonesia and the victims. It is the source for milestone T063.
+
 - Issuing body: UN Security Council
 - Date: 2002-10-14
 - Type: UN resolution
@@ -34,6 +36,8 @@ Cited by: [T063](../../timeline/post-9-11-2001-2014.md#T063)
 
 **ASEAN Convention on Counter Terrorism**
 
+Summary: The ASEAN Convention on Counter Terrorism, concluded on 13 January 2007. Article I says it provides the framework for regional cooperation to counter, prevent and suppress terrorism and to deepen cooperation among law enforcement agencies; it defines offences by reference to a list of international counter-terrorism treaties. It is the Southeast Asian regional treaty in CTA6 and the source for milestone T093.
+
 - Issuing body: Association of Southeast Asian Nations
 - Date: 2007-01-13
 - Type: treaty
@@ -53,6 +57,8 @@ Cited by: [T093](../../timeline/post-9-11-2001-2014.md#T093)
 ## PH-RA11479
 
 **Republic Act No. 11479 (Anti-Terrorism Act of 2020)**
+
+Summary: Republic Act No. 11479, the Philippines' Anti-Terrorism Act of 2020, dated 3 July 2020, from the Official Gazette. The cited copy could not be confirmed (HTTP 403), so milestone T129 is marked not-proven: CTA6 records the enactment, but the source page itself was not verified. Its provisions are \[UNKNOWN\] in CTA6; a Supreme Court case on the Act is recorded as T186.
 
 - Issuing body: Official Gazette of the Republic of the Philippines
 - Date: 2020-07-03
@@ -75,6 +81,8 @@ Cited by: [T129](../../timeline/recent-2014-now.md#T129)
 
 **Badan Nasional Penanggulangan Terorisme (BNPT) (home page)**
 
+Summary: The home page of Indonesia's Badan Nasional Penanggulangan Terorisme (BNPT, National Counter-Terrorism Agency). The cited copy could not be confirmed: the fetch returned a bot-detection page instead of the site's content. Its content and date are \[UNKNOWN\].
+
 - Issuing body: BNPT, Republic of Indonesia
 - Date: \[UNKNOWN\]
 - Type: agency history
@@ -95,6 +103,8 @@ Cited by: none in `data/timeline.csv`.
 ## JP-PSIA-AUM
 
 **Public Security Intelligence Agency (English home page)**
+
+Summary: The English home page of Japan's Public Security Intelligence Agency (PSIA). The page refers to the agency carrying out the surveillance disposition on Aum Shinrikyo and clarifying the organization's activities, and links to sections on efforts to prevent terrorism. It is undated \[UNKNOWN\]; the 2024 renewal of the measure is recorded as T228.
 
 - Issuing body: Public Security Intelligence Agency, Japan
 - Date: \[UNKNOWN\]
@@ -117,6 +127,8 @@ Cited by: none in `data/timeline.csv`.
 
 **Internal Security Act 1960**
 
+Summary: Singapore's Internal Security Act 1960, from Singapore Statutes Online. Its long title says it provides for the internal security of Singapore, preventive detention, the prevention of subversion and the suppression of organised violence in specified areas. It is the source for milestone T135; detentions under it are reviewed by an advisory board (T193).
+
 - Issuing body: Attorney-General's Chambers, Singapore (Singapore Statutes Online)
 - Date: 1960
 - Type: statute
@@ -137,6 +149,8 @@ Cited by: [T135](../../timeline/1945-1990.md#T135)
 ## HRW-CHN-2018
 
 **"Eradicating Ideological Viruses": China's Campaign of Repression Against Xinjiang's Muslims**
+
+Summary: 'Eradicating Ideological Viruses': China's Campaign of Repression Against Xinjiang's Muslims', a Human Rights Watch report of 9 September 2018. HRW says it presents new evidence of the Chinese government's mass arbitrary detention, torture and mistreatment of Turkic Muslims in Xinjiang, based mainly on interviews with 58 former residents. These are HRW's findings; no milestone cites it yet.
 
 - Issuing body: Human Rights Watch
 - Date: 2018-09-09
@@ -159,6 +173,8 @@ Cited by: none in `data/timeline.csv`.
 
 **中华人民共和国反恐怖主义法**
 
+Summary: The Counter-Terrorism Law of the People's Republic of China (中华人民共和国反恐怖主义法), adopted by the NPC Standing Committee on 27 December 2015 and amended on 27 April 2018, from the NPC website. Article 97 provides that it took effect on 1 January 2016. It is China's national counter-terrorism statute and the source for milestone T174; its provisions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: 全国人民代表大会常务委员会 (中国人大网)
 - Date: 2015-12-27
 - Type: statute
@@ -179,6 +195,8 @@ Cited by: [T174](../../timeline/recent-2014-now.md#T174)
 ## ID-UU5-2018
 
 **Undang-Undang Nomor 5 Tahun 2018 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2003 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2002 tentang Pemberantasan Tindak Pidana Terorisme Menjadi Undang-Undang**
+
+Summary: Indonesia's Law No. 5 of 2018 amending Law No. 15 of 2003 on combating criminal acts of terrorism, from the JDIH BPK legal database. The database lists it as enacted on 21 June 2018 and promulgated on 22 June 2018. It is the source for milestone T182; Komnas HAM had commented on the draft (T223).
 
 - Issuing body: JDIH BPK (Badan Pemeriksa Keuangan), Republik Indonesia
 - Date: 2018-06-21
@@ -201,6 +219,8 @@ Cited by: [T182](../../timeline/recent-2014-now.md#T182)
 
 **Act on the Control of Organizations Which Have Committed Acts of Indiscriminate Mass Murder (Act No. 147 of 1999)**
 
+Summary: Japan's Act on the Control of Organizations Which Have Committed Acts of Indiscriminate Mass Murder (Act No. 147 of 7 December 1999), in the official English translation, which is not the authoritative text. Its stated purpose is to set control measures on an organization whose members have committed indiscriminate mass murder as an organizational activity, 'by using sarin gas for example'. It is the source for milestone T146 and the basis for the Aum Shinrikyo observation measure (T228).
+
 - Issuing body: Japanese Law Translation (Ministry of Justice, Japan)
 - Date: 1999-12-07
 - Type: statute
@@ -221,6 +241,8 @@ Cited by: [T146](../../timeline/1990-2001.md#T146)
 ## JP-PSIA-HIST
 
 **History (Public Security Intelligence Agency)**
+
+Summary: The history page of Japan's Public Security Intelligence Agency. It says the Act on the Control of Organizations Which Have Committed Acts of Indiscriminate Mass Murder came into force on 27 December 1999 and gave the PSIA additional duties to investigate, request dispositions and take control measures regarding such organizations. It supports milestone T146; the page is undated \[UNKNOWN\].
 
 - Issuing body: Public Security Intelligence Agency, Japan
 - Date: \[UNKNOWN\]
@@ -243,6 +265,8 @@ Cited by: [T146](../../timeline/1990-2001.md#T146)
 
 **국민보호와 공공안전을 위한 테러방지법 (법률 제14071호)**
 
+Summary: South Korea's Act on Counter-Terrorism for the Protection of Citizens and Public Security (Act No. 14071), in Korean, from the Korean Law Information Center. CTA6 records it as enacted on 3 March 2016, with the captured text version effective 4 June 2016. It is the source for milestone T175; its provisions are not summarized in CTA6 \[UNKNOWN\].
+
 - Issuing body: 국가법령정보센터 (Korea Ministry of Government Legislation)
 - Date: 2016-03-03
 - Type: statute
@@ -263,6 +287,8 @@ Cited by: [T175](../../timeline/recent-2014-now.md#T175)
 ## MY-SOSMA2012
 
 **Security Offences (Special Measures) Act 2012 (Act 747)**
+
+Summary: Malaysia's Security Offences (Special Measures) Act 2012 (Act 747), which received Royal Assent on 18 June 2012. Its long title says it provides special measures relating to security offences to maintain public order and security, and it states that no one may be arrested and detained under its arrest section solely for political belief or political activity. It is the source for milestone T162; Malaysia's human rights commission later raised concerns about its use (MY-SUHAKAM-AR2016).
 
 - Issuing body: Attorney General's Chambers of Malaysia (Laws of Malaysia)
 - Date: 2012-06-18
@@ -285,6 +311,8 @@ Cited by: [T162](../../timeline/post-9-11-2001-2014.md#T162)
 
 **G.R. Nos. 252578, et al. (Anti-Terrorism Act oral arguments: docket of petitions, notices and announcements)**
 
+Summary: The Supreme Court of the Philippines' docket page for G.R. Nos. 252578 et al., the petitions against the Anti-Terrorism Act of 2020, listing petitions, notices and announcements for the oral arguments. It shows the Act was challenged in the Supreme Court, but it is not the decision. Milestone T186 is therefore marked not-proven: the docket is verified, but the decision text is not captured.
+
 - Issuing body: Supreme Court of the Philippines
 - Date: \[UNKNOWN\]
 - Type: court record
@@ -305,6 +333,8 @@ Cited by: [T186](../../timeline/recent-2014-now.md#T186)
 ## PH-SC-2021-252578
 
 **G.R. No. 252578, C. et al. v. Executive Secretary et al. (full text)**
+
+Summary: The full text of the Supreme Court of the Philippines' decision in G.R. No. 252578, C. et al. v. Executive Secretary et al., dated 7 December 2021, on the Anti-Terrorism Act of 2020. The cited copy could not be confirmed (HTTP 403), so the ruling's content is \[UNKNOWN\] in CTA6 and milestone T186 is not-proven. The petitioner's name is reduced to an initial under CTA6's rule.
 
 - Issuing body: Supreme Court of the Philippines E-Library
 - Date: 2021-12-07
@@ -327,6 +357,8 @@ Cited by: [T186](../../timeline/recent-2014-now.md#T186)
 
 **Perlindungan Hak Asasi Manusia dalam Rancangan Undang-Undang tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2003 (kertas posisi; disampaikan kepada Ketua Panja RUU Pemberantasan Tindak Pidana Terorisme pada 16 April 2018)**
 
+Summary: A position paper by Indonesia's National Human Rights Commission (Komnas HAM) on human rights protection in the draft amendment to Law No. 15 of 2003 on terrorism, submitted to the chair of the parliamentary working committee on 16 April 2018. Among its recommendations, Komnas HAM urges that the revision use a criminal justice system approach that puts legal process and human rights first. It is the source for milestone T223; the bill became Law No. 5 of 2018 (T182).
+
 - Issuing body: Komisi Nasional Hak Asasi Manusia (Komnas HAM), Indonesia
 - Date: 2018-04-16
 - Type: commission report
@@ -347,6 +379,8 @@ Cited by: [T223](../../timeline/recent-2014-now.md#T223)
 ## KR-ATA-DECREE2016
 
 **국민보호와 공공안전을 위한 테러방지법 시행령 (대통령령 제27203호, 2016. 5. 31., 제정)**
+
+Summary: The Enforcement Decree of South Korea's Act on Anti-Terrorism for the Protection of Citizens and Public Security (Presidential Decree No. 27203), dated 31 May 2016 and in force from 4 June 2016, from the Korean Law Information Center. It is the implementing decree of the 2016 Act (T175). It is the source for milestone T219; its provisions are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: Ministry of Government Legislation, Korean Law Information Center (국가법령정보센터)
 - Date: 2016-05-31
@@ -369,6 +403,8 @@ Cited by: [T219](../../timeline/recent-2014-now.md#T219)
 
 **Annual Report 2016**
 
+Summary: The Annual Report 2016 of the Human Rights Commission of Malaysia (SUHAKAM); the print file is dated 23 March 2017. SUHAKAM says SOSMA was presented as a law for imminent terrorist threats but has been used for non-terrorism purposes, and that it recorded complaints of abuse from detainees during their 28-day detention. These are SUHAKAM's findings about the 2012 Act (T162).
+
 - Issuing body: Human Rights Commission of Malaysia (SUHAKAM)
 - Date: 2017
 - Type: commission report
@@ -389,6 +425,8 @@ Cited by: none in `data/timeline.csv`.
 ## JP-KOUANSHIN-AUM
 
 **オウム真理教に対する観察処分の期間更新決定の概要について（令和6年1月12日）**
+
+Summary: A summary from Japan's Public Security Examination Commission (Ministry of Justice), dated 12 January 2024, of its decision to renew the observation measure on Aum Shinrikyo. The Commission states it acted on the request of the Director-General of the Public Security Intelligence Agency under the 1999 Act on organizations that committed indiscriminate mass murder. It is a source for milestone T228.
 
 - Issuing body: 公安審査委員会 (Public Security Examination Commission, Ministry of Justice)
 - Date: 2024-01-12
@@ -411,6 +449,8 @@ Cited by: [T228](../../timeline/recent-2014-now.md#T228)
 
 **無差別大量殺人行為を行った団体の規制に関する法律に基づく観察処分の期間の更新決定（8回目）について（令和6年1月12日決定）**
 
+Summary: A Public Security Intelligence Agency page on the eighth renewal of the observation measure under the 1999 Act, decided on 12 January 2024. The agency says it received the Public Security Examination Commission's decision renewing the measure, and it links to its comment, a summary of the decision and the current state of Aum Shinrikyo. It is a source for milestone T228.
+
 - Issuing body: 公安調査庁 (Public Security Intelligence Agency)
 - Date: 2024-01-12
 - Type: other
@@ -431,6 +471,8 @@ Cited by: [T228](../../timeline/recent-2014-now.md#T228)
 ## JP-TFINANCE-2002
 
 **公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する法律**
+
+Summary: Japan's Act on the Punishment of the Provision of Funds for Criminal Acts Intended to Intimidate the Public (Act No. 67 of 2002), in Japanese, from the e-Gov law search. The cited copy could not be confirmed, because the page loads only with JavaScript; its date comes from the National Diet Library record (JP-NDL-TFINANCE). Its content is \[UNKNOWN\] in CTA6.
 
 - Issuing body: e-Gov 法令検索 (Digital Agency, Japan)
 - Date: 2002-06-12
@@ -453,6 +495,8 @@ Cited by: none in `data/timeline.csv`.
 
 **公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する法律（平成14年6月12日法律第67号）（日本法令索引）**
 
+Summary: The National Diet Library's Japanese law index record for Act No. 67 of 2002, promulgated on 12 June 2002. The record gives its common name as the act punishing the provision of funds for terrorism, its classification as criminal law, and its status as in force, and says the Cabinet submitted the bill to the 154th Diet session. It is the source for milestone T200.
+
 - Issuing body: 国立国会図書館 日本法令索引 (National Diet Library)
 - Date: 2002-06-12
 - Type: database
@@ -474,6 +518,8 @@ Cited by: [T200](../../timeline/post-9-11-2001-2014.md#T200)
 
 **Internal Security (Detained Persons Advisory Board) Rules (G.N. No. S 23/1964)**
 
+Summary: Singapore's Internal Security (Detained Persons Advisory Board) Rules (G.N. No. S 23/1964), made under section 11(3) of the Internal Security Act and dated 16 January 1964 (revised edition 1990). CTA6's notes say Singapore has no national human rights institution and that this advisory board is the statutory review body for ISA detentions. It is the source for milestone T193.
+
 - Issuing body: Attorney-General's Chambers, Singapore Statutes Online
 - Date: 1964-01-16
 - Type: statute
@@ -494,6 +540,8 @@ Cited by: [T193](../../timeline/1945-1990.md#T193)
 ## SG-NAS-MHA2002
 
 **Government News Release on the ISA Arrests: The Advisory Board Sits (MHA press release, 25 Feb 2002)**
+
+Summary: A Singapore Ministry of Home Affairs press release of 25 February 2002, 'Government News Release on the ISA Arrests: The Advisory Board Sits', held by the National Archives of Singapore. Its title suggests it concerns the advisory board's review of ISA arrests, but the cited copy could not be confirmed (an empty response). Its title and date come from a search listing only.
 
 - Issuing body: Ministry of Home Affairs, Singapore (National Archives of Singapore)
 - Date: 2002-02-25

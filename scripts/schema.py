@@ -29,8 +29,9 @@ SOURCE_FIELDS = [
     "notes",
     "language",
     "case_citation",
+    "summary",
 ]
-# notes and case_citation are optional; language is required ([UNKNOWN] if not recorded)
+# notes and case_citation are optional; language and summary are required ([UNKNOWN] if not recorded)
 SOURCE_REQUIRED = [f for f in SOURCE_FIELDS if f not in ("notes", "case_citation")]
 
 TIMELINE_FIELDS = [
@@ -47,6 +48,7 @@ TIMELINE_FIELDS = [
     "region",
     "theme",
     "notes",
+    "summary",
 ]
 TIMELINE_REQUIRED = [
     "id",
@@ -59,6 +61,7 @@ TIMELINE_REQUIRED = [
     "era",
     "region",
     "theme",
+    "summary",
 ]
 
 ERAS = [
