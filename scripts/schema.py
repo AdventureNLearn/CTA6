@@ -27,9 +27,11 @@ SOURCE_FIELDS = [
     "accessed",
     "verified",
     "notes",
+    "language",
+    "case_citation",
 ]
-# notes is optional; every other source field is required
-SOURCE_REQUIRED = [f for f in SOURCE_FIELDS if f != "notes"]
+# notes and case_citation are optional; language is required ([UNKNOWN] if not recorded)
+SOURCE_REQUIRED = [f for f in SOURCE_FIELDS if f not in ("notes", "case_citation")]
 
 TIMELINE_FIELDS = [
     "id",
@@ -44,6 +46,7 @@ TIMELINE_FIELDS = [
     "era",
     "region",
     "theme",
+    "notes",
 ]
 TIMELINE_REQUIRED = [
     "id",
@@ -73,6 +76,7 @@ REGIONS = [
     "South Asia",
     "East/Southeast Asia",
     "Latin America",
+    "Russia/Central Asia",
     "Oceania",
     "Global/UN",
 ]
@@ -124,6 +128,7 @@ REGION_SLUGS = {
     "South Asia": "south-asia",
     "East/Southeast Asia": "east-southeast-asia",
     "Latin America": "latin-america",
+    "Russia/Central Asia": "russia-central-asia",
     "Oceania": "oceania",
     "Global/UN": "global-un",
 }

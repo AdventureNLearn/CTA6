@@ -73,6 +73,9 @@ def timeline_entry_md(row: dict[str, str], sources_by_id: dict[str, dict[str, st
         row["what_happened"],
         "",
     ]
+    if (row.get("notes") or "").strip():
+        lines.append(f'- Notes: {md_cell(row["notes"])}')
+        lines.append("")
     cites = citations_for(sources_by_id, row, from_timeline=from_timeline)
     if cites.startswith("- "):
         lines.append("Citations:")
@@ -108,7 +111,11 @@ def source_entry_md(
         f'- Accessed: {md_cell(src["accessed"])}',
         f'- Verified: `{src["verified"]}`',
     ]
-    if src["notes"].strip():
+    if (src.get("language") or "").strip():
+        lines.append(f'- Language: {md_cell(src["language"])}')
+    if (src.get("case_citation") or "").strip():
+        lines.append(f'- Case citation: {md_cell(src["case_citation"])}')
+    if src.get("notes", "").strip():
         lines.append(f'- Notes: {md_cell(src["notes"])}')
     lines.append("")
     if cited_by:

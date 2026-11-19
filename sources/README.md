@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-196 sources in this round (180 primary, 16 secondary).
+303 sources in this round (274 primary, 29 secondary).
 
 Sources are grouped by region and by theme. A source has one region and one theme in this spreadsheet; many records span more than one category in practice.
 
@@ -12,29 +12,30 @@ Sources are grouped by region and by theme. A source has one region and one them
 
 | Region | Sources | File |
 |---|---:|---|
-| North America | 42 | [north-america.md](regions/north-america.md) |
-| Europe | 50 | [europe.md](regions/europe.md) |
-| Middle East/North Africa | 10 | [middle-east-north-africa.md](regions/middle-east-north-africa.md) |
-| Sub-Saharan Africa | 9 | [sub-saharan-africa.md](regions/sub-saharan-africa.md) |
-| South Asia | 5 | [south-asia.md](regions/south-asia.md) |
-| East/Southeast Asia | 5 | [east-southeast-asia.md](regions/east-southeast-asia.md) |
-| Latin America | 6 | [latin-america.md](regions/latin-america.md) |
-| Oceania | 3 | [oceania.md](regions/oceania.md) |
-| Global/UN | 66 | [global-un.md](regions/global-un.md) |
+| North America | 45 | [north-america.md](regions/north-america.md) |
+| Europe | 67 | [europe.md](regions/europe.md) |
+| Middle East/North Africa | 28 | [middle-east-north-africa.md](regions/middle-east-north-africa.md) |
+| Sub-Saharan Africa | 30 | [sub-saharan-africa.md](regions/sub-saharan-africa.md) |
+| South Asia | 22 | [south-asia.md](regions/south-asia.md) |
+| East/Southeast Asia | 15 | [east-southeast-asia.md](regions/east-southeast-asia.md) |
+| Latin America | 15 | [latin-america.md](regions/latin-america.md) |
+| Russia/Central Asia | 10 | [russia-central-asia.md](regions/russia-central-asia.md) |
+| Oceania | 4 | [oceania.md](regions/oceania.md) |
+| Global/UN | 67 | [global-un.md](regions/global-un.md) |
 
 ## By theme
 
 | Theme | Sources | File |
 |---|---:|---|
-| laws and treaties | 70 | [laws-and-treaties.md](themes/laws-and-treaties.md) |
-| agencies | 22 | [agencies.md](themes/agencies.md) |
-| major operations | 7 | [major-operations.md](themes/major-operations.md) |
-| UN and international frameworks | 55 | [un-and-international-frameworks.md](themes/un-and-international-frameworks.md) |
-| doctrine and strategy | 7 | [doctrine-and-strategy.md](themes/doctrine-and-strategy.md) |
-| studies and evaluations | 35 | [studies-and-evaluations.md](themes/studies-and-evaluations.md) |
+| laws and treaties | 123 | [laws-and-treaties.md](themes/laws-and-treaties.md) |
+| agencies | 28 | [agencies.md](themes/agencies.md) |
+| major operations | 11 | [major-operations.md](themes/major-operations.md) |
+| UN and international frameworks | 57 | [un-and-international-frameworks.md](themes/un-and-international-frameworks.md) |
+| doctrine and strategy | 11 | [doctrine-and-strategy.md](themes/doctrine-and-strategy.md) |
+| studies and evaluations | 73 | [studies-and-evaluations.md](themes/studies-and-evaluations.md) |
 
 ## Independent oversight and criticism
 
-37 sources whose origin is `oversight`, `court`, or `NGO` are also listed in [independent-oversight-and-criticism.md](themes/independent-oversight-and-criticism.md).
+87 sources whose origin is `oversight`, `court`, or `NGO` are also listed in [independent-oversight-and-criticism.md](themes/independent-oversight-and-criticism.md).
 
 The canonical records are in [`data/sources.csv`](../data/sources.csv).

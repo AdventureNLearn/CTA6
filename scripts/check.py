@@ -171,6 +171,7 @@ def scan_repo(problems: list[str]) -> None:
                 error(problems, f"{rel} contains a {name}: {shown}")
 
 
+
 def main() -> int:
     problems: list[str] = []
     try:
