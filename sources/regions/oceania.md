@@ -59,7 +59,7 @@ Cited by: [T125](../../timeline/recent-2014-now.md#T125)
 
 **Australian National Security: Terrorism (Listed terrorist organisations)**
 
-Summary: An Australian Government web page on the Australian National Security site listing the organisations Australia has listed as terrorist organisations. It records which groups carry that legal designation in Australia. The page is undated, so the date of the list it shows is \[UNKNOWN\].
+Summary: An Australian Government web page on the Australian National Security site listing the organisations Australia has listed as terrorist organisations. It records which groups carry that legal designation in Australia. The page shows 'Last updated: 17/11/2026', so the list is as of that date.
 
 - Issuing body: Australian Government
 - Date: \[UNKNOWN\]

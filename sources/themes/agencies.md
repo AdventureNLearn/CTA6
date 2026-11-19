@@ -245,7 +245,7 @@ Cited by: [T068](../../timeline/post-9-11-2001-2014.md#T068), [T078](../../timel
 
 **Creation of the Department of Homeland Security**
 
-Summary: The US Department of Homeland Security's page on its own creation. It says DHS was created by combining all or part of 22 federal departments and agencies into a unified department. It is cited for milestone T065; the page is undated \[UNKNOWN\].
+Summary: The US Department of Homeland Security's page on its own creation. It says DHS was created by combining all or part of 22 federal departments and agencies into a unified department. It is cited for milestone T065; the page shows 'Last Updated: 05/08/2023' (US date format).
 
 - Issuing body: US Department of Homeland Security
 - Date: \[UNKNOWN\]
@@ -475,7 +475,7 @@ Cited by: none in `data/timeline.csv`.
 
 **Australian National Security: Terrorism (Listed terrorist organisations)**
 
-Summary: An Australian Government web page on the Australian National Security site listing the organisations Australia has listed as terrorist organisations. It records which groups carry that legal designation in Australia. The page is undated, so the date of the list it shows is \[UNKNOWN\].
+Summary: An Australian Government web page on the Australian National Security site listing the organisations Australia has listed as terrorist organisations. It records which groups carry that legal designation in Australia. The page shows 'Last updated: 17/11/2026', so the list is as of that date.
 
 - Issuing body: Australian Government
 - Date: \[UNKNOWN\]

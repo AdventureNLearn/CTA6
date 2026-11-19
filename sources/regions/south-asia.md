@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-33 sources in this region (`government` 22, `international` 3, `NGO` 3, `oversight` 5).
+35 sources in this region (`government` 24, `international` 3, `NGO` 3, `oversight` 5).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -403,10 +403,10 @@ Cited by: [T189](../../timeline/recent-2014-now.md#T189)
 
 **Prison Study by the Human Rights Commission of Sri Lanka (concise version)**
 
-Summary: The concise version of the Prison Study by the Human Rights Commission of Sri Lanka, published in 2020. The study says it covers the physical and social dimensions of prisons and the legal framework, and it includes a section on prisoners held under the Prevention of Terrorism Act. It is the source for milestone T225; its findings are not summarized in CTA6 \[UNKNOWN\].
+Summary: The concise version of the Prison Study by the Human Rights Commission of Sri Lanka, published on 25 November 2020. The study says it covers the physical and social dimensions of prisons and the legal framework, and it includes a section on prisoners held under the Prevention of Terrorism Act. It is the source for milestone T225; its findings are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: Human Rights Commission of Sri Lanka
-- Date: 2020
+- Date: 2020-11-25
 - Type: commission report
 - Tag: `primary`
 - Origin: `oversight`
@@ -765,3 +765,49 @@ Summary: The Annual Report 2024 of Pakistan's National Commission for Human Righ
 - Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/PK-NCHR-AR2024.* Lists among the Commission's functions to 'review the factors, including acts of terrorism, that inhibit the enjoyment of human rights'. Publication month from the URL path only (2025/04).
 
 Cited by: none in `data/timeline.csv`.
+
+<a id="PK-ATA-AM2020"></a>
+## PK-ATA-AM2020
+
+**The Anti-terrorism (Amendment) Act, 2020 (Act No. XX of 2020), The Gazette of Pakistan, Extraordinary, Part I, 30 July 2020**
+
+Summary: The Anti-terrorism (Amendment) Act, 2020 (Act No. XX of 2020), published in the Gazette of Pakistan on 30 July 2020 after presidential assent the same day. It amends the Anti-Terrorism Act, 1997, including a new definition of 'person' and a new section 11OOO on failure to comply with orders under the United Nations (Security Council) Act, 1948. In CTA6 it continues the ATA 1997 record (PK-FMU-ATA1997, PK-NACTA-ATA).
+
+- Issuing body: National Assembly Secretariat, Pakistan (Gazette of Pakistan; copy hosted by the Senate of Pakistan)
+- Date: 2020-07-30
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://senate.gov.pk/uploads/documents/1597043393_568.pdf](https://senate.gov.pk/uploads/documents/1597043393_568.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-PK-ATA-AM2020.* Scanned Gazette with an OCR text layer (some characters garbled). Text: 'The following Act of Majlis-e-Shoora (Parliament) received the assent of the President on the 30th July, 2020 ... Act No. XX of 2020 further to amend the Anti-terrorism Act, 1997'.
+
+Cited by: [T235](../../timeline/recent-2014-now.md#T235)
+
+<a id="PK-NACTA-NAP2014"></a>
+## PK-NACTA-NAP2014
+
+**National Action Plan, 2014**
+
+Summary: An undated NACTA page on Pakistan's National Action Plan, 2014. According to NACTA, the 20-point plan was drawn up by NACTA and the Ministry of Interior and approved on 24 December 2014 by a special session of Parliament, following the 16 December 2014 attack on the Army Public School. In CTA6 it adds to the NACTA record (PK-NACTA, PK-NACTA-ACT2013).
+
+- Issuing body: National Counter Terrorism Authority (NACTA), Pakistan
+- Date: \[UNKNOWN\]
+- Type: agency history
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: South Asia
+- Theme: doctrine and strategy
+- URL: [https://nacta.gov.pk/laws-policies/nap-2014/](https://nacta.gov.pk/laws-policies/nap-2014/)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-PK-NACTA-NAP.* Undated page (date \[UNKNOWN\]). It states the 20-point National Action Plan was 'approved on 24th of December, 2014 by the Parliament' after the Army Public School attack of 16 December 2014, and that NACTA is the NAP monitoring body. The page's status figures are NACTA's own and are not used in CTA6.
+
+Cited by: [T234](../../timeline/post-9-11-2001-2014.md#T234)

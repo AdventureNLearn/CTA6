@@ -725,7 +725,7 @@ Cited by: [T217](../../timeline/recent-2014-now.md#T217)
 
 **Convention portant création du G5 Sahel (archived copy of g5sahel.org/images/convention.pdf)**
 
-Summary: The Convention establishing the G5 Sahel (Convention portant création du G5 Sahel), dated 19 December 2014, from an Internet Archive capture of 2 June 2017. It is the founding treaty of the G5 Sahel. The cited copy could not be confirmed: the PDF has no text layer and was not read by OCR, so its content is \[UNKNOWN\], and the date comes from Mali's list (ML-SGG-CONV).
+Summary: The Convention establishing the G5 Sahel (Convention portant création du G5 Sahel), dated 19 December 2014, from an Internet Archive capture of 2 June 2017. It is the founding treaty of the G5 Sahel. Its text, read by OCR in round 4, establishes the G5 Sahel among Burkina Faso, Mali, Mauritania, Niger and Chad (article 1), fixes the seat initially in Nouakchott (article 3), provides for entry into force on ratification by at least three member states (article 18) and closes 'Fait à Nouakchott, le 19 décembre 2014'.
 
 - Issuing body: G5 Sahel (Internet Archive capture of 2 June 2017)
 - Date: 2014-12-19
@@ -737,9 +737,9 @@ Summary: The Convention establishing the G5 Sahel (Convention portant création 
 - Theme: laws and treaties
 - URL: [https://web.archive.org/web/20170602170931/http:/www.g5sahel.org/images/convention.pdf](https://web.archive.org/web/20170602170931/http:/www.g5sahel.org/images/convention.pdf)
 - Accessed: 2026-11-19
-- Verified: `no`
+- Verified: `yes`
 - Language: French
-- Notes: URL from a web-search result listing; fetched on 2026-11-19 (HTTP 200, application/pdf) but the PDF has no text layer and no OCR tool was available, so the content could not be matched. Date taken from ML-SGG-CONV.
+- Notes: URL from a web-search result listing; fetched 2026-11-19 (HTTP 200, image-only PDF). verified by OCR of scanned original in round 4 (RapidOCR; pass4/raw/G5S-CONV2014-WA.ocr.txt): title, art. 1, art. 3 (seat Nouakchott), art. 18, and "Fait a Nouakchott, le 19 decembre 2014". OCR text is unaccented and has some merged words.
 
 Cited by: none in `data/timeline.csv`.
 
