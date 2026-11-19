@@ -6,7 +6,7 @@ Security Council and General Assembly resolutions, sanctions regimes, and multil
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-57 sources in this theme.
+58 sources in this theme.
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -314,7 +314,7 @@ Cited by: [T079](../../timeline/post-9-11-2001-2014.md#T079)
 
 **Security Council resolution 1595 (2005): The situation in the Middle East (International Independent Investigation Commission, Lebanon)**
 
-Summary: UN Security Council resolution 1595, adopted on 7 April 2005, on the situation in the Middle East. At Lebanon's request, it established an international independent investigation commission based in Lebanon to help the Lebanese authorities investigate 'this terrorist act', including identifying its perpetrators, sponsors, organizers and accomplices. The act itself is identified in the resolution, but CTA6 does not record which attack it was \[UNKNOWN\]; resolution 1757 later established the Special Tribunal for Lebanon (T095).
+Summary: UN Security Council resolution 1595, adopted on 7 April 2005, on the situation in the Middle East. At Lebanon's request, it established an international independent investigation commission based in Lebanon to help the Lebanese authorities investigate 'this terrorist act', including identifying its perpetrators, sponsors, organizers and accomplices. The resolution identifies the act as 'the 14 February 2005 terrorist bombing in Beirut, Lebanon, that killed former Lebanese Prime Minister Rafiq Hariri and others'; resolution 1757 later established the Special Tribunal for Lebanon (T095).
 
 - Issuing body: UN Security Council
 - Date: 2005-04-07
@@ -820,7 +820,7 @@ Cited by: [T074](../../timeline/post-9-11-2001-2014.md#T074)
 
 **Collective defence and Article 5**
 
-Summary: NATO's page on collective defence and Article 5 of the Washington Treaty. It states that NATO invoked Article 5 for the first and only time in its history after the 9/11 attacks on the United States in 2001, and that the article underpins NATO's wider deterrence and defence activities. It is cited for milestone T052. The page is undated \[UNKNOWN\].
+Summary: NATO's page on collective defence and Article 5 of the Washington Treaty. It states that NATO invoked Article 5 for the first and only time in its history after the 9/11 attacks on the United States in 2001, and that the article underpins NATO's wider deterrence and defence activities. It is cited for milestone T052. The page shows 'Updated: 12 November 2025'.
 
 - Issuing body: North Atlantic Treaty Organization
 - Date: \[UNKNOWN\]
@@ -1319,3 +1319,26 @@ Summary: UN Security Council resolution 2391, adopted on 8 December 2017, on sup
 - Notes: HTTP 200; expected text found. Raw: pass2/raw/UNSC2391.*
 
 Cited by: [T180](../../timeline/recent-2014-now.md#T180)
+
+<a id="PE-GOB-CIAT2002-ES"></a>
+## PE-GOB-CIAT2002-ES
+
+**Convención Interamericana contra el Terrorismo (pages 1-9 of a multilingual copy published on gob.pe)**
+
+Summary: The Spanish text of the Inter-American Convention against Terrorism, from a copy published on the Peruvian government's gob.pe platform. The Convention was adopted within the OAS in June 2002 and covers the financing of terrorism, cooperation among states parties and entry into force after the sixth ratification. In CTA6 it is the readable official text behind OAS-CICTE2002, whose OAS page could not be reached.
+
+- Issuing body: Gobierno del Perú (gob.pe; publishing entity \[UNKNOWN\])
+- Date: 2002-06-03
+- Type: treaty
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: UN and international frameworks
+- URL: [https://cdn.www.gob.pe/uploads/document/file/1610906/CONVENCI%C3%93N%20INTERAMERICANA%20CONTRA%20EL%20TERRORISMO-1-9.pdf](https://cdn.www.gob.pe/uploads/document/file/1610906/CONVENCI%C3%93N%20INTERAMERICANA%20CONTRA%20EL%20TERRORISMO-1-9.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-OAS-A66-GOBPE.* The 9-page file opens with the title in four languages and gives the Spanish text through article 23; the adoption date is not printed in these pages and is taken from the OAS-CICTE2002 record. Added as a separate official copy; it does not replace OAS-CICTE2002, whose OAS URL was still under maintenance (HTTP 503).
+
+Cited by: none in `data/timeline.csv`.

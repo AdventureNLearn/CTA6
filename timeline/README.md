@@ -4,9 +4,9 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every entry is taken from `data/timeline.csv`.
 
-230 milestones in this round.
+236 milestones in this round.
 
-- `we-have-a-record`: 213
+- `we-have-a-record`: 219
 - `not-proven`: 8
 - `people-disagree`: 9
 
@@ -15,7 +15,7 @@ Round 1 of an ongoing archive. This list is not complete. Every entry is taken f
 | pre-1945 | 9 | [pre-1945.md](pre-1945.md) |
 | 1945-1990 | 30 | [1945-1990.md](1945-1990.md) |
 | 1990-2001 | 31 | [1990-2001.md](1990-2001.md) |
-| post-9/11 (2001-2014) | 96 | [post-9-11-2001-2014.md](post-9-11-2001-2014.md) |
-| recent (2014-now) | 64 | [recent-2014-now.md](recent-2014-now.md) |
+| post-9/11 (2001-2014) | 99 | [post-9-11-2001-2014.md](post-9-11-2001-2014.md) |
+| recent (2014-now) | 67 | [recent-2014-now.md](recent-2014-now.md) |
 
 The canonical records are in [`data/timeline.csv`](../data/timeline.csv). Citations point to the source pages under [`sources/`](../sources/).
