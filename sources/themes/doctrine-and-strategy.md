@@ -4,7 +4,7 @@
 
 Published national and regional strategy documents.
 
-Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
 12 sources in this theme.
 
@@ -240,7 +240,7 @@ Cited by: [T149](../../timeline/post-9-11-2001-2014.md#T149)
 
 **Plan of Action of the African Union High-Level Inter-Governmental Meeting on the Prevention and Combating of Terrorism in Africa**
 
-Summary: A copy of the same 2002 AU Plan of Action on the Prevention and Combating of Terrorism in Africa, at the AU Peace and Security Department. It is a second copy supporting milestone T149. The cited copy could not be confirmed (HTTP 202 bot check).
+Summary: A copy of the 2002 AU Plan of Action on the Prevention and Combating of Terrorism in Africa, at the AU Peace and Security Department. Its cover gives the AU High-Level Inter-Governmental Meeting in Algiers, 11-14 September 2002 (document Mtg/HLIG/Conv.Terror/Plan.(I)). It is a second copy supporting milestone T149.
 
 - Issuing body: African Union Peace and Security Department
 - Date: 2002-09-14
@@ -252,9 +252,9 @@ Summary: A copy of the same 2002 AU Plan of Action on the Prevention and Combati
 - Theme: doctrine and strategy
 - URL: [https://www.peaceau.org/uploads/au-anti-terrorism-plan-of-action.pdf](https://www.peaceau.org/uploads/au-anti-terrorism-plan-of-action.pdf)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: English
-- Notes: URL taken from a web-search result listing, then fetched. HTTP 202; expected text not confirmed (bot check, timeout or error). URL from search index.
+- Notes: Round 5 (2026-11-19): verified; curl on the cited URL: HTTP 200, PDF headed "AFRICAN UNION HIGH-LEVEL INTER-GOVERNMENTAL MEETING ON THE PREVENTION AND COMBATING OF TERRORISM IN AFRICA ALGIERS, ALGERIA 11-14 SEPTEMBER 2002 ... PLAN OF ACTION" (pass5/raw/r5-AU-POA2002-PSD.*). Earlier (round 2): URL taken from a web-search result listing, then fetched. HTTP 202; expected text not confirmed (bot check, timeout or error). URL from search index.
 
 Cited by: [T149](../../timeline/post-9-11-2001-2014.md#T149)
 

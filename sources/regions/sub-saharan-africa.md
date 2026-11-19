@@ -2,9 +2,9 @@
 
 # Sources: Sub-Saharan Africa
 
-Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-36 sources in this region (`government` 9, `international` 18, `NGO` 4, `court` 1, `oversight` 4).
+35 sources in this region (`government` 8, `international` 18, `NGO` 4, `court` 1, `oversight` 4).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -59,7 +59,7 @@ Cited by: [T045](../../timeline/1990-2001.md#T045), [T145](../../timeline/1990-2
 
 **African Centre for the Study and Research on Terrorism (ACSRT/CAERT)**
 
-Summary: The African Union page on the African Centre for the Study and Research on Terrorism (ACSRT/CAERT). As its name states, it is the AU's centre for study and research on terrorism; its mandate and founding date are not recorded in CTA6 \[UNKNOWN\]. The page is undated \[UNKNOWN\].
+Summary: The African Union page on the African Centre for the Study and Research on Terrorism (ACSRT/CAERT). As its name states, it is the AU's centre for study and research on terrorism; its mandate and founding date are not recorded in CTA6 \[UNKNOWN\]. The page metadata gives a publication date of 4 May 2025 and a modification date of 6 April 2026.
 
 - Issuing body: African Union
 - Date: \[UNKNOWN\]
@@ -82,23 +82,23 @@ Cited by: none in `data/timeline.csv`.
 
 **Prevention of Terrorism Act, No. 30 of 2012**
 
-Summary: Kenya's Prevention of Terrorism Act, No. 30 of 2012, at the Kenya Law website. Kenya's National Counter Terrorism Centre says it was established by this Act. The SheriaNet listing (SEC-KE-POTA-SHERIANET) also gives the citation as Act No. 30 of 2012, according to that unofficial source. The cited copy could not be confirmed (HTTP 500), and the same Act at Kenya Law's new site (KE-POTA2012-KL) also could not be verified, so the Act's text is \[UNKNOWN\] in CTA6.
+Summary: Kenya's Prevention of Terrorism Act, No. 30 of 2012 (now CAP. 59B), at Kenya Law's current website. According to Kenya Law it was assented to on 12 October 2012, commenced on 24 October 2012 and was published in the Kenya Gazette on 26 October 2012. Its long title describes it as an Act to provide measures for the detection and prevention of terrorist activities and to amend two extradition Acts. The earlier Kenya Law PDF URL, which returned HTTP 500, is recorded in the notes.
 
 - Issuing body: Parliament of Kenya (Kenya Law)
-- Date: 2012
+- Date: 2012-10-12
 - Type: statute
 - Tag: `primary`
 - Origin: `government`
 - Era: post-9/11 (2001-2014)
 - Region: Sub-Saharan Africa
 - Theme: laws and treaties
-- URL: [http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/PreventionofTerrorismAct_No30of2012.pdf](http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/PreventionofTerrorismAct_No30of2012.pdf)
-- Accessed: 2026-11-18
-- Verified: `no`
-- Language: \[UNKNOWN\]
-- Notes: HTTP 500. URL not confirmed (HTTP 500). Same Act located at Kenya Law's current site https://new.kenyalaw.org/akn/ke/act/2012/30 (from search index); HTTP 202 (curl) and 403 (WebFetch), so still not verified. Added as KE-POTA2012-KL (verified no).
+- URL: [https://new.kenyalaw.org/akn/ke/act/2012/30](https://new.kenyalaw.org/akn/ke/act/2012/30)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: Round 5 (2026-11-19): verified; this row now points to Kenya Law's current site https://new.kenyalaw.org/akn/ke/act/2012/30. Headless Chrome (--dump-dom) on the cited URL: page "Prevention of Terrorism Act – Kenya Law" with the consolidated text (CAP. 59B) and the record "Published in Kenya Gazette Vol. CXIV—No. 104 on 26 October 2012 Assented to on 12 October 2012 Commenced on 24 October 2012" (pass5/raw/h5-KE-POTA2012-KL.*). curl still gets HTTP 202. Earlier: HTTP 500 at the earlier Kenya Law PDF URL http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/PreventionofTerrorismAct_No30of2012.pdf (retried in round 5; still HTTP 500). Earlier (round 2): URL taken from a web-search result listing, then fetched. HTTP 202; expected text not confirmed (bot check, timeout or error). URL from search index.
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T243](../../timeline/post-9-11-2001-2014.md#T243)
 
 <a id="ZA-POCDATARA2004"></a>
 ## ZA-POCDATARA2004
@@ -219,7 +219,7 @@ Cited by: [T066](../../timeline/post-9-11-2001-2014.md#T066)
 
 **Security Council resolution 2056 (2012): Peace and security in Africa (Mali)**
 
-Summary: UN Security Council resolution 2056, adopted on 5 July 2012, on the situation in Mali. Among other things, the Council condemns the physical assault on Mali's Interim President. It is the source for milestone T163; the resolution's other provisions are not summarized in CTA6 \[UNKNOWN\].
+Summary: UN Security Council resolution 2056, adopted on 5 July 2012, on the situation in Mali. Among other things, the Council condemns the physical assault on Mali's Interim President. It is the source for milestone T163; among its other provisions, the Council decides that the National Council for the Recovery of Democracy and the Restoration of the State (CNRDRE) shall be dissolved and demands the full, immediate and unconditional cessation of hostilities by rebel groups in northern Mali.
 
 - Issuing body: UN Security Council
 - Date: 2012-07-05
@@ -303,29 +303,6 @@ Summary: The home page of Kenya's National Counter Terrorism Centre (NCTC). The 
 - Verified: `yes`
 - Language: English
 - Notes: HTTP 200; expected text found. Raw: pass2/raw/KE-NCTC.*
-
-Cited by: none in `data/timeline.csv`.
-
-<a id="KE-POTA2012-KL"></a>
-## KE-POTA2012-KL
-
-**Prevention of Terrorism Act (No. 30 of 2012)**
-
-Summary: Kenya's Prevention of Terrorism Act (No. 30 of 2012) at Kenya Law's current website. It is the same Act as KE-POTA2012, found at a newer address; according to an unofficial SheriaNet listing (SEC-KE-POTA-SHERIANET), the citation is Act No. 30 of 2012. The cited copy could not be confirmed (HTTP 202 bot check), so the text is \[UNKNOWN\] in CTA6.
-
-- Issuing body: Kenya Law (National Council for Law Reporting)
-- Date: 2012
-- Type: statute
-- Tag: `primary`
-- Origin: `government`
-- Era: post-9/11 (2001-2014)
-- Region: Sub-Saharan Africa
-- Theme: laws and treaties
-- URL: [https://new.kenyalaw.org/akn/ke/act/2012/30](https://new.kenyalaw.org/akn/ke/act/2012/30)
-- Accessed: 2026-11-18
-- Verified: `no`
-- Language: English
-- Notes: URL taken from a web-search result listing, then fetched. Same Act as phase 1 KE-POTA2012 at Kenya Law's current site. HTTP 202; expected text not confirmed (bot check, timeout or error). URL from search index.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -449,7 +426,7 @@ Cited by: [T149](../../timeline/post-9-11-2001-2014.md#T149)
 
 **Plan of Action of the African Union High-Level Inter-Governmental Meeting on the Prevention and Combating of Terrorism in Africa**
 
-Summary: A copy of the same 2002 AU Plan of Action on the Prevention and Combating of Terrorism in Africa, at the AU Peace and Security Department. It is a second copy supporting milestone T149. The cited copy could not be confirmed (HTTP 202 bot check).
+Summary: A copy of the 2002 AU Plan of Action on the Prevention and Combating of Terrorism in Africa, at the AU Peace and Security Department. Its cover gives the AU High-Level Inter-Governmental Meeting in Algiers, 11-14 September 2002 (document Mtg/HLIG/Conv.Terror/Plan.(I)). It is a second copy supporting milestone T149.
 
 - Issuing body: African Union Peace and Security Department
 - Date: 2002-09-14
@@ -461,9 +438,9 @@ Summary: A copy of the same 2002 AU Plan of Action on the Prevention and Combati
 - Theme: doctrine and strategy
 - URL: [https://www.peaceau.org/uploads/au-anti-terrorism-plan-of-action.pdf](https://www.peaceau.org/uploads/au-anti-terrorism-plan-of-action.pdf)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: English
-- Notes: URL taken from a web-search result listing, then fetched. HTTP 202; expected text not confirmed (bot check, timeout or error). URL from search index.
+- Notes: Round 5 (2026-11-19): verified; curl on the cited URL: HTTP 200, PDF headed "AFRICAN UNION HIGH-LEVEL INTER-GOVERNMENTAL MEETING ON THE PREVENTION AND COMBATING OF TERRORISM IN AFRICA ALGIERS, ALGERIA 11-14 SEPTEMBER 2002 ... PLAN OF ACTION" (pass5/raw/r5-AU-POA2002-PSD.*). Earlier (round 2): URL taken from a web-search result listing, then fetched. HTTP 202; expected text not confirmed (bot check, timeout or error). URL from search index.
 
 Cited by: [T149](../../timeline/post-9-11-2001-2014.md#T149)
 
@@ -833,9 +810,9 @@ Summary: SheriaNet's listing for Kenya's Prevention of Terrorism Act. According 
 - Verified: `no`
 - Language: English
 - Label: `secondary/unofficial`
-- Stands in for: KE-POTA2012 and KE-POTA2012-KL (Kenya, Prevention of Terrorism Act No. 30 of 2012)
+- Stands in for: KE-POTA2012 (Kenya, Prevention of Terrorism Act No. 30 of 2012)
 - Publisher: SheriaNet (legal information website)
 - Access date: 2026-11-19
-- Notes: Secondary/unofficial listing; not verified. curl got a bot-check interstitial on 2026-11-19; page read via WebFetch. Supports the citation, year and number only; the linked PDF was not opened.
+- Notes: Secondary/unofficial listing; not verified. curl got a bot-check interstitial on 2026-11-19; page read via WebFetch. Supports the citation, year and number only; the linked PDF was not opened. Round 5 (2026-11-19): the Act is now verified at Kenya Law (KE-POTA2012). This stand-in was kept in place and is not treated as proof.
 
 Cited by: none in `data/timeline.csv`.

@@ -2,9 +2,9 @@
 
 # Sources: South Asia
 
-Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-39 sources in this region (`government` 24, `international` 3, `NGO` 3, `court` 1, `oversight` 5, `media` 3).
+40 sources in this region (`government` 25, `international` 3, `NGO` 3, `court` 1, `oversight` 5, `media` 3).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -887,10 +887,10 @@ Summary: A Dawn News (Urdu) report published on 19 August 2025 about Pakistan's 
 - Verified: `no`
 - Language: Urdu
 - Label: `secondary/unofficial`
-- Stands in for: No CTA6 source yet: Pakistan Anti-terrorism (Amendment) Bill 2025, Senate PDF https://senate.gov.pk/uploads/documents/1755242450_392.pdf (download incomplete twice)
+- Stands in for: PK-ATA-BILL2025 (Pakistan Anti-terrorism (Amendment) Bill 2025, as passed by the National Assembly, Senate PDF). Senate passage and assent are not shown in that official text.
 - Publisher: Dawn News (Urdu)
 - Access date: 2026-11-19
-- Notes: News report in Urdu; secondary, not verified against the bill text. Re-fetched 2026-11-19 by curl (HTTP 200); datePublished 2025-08-19. The official Senate PDF downloaded incomplete twice and was not used.
+- Notes: News report in Urdu; secondary, not verified against the bill text. Re-fetched 2026-11-19 by curl (HTTP 200); datePublished 2025-08-19. The official Senate PDF downloaded incomplete twice and was not used. Round 5 (2026-11-19): the official bill text (as passed by the National Assembly) was downloaded completely from the Senate site and is added as PK-ATA-BILL2025. It confirms the three-month and three-year provisions and the section 11EEEE(1) amendment. Senate passage and assent still rest only on this report and SEC-PK-BBCURDU-2025, so they stay not-proven.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -914,9 +914,32 @@ Summary: A BBC News Urdu report published on 16 August 2025 about an amendment t
 - Verified: `no`
 - Language: Urdu
 - Label: `secondary/unofficial`
-- Stands in for: No CTA6 source yet: Pakistan Anti-terrorism (Amendment) Bill 2025 (see SEC-PK-DAWNURDU-2025)
+- Stands in for: PK-ATA-BILL2025 (Pakistan Anti-terrorism (Amendment) Bill 2025, as passed by the National Assembly). Senate passage and assent are not shown in that official text.
 - Publisher: BBC News Urdu
 - Access date: 2026-11-19
-- Notes: News report in Urdu; secondary, not verified against the bill or Act. Re-fetched 2026-11-19 by curl (HTTP 200); published 2025-08-16 11:44 UTC (07:44 ET).
+- Notes: News report in Urdu; secondary, not verified against the bill or Act. Re-fetched 2026-11-19 by curl (HTTP 200); published 2025-08-16 11:44 UTC (07:44 ET). Round 5 (2026-11-19): see PK-ATA-BILL2025 (official bill text as passed by the National Assembly). Senate passage and assent still rest only on news reports, so they stay not-proven.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="PK-ATA-BILL2025"></a>
+## PK-ATA-BILL2025
+
+**Bill further to amend the Anti-terrorism Act, 1997 \[as passed by the National Assembly\] (Anti-terrorism (Amendment) Act, 2025)**
+
+Summary: The official text of a bill to amend Pakistan's Anti-terrorism Act, 1997, marked as passed by the National Assembly and hosted by the Senate. It would be called the Anti-terrorism (Amendment) Act, 2025, and it substitutes section 11EEEE(1) on preventive detention for periods not exceeding three months, with sub-sections (1) and (2) to remain in force for three years. Its statement of objects and reasons says the earlier 2014 provision had expired in 2016 under a sunset clause. The document is undated, and it does not show Senate passage or assent \[UNKNOWN\].
+
+- Issuing body: Senate of Pakistan (bill as passed by the National Assembly)
+- Date: \[UNKNOWN\]
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://senate.gov.pk/uploads/documents/1755242450_392.pdf](https://senate.gov.pk/uploads/documents/1755242450_392.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: Official Senate of Pakistan PDF; downloaded completely by curl on 2026-11-19 (HTTP 200, 4 pages of text; pass5/raw/r5-PK-SENATE-ATA2025.*). In round 4 the same URL downloaded incomplete twice. The text is a bill marked "AS PASSED BY THE NATIONAL ASSEMBLY"; it carries no date, and Senate passage and presidential assent are not shown in it. The statement of objects and reasons is signed by the Minister for Interior.
 
 Cited by: none in `data/timeline.csv`.

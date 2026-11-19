@@ -4,7 +4,7 @@
 
 Official histories and descriptions of national and international bodies.
 
-Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
 38 sources in this theme.
 
@@ -84,7 +84,7 @@ Cited by: none in `data/timeline.csv`.
 
 **Inter-American Committee against Terrorism (CICTE)**
 
-Summary: The page of the OAS Inter-American Committee against Terrorism (CICTE). It would describe the OAS body that works on counter-terrorism, but the cited copy could not be confirmed (HTTP 503). Its content and date are \[UNKNOWN\].
+Summary: The page of the Executive Secretariat of the OAS Inter-American Committee against Terrorism (CICTE). It is the OAS body's own page on its counter-terrorism work. The page is undated \[UNKNOWN\].
 
 - Issuing body: Organization of American States
 - Date: \[UNKNOWN\]
@@ -96,9 +96,9 @@ Summary: The page of the OAS Inter-American Committee against Terrorism (CICTE).
 - Theme: agencies
 - URL: [https://www.oas.org/en/sms/cicte/](https://www.oas.org/en/sms/cicte/)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: HTTP 503. Undated web page; date \[UNKNOWN\].
+- Notes: Round 5 (2026-11-19): verified; curl on the cited URL: HTTP 200, page titled "Executive Secretariat of the Inter-American Committee against Terrorism (CICTE)" (pass5/raw/r5-OAS-CICTE.*). The page is undated. Earlier: HTTP 503. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
 
@@ -107,7 +107,7 @@ Cited by: none in `data/timeline.csv`.
 
 **African Centre for the Study and Research on Terrorism (ACSRT/CAERT)**
 
-Summary: The African Union page on the African Centre for the Study and Research on Terrorism (ACSRT/CAERT). As its name states, it is the AU's centre for study and research on terrorism; its mandate and founding date are not recorded in CTA6 \[UNKNOWN\]. The page is undated \[UNKNOWN\].
+Summary: The African Union page on the African Centre for the Study and Research on Terrorism (ACSRT/CAERT). As its name states, it is the AU's centre for study and research on terrorism; its mandate and founding date are not recorded in CTA6 \[UNKNOWN\]. The page metadata gives a publication date of 4 May 2025 and a modification date of 6 April 2026.
 
 - Issuing body: African Union
 - Date: \[UNKNOWN\]
@@ -199,7 +199,7 @@ Cited by: none in `data/timeline.csv`.
 
 **History of the FBI**
 
-Summary: 'History of the FBI', the FBI's official history page. It dates the founding of the federal investigative agency that became the FBI to 1908, under the heading 'The Nation Calls, 1908-1923'. It is the source for milestone T002 and is the FBI's own account of its origins; the page is undated \[UNKNOWN\].
+Summary: 'History of the FBI', the FBI's official history page. It dates the founding of the federal investigative agency that became the FBI to 1908, under the heading 'The Nation Calls, 1908-1923'. It is the source for milestone T002 and is the FBI's own account of its origins; the page metadata gives a publication date of 3 May 2016 and a modification date of 18 March 2026.
 
 - Issuing body: Federal Bureau of Investigation
 - Date: \[UNKNOWN\]
@@ -268,7 +268,7 @@ Cited by: [T065](../../timeline/post-9-11-2001-2014.md#T065)
 
 **Foreign Terrorist Organizations**
 
-Summary: The US State Department Bureau of Counterterrorism page on Foreign Terrorist Organizations (FTOs). It explains that FTOs are foreign organizations designated by the Secretary of State under section 219 of the Immigration and Nationality Act. It is the official US list of designated organizations; the page is undated, so the date of the list shown is \[UNKNOWN\].
+Summary: The US State Department Bureau of Counterterrorism page on Foreign Terrorist Organizations (FTOs). It explains that FTOs are foreign organizations designated by the Secretary of State under section 219 of the Immigration and Nationality Act. It is the official US list of designated organizations; the page metadata gives a modification date of 16 November 2026, so the list shown is as of about that date.
 
 - Issuing body: US Department of State, Bureau of Counterterrorism
 - Date: \[UNKNOWN\]
@@ -337,7 +337,7 @@ Cited by: [T003](../../timeline/pre-1945.md#T003)
 
 **Gemeinsames Terrorismusabwehrzentrum (GTAZ)**
 
-Summary: A Federal Criminal Police Office (Bundeskriminalamt) page on the Gemeinsames Terrorismusabwehrzentrum (GTAZ), Germany's Joint Counter-Terrorism Centre. As its name states, it is a joint centre for countering terrorism; its role is not described in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed (the connection failed), and the page is undated \[UNKNOWN\].
+Summary: A Federal Criminal Police Office (Bundeskriminalamt) page on the Gemeinsames Terrorismusabwehrzentrum (GTAZ), Germany's Joint Counter-Terrorism Centre. It says the GTAZ was founded in Berlin in 2004 in response to the 11 September 2001 attacks and the continuing Islamist terrorist threat (T242), and that it is not a separate authority but a platform where 40 federal and state police, intelligence and other security authorities work together. The page is undated \[UNKNOWN\].
 
 - Issuing body: Bundeskriminalamt
 - Date: \[UNKNOWN\]
@@ -349,11 +349,11 @@ Summary: A Federal Criminal Police Office (Bundeskriminalamt) page on the Gemein
 - Theme: agencies
 - URL: [https://www.bka.de/DE/UnsereAufgaben/Kooperationen/GTAZ/gtaz_node.html](https://www.bka.de/DE/UnsereAufgaben/Kooperationen/GTAZ/gtaz_node.html)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: HTTP 000. Undated web page; date \[UNKNOWN\].
+- Notes: Round 5 (2026-11-19): verified; headless Chrome (--dump-dom) on the cited URL: page "BKA - Gemeinsames Terrorismusabwehrzentrum (GTAZ)" stating that the GTAZ "wurde im Jahr 2004 ... gegründet und hat seinen Sitz in Berlin" (pass5/raw/h5-DE-GTAZ.*). The page is undated. Earlier: HTTP 000. Undated web page; date \[UNKNOWN\].
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T242](../../timeline/post-9-11-2001-2014.md#T242)
 
 <a id="IN-NIA"></a>
 ## IN-NIA
@@ -429,7 +429,7 @@ Cited by: none in `data/timeline.csv`.
 
 **Badan Nasional Penanggulangan Terorisme (BNPT) (home page)**
 
-Summary: The home page of Indonesia's Badan Nasional Penanggulangan Terorisme (BNPT, National Counter-Terrorism Agency). The cited copy could not be confirmed: the fetch returned a bot-detection page instead of the site's content. Its content and date are \[UNKNOWN\].
+Summary: The home page of Indonesia's Badan Nasional Penanggulangan Terorisme (BNPT, National Counter-Terrorism Agency). The page describes BNPT as at the forefront of countering terrorism through cross-agency coordination, a humane approach and the involvement of all parts of society, and links to its vision, mission, duties and public services. The page metadata gives a modification date of 11 June 2025.
 
 - Issuing body: BNPT, Republic of Indonesia
 - Date: \[UNKNOWN\]
@@ -441,9 +441,9 @@ Summary: The home page of Indonesia's Badan Nasional Penanggulangan Terorisme (B
 - Theme: agencies
 - URL: [https://www.bnpt.go.id/](https://www.bnpt.go.id/)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: HTTP 200; expected title text not found. Bot-detection page. Undated web page; date \[UNKNOWN\].
+- Notes: Round 5 (2026-11-19): verified; headless Chrome (--dump-dom) on the cited URL: page "BNPT – Badan Nasional Penanggulangan Terorisme" with site content; the page metadata gives dateModified 2025-06-11 (pass5/raw/h5-ID-BNPT.*). Earlier: HTTP 200; expected title text not found. Bot-detection page. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
 
@@ -498,7 +498,7 @@ Cited by: none in `data/timeline.csv`.
 
 **Currently listed entities**
 
-Summary: Public Safety Canada's page of 'Currently listed entities'. As its title states, it is the Government of Canada's current list of listed entities; the legal basis and contents are not recorded in CTA6 \[UNKNOWN\]. The page is undated, and it was confirmed on a retry by its title only.
+Summary: Public Safety Canada's page of 'Currently listed entities'. As its title states, it is the Government of Canada's current list of entities listed under the Criminal Code, giving for each entity a description, the date listed and the latest date reviewed. The page shows 'Date modified: 2025-09-29'; it was confirmed on a retry by its title only and re-captured in full in round 5.
 
 - Issuing body: Public Safety Canada
 - Date: \[UNKNOWN\]
