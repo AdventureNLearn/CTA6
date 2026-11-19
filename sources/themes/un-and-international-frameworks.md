@@ -4,7 +4,7 @@
 
 Security Council and General Assembly resolutions, sanctions regimes, and multilateral bodies.
 
-Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
 59 sources in this theme.
 
@@ -1279,7 +1279,7 @@ Cited by: none in `data/timeline.csv`.
 
 **Security Council resolution 2056 (2012): Peace and security in Africa (Mali)**
 
-Summary: UN Security Council resolution 2056, adopted on 5 July 2012, on the situation in Mali. Among other things, the Council condemns the physical assault on Mali's Interim President. It is the source for milestone T163; the resolution's other provisions are not summarized in CTA6 \[UNKNOWN\].
+Summary: UN Security Council resolution 2056, adopted on 5 July 2012, on the situation in Mali. Among other things, the Council condemns the physical assault on Mali's Interim President. It is the source for milestone T163; among its other provisions, the Council decides that the National Council for the Recovery of Democracy and the Restoration of the State (CNRDRE) shall be dissolved and demands the full, immediate and unconditional cessation of hostilities by rebel groups in northern Mali.
 
 - Issuing body: UN Security Council
 - Date: 2012-07-05
@@ -1325,7 +1325,7 @@ Cited by: [T180](../../timeline/recent-2014-now.md#T180)
 
 **Convención Interamericana contra el Terrorismo (pages 1-9 of a multilingual copy published on gob.pe)**
 
-Summary: The Spanish text of the Inter-American Convention against Terrorism, from a copy published on the Peruvian government's gob.pe platform. The Convention was adopted within the OAS in June 2002 and covers the financing of terrorism, cooperation among states parties and entry into force after the sixth ratification. In CTA6 it is the readable official text behind OAS-CICTE2002, whose OAS page could not be reached.
+Summary: The Spanish text of the Inter-American Convention against Terrorism, from a copy published on the Peruvian government's gob.pe platform. The Convention was adopted within the OAS in June 2002 and covers the financing of terrorism, cooperation among states parties and entry into force after the sixth ratification. In CTA6 it is a Spanish official copy of the same Convention as OAS-CICTE2002, whose OAS page was readable again in round 5.
 
 - Issuing body: Gobierno del Perú (gob.pe; publishing entity \[UNKNOWN\])
 - Date: 2002-06-03
@@ -1339,7 +1339,7 @@ Summary: The Spanish text of the Inter-American Convention against Terrorism, fr
 - Accessed: 2026-11-19
 - Verified: `yes`
 - Language: Spanish
-- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-OAS-A66-GOBPE.* The 9-page file opens with the title in four languages and gives the Spanish text through article 23; the adoption date is not printed in these pages and is taken from the OAS-CICTE2002 record. Added as a separate official copy; it does not replace OAS-CICTE2002, whose OAS URL was still under maintenance (HTTP 503).
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-OAS-A66-GOBPE.* The 9-page file opens with the title in four languages and gives the Spanish text through article 23; the adoption date is not printed in these pages and is taken from the OAS-CICTE2002 record. Added as a separate official copy; it does not replace OAS-CICTE2002, whose OAS URL was still under maintenance (HTTP 503). Round 5 (2026-11-19): OAS-CICTE2002 was verified at the cited OAS URL; this Peruvian copy remains a separate official source and does not replace it.
 
 Cited by: none in `data/timeline.csv`.
 
