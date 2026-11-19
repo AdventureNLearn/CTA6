@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-6 sources in this region (`government` 1, `international` 3, `court` 1, `oversight` 1).
+15 sources in this region (`government` 7, `international` 3, `court` 2, `oversight` 3).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -24,7 +24,8 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 - URL: [https://www.oas.org/juridico/english/treaties/a-66.html](https://www.oas.org/juridico/english/treaties/a-66.html)
 - Accessed: 2026-11-18
 - Verified: `no`
-- Notes: HTTP 503.
+- Language: \[UNKNOWN\]
+- Notes: HTTP 503. Retried https://www.oas.org/juridico/english/sigs/a-66.html and the original URL: HTTP 503/500 (curl and WebFetch). Still not verified.
 
 Cited by: [T061](../../timeline/post-9-11-2001-2014.md#T061)
 
@@ -44,6 +45,7 @@ Cited by: [T061](../../timeline/post-9-11-2001-2014.md#T061)
 - URL: [https://www.oas.org/en/sms/cicte/](https://www.oas.org/en/sms/cicte/)
 - Accessed: 2026-11-18
 - Verified: `no`
+- Language: \[UNKNOWN\]
 - Notes: HTTP 503. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -64,6 +66,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.cverdad.org.pe/ifinal/](https://www.cverdad.org.pe/ifinal/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T070](../../timeline/post-9-11-2001-2014.md#T070)
 
@@ -82,8 +85,9 @@ Cited by: [T070](../../timeline/post-9-11-2001-2014.md#T070)
 - Theme: laws and treaties
 - URL: [https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm)
 - Accessed: 2026-11-18
-- Verified: `no`
-- Notes: HTTP 200; expected title text not found. Request redirected to the Planalto home page (https://www.gov.br/planalto/pt-br); law text not reached.
+- Verified: `yes`
+- Language: \[UNKNOWN\]
+- Notes: Same cited URL read via WebFetch on 2026-11-18: 'LEI Nº 13.260, DE 16 DE MARÇO DE 2016'. curl still redirects to the Planalto home page.
 
 Cited by: [T117](../../timeline/recent-2014-now.md#T117)
 
@@ -103,6 +107,7 @@ Cited by: [T117](../../timeline/recent-2014-now.md#T117)
 - URL: [https://undocs.org/S/RES/1465\(2003\)](https://undocs.org/S/RES/1465(2003))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T067](../../timeline/post-9-11-2001-2014.md#T067)
@@ -123,6 +128,196 @@ Cited by: [T067](../../timeline/post-9-11-2001-2014.md#T067)
 - URL: [https://www.jep.gov.co/](https://www.jep.gov.co/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SR-PER-2010"></a>
+## SR-PER-2010
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Peru (A/HRC/16/51/Add.3)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: \[UNKNOWN\]
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/16/51/Add.3](https://undocs.org/A/HRC/16/51/Add.3)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-PER-2010.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SR-CHL-2014"></a>
+## SR-CHL-2014
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Chile (A/HRC/25/59/Add.2)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: \[UNKNOWN\]
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Latin America
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/25/59/Add.2](https://undocs.org/A/HRC/25/59/Add.2)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-CHL-2014.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="IACTHR-2014-279"></a>
+## IACTHR-2014-279
+
+**Caso N.C. y otros (Dirigentes, miembros y activista del Pueblo Indígena Mapuche) vs. Chile, Serie C No. 279. Sentencia de 29 de mayo de 2014**
+
+- Issuing body: Corte Interamericana de Derechos Humanos
+- Date: 2014-05-29
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.corteidh.or.cr/docs/casos/articulos/seriec_279_esp.pdf](https://www.corteidh.or.cr/docs/casos/articulos/seriec_279_esp.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Spanish
+- Notes: Verified via WebFetch (no raw capture of readable text): WebFetch text: 'CASO N.C. Y OTROS ... VS. CHILE, SENTENCIA DE 29 DE MAYO DE 2014' (party names shown here as initials) Party names replaced by initials (CTA6 anonymization rule); official title at the URL.
+
+Cited by: [T167](../../timeline/recent-2014-now.md#T167)
+
+<a id="MX-CPF"></a>
+## MX-CPF
+
+**Código Penal Federal (incluye artículo 139, terrorismo)**
+
+- Issuing body: Cámara de Diputados del H. Congreso de la Unión (México)
+- Date: \[UNKNOWN\]
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf](https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Spanish
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/MX-CPF.*
+
+Cited by: [T137](../../timeline/1945-1990.md#T137)
+
+<a id="CL-LEY18314"></a>
+## CL-LEY18314
+
+**Ley 18.314: Determina conductas terroristas y fija su penalidad**
+
+- Issuing body: Biblioteca del Congreso Nacional de Chile
+- Date: 1984-05-17
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1945-1990
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.bcn.cl/leychile/navegar?idNorma=29731](https://www.bcn.cl/leychile/navegar?idNorma=29731)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Spanish
+- Notes: Verified via WebFetch (no raw capture of readable text): WebFetch text: 'Ley 18314 DETERMINA CONDUCTAS TERRORISTAS Y FIJA SU PENALIDAD ... Promulgación 16-MAY-1984; Publicación 17-MAY-1984; derogada el 12-FEB-2025 (Ley 21732)'
+
+Cited by: [T138](../../timeline/1945-1990.md#T138), [T167](../../timeline/recent-2014-now.md#T167), [T191](../../timeline/recent-2014-now.md#T191)
+
+<a id="PE-DL25475"></a>
+## PE-DL25475
+
+**Decreto Ley N° 25475: Establecen la penalidad para los delitos de terrorismo y los procedimientos para la investigación, la instrucción y el juicio**
+
+- Issuing body: Congreso de la República del Perú (Archivo Digital de la Legislación)
+- Date: 1992-05-06
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/37FFA11410C419A605257BF8007DA2B9/$FILE/1.pdf](https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/37FFA11410C419A605257BF8007DA2B9/$FILE/1.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Spanish
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/PE-DL25475.* Day/month (6 May 1992) from the search listing; not found in the captured text layer.
+
+Cited by: [T142](../../timeline/1990-2001.md#T142)
+
+<a id="AR-LEY26734"></a>
+## AR-LEY26734
+
+**Ley 26.734: Código Penal, modificación (financiamiento del terrorismo; art. 41 quinquies)**
+
+- Issuing body: InfoLEG, Ministerio de Economía (Argentina)
+- Date: 2011-12-22
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/192137/norma.htm](https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/192137/norma.htm)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Spanish
+- Notes: URL taken from a web-search result listing, then fetched. Sancionada 22 Dec 2011, published 28 Dec 2011 per the search listing. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/AR-LEY26734.* Text reads 'Sancionada: Diciembre 22 de 2011 Promulgada: Diciembre 27 de 2011'.
+
+Cited by: [T161](../../timeline/post-9-11-2001-2014.md#T161)
+
+<a id="BR-ABIN-TERR"></a>
+## BR-ABIN-TERR
+
+**Terrorismo (Fontes de ameaças)**
+
+- Issuing body: Agência Brasileira de Inteligência (ABIN)
+- Date: \[UNKNOWN\]
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Latin America
+- Theme: agencies
+- URL: [https://www.gov.br/abin/pt-br/assuntos/fontes-de-ameacas/terrorismo](https://www.gov.br/abin/pt-br/assuntos/fontes-de-ameacas/terrorismo)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Portuguese
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/BR-ABIN-TERR.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="BR-PORTARIA2-2017"></a>
+## BR-PORTARIA2-2017
+
+**Portaria conjunta nº 2, de 31 de janeiro de 2017 (registro na Biblioteca Digital do MJ)**
+
+- Issuing body: Ministério da Justiça e Segurança Pública (Brasil)
+- Date: 2017-01-31
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://bibliotecadigital.mj.gov.br/handle/1/1559?locale=pt_BR](https://bibliotecadigital.mj.gov.br/handle/1/1559?locale=pt_BR)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Portuguese
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/BR-PORTARIA2-2017.*
 
 Cited by: none in `data/timeline.csv`.

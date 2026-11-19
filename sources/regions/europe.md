@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-50 sources in this region (`government` 21, `international` 12, `academic` 1, `NGO` 1, `court` 10, `oversight` 5).
+67 sources in this region (`government` 22, `international` 12, `academic` 3, `NGO` 1, `court` 20, `oversight` 9).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -24,9 +24,10 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 - URL: [https://undocs.org/S/RES/1530\(2004\)](https://undocs.org/S/RES/1530(2004))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS) Operative text attributes the Madrid bombings to ETA; see NOTES.md.
 
-Cited by: [T072](../../timeline/post-9-11-2001-2014.md#T072)
+Cited by: [T072](../../timeline/post-9-11-2001-2014.md#T072), [T150](../../timeline/post-9-11-2001-2014.md#T150)
 
 <a id="UNSC1611"></a>
 ## UNSC1611
@@ -44,6 +45,7 @@ Cited by: [T072](../../timeline/post-9-11-2001-2014.md#T072)
 - URL: [https://undocs.org/S/RES/1611\(2005\)](https://undocs.org/S/RES/1611(2005))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T086](../../timeline/post-9-11-2001-2014.md#T086)
@@ -64,6 +66,7 @@ Cited by: [T086](../../timeline/post-9-11-2001-2014.md#T086)
 - URL: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002F0475](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002F0475)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T062](../../timeline/post-9-11-2001-2014.md#T062)
 
@@ -83,6 +86,7 @@ Cited by: [T062](../../timeline/post-9-11-2001-2014.md#T062)
 - URL: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L0541](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L0541)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T118](../../timeline/recent-2014-now.md#T118)
 
@@ -101,8 +105,9 @@ Cited by: [T118](../../timeline/recent-2014-now.md#T118)
 - Theme: doctrine and strategy
 - URL: [https://data.consilium.europa.eu/doc/document/ST-14469-2005-REV-4/en/pdf](https://data.consilium.europa.eu/doc/document/ST-14469-2005-REV-4/en/pdf)
 - Accessed: 2026-11-18
-- Verified: `no`
-- Notes: HTTP 200; expected title text not found. PDF fetched (HTTP 200) but its text layer is unreadable; title not machine-confirmed.
+- Verified: `yes`
+- Language: \[UNKNOWN\]
+- Notes: Same cited URL re-fetched on 2026-11-18 (HTTP 200). The PDF text layer is unreadable; title and date confirmed by OCR of pages 1-2 ('Brussels, 30 November 2005 ... 14469/4/05 REV 4 ... Subject: The European Union Counter-Terrorism Strategy').
 
 Cited by: [T088](../../timeline/post-9-11-2001-2014.md#T088)
 
@@ -122,7 +127,8 @@ Cited by: [T088](../../timeline/post-9-11-2001-2014.md#T088)
 - URL: [https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=090](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=090)
 - Accessed: 2026-11-18
 - Verified: `no`
-- Notes: HTTP 403.
+- Language: \[UNKNOWN\]
+- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://rm.coe.int/16800771b2 Accessed 2026-11-18.
 
 Cited by: [T015](../../timeline/1945-1990.md#T015)
 
@@ -142,7 +148,8 @@ Cited by: [T015](../../timeline/1945-1990.md#T015)
 - URL: [https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=196](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=196)
 - Accessed: 2026-11-18
 - Verified: `no`
-- Notes: HTTP 403.
+- Language: \[UNKNOWN\]
+- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://rm.coe.int/16808c3f55 Accessed 2026-11-18.
 
 Cited by: [T085](../../timeline/post-9-11-2001-2014.md#T085)
 
@@ -162,6 +169,7 @@ Cited by: [T085](../../timeline/post-9-11-2001-2014.md#T085)
 - URL: [https://www.nato.int/cps/en/natohq/topics_110496.htm](https://www.nato.int/cps/en/natohq/topics_110496.htm)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T052](../../timeline/post-9-11-2001-2014.md#T052)
@@ -182,6 +190,7 @@ Cited by: [T052](../../timeline/post-9-11-2001-2014.md#T052)
 - URL: [https://www.nato.int/cps/en/natohq/official_texts_18553.htm](https://www.nato.int/cps/en/natohq/official_texts_18553.htm)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T052](../../timeline/post-9-11-2001-2014.md#T052)
 
@@ -201,6 +210,7 @@ Cited by: [T052](../../timeline/post-9-11-2001-2014.md#T052)
 - URL: [https://www.europol.europa.eu/publications-events/main-reports/tesat-report](https://www.europol.europa.eu/publications-events/main-reports/tesat-report)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -221,6 +231,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.legislation.gov.uk/ukpga/Vict/46-47/3/contents](https://www.legislation.gov.uk/ukpga/Vict/46-47/3/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T001](../../timeline/pre-1945.md#T001)
 
@@ -240,6 +251,7 @@ Cited by: [T001](../../timeline/pre-1945.md#T001)
 - URL: [https://www.irishstatutebook.ie/eli/1939/act/13/enacted/en/html](https://www.irishstatutebook.ie/eli/1939/act/13/enacted/en/html)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T007](../../timeline/pre-1945.md#T007)
 
@@ -259,6 +271,7 @@ Cited by: [T007](../../timeline/pre-1945.md#T007)
 - URL: [https://www.fbi.gov/history/famous-cases/pan-am-103-bombing](https://www.fbi.gov/history/famous-cases/pan-am-103-bombing)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T026](../../timeline/1945-1990.md#T026)
@@ -279,6 +292,7 @@ Cited by: [T026](../../timeline/1945-1990.md#T026)
 - URL: [https://www.legislation.gov.uk/ukpga/1973/53/contents](https://www.legislation.gov.uk/ukpga/1973/53/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T012](../../timeline/1945-1990.md#T012)
 
@@ -298,6 +312,7 @@ Cited by: [T012](../../timeline/1945-1990.md#T012)
 - URL: [https://www.legislation.gov.uk/ukpga/1974/56/contents](https://www.legislation.gov.uk/ukpga/1974/56/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T014](../../timeline/1945-1990.md#T014)
 
@@ -317,6 +332,7 @@ Cited by: [T014](../../timeline/1945-1990.md#T014)
 - URL: [https://www.legislation.gov.uk/ukpga/1989/4/contents](https://www.legislation.gov.uk/ukpga/1989/4/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T027](../../timeline/1945-1990.md#T027)
 
@@ -336,6 +352,7 @@ Cited by: [T027](../../timeline/1945-1990.md#T027)
 - URL: [https://www.legislation.gov.uk/ukpga/2000/11/contents](https://www.legislation.gov.uk/ukpga/2000/11/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T049](../../timeline/1990-2001.md#T049)
 
@@ -355,6 +372,7 @@ Cited by: [T049](../../timeline/1990-2001.md#T049)
 - URL: [https://www.legislation.gov.uk/ukpga/2001/24/contents](https://www.legislation.gov.uk/ukpga/2001/24/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T059](../../timeline/post-9-11-2001-2014.md#T059), [T080](../../timeline/post-9-11-2001-2014.md#T080)
 
@@ -374,6 +392,7 @@ Cited by: [T059](../../timeline/post-9-11-2001-2014.md#T059), [T080](../../timel
 - URL: [https://www.legislation.gov.uk/ukpga/2005/2/contents](https://www.legislation.gov.uk/ukpga/2005/2/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T082](../../timeline/post-9-11-2001-2014.md#T082)
 
@@ -393,6 +412,7 @@ Cited by: [T082](../../timeline/post-9-11-2001-2014.md#T082)
 - URL: [https://www.legislation.gov.uk/ukpga/2006/11/contents](https://www.legislation.gov.uk/ukpga/2006/11/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T089](../../timeline/post-9-11-2001-2014.md#T089)
 
@@ -412,6 +432,7 @@ Cited by: [T089](../../timeline/post-9-11-2001-2014.md#T089)
 - URL: [https://www.legislation.gov.uk/ukpga/2011/23/contents](https://www.legislation.gov.uk/ukpga/2011/23/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T106](../../timeline/post-9-11-2001-2014.md#T106)
 
@@ -431,6 +452,7 @@ Cited by: [T106](../../timeline/post-9-11-2001-2014.md#T106)
 - URL: [https://www.legislation.gov.uk/ukpga/2015/6/contents](https://www.legislation.gov.uk/ukpga/2015/6/contents)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T114](../../timeline/recent-2014-now.md#T114)
 
@@ -450,6 +472,7 @@ Cited by: [T114](../../timeline/recent-2014-now.md#T114)
 - URL: [https://publications.parliament.uk/pa/ld200405/ldjudgmt/jd041216/a&oth-1.htm](https://publications.parliament.uk/pa/ld200405/ldjudgmt/jd041216/a&oth-1.htm)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: BAILII (https://www.bailii.org/uk/cases/UKHL/2004/56.html) served a bot-check page. Title, date and citation (\[2004\] UKHL 56, 16 December 2004) confirmed from the official House of Lords session papers. The declaration that section 23 of the 2001 Act is incompatible with articles 5 and 14 of the European Convention is in paragraph 73 of the same judgment (https://publications.parliament.uk/pa/ld200405/ldjudgmt/jd041216/a&oth-5.htm). Confirmed by WebFetch on 2026-11-18.
 
 Cited by: [T080](../../timeline/post-9-11-2001-2014.md#T080)
@@ -470,6 +493,7 @@ Cited by: [T080](../../timeline/post-9-11-2001-2014.md#T080)
 - URL: [https://www.gov.uk/government/publications/counter-terrorism-strategy-contest-2023](https://www.gov.uk/government/publications/counter-terrorism-strategy-contest-2023)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T132](../../timeline/recent-2014-now.md#T132)
 
@@ -489,6 +513,7 @@ Cited by: [T132](../../timeline/recent-2014-now.md#T132)
 - URL: [https://www.gov.uk/government/publications/the-belfast-agreement](https://www.gov.uk/government/publications/the-belfast-agreement)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T041](../../timeline/1990-2001.md#T041)
 
@@ -508,6 +533,7 @@ Cited by: [T041](../../timeline/1990-2001.md#T041)
 - URL: [https://www.gov.uk/government/publications/report-of-the-official-account-of-the-bombings-in-london-on-7th-july-2005](https://www.gov.uk/government/publications/report-of-the-official-account-of-the-bombings-in-london-on-7th-july-2005)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T086](../../timeline/post-9-11-2001-2014.md#T086)
 
@@ -527,6 +553,7 @@ Cited by: [T086](../../timeline/post-9-11-2001-2014.md#T086)
 - URL: [https://manchesterarenainquiry.org.uk/](https://manchesterarenainquiry.org.uk/)
 - Accessed: 2026-11-18
 - Verified: `no`
+- Language: \[UNKNOWN\]
 - Notes: HTTP 405. Human-verification page (HTTP 405). Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -547,6 +574,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://terrorismlegislationreviewer.independent.gov.uk/](https://terrorismlegislationreviewer.independent.gov.uk/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -567,6 +595,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.mi5.gov.uk/history](https://www.mi5.gov.uk/history)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved. Undated web page; date \[UNKNOWN\].
 
 Cited by: [T003](../../timeline/pre-1945.md#T003)
@@ -587,6 +616,7 @@ Cited by: [T003](../../timeline/pre-1945.md#T003)
 - URL: [https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000693912](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000693912)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved.
 
 Cited by: [T022](../../timeline/1945-1990.md#T022)
@@ -607,6 +637,7 @@ Cited by: [T022](../../timeline/1945-1990.md#T022)
 - URL: [https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035932811](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035932811)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved.
 
 Cited by: [T123](../../timeline/recent-2014-now.md#T123)
@@ -627,6 +658,7 @@ Cited by: [T123](../../timeline/recent-2014-now.md#T123)
 - URL: [https://www.gesetze-im-internet.de/stgb/__129a.html](https://www.gesetze-im-internet.de/stgb/__129a.html)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -647,6 +679,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.bka.de/DE/UnsereAufgaben/Kooperationen/GTAZ/gtaz_node.html](https://www.bka.de/DE/UnsereAufgaben/Kooperationen/GTAZ/gtaz_node.html)
 - Accessed: 2026-11-18
 - Verified: `no`
+- Language: \[UNKNOWN\]
 - Notes: HTTP 000. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -667,6 +700,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.boe.es/buscar/act.php?id=BOE-A-2015-3440](https://www.boe.es/buscar/act.php?id=BOE-A-2015-3440)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: none in `data/timeline.csv`.
 
@@ -686,14 +720,15 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.regjeringen.no/no/dokumenter/nou-2012-14/id697260/](https://www.regjeringen.no/no/dokumenter/nou-2012-14/id697260/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved.
 
 Cited by: [T107](../../timeline/post-9-11-2001-2014.md#T107)
 
-<a id="EU-KADI2008"></a>
-## EU-KADI2008
+<a id="CJEU-2008-C402-05P"></a>
+## CJEU-2008-C402-05P
 
-**Kadi and Al Barakaat v Council and Commission (Joined Cases C-402/05 P and C-415/05 P)**
+**K. and Al Barakaat v Council and Commission (Joined Cases C-402/05 P and C-415/05 P)**
 
 - Issuing body: Court of Justice of the European Communities (EUR-Lex)
 - Date: 2008-09-03
@@ -706,6 +741,8 @@ Cited by: [T107](../../timeline/post-9-11-2001-2014.md#T107)
 - URL: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62005CJ0402](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62005CJ0402)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: Joined Cases C-402/05 P and C-415/05 P
 
 Cited by: [T097](../../timeline/post-9-11-2001-2014.md#T097)
 
@@ -725,6 +762,7 @@ Cited by: [T097](../../timeline/post-9-11-2001-2014.md#T097)
 - URL: [https://www.icct.nl/](https://www.icct.nl/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -745,6 +783,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.loc.gov/item/2021667893/](https://www.loc.gov/item/2021667893/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Library of Congress item record (World Digital Library 11579); states the convention never came into effect.
 
 Cited by: [T005](../../timeline/pre-1945.md#T005), [T006](../../timeline/pre-1945.md#T006), [T079](../../timeline/post-9-11-2001-2014.md#T079)
@@ -765,14 +804,15 @@ Cited by: [T005](../../timeline/pre-1945.md#T005), [T006](../../timeline/pre-194
 - URL: [https://hudoc.echr.coe.int/eng?i=001-57506](https://hudoc.echr.coe.int/eng?i=001-57506)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T016](../../timeline/1945-1990.md#T016)
 
-<a id="ECHR-KLASS1978"></a>
-## ECHR-KLASS1978
+<a id="ECHR-1978-5029"></a>
+## ECHR-1978-5029
 
-**Klass and Others v. Germany (no. 5029/71), judgment**
+**K. and Others v. Germany, no. 5029/71, judgment**
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1978-09-06
@@ -785,14 +825,16 @@ Cited by: [T016](../../timeline/1945-1990.md#T016)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-57510](https://hudoc.echr.coe.int/eng?i=001-57510)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: no. 5029/71
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T017](../../timeline/1945-1990.md#T017)
 
-<a id="ECHR-BROGAN1988"></a>
-## ECHR-BROGAN1988
+<a id="ECHR-1988-11209"></a>
+## ECHR-1988-11209
 
-**Brogan and Others v. the United Kingdom, judgment**
+**B. and Others v. the United Kingdom, nos. 11209/84, 11234/84, 11266/84 and 11386/85, judgment**
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1988-11-29
@@ -805,14 +847,16 @@ Cited by: [T017](../../timeline/1945-1990.md#T017)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-57450](https://hudoc.echr.coe.int/eng?i=001-57450)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: nos. 11209/84, 11234/84, 11266/84, 11386/85
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T025](../../timeline/1945-1990.md#T025)
 
-<a id="ECHR-MCCANN1995"></a>
-## ECHR-MCCANN1995
+<a id="ECHR-1995-18984"></a>
+## ECHR-1995-18984
 
-**McCann and Others v. the United Kingdom, judgment**
+**M. and Others v. the United Kingdom, no. 18984/91, judgment**
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 1995-09-27
@@ -825,6 +869,8 @@ Cited by: [T025](../../timeline/1945-1990.md#T025)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-57943](https://hudoc.echr.coe.int/eng?i=001-57943)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: no. 18984/91
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T036](../../timeline/1990-2001.md#T036)
@@ -845,14 +891,15 @@ Cited by: [T036](../../timeline/1990-2001.md#T036)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-91403](https://hudoc.echr.coe.int/eng?i=001-91403)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T099](../../timeline/post-9-11-2001-2014.md#T099)
 
-<a id="ECHR-ELMASRI2012"></a>
-## ECHR-ELMASRI2012
+<a id="ECHR-2012-39630"></a>
+## ECHR-2012-39630
 
-**El-Masri v. the former Yugoslav Republic of Macedonia, Grand Chamber judgment**
+**E. v. the former Yugoslav Republic of Macedonia, no. 39630/09, Grand Chamber judgment**
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 2012-12-13
@@ -865,14 +912,16 @@ Cited by: [T099](../../timeline/post-9-11-2001-2014.md#T099)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-115621](https://hudoc.echr.coe.int/eng?i=001-115621)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: no. 39630/09
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T108](../../timeline/post-9-11-2001-2014.md#T108)
 
-<a id="ECHR-ALNASHIRI2014"></a>
-## ECHR-ALNASHIRI2014
+<a id="ECHR-2014-28761"></a>
+## ECHR-2014-28761
 
-**Al Nashiri v. Poland, judgment**
+**A.N. v. Poland, no. 28761/11, judgment**
 
 - Issuing body: European Court of Human Rights (HUDOC)
 - Date: 2014-07-24
@@ -885,6 +934,8 @@ Cited by: [T108](../../timeline/post-9-11-2001-2014.md#T108)
 - URL: [https://hudoc.echr.coe.int/eng?i=001-146044](https://hudoc.echr.coe.int/eng?i=001-146044)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
+- Case citation: no. 28761/11
 - Notes: Verified via the HUDOC metadata API (case name and date)
 
 Cited by: [T110](../../timeline/recent-2014-now.md#T110)
@@ -905,6 +956,7 @@ Cited by: [T110](../../timeline/recent-2014-now.md#T110)
 - URL: [https://www.echr.coe.int/documents/d/echr/FS_Terrorism_ENG](https://www.echr.coe.int/documents/d/echr/FS_Terrorism_ENG)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Court press-unit factsheet. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -925,6 +977,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://terrorismlegislationreviewer.independent.gov.uk/category/reports/](https://terrorismlegislationreviewer.independent.gov.uk/category/reports/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -945,6 +998,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://assets.publishing.service.gov.uk/media/5a7c153540f0b61a825d6582/7-7_attacks_intelligence.pdf](https://assets.publishing.service.gov.uk/media/5a7c153540f0b61a825d6582/7-7_attacks_intelligence.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T100](../../timeline/post-9-11-2001-2014.md#T100)
 
@@ -964,6 +1018,7 @@ Cited by: [T100](../../timeline/post-9-11-2001-2014.md#T100)
 - URL: [https://www.amnesty.org/en/documents/eur01/5342/2017/en/](https://www.amnesty.org/en/documents/eur01/5342/2017/en/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: none in `data/timeline.csv`.
 
@@ -983,6 +1038,364 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://undocs.org/S/RES/1440\(2002\)](https://undocs.org/S/RES/1440(2002))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T064](../../timeline/post-9-11-2001-2014.md#T064)
+
+<a id="SR-ESP-2008"></a>
+## SR-ESP-2008
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Spain (A/HRC/10/3/Add.2)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2008-12-16
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/10/3/Add.2](https://undocs.org/A/HRC/10/3/Add.2)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-ESP-2008.*
+
+Cited by: [T150](../../timeline/post-9-11-2001-2014.md#T150)
+
+<a id="SR-FRA-2019"></a>
+## SR-FRA-2019
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to France (A/HRC/40/52/Add.4)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2019-05-08
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/40/52/Add.4](https://undocs.org/A/HRC/40/52/Add.4)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-FRA-2019.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SR-BEL-2019"></a>
+## SR-BEL-2019
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Belgium (A/HRC/40/52/Add.5)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2019-05-08
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/40/52/Add.5](https://undocs.org/A/HRC/40/52/Add.5)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-BEL-2019.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="DE-BVERFG-BKAG2016"></a>
+## DE-BVERFG-BKAG2016
+
+**BVerfG, Urteil des Ersten Senats vom 20. April 2016, 1 BvR 966/09 (BKA-Gesetz)**
+
+- Issuing body: Bundesverfassungsgericht
+- Date: 2016-04-20
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/04/rs20160420_1bvr096609.html](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/04/rs20160420_1bvr096609.html)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: German
+- Notes: Verified via WebFetch (no raw capture of readable text): WebFetch text: 'Urteil vom 20. April 2016 ... 1 BvR 966/09'
+
+Cited by: [T176](../../timeline/recent-2014-now.md#T176)
+
+<a id="DE-BVERFG-LUFTSIG2006"></a>
+## DE-BVERFG-LUFTSIG2006
+
+**BVerfG, Urteil des Ersten Senats vom 15. Februar 2006, 1 BvR 357/05 (Luftsicherheitsgesetz)**
+
+- Issuing body: Bundesverfassungsgericht
+- Date: 2006-02-15
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: post-9/11 (2001-2014)
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2006/02/rs20060215_1bvr035705.html](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2006/02/rs20060215_1bvr035705.html)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: German
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/DE-BVERFG-LUFTSIG2006.*
+
+Cited by: [T153](../../timeline/post-9-11-2001-2014.md#T153)
+
+<a id="FR-CC-86-213"></a>
+## FR-CC-86-213
+
+**Décision n° 86-213 DC du 3 septembre 1986 (Loi relative à la lutte contre le terrorisme)**
+
+- Issuing body: Conseil constitutionnel
+- Date: 1986-09-03
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: 1945-1990
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://www.conseil-constitutionnel.fr/decision/1986/86213DC.htm](https://www.conseil-constitutionnel.fr/decision/1986/86213DC.htm)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: French
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/FR-CC-86-213.*
+
+Cited by: [T139](../../timeline/1945-1990.md#T139)
+
+<a id="FR-CC-2015-527"></a>
+## FR-CC-2015-527
+
+**Décision n° 2015-527 QPC du 22 décembre 2015 (assignations à résidence dans le cadre de l'état d'urgence)**
+
+- Issuing body: Conseil constitutionnel
+- Date: 2015-12-22
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://www.conseil-constitutionnel.fr/decision/2015/2015527QPC.htm](https://www.conseil-constitutionnel.fr/decision/2015/2015527QPC.htm)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: French
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/FR-CC-2015-527.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="HIST-ROME1898-JENSEN"></a>
+## HIST-ROME1898-JENSEN
+
+**The International Campaign Against Anarchist Terrorism, 1880-1930s (Terrorism and Political Violence 21:1, 2009)**
+
+- Issuing body: Richard Bach Jensen
+- Date: 2009
+- Type: scholarly
+- Tag: `secondary`
+- Origin: `academic`
+- Era: pre-1945
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://cat-int.org/wp-content/uploads/2022/04/Terrorism-and-Political-ViolenceThe-International-Campaign-Against-Anarchist-Terrorism-1880%E2%80%931930s-Richard-Bach-Jensen-Vol.21-Issue-1-2009.pdf](https://cat-int.org/wp-content/uploads/2022/04/Terrorism-and-Political-ViolenceThe-International-Campaign-Against-Anarchist-Terrorism-1880%E2%80%931930s-Richard-Bach-Jensen-Vol.21-Issue-1-2009.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Hosted copy on a third-party site (cat-int.org); journal article PDF. HTTP 200; expected text found. Raw: pass2/raw/HIST-ROME1898-JENSEN.*
+
+Cited by: [T133](../../timeline/pre-1945.md#T133), [T134](../../timeline/pre-1945.md#T134)
+
+<a id="HIST-ROME1898-JCH"></a>
+## HIST-ROME1898-JCH
+
+**The International Anti-Anarchist Conference of 1898 and the Origins of Interpol (Journal of Contemporary History 16:2, 1981)**
+
+- Issuing body: Richard Bach Jensen, Journal of Contemporary History (SAGE)
+- Date: 1981
+- Type: scholarly
+- Tag: `secondary`
+- Origin: `academic`
+- Era: pre-1945
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://journals.sagepub.com/doi/10.1177/002200948101600205](https://journals.sagepub.com/doi/10.1177/002200948101600205)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 403; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: [T133](../../timeline/pre-1945.md#T133)
+
+<a id="HIST-SPB1904-EBID"></a>
+## HIST-SPB1904-EBID
+
+**Союзъ импepiaлиcтoвъ \[sic\] противъ анархистовъ. Протоколъ. 1/14 Марта 1904 г. (catalogue record)**
+
+- Issuing body: Электронная библиотека исторических документов (Российское историческое общество); source: Сборник секретных документов из Архива бывшего Министерства иностранных дел, № 6, 1918
+- Date: 1904-03-14
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: pre-1945
+- Region: Europe
+- Theme: laws and treaties
+- URL: [https://docs.historyrussia.org/ru/nodes/152832-soyuz-impepialictov-protiv-anarhistov-protokol-1-14-marta-1904-g](https://docs.historyrussia.org/ru/nodes/152832-soyuz-impepialictov-protiv-anarhistov-protokol-1-14-marta-1904-g)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Russian
+- Notes: URL taken from a web-search result listing, then fetched. Catalogue record of the 1904 protocol as published by the Soviet foreign affairs commissariat in 1918; the title wording is that 1918 publication's. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/HIST-SPB1904-EBID.*
+
+Cited by: [T134](../../timeline/pre-1945.md#T134)
+
+<a id="CNCDH-2017"></a>
+## CNCDH-2017
+
+**Avis sur le projet de loi renforçant la sécurité intérieure et la lutte contre le terrorisme (6 juillet 2017)**
+
+- Issuing body: Commission nationale consultative des droits de l'homme (France)
+- Date: 2017-07-06
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://www.cncdh.fr/sites/default/files/2021-04/170706_avis%20sur%20le%20PJL%20s%C3%A9curit%C3%A9%20int%C3%A9rieure_terrorisme%20p%C3%A0p.pdf](https://www.cncdh.fr/sites/default/files/2021-04/170706_avis%20sur%20le%20PJL%20s%C3%A9curit%C3%A9%20int%C3%A9rieure_terrorisme%20p%C3%A0p.pdf)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: French
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="ECHR-2008-37201"></a>
+## ECHR-2008-37201
+
+**S. v. Italy \[GC\], no. 37201/06 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 2008-02-28
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: post-9/11 (2001-2014)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-85276](https://hudoc.echr.coe.int/eng?i=001-85276)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2008-02-28 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: [T156](../../timeline/post-9-11-2001-2014.md#T156)
+
+<a id="ECHR-2012-10593"></a>
+## ECHR-2012-10593
+
+**N. v. Switzerland \[GC\], no. 10593/08 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 2012-09-12
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: post-9/11 (2001-2014)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-113118](https://hudoc.echr.coe.int/eng?i=001-113118)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2012-09-12 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: [T164](../../timeline/post-9-11-2001-2014.md#T164)
+
+<a id="ECHR-2014-7511"></a>
+## ECHR-2014-7511
+
+**H. v. Poland, no. 7511/13 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 2014-07-24
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-146047](https://hudoc.echr.coe.int/eng?i=001-146047)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2014-07-24 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: [T168](../../timeline/recent-2014-now.md#T168)
+
+<a id="ECHR-2018-33234"></a>
+## ECHR-2018-33234
+
+**A.N. v. Romania, no. 33234/12 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 2018-05-31
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-183685](https://hudoc.echr.coe.int/eng?i=001-183685)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2018-05-31 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: [T181](../../timeline/recent-2014-now.md#T181)
+
+<a id="ECHR-1993-14553"></a>
+## ECHR-1993-14553
+
+**B. and M. v. the United Kingdom, nos. 14553/89 and 14554/89 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 1993-05-26
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: 1990-2001
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-57819](https://hudoc.echr.coe.int/eng?i=001-57819)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 1993-05-26 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="ECHR-2012-8139"></a>
+## ECHR-2012-8139
+
+**O. v. the United Kingdom, no. 8139/09 (judgment)**
+
+- Issuing body: European Court of Human Rights
+- Date: 2012-01-17
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: post-9/11 (2001-2014)
+- Region: Europe
+- Theme: studies and evaluations
+- URL: [https://hudoc.echr.coe.int/eng?i=001-108629](https://hudoc.echr.coe.int/eng?i=001-108629)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2012-01-17 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: none in `data/timeline.csv`.

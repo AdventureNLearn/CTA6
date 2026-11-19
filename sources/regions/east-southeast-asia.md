@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-5 sources in this region (`government` 3, `international` 2).
+15 sources in this region (`government` 10, `international` 2, `NGO` 1, `court` 2).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -24,6 +24,7 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 - URL: [https://undocs.org/S/RES/1438\(2002\)](https://undocs.org/S/RES/1438(2002))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T063](../../timeline/post-9-11-2001-2014.md#T063)
@@ -44,6 +45,7 @@ Cited by: [T063](../../timeline/post-9-11-2001-2014.md#T063)
 - URL: [https://asean.org/wp-content/uploads/2012/05/ACCT.pdf](https://asean.org/wp-content/uploads/2012/05/ACCT.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T093](../../timeline/post-9-11-2001-2014.md#T093)
 
@@ -63,6 +65,7 @@ Cited by: [T093](../../timeline/post-9-11-2001-2014.md#T093)
 - URL: [https://www.officialgazette.gov.ph/2020/07/03/republic-act-no-11479/](https://www.officialgazette.gov.ph/2020/07/03/republic-act-no-11479/)
 - Accessed: 2026-11-18
 - Verified: `no`
+- Language: \[UNKNOWN\]
 - Notes: HTTP 403.
 
 Cited by: [T129](../../timeline/recent-2014-now.md#T129)
@@ -83,6 +86,7 @@ Cited by: [T129](../../timeline/recent-2014-now.md#T129)
 - URL: [https://www.bnpt.go.id/](https://www.bnpt.go.id/)
 - Accessed: 2026-11-18
 - Verified: `no`
+- Language: \[UNKNOWN\]
 - Notes: HTTP 200; expected title text not found. Bot-detection page. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -103,6 +107,217 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.moj.go.jp/psia/English.html](https://www.moj.go.jp/psia/English.html)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
+
+<a id="SG-ISA1960"></a>
+## SG-ISA1960
+
+**Internal Security Act 1960**
+
+- Issuing body: Attorney-General's Chambers, Singapore (Singapore Statutes Online)
+- Date: 1960
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1945-1990
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://sso.agc.gov.sg/Act/ISA1960](https://sso.agc.gov.sg/Act/ISA1960)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SG-ISA1960.*
+
+Cited by: [T135](../../timeline/1945-1990.md#T135)
+
+<a id="HRW-CHN-2018"></a>
+## HRW-CHN-2018
+
+**"Eradicating Ideological Viruses": China's Campaign of Repression Against Xinjiang's Muslims**
+
+- Issuing body: Human Rights Watch
+- Date: 2018-09-09
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: studies and evaluations
+- URL: [https://www.hrw.org/report/2018/09/09/eradicating-ideological-viruses/chinas-campaign-repression-against-xinjiangs](https://www.hrw.org/report/2018/09/09/eradicating-ideological-viruses/chinas-campaign-repression-against-xinjiangs)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/HRW-CHN-2018.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="CN-CTLAW2015"></a>
+## CN-CTLAW2015
+
+**中华人民共和国反恐怖主义法**
+
+- Issuing body: 全国人民代表大会常务委员会 (中国人大网)
+- Date: 2015-12-27
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [http://www.npc.gov.cn/npc/c2/c30834/201905/t20190521_281474.html](http://www.npc.gov.cn/npc/c2/c30834/201905/t20190521_281474.html)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Chinese
+- Notes: URL taken from a web-search result listing, then fetched. Text as amended 27 April 2018. English title: \[UNKNOWN\] Verified via WebFetch (no raw capture of readable text): WebFetch text: '中华人民共和国反恐怖主义法 (2015年12月27日...通过 根据2018年4月27日...修正) ... 第九十七条 本法自2016年1月1日起施行'
+
+Cited by: [T174](../../timeline/recent-2014-now.md#T174)
+
+<a id="ID-UU5-2018"></a>
+## ID-UU5-2018
+
+**Undang-Undang Nomor 5 Tahun 2018 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2003 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2002 tentang Pemberantasan Tindak Pidana Terorisme Menjadi Undang-Undang**
+
+- Issuing body: JDIH BPK (Badan Pemeriksa Keuangan), Republik Indonesia
+- Date: 2018-06-21
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://peraturan.bpk.go.id/Details/82689/uu-no-5-tahun-2018](https://peraturan.bpk.go.id/Details/82689/uu-no-5-tahun-2018)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Indonesian
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] Verified via WebFetch (no raw capture of readable text): WebFetch text: 'UU Nomor 5 Tahun 2018 ... Tanggal Penetapan 21 Juni 2018; Tanggal Pengundangan 22 Juni 2018; LN.2018/NO.92'
+
+Cited by: [T182](../../timeline/recent-2014-now.md#T182)
+
+<a id="JP-AUM-ACT1999"></a>
+## JP-AUM-ACT1999
+
+**Act on the Control of Organizations Which Have Committed Acts of Indiscriminate Mass Murder (Act No. 147 of 1999)**
+
+- Issuing body: Japanese Law Translation (Ministry of Justice, Japan)
+- Date: 1999-12-07
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://www.japaneselawtranslation.go.jp/en/laws/view/4055/en](https://www.japaneselawtranslation.go.jp/en/laws/view/4055/en)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Official translation site; translation is not the authoritative text. HTTP 200; expected text found. Raw: pass2/raw/JP-AUM-ACT1999.* Text reads 'Act No. 147 of December 7, 1999'.
+
+Cited by: [T146](../../timeline/1990-2001.md#T146)
+
+<a id="JP-PSIA-HIST"></a>
+## JP-PSIA-HIST
+
+**History (Public Security Intelligence Agency)**
+
+- Issuing body: Public Security Intelligence Agency, Japan
+- Date: \[UNKNOWN\]
+- Type: agency history
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: agencies
+- URL: [https://www.moj.go.jp/psia/English_History.html](https://www.moj.go.jp/psia/English_History.html)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/JP-PSIA-HIST.*
+
+Cited by: [T146](../../timeline/1990-2001.md#T146)
+
+<a id="KR-ATA2016"></a>
+## KR-ATA2016
+
+**국민보호와 공공안전을 위한 테러방지법 (법률 제14071호)**
+
+- Issuing body: 국가법령정보센터 (Korea Ministry of Government Legislation)
+- Date: 2016-03-03
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://www.law.go.kr/lsInfoP.do?efYd=20160604&lsiSeq=181624](https://www.law.go.kr/lsInfoP.do?efYd=20160604&lsiSeq=181624)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Korean
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/KR-ATA2016.*
+
+Cited by: [T175](../../timeline/recent-2014-now.md#T175)
+
+<a id="MY-SOSMA2012"></a>
+## MY-SOSMA2012
+
+**Security Offences (Special Measures) Act 2012 (Act 747)**
+
+- Issuing body: Attorney General's Chambers of Malaysia (Laws of Malaysia)
+- Date: 2012-06-18
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20120622_747_BI_Act%20747%20BI.pdf](https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20120622_747_BI_Act%20747%20BI.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/MY-SOSMA2012.* Text reads 'Date of Royal Assent ... 18 June 2012'.
+
+Cited by: [T162](../../timeline/post-9-11-2001-2014.md#T162)
+
+<a id="PH-SC-2021-252578-D"></a>
+## PH-SC-2021-252578-D
+
+**G.R. Nos. 252578, et al. (Anti-Terrorism Act oral arguments: docket of petitions, notices and announcements)**
+
+- Issuing body: Supreme Court of the Philippines
+- Date: \[UNKNOWN\]
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://sc.judiciary.gov.ph/g-r-nos-252578-et-al/](https://sc.judiciary.gov.ph/g-r-nos-252578-et-al/)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Verified via WebFetch (no raw capture of readable text): WebFetch text: 'G.R. Nos. 252578, et al. - Anti-Terrorism Act Oral Arguments' (docket page of petitions and notices, not the decision text) Docket page only; the 7 Dec 2021 decision text is not on this page.
+
+Cited by: [T186](../../timeline/recent-2014-now.md#T186)
+
+<a id="PH-SC-2021-252578"></a>
+## PH-SC-2021-252578
+
+**G.R. No. 252578, C. et al. v. Executive Secretary et al. (full text)**
+
+- Issuing body: Supreme Court of the Philippines E-Library
+- Date: 2021-12-07
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/67914?5hhplJcmuxsbMr=fHsDQ](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/67914?5hhplJcmuxsbMr=fHsDQ)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 403; expected text not confirmed (bot check, timeout or error). URL from search index. Petitioner name replaced by an initial (CTA6 anonymization rule).
+
+Cited by: [T186](../../timeline/recent-2014-now.md#T186)
