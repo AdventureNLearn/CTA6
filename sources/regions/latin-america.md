@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-15 sources in this region (`government` 7, `international` 3, `court` 2, `oversight` 3).
+25 sources in this region (`government` 11, `international` 3, `court` 6, `oversight` 5).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -321,3 +321,217 @@ Cited by: none in `data/timeline.csv`.
 - Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/BR-PORTARIA2-2017.*
 
 Cited by: none in `data/timeline.csv`.
+
+<a id="CO-LEY1121-2006"></a>
+## CO-LEY1121-2006
+
+**Ley 1121 de 2006 (diciembre 29): por la cual se dictan normas para la prevención, detección, investigación y sanción de la financiación del terrorismo y otras disposiciones**
+
+- Issuing body: Congreso de la República de Colombia (Secretaría General del Senado, base documental)
+- Date: 2006-12-29
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [http://www.secretariasenado.gov.co/senado/basedoc/ley_1121_2006.html](http://www.secretariasenado.gov.co/senado/basedoc/ley_1121_2006.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Notes: Verified via WebFetch on 2026-11-19 (curl got HTTP 500); capture saved as pass3/raw/webfetch-CO-LEY1121-2006.txt. Page shows 'Diario Oficial No. 46.497 de 30 de diciembre de 2006' and 'Dada en Bogotá, D. C., a 29 de diciembre de 2006'. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T212](../../timeline/post-9-11-2001-2014.md#T212)
+
+<a id="IACHR-2002-TERR-ES"></a>
+## IACHR-2002-TERR-ES
+
+**Informe sobre terrorismo y derechos humanos (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.)**
+
+- Issuing body: Comisión Interamericana de Derechos Humanos (OEA)
+- Date: 2002-10-22
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: studies and evaluations
+- URL: [https://www.oas.org/dil/esp/informe_sobre_terrorismo_derechos_humanos.pdf](https://www.oas.org/dil/esp/informe_sobre_terrorismo_derechos_humanos.pdf)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: Spanish
+- Notes: URL from search index; not verified: oas.org returned HTTP 503 'server is currently under maintenance' to curl and to WebFetch on 2026-11-19. Symbol and date (22 octubre 2002) taken from the search listing's extract of this PDF.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="IACHR-2002-TERR-EN"></a>
+## IACHR-2002-TERR-EN
+
+**Report on Terrorism and Human Rights: Executive Summary (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.)**
+
+- Issuing body: Inter-American Commission on Human Rights (OAS)
+- Date: 2002-10-22
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: studies and evaluations
+- URL: [https://cidh.oas.org/Terrorism/Eng/exe.htm](https://cidh.oas.org/Terrorism/Eng/exe.htm)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Notes: URL from search index; not verified: cidh.oas.org returned HTTP 503 (maintenance) to curl and WebFetch on 2026-11-19. Date from the Spanish listing (IACHR-2002-TERR-ES).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="IACTHR-1997-33"></a>
+## IACTHR-1997-33
+
+**Caso L.T. Vs. Perú, Sentencia de 17 de septiembre de 1997 (Fondo), Serie C No. 33**
+
+- Issuing body: Corte Interamericana de Derechos Humanos
+- Date: 1997-09-17
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: 1990-2001
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.corteidh.or.cr/docs/casos/articulos/seriec_33_esp.pdf](https://www.corteidh.or.cr/docs/casos/articulos/seriec_33_esp.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Case citation: Serie C No. 33
+- Notes: Verified via WebFetch on 2026-11-19 (curl got a Cloudflare challenge, HTTP 403); capture saved as pass3/raw/webfetch-IACTHR-1997-33.txt. Petition No. 11.154 before the Commission. Victim (a private individual) given as initials. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T196](../../timeline/1990-2001.md#T196)
+
+<a id="IACTHR-1999-52"></a>
+## IACTHR-1999-52
+
+**Caso C.P. y otros Vs. Perú, Sentencia de 30 de mayo de 1999 (Fondo, Reparaciones y Costas), Serie C No. 52**
+
+- Issuing body: Corte Interamericana de Derechos Humanos
+- Date: 1999-05-30
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: 1990-2001
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.corteidh.or.cr/docs/casos/articulos/seriec_52_esp.pdf](https://www.corteidh.or.cr/docs/casos/articulos/seriec_52_esp.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Case citation: Serie C No. 52
+- Notes: Verified via WebFetch on 2026-11-19 (curl got a Cloudflare challenge, HTTP 403); capture saved as pass3/raw/webfetch-IACTHR-1999-52.txt. Petition No. 11.319; concerns four Chilean nationals tried by a military tribunal under Decree-Law No. 25.659. Victims given as initials. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T197](../../timeline/1990-2001.md#T197)
+
+<a id="IACTHR-2000-69"></a>
+## IACTHR-2000-69
+
+**Caso C.B. Vs. Perú, Sentencia de 18 de agosto de 2000 (Fondo), Serie C No. 69**
+
+- Issuing body: Corte Interamericana de Derechos Humanos
+- Date: 2000-08-18
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: 1990-2001
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.corteidh.or.cr/docs/casos/articulos/Seriec_69_esp.pdf](https://www.corteidh.or.cr/docs/casos/articulos/Seriec_69_esp.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Case citation: Serie C No. 69
+- Notes: Verified via WebFetch on 2026-11-19 (curl got a Cloudflare challenge, HTTP 403); capture saved as pass3/raw/webfetch-IACTHR-2000-69.txt. URL appeared in the search synthesis citing the Court's case sheet. Victim given as initials. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T198](../../timeline/1990-2001.md#T198)
+
+<a id="PE-TC-2003-010-2002"></a>
+## PE-TC-2003-010-2002
+
+**Sentencia del Tribunal Constitucional, Exp. N.º 010-2002-AI/TC (T.S. y más de 5,000 ciudadanos; legislación antiterrorista de 1992)**
+
+- Issuing body: Tribunal Constitucional del Perú
+- Date: 2003-01-03
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.tc.gob.pe/jurisprudencia/2003/00010-2002-AI.html](https://www.tc.gob.pe/jurisprudencia/2003/00010-2002-AI.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Case citation: Exp. N.º 010-2002-AI/TC
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/PE-TC-2003-010-2002.* Page is windows-1252 encoded. Lead petitioner (a private individual) given as initials. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T202](../../timeline/post-9-11-2001-2014.md#T202)
+
+<a id="AR-UFIAMIA"></a>
+## AR-UFIAMIA
+
+**Unidad Fiscal para la Investigación de la Causa AMIA (UFI-AMIA) (página institucional)**
+
+- Issuing body: Ministerio Público Fiscal de la Nación (Argentina)
+- Date: \[UNKNOWN\]
+- Type: agency history
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: agencies
+- URL: [https://www.mpf.gob.ar/ufiamia/](https://www.mpf.gob.ar/ufiamia/)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AR-UFIAMIA.* States the unit was created by Resolución MP N°84/04. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T204](../../timeline/post-9-11-2001-2014.md#T204)
+
+<a id="AR-UFIAMIA-2022"></a>
+## AR-UFIAMIA-2022
+
+**Informe de la UFI-AMIA sobre el estado de la investigación por el atentado a la Asociación Mutual Israelí Argentina**
+
+- Issuing body: Unidad Fiscal para la Investigación de la Causa AMIA, Ministerio Público Fiscal (Argentina)
+- Date: 2022
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Latin America
+- Theme: studies and evaluations
+- URL: [https://www.mpf.gob.ar/ufiamia/files/2022/07/Informe-de-la-UFI-AMIA-sobre-el-estado-de-la-investigaci%C3%B3n-por-el-atentado-a-la-Asociaci%C3%B3n-Mutual-Israel%C3%AD-Argentina.pdf](https://www.mpf.gob.ar/ufiamia/files/2022/07/Informe-de-la-UFI-AMIA-sobre-el-estado-de-la-investigaci%C3%B3n-por-el-atentado-a-la-Asociaci%C3%B3n-Mutual-Israel%C3%AD-Argentina.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AR-UFIAMIA-2022.* Day and month \[UNKNOWN\]. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="AR-DEC812-2005"></a>
+## AR-DEC812-2005
+
+**Decreto 812/2005: apruébase el Acta de fecha 4 de marzo de 2005 firmada en el marco del 122 período ordinario de sesiones de la Comisión Interamericana de Derechos Humanos, petición N° 12.204 (atentado a la sede de la AMIA)**
+
+- Issuing body: Poder Ejecutivo Nacional (InfoLeg, Ministerio de Justicia)
+- Date: 2005-07-12
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/107751/norma.htm](https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/107751/norma.htm)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AR-DEC812-2005.* Dated 'Bs. As., 12/7/2005'; the acta was signed at a hearing in Washington on 4 March 2005. The same text was also fetched at argentina.gob.ar (pass3/raw/AR-DEC812-2005-GOB.*). English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T207](../../timeline/post-9-11-2001-2014.md#T207)

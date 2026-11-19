@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-28 sources in this region (`government` 7, `international` 11, `NGO` 2, `court` 3, `oversight` 5).
+36 sources in this region (`government` 11, `international` 11, `NGO` 2, `court` 4, `oversight` 8).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -358,9 +358,9 @@ Cited by: [T172](../../timeline/recent-2014-now.md#T172), [T173](../../timeline/
 - Theme: laws and treaties
 - URL: [https://adala.justice.gov.ma/api/uploads/2026/04/30/%D8%B8%D9%80%D9%87%D9%8A%D8%B1%20%D8%B4%D9%80%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.03.140%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2003.03%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%D8%A9%20%D8%A8%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-1777546049068.pdf](https://adala.justice.gov.ma/api/uploads/2026/04/30/%D8%B8%D9%80%D9%87%D9%8A%D8%B1%20%D8%B4%D9%80%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.03.140%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2003.03%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%D8%A9%20%D8%A8%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-1777546049068.pdf)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: Arabic
-- Notes: URL taken from a web-search result listing, then fetched. Consolidated (amended) version. English title: \[UNKNOWN\] HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+- Notes: Verified on retry 2026-11-19. curl HTTP 200; Arabic text layer reads 'القانون رقم 03.03 المتعلق بمكافحة الإرهاب' and 'ظهير شريف رقم 1.03.140'. Consolidated (amended) version. English title: \[UNKNOWN\]. URL taken from a web-search result listing, then fetched. Earlier (round 2): HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -594,3 +594,172 @@ Cited by: [T152](../../timeline/post-9-11-2001-2014.md#T152)
 - Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. HUDOC API returned docname 'CASE OF SELAHATTİN DEMİRTAŞ v. TURKEY (No. 2)', kpdate 2020-12-22 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
 
 Cited by: [T184](../../timeline/recent-2014-now.md#T184)
+
+<a id="DZ-ORD06-01"></a>
+## DZ-ORD06-01
+
+**Ordonnance n° 06-01 du 28 Moharram 1427 correspondant au 27 février 2006 portant mise en œuvre de la Charte pour la paix et la réconciliation nationale (Journal officiel n° 11 du 28 février 2006)**
+
+- Issuing body: Présidence de la République (Journal officiel de la République algérienne)
+- Date: 2006-02-27
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://www.joradp.dz/FTP/jo-francais/2006/F2006011.pdf](https://www.joradp.dz/FTP/jo-francais/2006/F2006011.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: French
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/DZ-ORD06-01.* Text ends 'Fait à Alger, le 28 Moharram 1427 correspondant au 27 février 2006.' English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T209](../../timeline/post-9-11-2001-2014.md#T209)
+
+<a id="DZ-LOI06-07"></a>
+## DZ-LOI06-07
+
+**Loi n° 06-07 du 18 Rabie El Aouel 1427 correspondant au 17 avril 2006 portant approbation de l'ordonnance n° 06-01 (Journal officiel n° 27 du 26 avril 2006)**
+
+- Issuing body: Présidence de la République (Journal officiel de la République algérienne)
+- Date: 2006-04-17
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://www.joradp.dz/FTP/jo-francais/2006/F2006027.pdf](https://www.joradp.dz/FTP/jo-francais/2006/F2006027.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: French
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/DZ-LOI06-07.* English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T210](../../timeline/post-9-11-2001-2014.md#T210)
+
+<a id="EG-NCHR-R18-EN"></a>
+## EG-NCHR-R18-EN
+
+**The Eighteenth Report of the National Council for Human Rights (1 July 2024 – 30 June 2025)**
+
+- Issuing body: National Council for Human Rights (Egypt)
+- Date: 2025
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://www.nchr.eg/Uploads/publication/en/TheEighteenthreport1768742540.pdf](https://www.nchr.eg/Uploads/publication/en/TheEighteenthreport1768742540.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/EG-NCHR-R18-EN.* Day and month of publication \[UNKNOWN\]. Mentions recommendations to review laws including the Counter-Terrorism Law.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="EG-NCHR-R12-AR"></a>
+## EG-NCHR-R12-AR
+
+**التقرير السنوى للمجلس القومى لحقوق الإنسان الثانى عشر 2017/2016**
+
+- Issuing body: المجلس القومي لحقوق الإنسان (Egypt)
+- Date: 2017
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://nchr.eg/Uploads/publication/ar/report121606540392.pdf](https://nchr.eg/Uploads/publication/ar/report121606540392.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Arabic
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/EG-NCHR-R12-AR.* Covers April 2016 to end of June 2017; publication day and month \[UNKNOWN\]. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="EG-NCHR-R15-AR"></a>
+## EG-NCHR-R15-AR
+
+**التقرير السنوي الخامس عشر 2020/2019**
+
+- Issuing body: المجلس القومي لحقوق الإنسان (Egypt)
+- Date: 2020
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://nchr.eg/Uploads/publication/ar/%D8%A7%D9%84%D8%AA%D9%82%D8%B1%D9%8A%D8%B1151672582133.pdf](https://nchr.eg/Uploads/publication/ar/%D8%A7%D9%84%D8%AA%D9%82%D8%B1%D9%8A%D8%B1151672582133.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Arabic
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/EG-NCHR-R15-AR.* Title matched; the PDF text layer uses Arabic presentation forms, so the keyword check was done on the root 'رهاب' (51 occurrences). Publication date \[UNKNOWN\]. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="TR-RG-AYM2013"></a>
+## TR-RG-AYM2013
+
+**Anayasa Mahkemesi Kararı, Esas Sayısı 2012/100, Karar Sayısı 2013/84, Karar Günü 4.7.2013 (Resmî Gazete, 2 Ağustos 2013, Sayı 28726)**
+
+- Issuing body: Anayasa Mahkemesi (Constitutional Court of Türkiye), published in the Resmî Gazete
+- Date: 2013-07-04
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://www.resmigazete.gov.tr/eskiler/2013/08/20130802-20.htm](https://www.resmigazete.gov.tr/eskiler/2013/08/20130802-20.htm)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Turkish
+- Case citation: Esas Sayısı 2012/100, Karar Sayısı 2013/84
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/TR-RG-AYM2013.* Page is windows-1254 encoded. Review of Law No. 6352, including its amendments to article 10 of Anti-Terror Law No. 3713; petition by 123 members of parliament. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T216](../../timeline/post-9-11-2001-2014.md#T216)
+
+<a id="IL-CTLAW2016-HE"></a>
+## IL-CTLAW2016-HE
+
+**חוק המאבק בטרור, התשע"ו-2016 (ספר החוקים 2556, עמ' 898)**
+
+- Issuing body: הכנסת (Knesset), Reshumot
+- Date: 2016-06-23
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://fs.knesset.gov.il/20/law/20_lsr_343902.pdf](https://fs.knesset.gov.il/20/law/20_lsr_343902.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Hebrew
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/IL-CTLAW2016-HE.* Sefer HaHukim 2556 dated 23 June 2016; footnote states the law was passed by the Knesset on 15 June 2016. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T220](../../timeline/recent-2014-now.md#T220)
+
+<a id="IR-CFT-LAW1394"></a>
+## IR-CFT-LAW1394
+
+**قانون مبارزه با تامین مالی تروریسم**
+
+- Issuing body: مجلس شورای اسلامی (Islamic Consultative Assembly), Research Center legal database
+- Date: \[UNKNOWN\]
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://rc.majlis.ir/en/legal_draft/show/1043783](https://rc.majlis.ir/en/legal_draft/show/1043783)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: Persian
+- Notes: URL from search index; not verified: curl timed out and WebFetch returned HTTP 500 on 2026-11-19. Search listing gives approval 13 Bahman 1394 (early February 2016); not confirmed from a capture. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: none in `data/timeline.csv`.

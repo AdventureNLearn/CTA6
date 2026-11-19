@@ -1048,9 +1048,9 @@ Cited by: none in `data/timeline.csv`.
 - Theme: studies and evaluations
 - URL: [https://onlinelibrary.wiley.com/doi/10.4073/csr.2006.2](https://onlinelibrary.wiley.com/doi/10.4073/csr.2006.2)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://www.publicsafety.gc.ca/lbrr/archives/cnmcs-plcng/cn88836819-eng.pdf Accessed 2026-11-18.
+- Notes: Verified on retry 2026-11-19. WebFetch of the cited URL returned the Wiley page: 'The Effectiveness of Counter-Terrorism Strategies', Lum et al., Campbell Systematic Reviews, 'First published: 16 January 2006'. curl got a JavaScript challenge (403). Earlier (round 2): Cited URL returns HTTP 403. Same document confirmed at official copy: https://www.publicsafety.gc.ca/lbrr/archives/cnmcs-plcng/cn88836819-eng.pdf Accessed 2026-11-18.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -1195,9 +1195,9 @@ Cited by: [T006](../../timeline/pre-1945.md#T006)
 - Theme: studies and evaluations
 - URL: [https://www.ohchr.org/en/special-procedures/sr-terrorism](https://www.ohchr.org/en/special-procedures/sr-terrorism)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: HTTP 403. Undated web page; date \[UNKNOWN\].
+- Notes: Verified on retry 2026-11-19. WebFetch of the cited URL returned the page, which reads 'In April 2005, the Commission on Human Rights, in resolution 2005/80, created a mandate ...'. curl blocked (Cloudflare 403). Undated web page; date \[UNKNOWN\]. Earlier (round 2): HTTP 403.
 
 Cited by: [T084](../../timeline/post-9-11-2001-2014.md#T084)
 
