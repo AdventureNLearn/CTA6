@@ -4,11 +4,11 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every entry is taken from the cited row in `data/timeline.csv`.
 
-24 milestones in this era.
+50 milestones in this era.
 
-- `we-have-a-record`: 22
-- `not-proven`: 2
-- `people-disagree`: 0
+- `we-have-a-record`: 45
+- `not-proven`: 4
+- `people-disagree`: 1
 
 See [GAPS.md](../GAPS.md) for what this round did not gather.
 
@@ -34,9 +34,9 @@ Citation: [PCLOB-215-2014](../sources/regions/north-america.md#PCLOB-215-2014) (
 - Theme: laws and treaties
 - Status: `we-have-a-record`
 
-The European Court of Human Rights delivered judgment in Al Nashiri v. Poland.
+The European Court of Human Rights delivered judgment in A.N. v. Poland (no. 28761/11).
 
-Citation: [ECHR-ALNASHIRI2014](../sources/regions/europe.md#ECHR-ALNASHIRI2014) ([https://hudoc.echr.coe.int/eng?i=001-146044](https://hudoc.echr.coe.int/eng?i=001-146044))
+Citation: [ECHR-2014-28761](../sources/regions/europe.md#ECHR-2014-28761) ([https://hudoc.echr.coe.int/eng?i=001-146044](https://hudoc.echr.coe.int/eng?i=001-146044))
 
 <a id="T111"></a>
 ## T111
@@ -74,6 +74,8 @@ Citation: [UNSC2178](../sources/regions/global-un.md#UNSC2178) ([https://undocs.
 - Status: `we-have-a-record`
 
 The Senate Select Committee on Intelligence released the executive summary of its study of the CIA detention and interrogation program, published together with additional and minority views.
+
+- Notes: Second source: CIA-SSCI-2013 (CIA's June 2013 response, approved for release 8 Dec 2014) states the Agency 'disagrees with assertions' in the Study. Recorded as a people-disagree row in timeline-add.csv.
 
 Citation: [US-SSCI2014](../sources/regions/north-america.md#US-SSCI2014) ([https://www.intelligence.senate.gov/sites/default/files/publications/CRPT-113srpt288.pdf](https://www.intelligence.senate.gov/sites/default/files/publications/CRPT-113srpt288.pdf))
 
@@ -329,3 +331,356 @@ Citation: [UNSC2617](../sources/regions/global-un.md#UNSC2617) ([https://undocs.
 The UK Home Office published CONTEST 2023, the UK counter-terrorism strategy.
 
 Citation: [UK-CONTEST2023](../sources/regions/europe.md#UK-CONTEST2023) ([https://www.gov.uk/government/publications/counter-terrorism-strategy-contest-2023](https://www.gov.uk/government/publications/counter-terrorism-strategy-contest-2023))
+
+<a id="T167"></a>
+## T167
+
+- Date: 2014-05-29
+- Place: San José, Costa Rica
+- Region: Latin America
+- Theme: studies and evaluations
+- Status: `we-have-a-record`
+
+The Inter-American Court of Human Rights issued its judgment in N.C. y otros vs. Chile (Serie C No. 279), concerning convictions under Chile's Law 18.314.
+
+Citations:
+
+- [IACTHR-2014-279](../sources/regions/latin-america.md#IACTHR-2014-279) ([https://www.corteidh.or.cr/docs/casos/articulos/seriec_279_esp.pdf](https://www.corteidh.or.cr/docs/casos/articulos/seriec_279_esp.pdf))
+- [CL-LEY18314](../sources/regions/latin-america.md#CL-LEY18314) ([https://www.bcn.cl/leychile/navegar?idNorma=29731](https://www.bcn.cl/leychile/navegar?idNorma=29731))
+
+<a id="T168"></a>
+## T168
+
+- Date: 2014-07-24
+- Place: Strasbourg, France (European Court of Human Rights)
+- Region: Europe
+- Theme: major operations
+- Status: `we-have-a-record`
+
+The European Court of Human Rights delivered its judgment in H. v. Poland (no. 7511/13), concerning secret detention in Poland under the CIA programme.
+
+Citations:
+
+- [ECHR-2014-7511](../sources/regions/europe.md#ECHR-2014-7511) ([https://hudoc.echr.coe.int/eng?i=001-146047](https://hudoc.echr.coe.int/eng?i=001-146047))
+- [US-SSCI2014](../sources/regions/north-america.md#US-SSCI2014) ([https://www.intelligence.senate.gov/sites/default/files/publications/CRPT-113srpt288.pdf](https://www.intelligence.senate.gov/sites/default/files/publications/CRPT-113srpt288.pdf))
+
+<a id="T169"></a>
+## T169
+
+- Date: 2015
+- Place: \[UNKNOWN\] (African Commission on Human and Peoples' Rights)
+- Region: Sub-Saharan Africa
+- Theme: studies and evaluations
+- Status: `not-proven`
+
+The African Commission adopted its Principles and Guidelines on Human and Peoples' Rights while Countering Terrorism in Africa (year per search listing).
+
+Citation: [ACHPR-CT2015](../sources/regions/sub-saharan-africa.md#ACHPR-CT2015) ([https://achpr.au.int/en/special-mechanisms-reports/principles-guidelines-countering-terrorism](https://achpr.au.int/en/special-mechanisms-reports/principles-guidelines-countering-terrorism))
+
+<a id="T170"></a>
+## T170
+
+- Date: 2015-06-03
+- Place: London, United Kingdom (Amnesty International)
+- Region: Sub-Saharan Africa
+- Theme: major operations
+- Status: `we-have-a-record`
+
+Amnesty International published a report on the Nigerian military's operations against Boko Haram in north-east Nigeria, which characterises certain acts as war crimes (the characterisation is Amnesty's).
+
+Citation: [AMN-NGA-2015](../sources/regions/sub-saharan-africa.md#AMN-NGA-2015) ([https://www.amnesty.org/en/wp-content/uploads/2021/05/AFR4416572015ENGLISH.pdf](https://www.amnesty.org/en/wp-content/uploads/2021/05/AFR4416572015ENGLISH.pdf))
+
+<a id="T171"></a>
+## T171
+
+- Date: 2015-08-07
+- Place: Tunis, Tunisia
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+Tunisia promulgated Organic Law 2015-26 on combating terrorism and money laundering, adopted by the Assembly of the Representatives of the People on 25 July 2015.
+
+Citation: [TN-LO2015-26](../sources/regions/middle-east-north-africa.md#TN-LO2015-26) ([https://www.marchespublics.gov.tn/fr/legislations/2189/download](https://www.marchespublics.gov.tn/fr/legislations/2189/download))
+
+<a id="T172"></a>
+## T172
+
+- Date: 2015-08-15
+- Place: Cairo, Egypt
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+Egypt published Presidential Decree-Law No. 94 of 2015 issuing the Counter-Terrorism Law (Official Gazette No. 33 bis).
+
+Citation: [EG-LAW94-2015](../sources/regions/middle-east-north-africa.md#EG-LAW94-2015) ([https://fra.gov.eg/wp-content/uploads/2021/11/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d9%85%d9%83%d8%a7%d9%81%d8%ad%d8%a9-%d8%a7%d9%84%d8%a5%d8%b1%d9%87%d8%a7%d8%a8-%d8%b1%d9%82%d9%85-94-%d9%84%d8%b3%d9%86%d8%a9-2015.pdf](https://fra.gov.eg/wp-content/uploads/2021/11/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d9%85%d9%83%d8%a7%d9%81%d8%ad%d8%a9-%d8%a7%d9%84%d8%a5%d8%b1%d9%87%d8%a7%d8%a8-%d8%b1%d9%82%d9%85-94-%d9%84%d8%b3%d9%86%d8%a9-2015.pdf))
+
+<a id="T173"></a>
+## T173
+
+- Date: 2015-08-15
+- Place: Cairo, Egypt
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- Status: `people-disagree`
+
+Sources differ on the number of Egypt's 2015 counter-terrorism law: the Official Gazette (No. 33 bis, 15 Aug 2015) shows Presidential Decree-Law No. 94 of 2015, while Human Rights Watch (19 Aug 2015) calls it 'Law 95 of 2015 for Confronting Terrorism'.
+
+Citations:
+
+- [EG-LAW94-2015](../sources/regions/middle-east-north-africa.md#EG-LAW94-2015) ([https://fra.gov.eg/wp-content/uploads/2021/11/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d9%85%d9%83%d8%a7%d9%81%d8%ad%d8%a9-%d8%a7%d9%84%d8%a5%d8%b1%d9%87%d8%a7%d8%a8-%d8%b1%d9%82%d9%85-94-%d9%84%d8%b3%d9%86%d8%a9-2015.pdf](https://fra.gov.eg/wp-content/uploads/2021/11/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d9%85%d9%83%d8%a7%d9%81%d8%ad%d8%a9-%d8%a7%d9%84%d8%a5%d8%b1%d9%87%d8%a7%d8%a8-%d8%b1%d9%82%d9%85-94-%d9%84%d8%b3%d9%86%d8%a9-2015.pdf))
+- [HRW-EGY-2015](../sources/regions/middle-east-north-africa.md#HRW-EGY-2015) ([https://www.hrw.org/news/2015/08/19/egypt-counterterrorism-law-erodes-basic-rights](https://www.hrw.org/news/2015/08/19/egypt-counterterrorism-law-erodes-basic-rights))
+
+<a id="T174"></a>
+## T174
+
+- Date: 2015-12-27
+- Place: Beijing, China
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+The NPC Standing Committee adopted the Counter-Terrorism Law of the People's Republic of China (in force 1 January 2016; amended 27 April 2018).
+
+Citation: [CN-CTLAW2015](../sources/regions/east-southeast-asia.md#CN-CTLAW2015) ([http://www.npc.gov.cn/npc/c2/c30834/201905/t20190521_281474.html](http://www.npc.gov.cn/npc/c2/c30834/201905/t20190521_281474.html))
+
+<a id="T175"></a>
+## T175
+
+- Date: 2016-03-03
+- Place: Seoul, Republic of Korea
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+South Korea enacted the Act on Counter-Terrorism for the Protection of Citizens and Public Security (Act No. 14071; text version effective 4 June 2016).
+
+Citation: [KR-ATA2016](../sources/regions/east-southeast-asia.md#KR-ATA2016) ([https://www.law.go.kr/lsInfoP.do?efYd=20160604&lsiSeq=181624](https://www.law.go.kr/lsInfoP.do?efYd=20160604&lsiSeq=181624))
+
+<a id="T176"></a>
+## T176
+
+- Date: 2016-04-20
+- Place: Karlsruhe, Germany
+- Region: Europe
+- Theme: studies and evaluations
+- Status: `we-have-a-record`
+
+Germany's Federal Constitutional Court ruled on the BKA Act surveillance powers for countering international terrorism (1 BvR 966/09).
+
+Citation: [DE-BVERFG-BKAG2016](../sources/regions/europe.md#DE-BVERFG-BKAG2016) ([https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/04/rs20160420_1bvr096609.html](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/04/rs20160420_1bvr096609.html))
+
+<a id="T177"></a>
+## T177
+
+- Date: 2016-07-20
+- Place: Nairobi, Kenya (Human Rights Watch)
+- Region: Sub-Saharan Africa
+- Theme: major operations
+- Status: `we-have-a-record`
+
+Human Rights Watch published a report documenting alleged enforced disappearances and deaths during counterterrorism operations in Nairobi and north-eastern Kenya (allegations are HRW's).
+
+Citation: [HRW-KEN-2016](../sources/regions/sub-saharan-africa.md#HRW-KEN-2016) ([https://www.hrw.org/sites/default/files/report_pdf/kenya0716web_1.pdf](https://www.hrw.org/sites/default/files/report_pdf/kenya0716web_1.pdf))
+
+<a id="T178"></a>
+## T178
+
+- Date: 2017-04-13
+- Place: Strasbourg, France (European Court of Human Rights)
+- Region: Russia/Central Asia
+- Theme: major operations
+- Status: `we-have-a-record`
+
+The European Court of Human Rights delivered its judgment in T. and Others v. Russia (no. 26562/07 and others), concerning the 2004 Beslan school siege.
+
+Citation: [ECHR-2017-26562](../sources/regions/russia-central-asia.md#ECHR-2017-26562) ([https://hudoc.echr.coe.int/eng?i=001-172660](https://hudoc.echr.coe.int/eng?i=001-172660))
+
+<a id="T179"></a>
+## T179
+
+- Date: 2017-04-30
+- Place: Saudi Arabia
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- Status: `we-have-a-record`
+
+The UN Special Rapporteur on counter-terrorism and human rights began a visit to Saudi Arabia (30 April-4 May 2017).
+
+Citation: [SR-SAU-2018](../sources/regions/middle-east-north-africa.md#SR-SAU-2018) ([https://undocs.org/A/HRC/40/52/Add.2](https://undocs.org/A/HRC/40/52/Add.2))
+
+<a id="T180"></a>
+## T180
+
+- Date: 2017-12-08
+- Place: New York, United States (UN Security Council)
+- Region: Sub-Saharan Africa
+- Theme: UN and international frameworks
+- Status: `we-have-a-record`
+
+The UN Security Council adopted resolution 2391 (2017) on support to the G5 Sahel Joint Force.
+
+Citation: [UNSC2391](../sources/regions/sub-saharan-africa.md#UNSC2391) ([https://undocs.org/S/RES/2391\(2017\)](https://undocs.org/S/RES/2391(2017)))
+
+<a id="T181"></a>
+## T181
+
+- Date: 2018-05-31
+- Place: Strasbourg, France (European Court of Human Rights)
+- Region: Europe
+- Theme: major operations
+- Status: `we-have-a-record`
+
+The European Court of Human Rights delivered its judgment in A.N. v. Romania (no. 33234/12), concerning secret detention in Romania under the CIA programme.
+
+Citation: [ECHR-2018-33234](../sources/regions/europe.md#ECHR-2018-33234) ([https://hudoc.echr.coe.int/eng?i=001-183685](https://hudoc.echr.coe.int/eng?i=001-183685))
+
+<a id="T182"></a>
+## T182
+
+- Date: 2018-06-21
+- Place: Jakarta, Indonesia
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+Indonesia enacted Law No. 5 of 2018 amending its terrorism law (promulgated and in force 22 June 2018).
+
+Citation: [ID-UU5-2018](../sources/regions/east-southeast-asia.md#ID-UU5-2018) ([https://peraturan.bpk.go.id/Details/82689/uu-no-5-tahun-2018](https://peraturan.bpk.go.id/Details/82689/uu-no-5-tahun-2018))
+
+<a id="T183"></a>
+## T183
+
+- Date: 2019-05-10
+- Place: Kazakhstan
+- Region: Russia/Central Asia
+- Theme: studies and evaluations
+- Status: `we-have-a-record`
+
+The UN Special Rapporteur on counter-terrorism and human rights began a visit to Kazakhstan (10-17 May 2019).
+
+Citation: [SR-KAZ-2020](../sources/regions/russia-central-asia.md#SR-KAZ-2020) ([https://undocs.org/A/HRC/43/46/Add.1](https://undocs.org/A/HRC/43/46/Add.1))
+
+<a id="T184"></a>
+## T184
+
+- Date: 2020-12-22
+- Place: Strasbourg, France (European Court of Human Rights)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- Status: `we-have-a-record`
+
+The Grand Chamber of the European Court of Human Rights delivered its judgment in Selahattin Demirtaş v. Turkey (No. 2) (no. 14305/17), concerning the pre-trial detention of an opposition party leader and member of parliament on terrorism-related charges.
+
+Citation: [ECHR-DEMIRTAS2-2020](../sources/regions/middle-east-north-africa.md#ECHR-DEMIRTAS2-2020) ([https://hudoc.echr.coe.int/eng?i=001-207173](https://hudoc.echr.coe.int/eng?i=001-207173))
+
+<a id="T185"></a>
+## T185
+
+- Date: 2021-11-29
+- Place: Uzbekistan
+- Region: Russia/Central Asia
+- Theme: studies and evaluations
+- Status: `we-have-a-record`
+
+The UN Special Rapporteur on counter-terrorism and human rights began a visit to Uzbekistan (29 November-7 December 2021).
+
+Citation: [SR-UZB-2022](../sources/regions/russia-central-asia.md#SR-UZB-2022) ([https://undocs.org/A/HRC/49/45/Add.1](https://undocs.org/A/HRC/49/45/Add.1))
+
+<a id="T186"></a>
+## T186
+
+- Date: 2021-12-07
+- Place: Manila, Philippines
+- Region: East/Southeast Asia
+- Theme: studies and evaluations
+- Status: `not-proven`
+
+The Supreme Court of the Philippines decided C. et al. v. Executive Secretary (G.R. No. 252578) on the Anti-Terrorism Act of 2020 (decision text not captured; docket page verified).
+
+Citations:
+
+- [PH-SC-2021-252578](../sources/regions/east-southeast-asia.md#PH-SC-2021-252578) ([https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/67914?5hhplJcmuxsbMr=fHsDQ](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/67914?5hhplJcmuxsbMr=fHsDQ))
+- [PH-SC-2021-252578-D](../sources/regions/east-southeast-asia.md#PH-SC-2021-252578-D) ([https://sc.judiciary.gov.ph/g-r-nos-252578-et-al/](https://sc.judiciary.gov.ph/g-r-nos-252578-et-al/))
+
+<a id="T187"></a>
+## T187
+
+- Date: 2022-02-07
+- Place: Brussels, Belgium (Human Rights Watch)
+- Region: South Asia
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+Human Rights Watch published a report on Sri Lanka's Prevention of Terrorism Act and the January 2022 amendment bill (assessments are HRW's).
+
+Citations:
+
+- [HRW-LKA-2022](../sources/regions/south-asia.md#HRW-LKA-2022) ([https://www.hrw.org/sites/default/files/media_2022/02/srilanka0222_web.pdf](https://www.hrw.org/sites/default/files/media_2022/02/srilanka0222_web.pdf))
+- [LK-MOJ-PTA](../sources/regions/south-asia.md#LK-MOJ-PTA) ([https://www.moj.gov.lk/index.php/en/public-consultation/prevention-of-terrorism-temporary-provisions-act-no-48-of-1979](https://www.moj.gov.lk/index.php/en/public-consultation/prevention-of-terrorism-temporary-provisions-act-no-48-of-1979))
+
+<a id="T188"></a>
+## T188
+
+- Date: 2022-05-12
+- Place: Abuja, Nigeria
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+Nigeria's Terrorism (Prevention and Prohibition) Act 2022 was enacted (Official Gazette No. 91, 16 May 2022).
+
+Citation: [NG-TPPA2022](../sources/regions/sub-saharan-africa.md#NG-TPPA2022) ([https://scuml.efcc.gov.ng/wp-content/uploads/2022/05/TERRORISM-PREVENTION-publication.pdf](https://scuml.efcc.gov.ng/wp-content/uploads/2022/05/TERRORISM-PREVENTION-publication.pdf))
+
+<a id="T189"></a>
+## T189
+
+- Date: 2022-05-15
+- Place: Maldives
+- Region: South Asia
+- Theme: studies and evaluations
+- Status: `we-have-a-record`
+
+The UN Special Rapporteur on counter-terrorism and human rights began a visit to Maldives (15-24 May 2022).
+
+Citation: [SR-MDV-2023](../sources/regions/south-asia.md#SR-MDV-2023) ([https://undocs.org/A/HRC/52/39/Add.1](https://undocs.org/A/HRC/52/39/Add.1))
+
+<a id="T190"></a>
+## T190
+
+- Date: 2022-12-23
+- Place: Pretoria, South Africa
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+South Africa's Protection of Constitutional Democracy against Terrorist and Related Activities Amendment Act 23 of 2022 received assent.
+
+Citation: [ZA-POCDATARA-AM2022](../sources/regions/sub-saharan-africa.md#ZA-POCDATARA-AM2022) ([https://www.gov.za/sites/default/files/gcis_document/202212/47803-protectionofconstidemocracyagainstterroristrelatedactivamendmentact-232022.pdf](https://www.gov.za/sites/default/files/gcis_document/202212/47803-protectionofconstidemocracyagainstterroristrelatedactivamendmentact-232022.pdf))
+
+<a id="T191"></a>
+## T191
+
+- Date: 2025-02-12
+- Place: Chile
+- Region: Latin America
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+Chile's Law 18.314 was repealed, per the National Congress Library record (last modification by Law 21.732).
+
+Citation: [CL-LEY18314](../sources/regions/latin-america.md#CL-LEY18314) ([https://www.bcn.cl/leychile/navegar?idNorma=29731](https://www.bcn.cl/leychile/navegar?idNorma=29731))
+
+<a id="T192"></a>
+## T192
+
+- Date: 2026-10-20
+- Place: Canberra, Australia
+- Region: Oceania
+- Theme: studies and evaluations
+- Status: `we-have-a-record`
+
+Australia's Independent National Security Legislation Monitor provided its report on the definition of a 'terrorist act' to the Attorney-General (tabling due by 20 November 2026, per the Monitor's site).
+
+Citation: [AU-INSLM](../sources/regions/oceania.md#AU-INSLM) ([https://www.inslm.gov.au/](https://www.inslm.gov.au/))
