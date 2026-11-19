@@ -38,6 +38,15 @@ def md_link(label: str, url: str) -> str:
     return f"[{safe}]({url})"
 
 
+
+def format_url(url: str) -> str:
+    """Link an http(s) URL; leave a withheld or non-URL value as plain text."""
+    value = (url or "").strip()
+    if value.startswith("http://") or value.startswith("https://"):
+        return md_link(value, value)
+    return md_cell(value)
+
+
 def source_index(sources: list[dict[str, str]]) -> dict[str, dict[str, str]]:
     return {row["id"]: row for row in sources}
 
@@ -51,7 +60,7 @@ def citations_for(sources_by_id: dict[str, dict[str, str]], row: dict[str, str],
         src = sources_by_id[sid]
         href = f"{S.region_href(src['region'], from_timeline=from_timeline)}#{sid}"
         url = row[url_key] or src["url"]
-        parts.append(f"{md_link(sid, href)} ({md_link(url, url)})")
+        parts.append(f"{md_link(sid, href)} ({format_url(url)})")
     if not parts:
         return "[UNKNOWN]"
     if len(parts) == 1:
@@ -114,7 +123,7 @@ def source_entry_md(
         f'- Era: {md_cell(src["era"])}',
         f'- Region: {md_cell(src["region"])}',
         f'- Theme: {md_cell(src["theme"])}',
-        f'- URL: {md_link(src["url"], src["url"])}',
+        f'- URL: {format_url(src["url"])}',
         f'- Accessed: {md_cell(src["accessed"])}',
         f'- Verified: `{src["verified"]}`',
     ]
@@ -122,6 +131,14 @@ def source_entry_md(
         lines.append(f'- Language: {md_cell(src["language"])}')
     if (src.get("case_citation") or "").strip():
         lines.append(f'- Case citation: {md_cell(src["case_citation"])}')
+    if (src.get("label") or "").strip():
+        lines.append(f'- Label: `{src["label"]}`')
+    if (src.get("stands_in_for") or "").strip():
+        lines.append(f'- Stands in for: {md_cell(src["stands_in_for"])}')
+    if (src.get("author_or_publisher") or "").strip():
+        lines.append(f'- Publisher: {md_cell(src["author_or_publisher"])}')
+    if (src.get("access_date") or "").strip():
+        lines.append(f'- Access date: {md_cell(src["access_date"])}')
     if src.get("notes", "").strip():
         lines.append(f'- Notes: {md_cell(src["notes"])}')
     lines.append("")
@@ -170,7 +187,7 @@ def build_timeline_pages(
     index = [
         "# Timeline",
         "",
-        "Round 1 of an ongoing archive. This list is not complete. "
+        f"Round {S.CURRENT_ROUND} of an ongoing archive. This list is not complete. "
         "Every entry is taken from `data/timeline.csv`.",
         "",
         f"{len(timeline)} milestones in this round.",
@@ -187,7 +204,7 @@ def build_timeline_pages(
         page = [
             f"# Timeline: {era}",
             "",
-            "Round 1 of an ongoing archive. This list is not complete. "
+            f"Round {S.CURRENT_ROUND} of an ongoing archive. This list is not complete. "
             "Every entry is taken from the cited row in `data/timeline.csv`.",
             "",
             f"{len(rows)} milestone{'s' if len(rows) != 1 else ''} in this era.",
@@ -245,7 +262,7 @@ def build_source_pages(
         page = [
             f"# Sources: {region}",
             "",
-            "Round 1 of an ongoing archive. This list is not complete. "
+            f"Round {S.CURRENT_ROUND} of an ongoing archive. This list is not complete. "
             "Every field is taken from `data/sources.csv`.",
             "",
             f"{len(rows)} source{'s' if len(rows) != 1 else ''} in this region"
@@ -271,7 +288,7 @@ def build_source_pages(
             "",
             S.THEME_DESCRIPTIONS[theme],
             "",
-            "Round 1 of an ongoing archive. This list is not complete. "
+            f"Round {S.CURRENT_ROUND} of an ongoing archive. This list is not complete. "
             "Every field is taken from `data/sources.csv`.",
             "",
             f"{len(rows)} source{'s' if len(rows) != 1 else ''} in this theme.",
@@ -293,7 +310,7 @@ def build_source_pages(
         "# Sources: independent oversight and criticism",
         "",
         "Sources whose origin is `oversight`, `court`, or `NGO`. "
-        "This is a sub-list from the round 1 outline in `docs/STRUCTURE.md`. "
+        "This is a sub-list from the outline in `docs/STRUCTURE.md`. "
         "These records also appear on their region and theme pages. "
         "The list is not complete, and this page draws no conclusions from it.",
         "",
@@ -306,7 +323,7 @@ def build_source_pages(
     index = [
         "# Sources",
         "",
-        "Round 1 of an ongoing archive. This list is not complete. "
+        f"Round {S.CURRENT_ROUND} of an ongoing archive. This list is not complete. "
         "Every field is taken from `data/sources.csv`.",
         "",
         f"{len(sources)} sources in this round "
@@ -347,7 +364,7 @@ def ids_line(rows: list[dict[str, str]], key: str, value: str) -> str:
 
 def build_structure(sources: list[dict[str, str]], timeline: list[dict[str, str]]) -> None:
     lines = [
-        "# CTA6: structure (round 1)",
+        f"# CTA6: structure (round {S.CURRENT_ROUND})",
         "",
         "This outline is generated from `data/sources.csv` and `data/timeline.csv`. "
         "It draws no conclusions. Each section lists the source ids and timeline ids that map to it. "
@@ -358,11 +375,14 @@ def build_structure(sources: list[dict[str, str]], timeline: list[dict[str, str]
         "(for example, a designation by a named government body). "
         "Where sources disagree, both are cited and the timeline row is marked people-disagree.",
         "",
-        "This is round 1 of an ongoing archive. It is not complete.",
+        f"This is round {S.CURRENT_ROUND} of an ongoing archive. It is not complete.",
         "",
         "Every source and timeline row carries a `summary` column: two to four short sentences on what the item is "
         "and why it matters, written only from what the archive holds. Gaps are marked [UNKNOWN]. "
         "The pages show the summary under each entry, with the citation and link still shown.",
+        "",
+        "A labeled secondary stand-in (`label` = secondary/unofficial) is an unofficial copy used when the official "
+        "source cannot be read. It is never verified. Any claim that rests only on it stays not-proven.",
         "",
         "## Part A: Eras",
         "",

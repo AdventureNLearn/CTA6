@@ -10,7 +10,7 @@ Accessed: 2026-11-19. The pass 4 gathering record is the basis for the counts, r
 - 6 timeline rows, T231 to T236, appended to `data/timeline.csv`. All are `we-have-a-record`, and each cites a source added in this round.
 - No source id or URL duplicated an existing row.
 
-After this merge the archive has 368 sources (338 primary, 30 secondary; 331 verified, 37 not) and 236 timeline rows (219 we-have-a-record, 8 not-proven, 9 people-disagree).
+After the official-source merge the archive had 368 sources (338 primary, 30 secondary; 331 verified, 37 not) and 236 timeline rows (219 we-have-a-record, 8 not-proven, 9 people-disagree). After the later addition of 8 labeled secondary stand-ins, it has 376 sources (338 primary, 38 secondary; 331 verified, 45 not) and the same 236 timeline rows.
 
 ## Corrections applied and skipped (C071–C087)
 
@@ -69,8 +69,37 @@ These official sources were tried again in pass 4 and remain `[UNKNOWN]` or `ver
 - Tajikistan law (TJ-LAW845-1999): ncz.tj gave no response.
 - Official Urdu texts and some other Pakistan official pages (pakistancode.gov.pk, na.gov.pk, a Supreme Court PDF) could not be read this round. No official Urdu-language text was verified.
 
+
+## Labeled secondary stand-ins
+
+After the official-source merge, the owner confirmed that publicly available secondary sources may be added if they are labeled, fully cited, and not treated as verified. Eight rows were appended to `data/sources.csv`. Four other leads were dropped and were not added. No timeline rows were added. T084 stays `not-proven`. Working files and page captures were not copied into this repository.
+
+Each added row has `tag=secondary`, `label` = `secondary/unofficial`, and `verified=no`. It records `stands_in_for`, `author_or_publisher` and `access_date`. Summaries use “according to” or “reported by” wording. Official rows were left in place; their summaries now point to the stand-in where one exists, and still mark the official text `[UNKNOWN]` or keep the milestone `not-proven`.
+
+Added:
+
+- SEC-TJ-845-SPINFORM, standing in for TJ-LAW845-1999.
+- SEC-KZ-416-PRG, standing in for KZ-LAW416-1999. A Continent Online page with the same doc_id was noted and not added as a separate source.
+- SEC-CHR-2005-80-SCR, standing in for CHR-2005-80.
+- SEC-KE-POTA-SHERIANET, standing in for KE-POTA2012 and KE-POTA2012-KL; the listing supports the citation Act No. 30 of 2012 only.
+- SEC-PK-SC-2019-95, an unofficial copy of a Supreme Court of Pakistan judgment in Criminal Appeals No. 95 and 96 of 2019 (2020 PLD Supreme Court 61). The copy's URL contained a private party's name and is withheld; the party appears only as initials. The official court PDF returned HTTP 403.
+- SEC-PK-DAWN-2019, a Dawn news report of 30 October 2019 about that judgment.
+- SEC-PK-DAWNURDU-2025 and SEC-PK-BBCURDU-2025, Urdu news reports about Pakistan's Anti-terrorism (Amendment) Bill 2025.
+
+Dropped:
+
+- A Tajikistan site whose official status could not be confirmed from an independent government source.
+- Refworld copies of CHR 2005/80 and of the IACHR 2002 report (HTTP 403).
+- An NZLII copy of the New Zealand Terrorism Suppression Act (HTTP 403).
+
+`origin` `media` was added to the vocabulary for the three news reports. In the legal-database rows, `origin` describes the underlying instrument and the database is recorded in `author_or_publisher`.
+
+Regional counts after the stand-ins: Global/UN 68, Europe 67, North America 45, Middle East/North Africa 36, Sub-Saharan Africa 36, South Asia 39, East/Southeast Asia 27, Latin America 27, Russia/Central Asia 19, Oceania 12.
+
+After these stand-ins, 196 of 612 source and milestone summaries still contain at least one `[UNKNOWN]` mark (213 marks in all).
+
 ## Rules notes
 
-- Private parties in case titles stay as initials. No new case titles were added in this round.
+- Private parties in case titles stay as initials. One stand-in cites a 2019 Supreme Court of Pakistan judgment by court, case number, year and publishing database; the party appears only as initials, and a URL that contained a private party's name is withheld from the repository.
 - Pass 4 working files, raw captures and backup files were not copied into this repository.
 - This archive is not complete.

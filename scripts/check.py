@@ -45,6 +45,21 @@ def blank(value: str) -> bool:
     return not value.strip()
 
 
+def is_withheld_url(url: str) -> bool:
+    """True if the value is the withheld-URL placeholder, or a close variant of it."""
+    value = (url or "").strip()
+    return value == S.WITHHELD_URL or value.startswith("[URL withheld")
+
+
+def check_withheld_url(url: str, label: str, loc: str, problems: list[str]) -> None:
+    """The withheld-URL placeholder is allowed only on labeled secondary stand-ins."""
+    if is_withheld_url(url) and label != S.STANDIN_LABEL:
+        error(
+            problems,
+            f"{loc} withheld-URL placeholder is allowed only on labeled secondary stand-in rows",
+        )
+
+
 def check_sources(rows: list[dict[str, str]], fields: list[str], problems: list[str]) -> None:
     if fields != S.SOURCE_FIELDS:
         error(problems, f"data/sources.csv columns {fields!r} do not match {S.SOURCE_FIELDS!r}")
@@ -73,8 +88,37 @@ def check_sources(rows: list[dict[str, str]], fields: list[str], problems: list[
         if row.get("verified") and row["verified"] not in S.VERIFIED:
             error(problems, f"{loc} unexpected verified value {row['verified']!r}")
         url = row.get("url", "").strip()
-        if url and not URL_RE.match(url):
+        if url and url != S.WITHHELD_URL and not URL_RE.match(url):
             error(problems, f"{loc} URL is not an http(s) URL: {url!r}")
+        check_withheld_url(url, (row.get("label") or "").strip(), loc, problems)
+        check_standin(row, loc, problems)
+
+
+def check_standin(row: dict[str, str], loc: str, problems: list[str]) -> None:
+    """A labeled secondary stand-in must be complete, unofficial, and unverified.
+
+    Ordinary rows, including older secondary literature, leave the stand-in
+    columns blank. If any of those columns is filled, all of them are required.
+    """
+    filled = {key: (row.get(key) or "").strip() for key in S.SOURCE_STANDIN_FIELDS}
+    if not any(filled.values()):
+        return
+    for key, value in filled.items():
+        if not value:
+            error(problems, f"{loc} secondary stand-in is missing {key}")
+    label = filled["label"]
+    if label and label != S.STANDIN_LABEL:
+        error(problems, f"{loc} label must be {S.STANDIN_LABEL!r}, not {label!r}")
+    verified = (row.get("verified") or "").strip()
+    if verified and verified != "no":
+        error(problems, f"{loc} secondary stand-in must have verified = 'no', not {verified!r}")
+    tag = (row.get("tag") or "").strip()
+    if tag and tag != "secondary":
+        error(problems, f"{loc} secondary stand-in must have tag = 'secondary', not {tag!r}")
+    if filled["stands_in_for"] and not filled["author_or_publisher"]:
+        error(problems, f"{loc} secondary stand-in is missing a publisher")
+    if filled["stands_in_for"] and not filled["access_date"]:
+        error(problems, f"{loc} secondary stand-in is missing an access_date")
 
 
 def check_timeline(
@@ -112,17 +156,31 @@ def check_timeline(
         if status == "people-disagree" and not s2:
             error(problems, f"{loc} people-disagree row is missing citation_source_id_2")
         url = row.get("url", "").strip()
-        if url and not URL_RE.match(url):
+        if url and url != S.WITHHELD_URL and not URL_RE.match(url):
             error(problems, f"{loc} URL is not an http(s) URL: {url!r}")
         url2 = row.get("url_2", "").strip()
         if s2 and not url2:
             error(problems, f"{loc} has a second citation but is missing url_2")
-        if url2 and not URL_RE.match(url2):
+        if url2 and url2 != S.WITHHELD_URL and not URL_RE.match(url2):
             error(problems, f"{loc} url_2 is not an http(s) URL: {url2!r}")
         if s1 and s1 in sources and url and url != sources[s1]["url"]:
             error(problems, f"{loc} url does not match sources.csv for {s1}")
         if s2 and s2 in sources and url2 and url2 != sources[s2]["url"]:
             error(problems, f"{loc} url_2 does not match sources.csv for {s2}")
+        if status == "we-have-a-record":
+            def verified(sid: str) -> bool:
+                return bool(sid) and sid in sources and (sources[sid].get("verified") or "").strip() == "yes"
+            if not (verified(s1) or verified(s2)):
+                error(problems, f"{loc} we-have-a-record milestone needs at least one verified citation")
+        for url_val, sid, field in ((url, s1, "url"), (url2, s2, "url_2")):
+            if not is_withheld_url(url_val):
+                continue
+            label = (sources.get(sid) or {}).get("label") or ""
+            if label.strip() != S.STANDIN_LABEL:
+                error(
+                    problems,
+                    f"{loc} {field} withheld-URL placeholder is allowed only when the cited source is a labeled secondary stand-in",
+                )
         if row.get("era") and row["era"] not in S.ERAS:
             error(problems, f"{loc} unexpected era {row['era']!r}")
         if row.get("region") and row["region"] not in S.REGIONS:
@@ -196,7 +254,8 @@ def main() -> int:
     tags = Counter(row["tag"] for row in sources)
     verified = Counter(row["verified"] for row in sources)
     print("CTA6 check")
-    print(f"  sources: {len(sources)} (primary {tags.get('primary', 0)}, secondary {tags.get('secondary', 0)}; verified yes {verified.get('yes', 0)}, no {verified.get('no', 0)})")
+    standins = sum(1 for row in sources if (row.get("label") or "").strip() == S.STANDIN_LABEL)
+    print(f"  sources: {len(sources)} (primary {tags.get('primary', 0)}, secondary {tags.get('secondary', 0)}; verified yes {verified.get('yes', 0)}, no {verified.get('no', 0)}; labeled stand-ins {standins})")
     print(f"  milestones: {len(timeline)}")
     for label in S.STATUSES:
         print(f"    {label}: {status.get(label, 0)}")
