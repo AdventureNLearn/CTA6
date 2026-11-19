@@ -1,16 +1,16 @@
 # CTA6
 
-CTA6 is a private archival collection of published official and scholarly records on the history of counterterrorism. It is global in scope and is built in rounds. This is **round 3**. It is not a complete history, and it does not claim to be one.
+CTA6 is a private archival collection of published official and scholarly records on the history of counterterrorism. It is global in scope and is built in rounds. This is **round 4**. It is not a complete history, and it does not claim to be one.
 
 The canonical records are the spreadsheets in `data/`. The pages under `timeline/` and `sources/` are a readable view generated from those spreadsheets. Do not edit the generated pages by hand.
 
 The private GitHub repository exists at [`AdventureNLearn/CTA6`](https://github.com/AdventureNLearn/CTA6).
 
-## What is in round 3
+## What is in round 4
 
-- 361 sources in [`data/sources.csv`](data/sources.csv) (331 primary, 30 secondary; 319 verified, 42 not)
-- 230 timeline milestones in [`data/timeline.csv`](data/timeline.csv)
-- Milestone status in this round: 213 we-have-a-record, 8 not-proven, 9 people-disagree
+- 368 sources in [`data/sources.csv`](data/sources.csv) (338 primary, 30 secondary; 331 verified, 37 not)
+- 236 timeline milestones in [`data/timeline.csv`](data/timeline.csv)
+- Milestone status in this round: 219 we-have-a-record, 8 not-proven, 9 people-disagree
 - A readable timeline, one file per era, in [`timeline/`](timeline/)
 - Sources grouped by region and theme in [`sources/`](sources/)
 - The outline of eras, regions and themes in [`docs/STRUCTURE.md`](docs/STRUCTURE.md)
@@ -18,8 +18,9 @@ The private GitHub repository exists at [`AdventureNLearn/CTA6`](https://github.
 - The round 1 source-gathering record in [`NOTES.md`](NOTES.md)
 - The round 2 source-gathering record in [`notes/round-2.md`](notes/round-2.md)
 - The round 3 source-gathering record in [`notes/round-3.md`](notes/round-3.md)
+- The round 4 source-gathering record in [`notes/round-4.md`](notes/round-4.md)
 
-Round 3 added 58 sources and 38 milestones (T193–T230) to the 303 sources and 192 milestones from round 2, and applied corrections to some earlier records (T117 and T088 wording and status, and verified retries of OHCHR-SR-CT, CAMPBELL2006 and MA-LOI03-03). A note was added to US-NSCT2018 after the cited official copy returned 404; nothing was substituted, and `verified` stays no. Sources were chosen by hand and are not a systematic sample. Counts describe the archive as of this round. This archive is not complete. Later rounds should fill the gaps listed in `GAPS.md`.
+Round 4 added 7 sources and 6 milestones (T231–T236) to the 361 sources and 230 milestones from round 3. It applied selected pass 4 corrections: official-copy URL swaps for US-NSCT2018, CRS-R43983, COE-ECST1977 and COE-CPT2005 (now `verified=yes`); OCR verification of the G5 Sahel convention scan; and summary-date fills. T015 and T085 stay `not-proven` because the words “opened for signature” rest on an explanatory report that has been identified but not yet read. T045 is unchanged. Sources were chosen by hand and are not a systematic sample. Counts describe the archive as of this round. This archive is not complete. Later rounds should fill the gaps listed in `GAPS.md`.
 
 ## Neutrality method
 
