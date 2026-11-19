@@ -23,6 +23,8 @@ See [GAPS.md](../GAPS.md) for what this round did not gather.
 
 The Privacy and Civil Liberties Oversight Board issued its report on the Section 215 telephone records program.
 
+Summary: On 23 January 2014, the US Privacy and Civil Liberties Oversight Board issued its report on the Section 215 telephone records program and the Foreign Intelligence Surveillance Court. The Board describes it as its first comprehensive study of a government program, with analysis and recommendations. The USA FREEDOM Act of 2015 later reformed these authorities (T115).
+
 Citation: [PCLOB-215-2014](../sources/regions/north-america.md#PCLOB-215-2014) ([https://documents.pclob.gov/prod/Documents/OversightReport/ec542143-1079-424a-84b3-acc354698560/215-Report_on_the_Telephone_Records_Program.pdf](https://documents.pclob.gov/prod/Documents/OversightReport/ec542143-1079-424a-84b3-acc354698560/215-Report_on_the_Telephone_Records_Program.pdf))
 
 <a id="T110"></a>
@@ -35,6 +37,8 @@ Citation: [PCLOB-215-2014](../sources/regions/north-america.md#PCLOB-215-2014) (
 - Status: `we-have-a-record`
 
 The European Court of Human Rights delivered judgment in A.N. v. Poland (no. 28761/11).
+
+Summary: On 24 July 2014, the European Court of Human Rights delivered judgment in A.N. v. Poland (no. 28761/11). According to the Court's factsheet, the Court found that Poland had cooperated in CIA rendition, secret detention and interrogation operations on its territory. A companion judgment was delivered the same day (T168).
 
 Citation: [ECHR-2014-28761](../sources/regions/europe.md#ECHR-2014-28761) ([https://hudoc.echr.coe.int/eng?i=001-146044](https://hudoc.echr.coe.int/eng?i=001-146044))
 
@@ -49,6 +53,8 @@ Citation: [ECHR-2014-28761](../sources/regions/europe.md#ECHR-2014-28761) ([http
 
 The UN Security Council adopted resolution 2170 (2014) concerning ISIL and the Al-Nusrah Front.
 
+Summary: On 15 August 2014, the UN Security Council adopted resolution 2170 concerning ISIL and the Al-Nusrah Front. It condemns their attacks on civilians and their recruitment of foreign terrorist fighters, and reaffirms that States must cut off arms and support to them. The broader foreign-fighter resolution 2178 followed in September 2014 (T112).
+
 Citation: [UNSC2170](../sources/regions/middle-east-north-africa.md#UNSC2170) ([https://undocs.org/S/RES/2170\(2014\)](https://undocs.org/S/RES/2170(2014)))
 
 <a id="T112"></a>
@@ -62,6 +68,8 @@ Citation: [UNSC2170](../sources/regions/middle-east-north-africa.md#UNSC2170) ([
 
 The UN Security Council adopted resolution 2178 (2014) on foreign terrorist fighters.
 
+Summary: On 24 September 2014, the UN Security Council adopted resolution 2178 on foreign terrorist fighters. It requires Member States, consistent with human rights, refugee and humanitarian law, to prevent and suppress the recruiting, organizing, transporting or equipping of foreign terrorist fighters. Resolution 2396 (T124) built on it in 2017.
+
 Citation: [UNSC2178](../sources/regions/global-un.md#UNSC2178) ([https://undocs.org/S/RES/2178\(2014\)](https://undocs.org/S/RES/2178(2014)))
 
 <a id="T113"></a>
@@ -74,6 +82,8 @@ Citation: [UNSC2178](../sources/regions/global-un.md#UNSC2178) ([https://undocs.
 - Status: `we-have-a-record`
 
 The Senate Select Committee on Intelligence released the executive summary of its study of the CIA detention and interrogation program, published together with additional and minority views.
+
+Summary: On 9 December 2014, the US Senate Select Committee on Intelligence released the executive summary of its study of the CIA detention and interrogation program, together with additional and minority views. The CIA had disputed some of the study's assertions in a June 2013 response, recorded as the people-disagree milestone T166.
 
 - Notes: Second source: CIA-SSCI-2013 (CIA's June 2013 response, approved for release 8 Dec 2014) states the Agency 'disagrees with assertions' in the Study. Recorded as a people-disagree row in timeline-add.csv.
 
@@ -90,6 +100,8 @@ Citation: [US-SSCI2014](../sources/regions/north-america.md#US-SSCI2014) ([https
 
 The UK Parliament enacted the Counter-Terrorism and Security Act 2015.
 
+Summary: On 12 February 2015, the UK Parliament enacted the Counter-Terrorism and Security Act 2015. It covers temporary travel restrictions, changes to TPIMs, data retention, transport security, and a duty concerning the risk of people being drawn into terrorism.
+
 Citation: [UK-CTSA2015](../sources/regions/europe.md#UK-CTSA2015) ([https://www.legislation.gov.uk/ukpga/2015/6/contents](https://www.legislation.gov.uk/ukpga/2015/6/contents))
 
 <a id="T115"></a>
@@ -102,6 +114,8 @@ Citation: [UK-CTSA2015](../sources/regions/europe.md#UK-CTSA2015) ([https://www.
 - Status: `we-have-a-record`
 
 The USA FREEDOM Act of 2015 was enacted.
+
+Summary: On 2 June 2015, the USA FREEDOM Act of 2015 was enacted. Its long title says it reforms federal authorities to require business records and conduct surveillance for foreign intelligence, counterterrorism and criminal purposes. It followed the oversight board's 2014 report on the Section 215 program (T109).
 
 Citation: [US-FREEDOM2015](../sources/regions/north-america.md#US-FREEDOM2015) ([https://www.govinfo.gov/content/pkg/PLAW-114publ23/pdf/PLAW-114publ23.pdf](https://www.govinfo.gov/content/pkg/PLAW-114publ23/pdf/PLAW-114publ23.pdf))
 
@@ -116,6 +130,8 @@ Citation: [US-FREEDOM2015](../sources/regions/north-america.md#US-FREEDOM2015) (
 
 The UN Security Council adopted resolution 2253 (2015), renaming the regime the ISIL (Da'esh) and Al-Qaida sanctions list.
 
+Summary: On 17 December 2015, the UN Security Council adopted resolution 2253, renaming the Al-Qaida sanctions committee the '1267/1989/2253 ISIL (Da'esh) and Al-Qaida Sanctions Committee'. It extended the listing criteria to those associated with ISIL, adapting the regime that began with resolution 1267 (T046).
+
 Citation: [UNSC2253](../sources/regions/global-un.md#UNSC2253) ([https://undocs.org/S/RES/2253\(2015\)](https://undocs.org/S/RES/2253(2015)))
 
 <a id="T117"></a>
@@ -128,6 +144,8 @@ Citation: [UNSC2253](../sources/regions/global-un.md#UNSC2253) ([https://undocs.
 - Status: `we-have-a-record`
 
 Brazil enacted Lei nº 13.260 (anti-terrorism law).
+
+Summary: On 16 March 2016, Brazil enacted Lei nº 13.260, its anti-terrorism law. CTA6 confirmed the law's heading on the Presidency's website; its provisions are not summarized in CTA6 \[UNKNOWN\].
 
 Citation: [BR-L13260](../sources/regions/latin-america.md#BR-L13260) ([https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm))
 
@@ -142,6 +160,8 @@ Citation: [BR-L13260](../sources/regions/latin-america.md#BR-L13260) ([https://w
 
 Directive (EU) 2017/541 on combating terrorism was adopted.
 
+Summary: On 15 March 2017, Directive (EU) 2017/541 on combating terrorism was adopted by the European Parliament and the Council. The Directive says it sets minimum rules on defining terrorist offences and sanctions, because Union-wide harmonised rules were needed. It followed the 2002 Framework Decision (T062).
+
 Citation: [EU-DIR2017](../sources/regions/europe.md#EU-DIR2017) ([https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L0541](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L0541))
 
 <a id="T119"></a>
@@ -154,6 +174,8 @@ Citation: [EU-DIR2017](../sources/regions/europe.md#EU-DIR2017) ([https://eur-le
 - Status: `we-have-a-record`
 
 The UN Security Council adopted resolution 2349 (2017) on the Lake Chad Basin region.
+
+Summary: On 31 March 2017, the UN Security Council adopted resolution 2349 on the Lake Chad Basin region. The Council condemned attacks and abuses by Boko Haram and ISIL in the region, including killings, abductions and sexual violence.
 
 Citation: [UNSC2349](../sources/regions/sub-saharan-africa.md#UNSC2349) ([https://undocs.org/S/RES/2349\(2017\)](https://undocs.org/S/RES/2349(2017)))
 
@@ -168,6 +190,8 @@ Citation: [UNSC2349](../sources/regions/sub-saharan-africa.md#UNSC2349) ([https:
 
 The US Government Accountability Office published report GAO-17-300 on federal countering violent extremism efforts.
 
+Summary: On 6 April 2017, the US Government Accountability Office published report GAO-17-300 on federal countering-violent-extremism efforts. As its title states, it found that actions were needed to define a strategy and assess progress; detailed findings are not recorded in CTA6 \[UNKNOWN\].
+
 Citation: [GAO-17-300](../sources/regions/north-america.md#GAO-17-300) ([https://www.gao.gov/products/gao-17-300](https://www.gao.gov/products/gao-17-300))
 
 <a id="T121"></a>
@@ -180,6 +204,8 @@ Citation: [GAO-17-300](../sources/regions/north-america.md#GAO-17-300) ([https:/
 - Status: `we-have-a-record`
 
 The UN General Assembly adopted resolution 71/291, establishing the Office of Counter-Terrorism.
+
+Summary: On 15 June 2017, the UN General Assembly adopted resolution 71/291, establishing the UN Office of Counter-Terrorism. The resolution's purpose, as its title states, is to strengthen the UN system's capability to help Member States implement the Global Counter-Terrorism Strategy (T091).
 
 Citations:
 
@@ -197,6 +223,8 @@ Citations:
 
 The UN Security Council adopted resolution 2359 (2017) welcoming the deployment of the G5 Sahel Joint Force.
 
+Summary: On 21 June 2017, the UN Security Council adopted resolution 2359 welcoming the deployment of the G5 Sahel Joint Force, with up to 5,000 military and police personnel, to restore peace and security in the Sahel. The G5 Sahel had been established by a 2014 convention (T217), and the Council later addressed support to the force in resolution 2391 (T180).
+
 Citation: [UNSC-ACSRT-SAHEL](../sources/regions/sub-saharan-africa.md#UNSC-ACSRT-SAHEL) ([https://undocs.org/S/RES/2359\(2017\)](https://undocs.org/S/RES/2359(2017)))
 
 <a id="T123"></a>
@@ -209,6 +237,8 @@ Citation: [UNSC-ACSRT-SAHEL](../sources/regions/sub-saharan-africa.md#UNSC-ACSRT
 - Status: `we-have-a-record`
 
 France enacted Loi n° 2017-1510 renforçant la sécurité intérieure et la lutte contre le terrorisme.
+
+Summary: On 30 October 2017, France enacted Loi n° 2017-1510 strengthening internal security and the fight against terrorism. France's National Consultative Commission on Human Rights had issued an opinion on the bill in July 2017 (CNCDH-2017, unconfirmed copy). The law's specific provisions are not summarized in CTA6 \[UNKNOWN\].
 
 Citation: [FR-SILT2017](../sources/regions/europe.md#FR-SILT2017) ([https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035932811](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035932811))
 
@@ -223,6 +253,8 @@ Citation: [FR-SILT2017](../sources/regions/europe.md#FR-SILT2017) ([https://www.
 
 The UN Security Council adopted resolution 2396 (2017) on returning and relocating foreign terrorist fighters.
 
+Summary: On 21 December 2017, the UN Security Council adopted resolution 2396 on returning and relocating foreign terrorist fighters. It requires Member States to use advance passenger information, develop the capability to collect and analyse passenger name record data, and develop watch lists of known and suspected terrorists. It builds on resolution 2178 (T112).
+
 Citation: [UNSC2396](../sources/regions/global-un.md#UNSC2396) ([https://undocs.org/S/RES/2396\(2017\)](https://undocs.org/S/RES/2396(2017)))
 
 <a id="T125"></a>
@@ -235,6 +267,8 @@ Citation: [UNSC2396](../sources/regions/global-un.md#UNSC2396) ([https://undocs.
 - Status: `we-have-a-record`
 
 Two mosques in Christchurch were attacked; a Royal Commission of Inquiry later reported on the attack (26 November 2020).
+
+Summary: On 15 March 2019, two mosques in Christchurch, New Zealand, were attacked. A Royal Commission of Inquiry was set up and reported on the attack on 26 November 2020, and the Christchurch Call says governments and platforms launched the Call two months after the attack. The milestone records both the attack and the two official responses that cite it.
 
 Citations:
 
@@ -252,6 +286,8 @@ Citations:
 
 The UN Security Council adopted resolution 2462 (2019) on countering the financing of terrorism.
 
+Summary: On 28 March 2019, the UN Security Council adopted resolution 2462 on countering the financing of terrorism. It reaffirms the financing obligations of resolution 1373 (T055) and requires States to criminalize terrorist financing in a manner consistent with international humanitarian, human rights and refugee law.
+
 Citation: [UNSC2462](../sources/regions/global-un.md#UNSC2462) ([https://undocs.org/S/RES/2462\(2019\)](https://undocs.org/S/RES/2462(2019)))
 
 <a id="T127"></a>
@@ -264,6 +300,8 @@ Citation: [UNSC2462](../sources/regions/global-un.md#UNSC2462) ([https://undocs.
 - Status: `we-have-a-record`
 
 The DOJ Office of the Inspector General issued its review of four FISA applications.
+
+Summary: In December 2019 (originally issued 9 December), the US Justice Department's Office of the Inspector General issued its review of four FISA applications and other aspects of the FBI's Crossfire Hurricane investigation. The report says it found serious performance failures by the agents responsible for the applications; these are the Inspector General's findings.
 
 Citation: [DOJOIG-FISA2019](../sources/regions/north-america.md#DOJOIG-FISA2019) ([https://www.justice.gov/storage/120919-examination.pdf](https://www.justice.gov/storage/120919-examination.pdf))
 
@@ -278,6 +316,8 @@ Citation: [DOJOIG-FISA2019](../sources/regions/north-america.md#DOJOIG-FISA2019)
 
 The United States and the Taliban signed the Agreement for Bringing Peace to Afghanistan.
 
+Summary: On 29 February 2020, in Doha, the United States and the Taliban signed the Agreement for Bringing Peace to Afghanistan. The text includes guarantees that Afghan soil will not be used against the security of the United States and its allies and a timeline for withdrawing all foreign forces.
+
 Citation: [US-DOHA2020](../sources/regions/south-asia.md#US-DOHA2020) ([https://www.state.gov/wp-content/uploads/2020/02/Agreement-For-Bringing-Peace-to-Afghanistan-02.29.20.pdf](https://www.state.gov/wp-content/uploads/2020/02/Agreement-For-Bringing-Peace-to-Afghanistan-02.29.20.pdf))
 
 <a id="T129"></a>
@@ -290,6 +330,8 @@ Citation: [US-DOHA2020](../sources/regions/south-asia.md#US-DOHA2020) ([https://
 - Status: `not-proven`
 
 The Philippines enacted Republic Act No. 11479, the Anti-Terrorism Act of 2020 (source page not machine-verified).
+
+Summary: On 3 July 2020, the Philippines enacted Republic Act No. 11479, the Anti-Terrorism Act of 2020. This milestone is not-proven: the Official Gazette page could not be verified (HTTP 403). Petitions against the Act reached the Supreme Court (T186).
 
 Citation: [PH-RA11479](../sources/regions/east-southeast-asia.md#PH-RA11479) ([https://www.officialgazette.gov.ph/2020/07/03/republic-act-no-11479/](https://www.officialgazette.gov.ph/2020/07/03/republic-act-no-11479/))
 
@@ -304,6 +346,8 @@ Citation: [PH-RA11479](../sources/regions/east-southeast-asia.md#PH-RA11479) ([h
 
 The National Security Council issued the National Strategy for Countering Domestic Terrorism.
 
+Summary: In June 2021, the US National Security Council issued the National Strategy for Countering Domestic Terrorism. The strategy says it is narrowly focused on violence that violates the law and threatens public safety, while protecting free expression.
+
 Citation: [US-NSCDT2021](../sources/regions/north-america.md#US-NSCDT2021) ([https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf))
 
 <a id="T131"></a>
@@ -316,6 +360,8 @@ Citation: [US-NSCDT2021](../sources/regions/north-america.md#US-NSCDT2021) ([htt
 - Status: `we-have-a-record`
 
 The UN Security Council adopted resolution 2617 (2021), renewing the CTED mandate.
+
+Summary: On 30 December 2021, the UN Security Council adopted resolution 2617, renewing the mandate of the Counter-Terrorism Committee Executive Directorate (CTED). CTED was to continue as a special political mission until 31 December 2025, with an interim review by the end of 2023. CTED was first created in 2004 (T073).
 
 Citation: [UNSC2617](../sources/regions/global-un.md#UNSC2617) ([https://undocs.org/S/RES/2617\(2021\)](https://undocs.org/S/RES/2617(2021)))
 
@@ -330,6 +376,8 @@ Citation: [UNSC2617](../sources/regions/global-un.md#UNSC2617) ([https://undocs.
 
 The UK Home Office published CONTEST 2023, the UK counter-terrorism strategy.
 
+Summary: On 18 July 2023, the UK Home Office published CONTEST 2023, the UK counter-terrorism strategy. The Home Office states that CONTEST aims to reduce the risk from terrorism to the UK, its citizens and interests overseas, so people can live freely and with confidence.
+
 Citation: [UK-CONTEST2023](../sources/regions/europe.md#UK-CONTEST2023) ([https://www.gov.uk/government/publications/counter-terrorism-strategy-contest-2023](https://www.gov.uk/government/publications/counter-terrorism-strategy-contest-2023))
 
 <a id="T167"></a>
@@ -342,6 +390,8 @@ Citation: [UK-CONTEST2023](../sources/regions/europe.md#UK-CONTEST2023) ([https:
 - Status: `we-have-a-record`
 
 The Inter-American Court of Human Rights issued its judgment in N.C. y otros vs. Chile (Serie C No. 279), concerning convictions under Chile's Law 18.314.
+
+Summary: On 29 May 2014, the Inter-American Court of Human Rights issued its judgment in N.C. y otros vs. Chile (Serie C No. 279), concerning convictions of Mapuche leaders, members and an activist under Chile's anti-terrorism Law 18.314. The Court's findings are not captured, so the outcome is \[UNKNOWN\] in CTA6.
 
 Citations:
 
@@ -359,6 +409,8 @@ Citations:
 
 The European Court of Human Rights delivered its judgment in H. v. Poland (no. 7511/13), concerning secret detention in Poland under the CIA programme.
 
+Summary: On 24 July 2014, the European Court of Human Rights delivered its judgment in H. v. Poland (no. 7511/13), concerning secret detention in Poland under the CIA programme. According to the Court's factsheet, it found that Poland had cooperated in CIA rendition, secret detention and interrogation operations on its territory. The companion case is T110.
+
 Citations:
 
 - [ECHR-2014-7511](../sources/regions/europe.md#ECHR-2014-7511) ([https://hudoc.echr.coe.int/eng?i=001-146047](https://hudoc.echr.coe.int/eng?i=001-146047))
@@ -375,6 +427,8 @@ Citations:
 
 The African Commission adopted its Principles and Guidelines on Human and Peoples' Rights while Countering Terrorism in Africa (year per search listing).
 
+Summary: This milestone is not proven. The African Commission on Human and Peoples' Rights' Principles and Guidelines on Human and Peoples' Rights while Countering Terrorism in Africa exist at the cited link, but the adoption year (2015) and place come only from a search listing and are not confirmed by the captured text.
+
 Citation: [ACHPR-CT2015](../sources/regions/sub-saharan-africa.md#ACHPR-CT2015) ([https://achpr.au.int/en/special-mechanisms-reports/principles-guidelines-countering-terrorism](https://achpr.au.int/en/special-mechanisms-reports/principles-guidelines-countering-terrorism))
 
 <a id="T170"></a>
@@ -387,6 +441,8 @@ Citation: [ACHPR-CT2015](../sources/regions/sub-saharan-africa.md#ACHPR-CT2015) 
 - Status: `we-have-a-record`
 
 Amnesty International published a report on the Nigerian military's operations against Boko Haram in north-east Nigeria, which characterises certain acts as war crimes (the characterisation is Amnesty's).
+
+Summary: On 3 June 2015, Amnesty International published a report on the Nigerian military's operations against Boko Haram in north-east Nigeria. Amnesty says it is based on more than 412 interviews and documents extrajudicial executions; the characterisation of certain acts as war crimes is Amnesty's own.
 
 Citation: [AMN-NGA-2015](../sources/regions/sub-saharan-africa.md#AMN-NGA-2015) ([https://www.amnesty.org/en/wp-content/uploads/2021/05/AFR4416572015ENGLISH.pdf](https://www.amnesty.org/en/wp-content/uploads/2021/05/AFR4416572015ENGLISH.pdf))
 
@@ -401,6 +457,8 @@ Citation: [AMN-NGA-2015](../sources/regions/sub-saharan-africa.md#AMN-NGA-2015) 
 
 Tunisia promulgated Organic Law 2015-26 on combating terrorism and money laundering, adopted by the Assembly of the Representatives of the People on 25 July 2015.
 
+Summary: On 7 August 2015, Tunisia promulgated Organic Law 2015-26 on combating terrorism and money laundering, adopted by the Assembly of the Representatives of the People on 25 July 2015. Its provisions are not summarized in CTA6 \[UNKNOWN\].
+
 Citation: [TN-LO2015-26](../sources/regions/middle-east-north-africa.md#TN-LO2015-26) ([https://www.marchespublics.gov.tn/fr/legislations/2189/download](https://www.marchespublics.gov.tn/fr/legislations/2189/download))
 
 <a id="T172"></a>
@@ -414,6 +472,8 @@ Citation: [TN-LO2015-26](../sources/regions/middle-east-north-africa.md#TN-LO201
 
 Egypt published Presidential Decree-Law No. 94 of 2015 issuing the Counter-Terrorism Law (Official Gazette No. 33 bis).
 
+Summary: On 15 August 2015, Egypt published Presidential Decree-Law No. 94 of 2015 issuing the Counter-Terrorism Law (Official Gazette No. 33 bis). Human Rights Watch criticized the law and referred to it by a different number, which is recorded as the people-disagree milestone T173.
+
 Citation: [EG-LAW94-2015](../sources/regions/middle-east-north-africa.md#EG-LAW94-2015) ([https://fra.gov.eg/wp-content/uploads/2021/11/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d9%85%d9%83%d8%a7%d9%81%d8%ad%d8%a9-%d8%a7%d9%84%d8%a5%d8%b1%d9%87%d8%a7%d8%a8-%d8%b1%d9%82%d9%85-94-%d9%84%d8%b3%d9%86%d8%a9-2015.pdf](https://fra.gov.eg/wp-content/uploads/2021/11/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d9%85%d9%83%d8%a7%d9%81%d8%ad%d8%a9-%d8%a7%d9%84%d8%a5%d8%b1%d9%87%d8%a7%d8%a8-%d8%b1%d9%82%d9%85-94-%d9%84%d8%b3%d9%86%d8%a9-2015.pdf))
 
 <a id="T173"></a>
@@ -426,6 +486,8 @@ Citation: [EG-LAW94-2015](../sources/regions/middle-east-north-africa.md#EG-LAW9
 - Status: `people-disagree`
 
 Sources differ on the number of Egypt's 2015 counter-terrorism law: the Official Gazette (No. 33 bis, 15 Aug 2015) shows Presidential Decree-Law No. 94 of 2015, while Human Rights Watch (19 Aug 2015) calls it 'Law 95 of 2015 for Confronting Terrorism'.
+
+Summary: This row records two versions of the number of Egypt's 2015 counter-terrorism law. The Official Gazette (No. 33 bis, 15 August 2015) shows Presidential Decree-Law No. 94 of 2015 (EG-LAW94-2015). Human Rights Watch, writing on 19 August 2015, calls it 'Law 95 of 2015 for Confronting Terrorism' (HRW-EGY-2015). CTA6 records both without deciding between them.
 
 Citations:
 
@@ -443,6 +505,8 @@ Citations:
 
 The NPC Standing Committee adopted the Counter-Terrorism Law of the People's Republic of China (in force 1 January 2016; amended 27 April 2018).
 
+Summary: On 27 December 2015, the NPC Standing Committee adopted the Counter-Terrorism Law of the People's Republic of China. It came into force on 1 January 2016 and was amended on 27 April 2018. It is China's national counter-terrorism statute.
+
 Citation: [CN-CTLAW2015](../sources/regions/east-southeast-asia.md#CN-CTLAW2015) ([http://www.npc.gov.cn/npc/c2/c30834/201905/t20190521_281474.html](http://www.npc.gov.cn/npc/c2/c30834/201905/t20190521_281474.html))
 
 <a id="T175"></a>
@@ -455,6 +519,8 @@ Citation: [CN-CTLAW2015](../sources/regions/east-southeast-asia.md#CN-CTLAW2015)
 - Status: `we-have-a-record`
 
 South Korea enacted the Act on Counter-Terrorism for the Protection of Citizens and Public Security (Act No. 14071; text version effective 4 June 2016).
+
+Summary: On 3 March 2016, South Korea enacted the Act on Counter-Terrorism for the Protection of Citizens and Public Security (Act No. 14071); the captured text version is effective from 4 June 2016. Its enforcement decree followed on 31 May 2016 (T219).
 
 Citation: [KR-ATA2016](../sources/regions/east-southeast-asia.md#KR-ATA2016) ([https://www.law.go.kr/lsInfoP.do?efYd=20160604&lsiSeq=181624](https://www.law.go.kr/lsInfoP.do?efYd=20160604&lsiSeq=181624))
 
@@ -469,6 +535,8 @@ Citation: [KR-ATA2016](../sources/regions/east-southeast-asia.md#KR-ATA2016) ([h
 
 Germany's Federal Constitutional Court ruled on the BKA Act surveillance powers for countering international terrorism (1 BvR 966/09).
 
+Summary: On 20 April 2016, Germany's Federal Constitutional Court ruled on the surveillance powers given to the Federal Criminal Police Office (BKA) for countering international terrorism (1 BvR 966/09). It is a constitutional review of counter-terrorism surveillance powers; the outcome is not recorded in CTA6 \[UNKNOWN\].
+
 Citation: [DE-BVERFG-BKAG2016](../sources/regions/europe.md#DE-BVERFG-BKAG2016) ([https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/04/rs20160420_1bvr096609.html](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/04/rs20160420_1bvr096609.html))
 
 <a id="T177"></a>
@@ -481,6 +549,8 @@ Citation: [DE-BVERFG-BKAG2016](../sources/regions/europe.md#DE-BVERFG-BKAG2016) 
 - Status: `we-have-a-record`
 
 Human Rights Watch published a report documenting alleged enforced disappearances and deaths during counterterrorism operations in Nairobi and north-eastern Kenya (allegations are HRW's).
+
+Summary: On 20 July 2016, Human Rights Watch published a report documenting alleged enforced disappearances and deaths during counterterrorism operations against Al-Shabab in Nairobi and north-eastern Kenya. The allegations and characterisations are HRW's.
 
 Citation: [HRW-KEN-2016](../sources/regions/sub-saharan-africa.md#HRW-KEN-2016) ([https://www.hrw.org/sites/default/files/report_pdf/kenya0716web_1.pdf](https://www.hrw.org/sites/default/files/report_pdf/kenya0716web_1.pdf))
 
@@ -495,6 +565,8 @@ Citation: [HRW-KEN-2016](../sources/regions/sub-saharan-africa.md#HRW-KEN-2016) 
 
 The European Court of Human Rights delivered its judgment in T. and Others v. Russia (no. 26562/07 and others), concerning the 2004 Beslan school siege.
 
+Summary: On 13 April 2017, the European Court of Human Rights delivered its judgment in T. and Others v. Russia (no. 26562/07 and others), concerning the 2004 Beslan school siege. According to the Court's factsheet, it found several violations of the right to life, including a failure to take preventive measures despite specific threat information and serious shortcomings in the planning and control of the security operation.
+
 Citation: [ECHR-2017-26562](../sources/regions/russia-central-asia.md#ECHR-2017-26562) ([https://hudoc.echr.coe.int/eng?i=001-172660](https://hudoc.echr.coe.int/eng?i=001-172660))
 
 <a id="T179"></a>
@@ -507,6 +579,8 @@ Citation: [ECHR-2017-26562](../sources/regions/russia-central-asia.md#ECHR-2017-
 - Status: `we-have-a-record`
 
 The UN Special Rapporteur on counter-terrorism and human rights began a visit to Saudi Arabia (30 April-4 May 2017).
+
+Summary: On 30 April 2017, the UN Special Rapporteur on counter-terrorism and human rights began a visit to Saudi Arabia (30 April-4 May 2017). The report says the visit assessed Saudi counter-terrorism law, policy and practice against international human rights law.
 
 Citation: [SR-SAU-2018](../sources/regions/middle-east-north-africa.md#SR-SAU-2018) ([https://undocs.org/A/HRC/40/52/Add.2](https://undocs.org/A/HRC/40/52/Add.2))
 
@@ -521,6 +595,8 @@ Citation: [SR-SAU-2018](../sources/regions/middle-east-north-africa.md#SR-SAU-20
 
 The UN Security Council adopted resolution 2391 (2017) on support to the G5 Sahel Joint Force.
 
+Summary: On 8 December 2017, the UN Security Council adopted resolution 2391 on support to the G5 Sahel Joint Force. It reaffirmed the UN integrated strategy for the Sahel and set reporting arrangements on the force, following resolution 2359 (T122).
+
 Citation: [UNSC2391](../sources/regions/sub-saharan-africa.md#UNSC2391) ([https://undocs.org/S/RES/2391\(2017\)](https://undocs.org/S/RES/2391(2017)))
 
 <a id="T181"></a>
@@ -533,6 +609,8 @@ Citation: [UNSC2391](../sources/regions/sub-saharan-africa.md#UNSC2391) ([https:
 - Status: `we-have-a-record`
 
 The European Court of Human Rights delivered its judgment in A.N. v. Romania (no. 33234/12), concerning secret detention in Romania under the CIA programme.
+
+Summary: On 31 May 2018, the European Court of Human Rights delivered its judgment in A.N. v. Romania (no. 33234/12), concerning secret detention in Romania under the CIA programme. According to the Court's factsheet, it found violations of Article 3 (owing to Romania's complicity and failure to investigate) and of Articles 5, 8 and 13. It is one of several rendition judgments in CTA6 (T108, T110, T168).
 
 Citation: [ECHR-2018-33234](../sources/regions/europe.md#ECHR-2018-33234) ([https://hudoc.echr.coe.int/eng?i=001-183685](https://hudoc.echr.coe.int/eng?i=001-183685))
 
@@ -547,6 +625,8 @@ Citation: [ECHR-2018-33234](../sources/regions/europe.md#ECHR-2018-33234) ([http
 
 Indonesia enacted Law No. 5 of 2018 amending its terrorism law (promulgated and in force 22 June 2018).
 
+Summary: On 21 June 2018, Indonesia enacted Law No. 5 of 2018 amending its terrorism law (Law No. 15 of 2003). It was promulgated and came into force on 22 June 2018. Komnas HAM had submitted a human rights position paper on the draft (T223).
+
 Citation: [ID-UU5-2018](../sources/regions/east-southeast-asia.md#ID-UU5-2018) ([https://peraturan.bpk.go.id/Details/82689/uu-no-5-tahun-2018](https://peraturan.bpk.go.id/Details/82689/uu-no-5-tahun-2018))
 
 <a id="T183"></a>
@@ -559,6 +639,8 @@ Citation: [ID-UU5-2018](../sources/regions/east-southeast-asia.md#ID-UU5-2018) (
 - Status: `we-have-a-record`
 
 The UN Special Rapporteur on counter-terrorism and human rights began a visit to Kazakhstan (10-17 May 2019).
+
+Summary: On 10 May 2019, the UN Special Rapporteur on counter-terrorism and human rights began a visit to Kazakhstan (10-17 May 2019). Her report raises concerns that people accused or convicted of terrorism are held under exceptional detention rules; these are her assessments.
 
 Citation: [SR-KAZ-2020](../sources/regions/russia-central-asia.md#SR-KAZ-2020) ([https://undocs.org/A/HRC/43/46/Add.1](https://undocs.org/A/HRC/43/46/Add.1))
 
@@ -573,6 +655,8 @@ Citation: [SR-KAZ-2020](../sources/regions/russia-central-asia.md#SR-KAZ-2020) (
 
 The Grand Chamber of the European Court of Human Rights delivered its judgment in Selahattin Demirtaş v. Turkey (No. 2) (no. 14305/17), concerning the pre-trial detention of an opposition party leader and member of parliament on terrorism-related charges.
 
+Summary: On 22 December 2020, the Grand Chamber of the European Court of Human Rights delivered its judgment in Selahattin Demirtaş v. Turkey (No. 2) (no. 14305/17), concerning the pre-trial detention of an opposition party leader and member of parliament on terrorism-related charges. The outcome is not recorded in CTA6 \[UNKNOWN\].
+
 Citation: [ECHR-DEMIRTAS2-2020](../sources/regions/middle-east-north-africa.md#ECHR-DEMIRTAS2-2020) ([https://hudoc.echr.coe.int/eng?i=001-207173](https://hudoc.echr.coe.int/eng?i=001-207173))
 
 <a id="T185"></a>
@@ -586,6 +670,8 @@ Citation: [ECHR-DEMIRTAS2-2020](../sources/regions/middle-east-north-africa.md#E
 
 The UN Special Rapporteur on counter-terrorism and human rights began a visit to Uzbekistan (29 November-7 December 2021).
 
+Summary: On 29 November 2021, the UN Special Rapporteur on counter-terrorism and human rights began a visit to Uzbekistan (29 November-7 December 2021). Her report notes reforms under way but raises concerns that security provisions are used to discourage criticism; these are her assessments.
+
 Citation: [SR-UZB-2022](../sources/regions/russia-central-asia.md#SR-UZB-2022) ([https://undocs.org/A/HRC/49/45/Add.1](https://undocs.org/A/HRC/49/45/Add.1))
 
 <a id="T186"></a>
@@ -598,6 +684,8 @@ Citation: [SR-UZB-2022](../sources/regions/russia-central-asia.md#SR-UZB-2022) (
 - Status: `not-proven`
 
 The Supreme Court of the Philippines decided C. et al. v. Executive Secretary (G.R. No. 252578) on the Anti-Terrorism Act of 2020 (decision text not captured; docket page verified).
+
+Summary: On 7 December 2021, the Supreme Court of the Philippines decided C. et al. v. Executive Secretary (G.R. No. 252578) on the Anti-Terrorism Act of 2020. This milestone is not-proven: the docket of petitions is verified, but the decision text could not be captured, so the ruling's content is \[UNKNOWN\].
 
 Citations:
 
@@ -615,6 +703,8 @@ Citations:
 
 Human Rights Watch published a report on Sri Lanka's Prevention of Terrorism Act and the January 2022 amendment bill (assessments are HRW's).
 
+Summary: On 7 February 2022, Human Rights Watch published 'In a Legal Black Hole', a report on Sri Lanka's Prevention of Terrorism Act and the January 2022 amendment bill. HRW argues the proposed amendments would leave the framework largely intact; these assessments are HRW's. The amendment act was certified in March 2022 (T226).
+
 Citations:
 
 - [HRW-LKA-2022](../sources/regions/south-asia.md#HRW-LKA-2022) ([https://www.hrw.org/sites/default/files/media_2022/02/srilanka0222_web.pdf](https://www.hrw.org/sites/default/files/media_2022/02/srilanka0222_web.pdf))
@@ -631,6 +721,8 @@ Citations:
 
 Nigeria's Terrorism (Prevention and Prohibition) Act 2022 was enacted (Official Gazette No. 91, 16 May 2022).
 
+Summary: On 12 May 2022, Nigeria's Terrorism (Prevention and Prohibition) Act 2022 was enacted (Official Gazette No. 91, 16 May 2022). Its stated objective is a unified legal, regulatory and institutional framework against terrorism, terrorist financing and the financing of weapons of mass destruction.
+
 Citation: [NG-TPPA2022](../sources/regions/sub-saharan-africa.md#NG-TPPA2022) ([https://scuml.efcc.gov.ng/wp-content/uploads/2022/05/TERRORISM-PREVENTION-publication.pdf](https://scuml.efcc.gov.ng/wp-content/uploads/2022/05/TERRORISM-PREVENTION-publication.pdf))
 
 <a id="T189"></a>
@@ -643,6 +735,8 @@ Citation: [NG-TPPA2022](../sources/regions/sub-saharan-africa.md#NG-TPPA2022) ([
 - Status: `we-have-a-record`
 
 The UN Special Rapporteur on counter-terrorism and human rights began a visit to Maldives (15-24 May 2022).
+
+Summary: On 15 May 2022, the UN Special Rapporteur on counter-terrorism and human rights began a visit to the Maldives (15-24 May 2022). Her report identifies human rights challenges in the Maldives' counter-terrorism and 'extremism' frameworks; these are her assessments.
 
 Citation: [SR-MDV-2023](../sources/regions/south-asia.md#SR-MDV-2023) ([https://undocs.org/A/HRC/52/39/Add.1](https://undocs.org/A/HRC/52/39/Add.1))
 
@@ -657,6 +751,8 @@ Citation: [SR-MDV-2023](../sources/regions/south-asia.md#SR-MDV-2023) ([https://
 
 South Africa's Protection of Constitutional Democracy against Terrorist and Related Activities Amendment Act 23 of 2022 received assent.
 
+Summary: On 23 December 2022, South Africa's Protection of Constitutional Democracy against Terrorist and Related Activities Amendment Act 23 of 2022 received assent. It amends the 2004 Act, including provisions on training for terrorist purposes and disclosure of information.
+
 Citation: [ZA-POCDATARA-AM2022](../sources/regions/sub-saharan-africa.md#ZA-POCDATARA-AM2022) ([https://www.gov.za/sites/default/files/gcis_document/202212/47803-protectionofconstidemocracyagainstterroristrelatedactivamendmentact-232022.pdf](https://www.gov.za/sites/default/files/gcis_document/202212/47803-protectionofconstidemocracyagainstterroristrelatedactivamendmentact-232022.pdf))
 
 <a id="T191"></a>
@@ -669,6 +765,8 @@ Citation: [ZA-POCDATARA-AM2022](../sources/regions/sub-saharan-africa.md#ZA-POCD
 - Status: `we-have-a-record`
 
 Chile's Law 18.314 was repealed, per the National Congress Library record (last modification by Law 21.732).
+
+Summary: On 12 February 2025, Chile's Law 18.314 on terrorist conduct was repealed by Law 21.732, according to the National Congress Library record. The 1984 law (T138) had been at issue in an Inter-American Court case (T167).
 
 Citation: [CL-LEY18314](../sources/regions/latin-america.md#CL-LEY18314) ([https://www.bcn.cl/leychile/navegar?idNorma=29731](https://www.bcn.cl/leychile/navegar?idNorma=29731))
 
@@ -683,6 +781,8 @@ Citation: [CL-LEY18314](../sources/regions/latin-america.md#CL-LEY18314) ([https
 
 Australia's Independent National Security Legislation Monitor provided its report on the definition of a 'terrorist act' to the Attorney-General (tabling due by 20 November 2026, per the Monitor's site).
 
+Summary: On 20 October 2026, Australia's Independent National Security Legislation Monitor gave the Attorney-General its report on the definition of a 'terrorist act'. The Monitor's site says the report is due to be tabled in Parliament by 20 November 2026. The definition matters because it sets the scope of Australia's terrorism offences, which is what the review examines; the report's findings are \[UNKNOWN\] in CTA6.
+
 Citation: [AU-INSLM](../sources/regions/oceania.md#AU-INSLM) ([https://www.inslm.gov.au/](https://www.inslm.gov.au/))
 
 <a id="T217"></a>
@@ -695,6 +795,8 @@ Citation: [AU-INSLM](../sources/regions/oceania.md#AU-INSLM) ([https://www.inslm
 - Status: `we-have-a-record`
 
 The conference of heads of state of the G5 Sahel adopted the Convention establishing the G5 Sahel; Mali ratified it by Decree No. 2015-128 (as listed by Mali's Secretariat General of Government).
+
+Summary: On 19 December 2014, the conference of heads of state of the G5 Sahel adopted the Convention establishing the G5 Sahel in Nouakchott; Mali ratified it by Decree No. 2015-128, as listed by Mali's Secretariat General of Government. The G5 Sahel later deployed a joint force welcomed by the UN Security Council (T122). The convention text itself was not read (no OCR) \[UNKNOWN\].
 
 Citation: [ML-SGG-CONV](../sources/regions/sub-saharan-africa.md#ML-SGG-CONV) ([https://sgg-mali.ml/2/513/fr/conventions-internationales.html](https://sgg-mali.ml/2/513/fr/conventions-internationales.html))
 
@@ -709,6 +811,8 @@ Citation: [ML-SGG-CONV](../sources/regions/sub-saharan-africa.md#ML-SGG-CONV) ([
 
 The Maldives Government Gazette (vol. 44, no. 288) published Law No. 32/2015 on terrorism (Dhivehi text).
 
+Summary: On 28 October 2015, the Maldives Government Gazette (vol. 44, no. 288) published Law No. 32/2015, the Prevention of Terrorism Act, in Dhivehi. The UN Special Rapporteur later found the Anti-Terrorism Act vaguely defined (T189).
+
 Citation: [MV-PTA2015-DV](../sources/regions/south-asia.md#MV-PTA2015-DV) ([https://old.mvlaw.gov.mv/pdf/ganoon/chapterVIII/32-2015.pdf](https://old.mvlaw.gov.mv/pdf/ganoon/chapterVIII/32-2015.pdf))
 
 <a id="T219"></a>
@@ -721,6 +825,8 @@ Citation: [MV-PTA2015-DV](../sources/regions/south-asia.md#MV-PTA2015-DV) ([http
 - Status: `we-have-a-record`
 
 Korea enacted the Enforcement Decree of the Act on Anti-Terrorism for the Protection of Citizens and Public Security (Presidential Decree No. 27203), in force from 4 June 2016.
+
+Summary: On 31 May 2016, South Korea enacted the Enforcement Decree of the Act on Anti-Terrorism for the Protection of Citizens and Public Security (Presidential Decree No. 27203), in force from 4 June 2016. It implements the 2016 Act (T175).
 
 Citation: [KR-ATA-DECREE2016](../sources/regions/east-southeast-asia.md#KR-ATA-DECREE2016) ([https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183413](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183413))
 
@@ -735,6 +841,8 @@ Citation: [KR-ATA-DECREE2016](../sources/regions/east-southeast-asia.md#KR-ATA-D
 
 The Knesset passed the Counter-Terrorism Law, 5776-2016; it was published in Sefer HaHukim No. 2556 on 23 June 2016.
 
+Summary: On 15 June 2016, the Knesset passed the Counter-Terrorism Law, 5776-2016; it was published in Sefer HaHukim No. 2556 on 23 June 2016. As its title states, it is Israel's counter-terrorism statute; its provisions are not summarized in CTA6 \[UNKNOWN\].
+
 Citation: [IL-CTLAW2016-HE](../sources/regions/middle-east-north-africa.md#IL-CTLAW2016-HE) ([https://fs.knesset.gov.il/20/law/20_lsr_343902.pdf](https://fs.knesset.gov.il/20/law/20_lsr_343902.pdf))
 
 <a id="T221"></a>
@@ -747,6 +855,8 @@ Citation: [IL-CTLAW2016-HE](../sources/regions/middle-east-north-africa.md#IL-CT
 - Status: `we-have-a-record`
 
 The UN Special Rapporteur on human rights while countering terrorism visited Sri Lanka from 10 to 14 July 2017 to assess its counter-terrorism policies, laws and practices.
+
+Summary: From 10 to 14 July 2017, the UN Special Rapporteur on human rights while countering terrorism visited Sri Lanka to assess its counter-terrorism policies, laws and practices since the end of its internal armed conflict. The report links progress in these areas to accountability and reconciliation.
 
 Citation: [SR-LKA-2019](../sources/regions/south-asia.md#SR-LKA-2019) ([https://undocs.org/A/HRC/40/52/Add.3](https://undocs.org/A/HRC/40/52/Add.3))
 
@@ -761,6 +871,8 @@ Citation: [SR-LKA-2019](../sources/regions/south-asia.md#SR-LKA-2019) ([https://
 
 Australia's Independent National Security Legislation Monitor completed statutory reviews of stop, search and seize powers, declared areas, control orders and preventative detention orders.
 
+Summary: On 7 September 2017, Australia's Independent National Security Legislation Monitor completed statutory reviews of stop, search and seize powers, declared areas, control orders and preventative detention orders. A public hearing was held on 19 May 2017, and a parliamentary committee published its own reports on the same powers on 1 March 2018. The reviews were required by statutory deadlines, which shows these powers were subject to periodic independent review.
+
 Citation: [AU-INSLM-2018](../sources/regions/oceania.md#AU-INSLM-2018) ([https://www.inslm.gov.au/reviews/stop-search-and-seize-powers-declared-areas-control-orders-and-preventative-detention-orders](https://www.inslm.gov.au/reviews/stop-search-and-seize-powers-declared-areas-control-orders-and-preventative-detention-orders))
 
 <a id="T223"></a>
@@ -773,6 +885,8 @@ Citation: [AU-INSLM-2018](../sources/regions/oceania.md#AU-INSLM-2018) ([https:/
 - Status: `we-have-a-record`
 
 Indonesia's National Human Rights Commission (Komnas HAM) submitted a position paper on the draft amendment to the anti-terrorism law to the chair of the parliamentary working committee on the bill.
+
+Summary: On 16 April 2018, Indonesia's National Human Rights Commission (Komnas HAM) submitted a position paper on the draft amendment to the anti-terrorism law to the chair of the parliamentary working committee on the bill. Among other points, it recommended a criminal justice approach that puts legal process and human rights first. The amendment was enacted as Law No. 5 of 2018 (T182).
 
 Citation: [ID-KOMNASHAM-2018](../sources/regions/east-southeast-asia.md#ID-KOMNASHAM-2018) ([https://www.komnasham.go.id/files/20181126-kertas-posisi-komnas-ham-dalam-$6BD7T.pdf](https://www.komnasham.go.id/files/20181126-kertas-posisi-komnas-ham-dalam-$6BD7T.pdf))
 
@@ -787,6 +901,8 @@ Citation: [ID-KOMNASHAM-2018](../sources/regions/east-southeast-asia.md#ID-KOMNA
 
 The African Court on Human and Peoples' Rights delivered its merits judgment in A. v. Republic of Benin (Application No. 013/2017), which concerned proceedings including those before Benin's Court for the Repression of Economic Offences and Terrorism (CRIET).
 
+Summary: On 29 March 2019, the African Court on Human and Peoples' Rights delivered its merits judgment in A. v. Republic of Benin (Application No. 013/2017), which concerned proceedings including those before Benin's Court for the Repression of Economic Offences and Terrorism (CRIET). The outcome is not recorded in CTA6 \[UNKNOWN\]; the place is also \[UNKNOWN\].
+
 Citation: [AFCHPR-2019-013-2017](../sources/regions/sub-saharan-africa.md#AFCHPR-2019-013-2017) ([https://www.african-court.org/ajudata/download-file/782/5f59ee1f3010d110121716.pdf](https://www.african-court.org/ajudata/download-file/782/5f59ee1f3010d110121716.pdf))
 
 <a id="T225"></a>
@@ -799,6 +915,8 @@ Citation: [AFCHPR-2019-013-2017](../sources/regions/sub-saharan-africa.md#AFCHPR
 - Status: `we-have-a-record`
 
 The Human Rights Commission of Sri Lanka published the executive summary of its 2018 prison study, which includes a section on prisoners held under the Prevention of Terrorism Act (day and month [UNKNOWN]).
+
+Summary: In 2020, the Human Rights Commission of Sri Lanka published the executive summary of its 2018 prison study, which includes a section on prisoners held under the Prevention of Terrorism Act; the day and month are \[UNKNOWN\]. Its findings are not summarized in CTA6 \[UNKNOWN\].
 
 Citation: [HRCSL-PRISON-2020](../sources/regions/south-asia.md#HRCSL-PRISON-2020) ([https://www.hrcsl.lk/wp-content/uploads/2020/01/Prison-Study-by-HRCSL_Concise-Version.pdf](https://www.hrcsl.lk/wp-content/uploads/2020/01/Prison-Study-by-HRCSL_Concise-Version.pdf))
 
@@ -813,6 +931,8 @@ Citation: [HRCSL-PRISON-2020](../sources/regions/south-asia.md#HRCSL-PRISON-2020
 
 Sri Lanka's Prevention of Terrorism (Temporary Provisions) (Amendment) Act, No. 12 of 2022 was certified; it was published as a Gazette supplement on 1 April 2022.
 
+Summary: On 29 March 2022, Sri Lanka's Prevention of Terrorism (Temporary Provisions) (Amendment) Act, No. 12 of 2022 was certified, and it was published as a Gazette supplement on 1 April 2022. It amends the 1979 Act (T194); Human Rights Watch had argued the bill left the framework largely intact (T187).
+
 Citation: [LK-PTA-AM2022](../sources/regions/south-asia.md#LK-PTA-AM2022) ([https://documents.gov.lk/api/content-file-proxy?file=%2Fact-content%2F12-2022_E_1784552906.pdf](https://documents.gov.lk/api/content-file-proxy?file=%2Fact-content%2F12-2022_E_1784552906.pdf))
 
 <a id="T227"></a>
@@ -826,6 +946,8 @@ Citation: [LK-PTA-AM2022](../sources/regions/south-asia.md#LK-PTA-AM2022) ([http
 
 Nigeria's National Human Rights Commission announced and inaugurated the Special Independent Investigative Panel on human rights violations in counter-insurgency operations in the North East (SIIP North-East).
 
+Summary: On 7 February 2023, Nigeria's National Human Rights Commission announced and inaugurated the Special Independent Investigative Panel on human rights violations in counter-insurgency operations in the North East (SIIP North-East). The Commission's summary says the panel was set up to investigate allegations in Reuters reports of December 2022 against the Nigerian military. Its report was posted in November 2024 (T229).
+
 Citation: [NG-NHRC-SIIP-NE-ES](../sources/regions/sub-saharan-africa.md#NG-NHRC-SIIP-NE-ES) ([https://www.nigeriarights.gov.ng/files/publications/The%20Executive%20Summary%20Updated%2018-11-24%20\(1\).pdf](https://www.nigeriarights.gov.ng/files/publications/The%20Executive%20Summary%20Updated%2018-11-24%20(1).pdf))
 
 <a id="T228"></a>
@@ -838,6 +960,8 @@ Citation: [NG-NHRC-SIIP-NE-ES](../sources/regions/sub-saharan-africa.md#NG-NHRC-
 - Status: `we-have-a-record`
 
 Japan's Public Security Examination Commission decided, on the request of the Public Security Intelligence Agency, to renew the observation measure on the organisation known as Aum Shinrikyo (the agency describes it as the eighth renewal).
+
+Summary: On 12 January 2024, Japan's Public Security Examination Commission, at the request of the Public Security Intelligence Agency, decided to renew the observation measure on the organisation known as Aum Shinrikyo; the agency describes it as the eighth renewal. The measure rests on the 1999 Act on organizations that committed indiscriminate mass murder (T146).
 
 Citations:
 
@@ -855,6 +979,8 @@ Citations:
 
 Nigeria's National Human Rights Commission posted the report of the SIIP North-East panel.
 
+Summary: On 9 November 2024, Nigeria's National Human Rights Commission posted the report of the SIIP North-East panel on human rights violations in counter-insurgency operations. It concludes the inquiry begun in February 2023 (T227); its findings are not summarized in CTA6 \[UNKNOWN\].
+
 Citation: [NG-NHRC-SIIP-NE](../sources/regions/sub-saharan-africa.md#NG-NHRC-SIIP-NE) ([https://www.nigeriarights.gov.ng/publications/more/504-report-of-the-special-independent-investigative-panel-on-human-rights-violations-in-counter-insurgency-operations-in-the-north-east-siip-north-east.html](https://www.nigeriarights.gov.ng/publications/more/504-report-of-the-special-independent-investigative-panel-on-human-rights-violations-in-counter-insurgency-operations-in-the-north-east-siip-north-east.html))
 
 <a id="T230"></a>
@@ -867,5 +993,7 @@ Citation: [NG-NHRC-SIIP-NE](../sources/regions/sub-saharan-africa.md#NG-NHRC-SII
 - Status: `we-have-a-record`
 
 Papua New Guinea's Parliament passed the Counter-Terrorism Bill 2024 by 84 votes to 0, according to the Department of Prime Minister and National Executive Council.
+
+Summary: On 28 November 2024, Papua New Guinea's Parliament passed the Counter-Terrorism Bill 2024 by 84 votes to 0, according to the Department of Prime Minister and National Executive Council. The department's release says the vote exceeded the 60-vote absolute majority needed and that the Prime Minister called it a 'monumental, milestone law' (his description). The text of the Act itself could not be retrieved \[UNKNOWN\].
 
 Citation: [PG-PMNEC-CTA2024](../sources/regions/oceania.md#PG-PMNEC-CTA2024) ([https://www.pmnec.gov.pg/pm-marape-commends-government-opposition-members-for-uniting-to-pass-new-monumental-counter-terrorism-law/](https://www.pmnec.gov.pg/pm-marape-commends-government-opposition-members-for-uniting-to-pass-new-monumental-counter-terrorism-law/))
