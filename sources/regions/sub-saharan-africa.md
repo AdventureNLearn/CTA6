@@ -2,9 +2,9 @@
 
 # Sources: Sub-Saharan Africa
 
-Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-35 sources in this region (`government` 8, `international` 18, `NGO` 4, `court` 1, `oversight` 4).
+36 sources in this region (`government` 9, `international` 18, `NGO` 4, `court` 1, `oversight` 4).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -82,7 +82,7 @@ Cited by: none in `data/timeline.csv`.
 
 **Prevention of Terrorism Act, No. 30 of 2012**
 
-Summary: Kenya's Prevention of Terrorism Act, No. 30 of 2012, at the Kenya Law website. Kenya's National Counter Terrorism Centre says it was established by this Act. The cited copy could not be confirmed (HTTP 500), and the same Act at Kenya Law's new site (KE-POTA2012-KL) also could not be verified, so the Act's text is \[UNKNOWN\] in CTA6.
+Summary: Kenya's Prevention of Terrorism Act, No. 30 of 2012, at the Kenya Law website. Kenya's National Counter Terrorism Centre says it was established by this Act. The SheriaNet listing (SEC-KE-POTA-SHERIANET) also gives the citation as Act No. 30 of 2012, according to that unofficial source. The cited copy could not be confirmed (HTTP 500), and the same Act at Kenya Law's new site (KE-POTA2012-KL) also could not be verified, so the Act's text is \[UNKNOWN\] in CTA6.
 
 - Issuing body: Parliament of Kenya (Kenya Law)
 - Date: 2012
@@ -311,7 +311,7 @@ Cited by: none in `data/timeline.csv`.
 
 **Prevention of Terrorism Act (No. 30 of 2012)**
 
-Summary: Kenya's Prevention of Terrorism Act (No. 30 of 2012) at Kenya Law's current website. It is the same Act as KE-POTA2012, found at a newer address. The cited copy could not be confirmed (HTTP 202 bot check), so the text is \[UNKNOWN\] in CTA6.
+Summary: Kenya's Prevention of Terrorism Act (No. 30 of 2012) at Kenya Law's current website. It is the same Act as KE-POTA2012, found at a newer address; according to an unofficial SheriaNet listing (SEC-KE-POTA-SHERIANET), the citation is Act No. 30 of 2012. The cited copy could not be confirmed (HTTP 202 bot check), so the text is \[UNKNOWN\] in CTA6.
 
 - Issuing body: Kenya Law (National Council for Law Reporting)
 - Date: 2012
@@ -812,3 +812,30 @@ Summary: The merits judgment of the African Court on Human and Peoples' Rights o
 - Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AFCHPR-2019-013-2017.* Text layer is partly garbled (scanned original), but '29 MARCH 2019' and the references to Benin's 'Cour de Répression des Infractions Economiques et du Terrorisme' (CRIET) were matched; the application number was confirmed on the Court's case page (pass3/raw/AFCHPR-CASE-013-2017.*). Applicant (a private individual) given as an initial.
 
 Cited by: [T224](../../timeline/recent-2014-now.md#T224)
+
+<a id="SEC-KE-POTA-SHERIANET"></a>
+## SEC-KE-POTA-SHERIANET
+
+**Prevention of Terrorism Act — Act No. 30 of 2012 — SheriaNet listing**
+
+Summary: SheriaNet's listing for Kenya's Prevention of Terrorism Act. According to the listing, its citation is Act No. 30 of 2012, and it links a full-text PDF and lists legal notices made under the Act. Only the citation details were read; the Act's text was not checked, and the listing is secondary and not verified.
+
+- Issuing body: SheriaNet (legal information website)
+- Date: 2012
+- Type: statute
+- Tag: `secondary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://sheria.net/legislation/akn/ke/act/2012/30](https://sheria.net/legislation/akn/ke/act/2012/30)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Label: `secondary/unofficial`
+- Stands in for: KE-POTA2012 and KE-POTA2012-KL (Kenya, Prevention of Terrorism Act No. 30 of 2012)
+- Publisher: SheriaNet (legal information website)
+- Access date: 2026-11-19
+- Notes: Secondary/unofficial listing; not verified. curl got a bot-check interstitial on 2026-11-19; page read via WebFetch. Supports the citation, year and number only; the linked PDF was not opened.
+
+Cited by: none in `data/timeline.csv`.

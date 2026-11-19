@@ -2,9 +2,9 @@
 
 # Sources: South Asia
 
-Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
+Round 4 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-35 sources in this region (`government` 24, `international` 3, `NGO` 3, `oversight` 5).
+39 sources in this region (`government` 24, `international` 3, `NGO` 3, `court` 1, `oversight` 5, `media` 3).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -811,3 +811,112 @@ Summary: An undated NACTA page on Pakistan's National Action Plan, 2014. Accordi
 - Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-PK-NACTA-NAP.* Undated page (date \[UNKNOWN\]). It states the 20-point National Action Plan was 'approved on 24th of December, 2014 by the Parliament' after the Army Public School attack of 16 December 2014, and that NACTA is the NAP monitoring body. The page's status figures are NACTA's own and are not used in CTA6.
 
 Cited by: [T234](../../timeline/post-9-11-2001-2014.md#T234)
+
+<a id="SEC-PK-SC-2019-95"></a>
+## SEC-PK-SC-2019-95
+
+**Supreme Court of Pakistan, Criminal Appeals No. 95 and 96 of 2019, Civil Appeal No. 10-L of 2017 and Criminal Appeal No. 63 of 2013 (2020 PLD Supreme Court 61) — pakistancaselaw.com copy**
+
+Summary: An unofficial copy of a Supreme Court of Pakistan larger-bench judgment, reported as 2020 PLD Supreme Court 61, in Criminal Appeals No. 95 and 96 of 2019. According to this copy, the same judgment also decided Civil Appeal No. 10-L of 2017 and Criminal Appeal No. 63 of 2013. It was decided on 30 October 2019 and addresses how 'terrorism' is to be interpreted under section 6 of the Anti-Terrorism Act, 1997. The copy is secondary and has not been checked against the court's own text.
+
+- Issuing body: pakistancaselaw.com (unofficial case-law website)
+- Date: 2019-10-30
+- Type: court record
+- Tag: `secondary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: \[URL withheld: contains a private party's name\]
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Case citation: Supreme Court of Pakistan, 2020 PLD Supreme Court 61; Criminal Appeals No. 95 and 96 of 2019; Civil Appeal No. 10-L of 2017; Criminal Appeal No. 63 of 2013
+- Label: `secondary/unofficial`
+- Stands in for: No CTA6 source yet: Supreme Court of Pakistan judgment in Criminal Appeals No. 95 and 96 of 2019, Civil Appeal No. 10-L of 2017 and Criminal Appeal No. 63 of 2013 (official copy at supremecourt.gov.pk returned HTTP 403 on 2026-11-19)
+- Publisher: pakistancaselaw.com (unofficial case-law website)
+- Access date: 2026-11-19
+- Notes: Secondary/unofficial copy; not verified against the court's own text. The page URL contains a private party's name and no name-free copy was found, so the URL is withheld. The official copy at supremecourt.gov.pk returned HTTP 403 on 2026-11-19. Re-fetched 2026-11-19 by curl (HTTP 200). The party is named by initials only (G.H.).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SEC-PK-DAWN-2019"></a>
+## SEC-PK-DAWN-2019
+
+**'Terrorism' too widely defined in Anti Terrorism Act, says SC; recommends Parliament bring changes**
+
+Summary: A Dawn news report published on 30 October 2019 about a Supreme Court of Pakistan ruling. As reported by Dawn, the Court found the Anti-Terrorism Act's definition of terrorism too wide and recommended that Parliament change it. It is news reporting, not the judgment itself, and has not been verified.
+
+- Issuing body: Dawn (newspaper)
+- Date: 2019-10-30
+- Type: other
+- Tag: `secondary`
+- Origin: `media`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.dawn.com/news/1513839](https://www.dawn.com/news/1513839)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Label: `secondary/unofficial`
+- Stands in for: No CTA6 source yet: Supreme Court of Pakistan judgment in Criminal Appeals No. 95 and 96 of 2019 (see SEC-PK-SC-2019-95)
+- Publisher: Dawn (newspaper)
+- Access date: 2026-11-19
+- Notes: News report; secondary, not verified against the judgment. Re-fetched 2026-11-19 by curl (HTTP 200); page metadata gives datePublished 2019-10-30.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SEC-PK-DAWNURDU-2025"></a>
+## SEC-PK-DAWNURDU-2025
+
+**سینیٹ: انسداد دہشتگردی ایکٹ ترمیمی بل 2025 منظور (Senate passes Anti-Terrorism Act Amendment Bill 2025)**
+
+Summary: A Dawn News (Urdu) report published on 19 August 2025 about Pakistan's Anti-Terrorism Act Amendment Bill 2025. According to the report, the Senate passed the bill, which is to be in force for three years, allows a suspect to be held for up to three months, and amends sub-section (1) of section 11EEEE. It is news reporting and the bill text has not been verified.
+
+- Issuing body: Dawn News (Urdu)
+- Date: 2025-08-19
+- Type: other
+- Tag: `secondary`
+- Origin: `media`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.dawnnews.tv/news/1267082](https://www.dawnnews.tv/news/1267082)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: Urdu
+- Label: `secondary/unofficial`
+- Stands in for: No CTA6 source yet: Pakistan Anti-terrorism (Amendment) Bill 2025, Senate PDF https://senate.gov.pk/uploads/documents/1755242450_392.pdf (download incomplete twice)
+- Publisher: Dawn News (Urdu)
+- Access date: 2026-11-19
+- Notes: News report in Urdu; secondary, not verified against the bill text. Re-fetched 2026-11-19 by curl (HTTP 200); datePublished 2025-08-19. The official Senate PDF downloaded incomplete twice and was not used.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SEC-PK-BBCURDU-2025"></a>
+## SEC-PK-BBCURDU-2025
+
+**انسداد دہشتگردی قانون میں ترمیم: سکیورٹی اداروں کو ’غیر معمولی‘ حراستی اختیارات کیوں دیے جا رہے ہیں؟ (Anti-terrorism law amendment: why are security agencies being given 'extraordinary' detention powers?)**
+
+Summary: A BBC News Urdu report published on 16 August 2025 about an amendment to Pakistan's anti-terrorism law. As reported by the BBC, the Senate passed the amendment bill after the National Assembly, it allows people considered a security threat to be detained for up to three months, and it was to go to the President for assent. It is news reporting and has not been verified against the bill or Act.
+
+- Issuing body: BBC News Urdu
+- Date: 2025-08-16
+- Type: other
+- Tag: `secondary`
+- Origin: `media`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.bbc.com/urdu/articles/c9wy77558ngo](https://www.bbc.com/urdu/articles/c9wy77558ngo)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: Urdu
+- Label: `secondary/unofficial`
+- Stands in for: No CTA6 source yet: Pakistan Anti-terrorism (Amendment) Bill 2025 (see SEC-PK-DAWNURDU-2025)
+- Publisher: BBC News Urdu
+- Access date: 2026-11-19
+- Notes: News report in Urdu; secondary, not verified against the bill or Act. Re-fetched 2026-11-19 by curl (HTTP 200); published 2025-08-16 11:44 UTC (07:44 ET).
+
+Cited by: none in `data/timeline.csv`.
