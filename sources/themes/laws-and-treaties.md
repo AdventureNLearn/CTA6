@@ -6,7 +6,7 @@ National statutes, international and regional treaties, and court rulings that i
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-123 sources in this theme.
+156 sources in this theme.
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -1871,7 +1871,7 @@ Cited by: none in `data/timeline.csv`.
 - Language: English
 - Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/LK-MOJ-PTA.*
 
-Cited by: [T187](../../timeline/recent-2014-now.md#T187)
+Cited by: [T187](../../timeline/recent-2014-now.md#T187), [T194](../../timeline/1945-1990.md#T194)
 
 <a id="BD-ATA2009"></a>
 ## BD-ATA2009
@@ -1993,9 +1993,9 @@ Cited by: [T172](../../timeline/recent-2014-now.md#T172), [T173](../../timeline/
 - Theme: laws and treaties
 - URL: [https://adala.justice.gov.ma/api/uploads/2026/04/30/%D8%B8%D9%80%D9%87%D9%8A%D8%B1%20%D8%B4%D9%80%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.03.140%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2003.03%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%D8%A9%20%D8%A8%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-1777546049068.pdf](https://adala.justice.gov.ma/api/uploads/2026/04/30/%D8%B8%D9%80%D9%87%D9%8A%D8%B1%20%D8%B4%D9%80%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.03.140%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2003.03%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%D8%A9%20%D8%A8%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-1777546049068.pdf)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: Arabic
-- Notes: URL taken from a web-search result listing, then fetched. Consolidated (amended) version. English title: \[UNKNOWN\] HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+- Notes: Verified on retry 2026-11-19. curl HTTP 200; Arabic text layer reads 'القانون رقم 03.03 المتعلق بمكافحة الإرهاب' and 'ظهير شريف رقم 1.03.140'. Consolidated (amended) version. English title: \[UNKNOWN\]. URL taken from a web-search result listing, then fetched. Earlier (round 2): HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -2543,7 +2543,7 @@ Cited by: none in `data/timeline.csv`.
 - Language: English
 - Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/PK-NACTA-ATA.*
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T195](../../timeline/1990-2001.md#T195)
 
 <a id="BR-PORTARIA2-2017"></a>
 ## BR-PORTARIA2-2017
@@ -2565,3 +2565,702 @@ Cited by: none in `data/timeline.csv`.
 - Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/BR-PORTARIA2-2017.*
 
 Cited by: none in `data/timeline.csv`.
+
+<a id="DZ-ORD06-01"></a>
+## DZ-ORD06-01
+
+**Ordonnance n° 06-01 du 28 Moharram 1427 correspondant au 27 février 2006 portant mise en œuvre de la Charte pour la paix et la réconciliation nationale (Journal officiel n° 11 du 28 février 2006)**
+
+- Issuing body: Présidence de la République (Journal officiel de la République algérienne)
+- Date: 2006-02-27
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://www.joradp.dz/FTP/jo-francais/2006/F2006011.pdf](https://www.joradp.dz/FTP/jo-francais/2006/F2006011.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: French
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/DZ-ORD06-01.* Text ends 'Fait à Alger, le 28 Moharram 1427 correspondant au 27 février 2006.' English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T209](../../timeline/post-9-11-2001-2014.md#T209)
+
+<a id="DZ-LOI06-07"></a>
+## DZ-LOI06-07
+
+**Loi n° 06-07 du 18 Rabie El Aouel 1427 correspondant au 17 avril 2006 portant approbation de l'ordonnance n° 06-01 (Journal officiel n° 27 du 26 avril 2006)**
+
+- Issuing body: Présidence de la République (Journal officiel de la République algérienne)
+- Date: 2006-04-17
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://www.joradp.dz/FTP/jo-francais/2006/F2006027.pdf](https://www.joradp.dz/FTP/jo-francais/2006/F2006027.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: French
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/DZ-LOI06-07.* English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T210](../../timeline/post-9-11-2001-2014.md#T210)
+
+<a id="TR-RG-AYM2013"></a>
+## TR-RG-AYM2013
+
+**Anayasa Mahkemesi Kararı, Esas Sayısı 2012/100, Karar Sayısı 2013/84, Karar Günü 4.7.2013 (Resmî Gazete, 2 Ağustos 2013, Sayı 28726)**
+
+- Issuing body: Anayasa Mahkemesi (Constitutional Court of Türkiye), published in the Resmî Gazete
+- Date: 2013-07-04
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: post-9/11 (2001-2014)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://www.resmigazete.gov.tr/eskiler/2013/08/20130802-20.htm](https://www.resmigazete.gov.tr/eskiler/2013/08/20130802-20.htm)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Turkish
+- Case citation: Esas Sayısı 2012/100, Karar Sayısı 2013/84
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/TR-RG-AYM2013.* Page is windows-1254 encoded. Review of Law No. 6352, including its amendments to article 10 of Anti-Terror Law No. 3713; petition by 123 members of parliament. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T216](../../timeline/post-9-11-2001-2014.md#T216)
+
+<a id="IL-CTLAW2016-HE"></a>
+## IL-CTLAW2016-HE
+
+**חוק המאבק בטרור, התשע"ו-2016 (ספר החוקים 2556, עמ' 898)**
+
+- Issuing body: הכנסת (Knesset), Reshumot
+- Date: 2016-06-23
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://fs.knesset.gov.il/20/law/20_lsr_343902.pdf](https://fs.knesset.gov.il/20/law/20_lsr_343902.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Hebrew
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/IL-CTLAW2016-HE.* Sefer HaHukim 2556 dated 23 June 2016; footnote states the law was passed by the Knesset on 15 June 2016. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T220](../../timeline/recent-2014-now.md#T220)
+
+<a id="IR-CFT-LAW1394"></a>
+## IR-CFT-LAW1394
+
+**قانون مبارزه با تامین مالی تروریسم**
+
+- Issuing body: مجلس شورای اسلامی (Islamic Consultative Assembly), Research Center legal database
+- Date: \[UNKNOWN\]
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: laws and treaties
+- URL: [https://rc.majlis.ir/en/legal_draft/show/1043783](https://rc.majlis.ir/en/legal_draft/show/1043783)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: Persian
+- Notes: URL from search index; not verified: curl timed out and WebFetch returned HTTP 500 on 2026-11-19. Search listing gives approval 13 Bahman 1394 (early February 2016); not confirmed from a capture. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="ML-SGG-CONV"></a>
+## ML-SGG-CONV
+
+**Conventions internationales (liste; inclut la Convention portant création du G5 Sahel, adoptée à Nouakchott le 19 décembre 2014; ratification: décret n° 2015-128)**
+
+- Issuing body: Secrétariat Général du Gouvernement du Mali
+- Date: \[UNKNOWN\]
+- Type: database
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://sgg-mali.ml/2/513/fr/conventions-internationales.html](https://sgg-mali.ml/2/513/fr/conventions-internationales.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: French
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/ML-SGG-CONV.* The list entry reads: 'Convention portant création du G5 Sahel, adoptée à Nouakchott, le 19 décembre 2014, par la conférence des Chefs d'Etat du G5 Sahel (Ratification : Décret n°2015-128 ... JO 2015-17)'. The convention text itself is not on this page.
+
+Cited by: [T217](../../timeline/recent-2014-now.md#T217)
+
+<a id="G5S-CONV2014-WA"></a>
+## G5S-CONV2014-WA
+
+**Convention portant création du G5 Sahel (archived copy of g5sahel.org/images/convention.pdf)**
+
+- Issuing body: G5 Sahel (Internet Archive capture of 2 June 2017)
+- Date: 2014-12-19
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://web.archive.org/web/20170602170931/http:/www.g5sahel.org/images/convention.pdf](https://web.archive.org/web/20170602170931/http:/www.g5sahel.org/images/convention.pdf)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: French
+- Notes: URL from a web-search result listing; fetched on 2026-11-19 (HTTP 200, application/pdf) but the PDF has no text layer and no OCR tool was available, so the content could not be matched. Date taken from ML-SGG-CONV.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="AFCHPR-2019-013-2017"></a>
+## AFCHPR-2019-013-2017
+
+**A. v. Republic of Benin, Application No. 013/2017, Judgment (Merits), 29 March 2019**
+
+- Issuing body: African Court on Human and Peoples' Rights
+- Date: 2019-03-29
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://www.african-court.org/ajudata/download-file/782/5f59ee1f3010d110121716.pdf](https://www.african-court.org/ajudata/download-file/782/5f59ee1f3010d110121716.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Case citation: Application No. 013/2017
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AFCHPR-2019-013-2017.* Text layer is partly garbled (scanned original), but '29 MARCH 2019' and the references to Benin's 'Cour de Répression des Infractions Economiques et du Terrorisme' (CRIET) were matched; the application number was confirmed on the Court's case page (pass3/raw/AFCHPR-CASE-013-2017.*). Applicant (a private individual) given as an initial.
+
+Cited by: [T224](../../timeline/recent-2014-now.md#T224)
+
+<a id="CO-LEY1121-2006"></a>
+## CO-LEY1121-2006
+
+**Ley 1121 de 2006 (diciembre 29): por la cual se dictan normas para la prevención, detección, investigación y sanción de la financiación del terrorismo y otras disposiciones**
+
+- Issuing body: Congreso de la República de Colombia (Secretaría General del Senado, base documental)
+- Date: 2006-12-29
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [http://www.secretariasenado.gov.co/senado/basedoc/ley_1121_2006.html](http://www.secretariasenado.gov.co/senado/basedoc/ley_1121_2006.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Notes: Verified via WebFetch on 2026-11-19 (curl got HTTP 500); capture saved as pass3/raw/webfetch-CO-LEY1121-2006.txt. Page shows 'Diario Oficial No. 46.497 de 30 de diciembre de 2006' and 'Dada en Bogotá, D. C., a 29 de diciembre de 2006'. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T212](../../timeline/post-9-11-2001-2014.md#T212)
+
+<a id="IACTHR-1997-33"></a>
+## IACTHR-1997-33
+
+**Caso L.T. Vs. Perú, Sentencia de 17 de septiembre de 1997 (Fondo), Serie C No. 33**
+
+- Issuing body: Corte Interamericana de Derechos Humanos
+- Date: 1997-09-17
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: 1990-2001
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.corteidh.or.cr/docs/casos/articulos/seriec_33_esp.pdf](https://www.corteidh.or.cr/docs/casos/articulos/seriec_33_esp.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Case citation: Serie C No. 33
+- Notes: Verified via WebFetch on 2026-11-19 (curl got a Cloudflare challenge, HTTP 403); capture saved as pass3/raw/webfetch-IACTHR-1997-33.txt. Petition No. 11.154 before the Commission. Victim (a private individual) given as initials. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T196](../../timeline/1990-2001.md#T196)
+
+<a id="IACTHR-1999-52"></a>
+## IACTHR-1999-52
+
+**Caso C.P. y otros Vs. Perú, Sentencia de 30 de mayo de 1999 (Fondo, Reparaciones y Costas), Serie C No. 52**
+
+- Issuing body: Corte Interamericana de Derechos Humanos
+- Date: 1999-05-30
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: 1990-2001
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.corteidh.or.cr/docs/casos/articulos/seriec_52_esp.pdf](https://www.corteidh.or.cr/docs/casos/articulos/seriec_52_esp.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Case citation: Serie C No. 52
+- Notes: Verified via WebFetch on 2026-11-19 (curl got a Cloudflare challenge, HTTP 403); capture saved as pass3/raw/webfetch-IACTHR-1999-52.txt. Petition No. 11.319; concerns four Chilean nationals tried by a military tribunal under Decree-Law No. 25.659. Victims given as initials. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T197](../../timeline/1990-2001.md#T197)
+
+<a id="IACTHR-2000-69"></a>
+## IACTHR-2000-69
+
+**Caso C.B. Vs. Perú, Sentencia de 18 de agosto de 2000 (Fondo), Serie C No. 69**
+
+- Issuing body: Corte Interamericana de Derechos Humanos
+- Date: 2000-08-18
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: 1990-2001
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.corteidh.or.cr/docs/casos/articulos/Seriec_69_esp.pdf](https://www.corteidh.or.cr/docs/casos/articulos/Seriec_69_esp.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Case citation: Serie C No. 69
+- Notes: Verified via WebFetch on 2026-11-19 (curl got a Cloudflare challenge, HTTP 403); capture saved as pass3/raw/webfetch-IACTHR-2000-69.txt. URL appeared in the search synthesis citing the Court's case sheet. Victim given as initials. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T198](../../timeline/1990-2001.md#T198)
+
+<a id="PE-TC-2003-010-2002"></a>
+## PE-TC-2003-010-2002
+
+**Sentencia del Tribunal Constitucional, Exp. N.º 010-2002-AI/TC (T.S. y más de 5,000 ciudadanos; legislación antiterrorista de 1992)**
+
+- Issuing body: Tribunal Constitucional del Perú
+- Date: 2003-01-03
+- Type: court record
+- Tag: `primary`
+- Origin: `court`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.tc.gob.pe/jurisprudencia/2003/00010-2002-AI.html](https://www.tc.gob.pe/jurisprudencia/2003/00010-2002-AI.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Case citation: Exp. N.º 010-2002-AI/TC
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/PE-TC-2003-010-2002.* Page is windows-1252 encoded. Lead petitioner (a private individual) given as initials. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T202](../../timeline/post-9-11-2001-2014.md#T202)
+
+<a id="AR-DEC812-2005"></a>
+## AR-DEC812-2005
+
+**Decreto 812/2005: apruébase el Acta de fecha 4 de marzo de 2005 firmada en el marco del 122 período ordinario de sesiones de la Comisión Interamericana de Derechos Humanos, petición N° 12.204 (atentado a la sede de la AMIA)**
+
+- Issuing body: Poder Ejecutivo Nacional (InfoLeg, Ministerio de Justicia)
+- Date: 2005-07-12
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/107751/norma.htm](https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/107751/norma.htm)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AR-DEC812-2005.* Dated 'Bs. As., 12/7/2005'; the acta was signed at a hearing in Washington on 4 March 2005. The same text was also fetched at argentina.gob.ar (pass3/raw/AR-DEC812-2005-GOB.*). English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T207](../../timeline/post-9-11-2001-2014.md#T207)
+
+<a id="KG-LAW178-2006"></a>
+## KG-LAW178-2006
+
+**Закон КР от 8 ноября 2006 года № 178 «О противодействии терроризму»**
+
+- Issuing body: Министерство юстиции Кыргызской Республики (Централизованный банк данных правовой информации)
+- Date: 2006-11-08
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://cbd.minjust.gov.kg/1971/edition/1174353/ru](https://cbd.minjust.gov.kg/1971/edition/1174353/ru)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Russian
+- Notes: Raw: pass3/raw/KG-LAW178-2006.*. URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200. Only the page title is served without JavaScript ('Закон КР от 8 ноября 2006 года № 178 "О противодействии тер'); it matches the law's date and number, but the body text was not read (WebFetch returned the same title only). The search listing says this law was replaced by Law No. 55 of 4 July 2022 \[not confirmed from a capture\]. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T211](../../timeline/post-9-11-2001-2014.md#T211)
+
+<a id="KG-LAW55-2022"></a>
+## KG-LAW55-2022
+
+**Закон КР от 4 июля 2022 года № 55 «О противодействии терроризму»**
+
+- Issuing body: Министерство юстиции Кыргызской Республики (Централизованный банк данных правовой информации)
+- Date: 2022-07-04
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://cbd.minjust.gov.kg/112387/edition/1177705/ru](https://cbd.minjust.gov.kg/112387/edition/1177705/ru)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Russian
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200. Only the page title is served without JavaScript; it matches the law's date and number; body text not read. Raw: pass3/raw/KG-LAW55-2022.*. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="TJ-LAW845-1999"></a>
+## TJ-LAW845-1999
+
+**Закон Республики Таджикистан «О борьбе с терроризмом»**
+
+- Issuing body: Национальный центр законодательства при Президенте Республики Таджикистан
+- Date: \[UNKNOWN\]
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://ncz.tj/content/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD-%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8-%D1%82%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD-%D0%BE-%D0%B1%D0%BE%D1%80%D1%8C%D0%B1%D0%B5-%D1%81-%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80%D0%B8%D0%B7%D0%BC%D0%BE%D0%BC](https://ncz.tj/content/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD-%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8-%D1%82%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD-%D0%BE-%D0%B1%D0%BE%D1%80%D1%8C%D0%B1%D0%B5-%D1%81-%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80%D0%B8%D0%B7%D0%BC%D0%BE%D0%BC)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: Russian
+- Notes: URL from search index; not verified: curl timed out and WebFetch returned HTTP 504 on 2026-11-19. Search listing gives 16.11.1999 No. 845 and says it lost force on 23.12.2021; not confirmed. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="TM-GOV-CTLAW-AM"></a>
+## TM-GOV-CTLAW-AM
+
+**Закон Туркменистана «О внесении изменения в Закон Туркменистана „О борьбе с терроризмом“»**
+
+- Issuing body: Государственный информационный портал Туркменистана (turkmenistan.gov.tm)
+- Date: 2013-01-08
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://turkmenistan.gov.tm/ru/post/18736/zakon-turkmenistana-o-vnesenii-izmeneniya-v-zakon-turkmenistana-o-borbe-s-terrorizmom-](https://turkmenistan.gov.tm/ru/post/18736/zakon-turkmenistana-o-vnesenii-izmeneniya-v-zakon-turkmenistana-o-borbe-s-terrorizmom-)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Russian
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/TM-GOV-CTLAW-AM.* Posted 08.01.2013. The text refers to the law 'О борьбе с терроризмом', 'принятый 15 августа 2003 года (Ведомости Меджлиса Туркменистана, 2003 г., № 3, ст. 28 ...)'. The 2003 law text itself was not found at an official URL. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T203](../../timeline/post-9-11-2001-2014.md#T203)
+
+<a id="SCO-CONV2009-RU"></a>
+## SCO-CONV2009-RU
+
+**Конвенция Шанхайской организации сотрудничества против терроризма**
+
+- Issuing body: Шанхайская организация сотрудничества (Совет глав государств)
+- Date: 2009-06-16
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Russia/Central Asia
+- Theme: laws and treaties
+- URL: [https://rus.sectsco.org/20090616/1609553.html](https://rus.sectsco.org/20090616/1609553.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Russian
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/SCO-CONV2009-RU.* Record page lists 'Дата принятия 16 июня 2009', 'Место подписания/принятия Екатеринбург'; the linked text PDF (/images/07e8/0c/04/1609552.pdf) was also fetched (pass3/raw/SCO-CONV2009-RU-PDF.*). English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T214](../../timeline/post-9-11-2001-2014.md#T214)
+
+<a id="NZ-TSA2002"></a>
+## NZ-TSA2002
+
+**Terrorism Suppression Act 2002 (2002 No 34)**
+
+- Issuing body: New Zealand Parliamentary Counsel Office (New Zealand Legislation)
+- Date: 2002
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Oceania
+- Theme: laws and treaties
+- URL: [https://www.legislation.govt.nz/act/public/2002/34/en/latest/](https://www.legislation.govt.nz/act/public/2002/34/en/latest/)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Notes: URL from search index; not verified: curl got HTTP 202 with an empty body (bot check) and WebFetch timed out on 2026-11-19. Search listing gives Royal assent 17 October 2002; not confirmed.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="NZ-CTLA2021"></a>
+## NZ-CTLA2021
+
+**Counter-Terrorism Legislation Act 2021 (2021 No 37)**
+
+- Issuing body: New Zealand Parliamentary Counsel Office (New Zealand Legislation)
+- Date: 2021
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Oceania
+- Theme: laws and treaties
+- URL: [https://www.legislation.govt.nz/act/public/2021/37/en/latest/](https://www.legislation.govt.nz/act/public/2021/37/en/latest/)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Notes: URL from search index; not verified: curl got HTTP 202 with an empty body and WebFetch timed out on 2026-11-19. Search listing gives Royal assent 4 October 2021; not confirmed.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="AU-SLAT2002"></a>
+## AU-SLAT2002
+
+**Security Legislation Amendment (Terrorism) Act 2002 (No. 65, 2002)**
+
+- Issuing body: Australian Government, Federal Register of Legislation
+- Date: 2002
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Oceania
+- Theme: laws and treaties
+- URL: [https://www.legislation.gov.au/C2004A00978/latest](https://www.legislation.gov.au/C2004A00978/latest)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AU-SLAT2002.* Page shows 'No. 65, 2002', 'Administered by Attorney-General's Department'. Assent date not in the capture \[UNKNOWN\]; the search listing gives 5 July 2002.
+
+Cited by: [T201](../../timeline/post-9-11-2001-2014.md#T201)
+
+<a id="AU-APH-CT-CHRON"></a>
+## AU-APH-CT-CHRON
+
+**Chronology of legislative developments (Terrorism law)**
+
+- Issuing body: Parliament of Australia, Parliamentary Library
+- Date: \[UNKNOWN\]
+- Type: other
+- Tag: `secondary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Oceania
+- Theme: laws and treaties
+- URL: [https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Browse_by_Topic/TerrorismLaw/legislativedev](https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Browse_by_Topic/TerrorismLaw/legislativedev)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AU-APH-CT-CHRON.* Secondary compilation by the Parliamentary Library.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="PG-PMNEC-CTA2024"></a>
+## PG-PMNEC-CTA2024
+
+**PM Marape commends Government, Opposition members for uniting to pass new 'monumental' Counter-Terrorism law**
+
+- Issuing body: Department of Prime Minister and National Executive Council (Papua New Guinea)
+- Date: 2024-12-03
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Oceania
+- Theme: laws and treaties
+- URL: [https://www.pmnec.gov.pg/pm-marape-commends-government-opposition-members-for-uniting-to-pass-new-monumental-counter-terrorism-law/](https://www.pmnec.gov.pg/pm-marape-commends-government-opposition-members-for-uniting-to-pass-new-monumental-counter-terrorism-law/)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/PG-PMNEC-CTA2024.* Posted 3 December 2024; states that on 28.11.24 Parliament passed the Counter-Terrorism Bill 2024 by 84-0. The Act text URLs at parliament.gov.pg returned HTTP 404 and were dropped.
+
+Cited by: [T230](../../timeline/recent-2014-now.md#T230)
+
+<a id="IN-POTA-REPEAL2004"></a>
+## IN-POTA-REPEAL2004
+
+**The Prevention of Terrorism (Repeal) Act, 2004 (No. 26 of 2004)**
+
+- Issuing body: Parliament of India (copy hosted by PRS Legislative Research)
+- Date: 2004-12-21
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://prsindia.org/files/bills_acts/acts_parliament/2004/the-prevention-of-terrorism-\(repeal\)-act-2004_1.pdf](https://prsindia.org/files/bills_acts/acts_parliament/2004/the-prevention-of-terrorism-(repeal)-act-2004_1.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/IN-POTA-REPEAL2004.* Third-party copy (PRS Legislative Research, an NGO) of the official text: '\[21st December, 2004.\] An Act to repeal the Prevention of Terrorism Act, 2002' and 'deemed to have come into force on the 21st day of September, 2004'.
+
+Cited by: [T206](../../timeline/post-9-11-2001-2014.md#T206)
+
+<a id="PK-CONST21-2015"></a>
+## PK-CONST21-2015
+
+**Constitution (Twenty-first Amendment) Act, 2015 (as passed by the National Assembly)**
+
+- Issuing body: National Assembly of Pakistan
+- Date: 2015
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.na.gov.pk/uploads/documents/1420547178_142.pdf](https://www.na.gov.pk/uploads/documents/1420547178_142.pdf)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Notes: URL from search index; not verified: curl timed out and WebFetch returned HTTP 504 on 2026-11-19. Search listing gives 7 January 2015; not confirmed.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="PK-FMU-ATA1997"></a>
+## PK-FMU-ATA1997
+
+**The Anti-Terrorism Act, 1997 (XXVII of 1997), complete text**
+
+- Issuing body: Financial Monitoring Unit (Government of Pakistan)
+- Date: 1997
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.fmu.gov.pk/docs/2021/Anti-Terrorism-Act-1997-Complete.pdf](https://www.fmu.gov.pk/docs/2021/Anti-Terrorism-Act-1997-Complete.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/PK-FMU-ATA1997.* A separate official copy; it does not change the verified status of PK-ATA1997 or PK-ATA1997-FIA. Day and month of enactment not in the capture \[UNKNOWN\].
+
+Cited by: [T195](../../timeline/1990-2001.md#T195)
+
+<a id="LK-PTA-AM2022"></a>
+## LK-PTA-AM2022
+
+**Prevention of Terrorism (Temporary Provisions) (Amendment) Act, No. 12 of 2022**
+
+- Issuing body: Parliament of Sri Lanka (Department of Government Printing)
+- Date: 2022-03-29
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://documents.gov.lk/api/content-file-proxy?file=%2Fact-content%2F12-2022_E_1784552906.pdf](https://documents.gov.lk/api/content-file-proxy?file=%2Fact-content%2F12-2022_E_1784552906.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/LK-PTA-AM2022.* '\[Certified on 29th of March, 2022\]'; published as a supplement to the Gazette of 1 April 2022. Parliament's act page also shows 'Endorsed Date: 2022-03-29' (pass3/raw/LK-PTA-AM2022-PARL.*).
+
+Cited by: [T226](../../timeline/recent-2014-now.md#T226)
+
+<a id="MV-PTA2015-DV"></a>
+## MV-PTA2015-DV
+
+**ޓެރަރިޒަމް މަނާކުރުމުގެ ޤާނޫނު (ޤާނޫނު ނަންބަރު 32/2015)**
+
+- Issuing body: Government Gazette of the Maldives (Dhivehi Raajjeyge Gazette), vol. 44, no. 288
+- Date: 2015-10-28
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://old.mvlaw.gov.mv/pdf/ganoon/chapterVIII/32-2015.pdf](https://old.mvlaw.gov.mv/pdf/ganoon/chapterVIII/32-2015.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Dhivehi
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/MV-PTA2015-DV.* Gazette header: volume 44, number 288, 28 October 2015, law number 32/2015. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T218](../../timeline/recent-2014-now.md#T218)
+
+<a id="KR-ATA-DECREE2016"></a>
+## KR-ATA-DECREE2016
+
+**국민보호와 공공안전을 위한 테러방지법 시행령 (대통령령 제27203호, 2016. 5. 31., 제정)**
+
+- Issuing body: Ministry of Government Legislation, Korean Law Information Center (국가법령정보센터)
+- Date: 2016-05-31
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183413](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183413)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Korean
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/KR-ATA-DECREE2016.* Header: '\[시행 2016. 6. 4.\] \[대통령령 제27203호, 2016. 5. 31., 제정\]'. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T219](../../timeline/recent-2014-now.md#T219)
+
+<a id="JP-TFINANCE-2002"></a>
+## JP-TFINANCE-2002
+
+**公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する法律**
+
+- Issuing body: e-Gov 法令検索 (Digital Agency, Japan)
+- Date: 2002-06-12
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://laws.e-gov.go.jp/law/414AC0000000067?occasion_date=20260701](https://laws.e-gov.go.jp/law/414AC0000000067?occasion_date=20260701)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: Japanese
+- Notes: URL from a web-search result listing; fetched on 2026-11-19 (HTTP 200) but the page body loads only with JavaScript (23 characters of text), so the content could not be matched. Date from JP-NDL-TFINANCE. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="JP-NDL-TFINANCE"></a>
+## JP-NDL-TFINANCE
+
+**公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する法律（平成14年6月12日法律第67号）（日本法令索引）**
+
+- Issuing body: 国立国会図書館 日本法令索引 (National Diet Library)
+- Date: 2002-06-12
+- Type: database
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://hourei.ndl.go.jp/simple/detail?current=-1&lawId=0000092664](https://hourei.ndl.go.jp/simple/detail?current=-1&lawId=0000092664)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Japanese
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/JP-NDL-TFINANCE.* Record: '法律番号：平成14年法律第67号 公布年月日：平成14年6月12日'; bill submitted by the Cabinet to the 154th Diet session on 12 March 2002. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T200](../../timeline/post-9-11-2001-2014.md#T200)
+
+<a id="SG-ISA-ABRULES"></a>
+## SG-ISA-ABRULES
+
+**Internal Security (Detained Persons Advisory Board) Rules (G.N. No. S 23/1964)**
+
+- Issuing body: Attorney-General's Chambers, Singapore Statutes Online
+- Date: 1964-01-16
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1945-1990
+- Region: East/Southeast Asia
+- Theme: laws and treaties
+- URL: [https://sso.agc.gov.sg/SL/ISA1960-R2](https://sso.agc.gov.sg/SL/ISA1960-R2)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/SG-ISA-ABRULES.* Made under Internal Security Act section 11(3); '\[16th January 1964\]'; revised edition 1990. Singapore has no national human rights institution; this advisory board is the statutory review body for ISA detentions.
+
+Cited by: [T193](../../timeline/1945-1990.md#T193)

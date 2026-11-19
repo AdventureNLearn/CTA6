@@ -88,7 +88,7 @@ Cited by: [T105](../../timeline/post-9-11-2001-2014.md#T105)
 - Accessed: 2026-11-18
 - Verified: `no`
 - Language: \[UNKNOWN\]
-- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/NSCT.pdf Accessed 2026-11-18.
+- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/NSCT.pdf Accessed 2026-11-18. Retry 2026-11-19: curl HTTP 403 (Access Denied); WebFetch returned 404 - the file may have been removed from dni.gov \[UNKNOWN\]; verified stays no.
 
 Cited by: none in `data/timeline.csv`.
 

@@ -6,7 +6,7 @@ Official histories and descriptions of national and international bodies.
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-28 sources in this theme.
+38 sources in this theme.
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -595,5 +595,215 @@ Cited by: none in `data/timeline.csv`.
 - Verified: `yes`
 - Language: Portuguese
 - Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/BR-ABIN-TERR.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="AR-UFIAMIA"></a>
+## AR-UFIAMIA
+
+**Unidad Fiscal para la Investigación de la Causa AMIA (UFI-AMIA) (página institucional)**
+
+- Issuing body: Ministerio Público Fiscal de la Nación (Argentina)
+- Date: \[UNKNOWN\]
+- Type: agency history
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: agencies
+- URL: [https://www.mpf.gob.ar/ufiamia/](https://www.mpf.gob.ar/ufiamia/)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AR-UFIAMIA.* States the unit was created by Resolución MP N°84/04. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T204](../../timeline/post-9-11-2001-2014.md#T204)
+
+<a id="RU-UKAZ116-2006"></a>
+## RU-UKAZ116-2006
+
+**Указ Президента Российской Федерации от 15.02.2006 г. № 116 «О мерах по противодействию терроризму»**
+
+- Issuing body: Президент Российской Федерации (kremlin.ru)
+- Date: 2006-02-15
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Russia/Central Asia
+- Theme: agencies
+- URL: [http://www.kremlin.ru/acts/bank/23441](http://www.kremlin.ru/acts/bank/23441)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Russian
+- Notes: Verified via WebFetch on 2026-11-19 (curl got HTTP 500); capture saved as pass3/raw/webfetch-RU-UKAZ116-2006.txt. Point 1: 'Образовать Национальный антитеррористический комитет'. Shown in its amended text (amendments to 25.11.2019). English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T208](../../timeline/post-9-11-2001-2014.md#T208)
+
+<a id="SCO-RATS2002-SCO"></a>
+## SCO-RATS2002-SCO
+
+**Соглашение между государствами-членами Шанхайской организации сотрудничества о Региональной антитеррористической структуре**
+
+- Issuing body: Шанхайская организация сотрудничества (Совет глав государств)
+- Date: 2002-06-07
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Russia/Central Asia
+- Theme: agencies
+- URL: [https://rus.sectsco.org/20020607/1608541.html](https://rus.sectsco.org/20020607/1608541.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Russian
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/SCO-RATS2002-SCO.* Record page lists 'Дата принятия 7 июня 2002', 'Место подписания/принятия Санкт-Петербург'; linked text PDF fetched (pass3/raw/SCO-RATS2002-SCO-PDF.*). The same agreement is also at lex.uz (pass3/raw/UZ-LEX-RATS2002.*). English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T199](../../timeline/post-9-11-2001-2014.md#T199)
+
+<a id="IN-NIA-ACT2008-HI"></a>
+## IN-NIA-ACT2008-HI
+
+**राष्ट्रीय अन्वेषण अभिकरण अधिनियम, 2008 (2008 का अधिनियम संख्यांक 34)**
+
+- Issuing body: Ministry of Home Affairs / National Investigation Agency (Government of India, S3WaaS)
+- Date: 2008-12-31
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: South Asia
+- Theme: agencies
+- URL: [https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2023/02/2023021044-2.pdf](https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2023/02/2023021044-2.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Hindi
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200. The PDF text layer stores Devanagari vowel signs out of order, so the exact-string check failed; the extracted header reads 'राष्टर्ीय अन्वेषण अिभकरण अिधिनयम, 2008 (2008 का अिधिनयम संख्यांक 34) \[31 िदसम्बर, 2008\]', which matches the Act's title, number and date. Raw: pass3/raw/IN-NIA-ACT2008-HI.* English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T213](../../timeline/post-9-11-2001-2014.md#T213)
+
+<a id="IN-NIA-ACT2008"></a>
+## IN-NIA-ACT2008
+
+**National Investigation Agency Act, 2008**
+
+- Issuing body: Legislative Department, Government of India (India Code)
+- Date: 2008-12-31
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: South Asia
+- Theme: agencies
+- URL: [https://www.indiacode.nic.in/handle/123456789/2054](https://www.indiacode.nic.in/handle/123456789/2054)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Notes: URL from search index; not verified: curl timed out twice and WebFetch timed out on 2026-11-19. Date taken from IN-NIA-ACT2008-HI.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="PK-NACTA-ACT2013"></a>
+## PK-NACTA-ACT2013
+
+**National Counter Terrorism Authority Act, 2013 (Act No. XIX of 2013)**
+
+- Issuing body: National Counter Terrorism Authority (Government of Pakistan)
+- Date: 2013
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: South Asia
+- Theme: agencies
+- URL: [https://nacta.gov.pk/wp-content/uploads/2017/09/NACTA-Act.pdf](https://nacta.gov.pk/wp-content/uploads/2017/09/NACTA-Act.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/PK-NACTA-ACT2013.* Day and month not in the capture \[UNKNOWN\].
+
+Cited by: [T215](../../timeline/post-9-11-2001-2014.md#T215)
+
+<a id="MV-NCTC-LAWS"></a>
+## MV-NCTC-LAWS
+
+**National Counter Terrorism Centre (laws page)**
+
+- Issuing body: National Counter Terrorism Centre (Maldives)
+- Date: \[UNKNOWN\]
+- Type: agency history
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: agencies
+- URL: [https://www.nctc.gov.mv/html/laws.html](https://www.nctc.gov.mv/html/laws.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/MV-NCTC-LAWS.* Short page (about 900 characters of text).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="JP-KOUANSHIN-AUM"></a>
+## JP-KOUANSHIN-AUM
+
+**オウム真理教に対する観察処分の期間更新決定の概要について（令和6年1月12日）**
+
+- Issuing body: 公安審査委員会 (Public Security Examination Commission, Ministry of Justice)
+- Date: 2024-01-12
+- Type: other
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: agencies
+- URL: [https://www.moj.go.jp/kouanshin/kouanshin_00025.html](https://www.moj.go.jp/kouanshin/kouanshin_00025.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Japanese
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/JP-KOUANSHIN-AUM.* The Commission states it decided, on the request of the Director-General of the Public Security Intelligence Agency under the Act on the Control of Organizations Which Have Committed Acts of Indiscriminate Mass Murder, to renew the observation measure. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T228](../../timeline/recent-2014-now.md#T228)
+
+<a id="JP-PSIA-AUM2024"></a>
+## JP-PSIA-AUM2024
+
+**無差別大量殺人行為を行った団体の規制に関する法律に基づく観察処分の期間の更新決定（8回目）について（令和6年1月12日決定）**
+
+- Issuing body: 公安調査庁 (Public Security Intelligence Agency)
+- Date: 2024-01-12
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: agencies
+- URL: [https://www.moj.go.jp/psia/aum-20240112kansatsushobun.html](https://www.moj.go.jp/psia/aum-20240112kansatsushobun.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Japanese
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/JP-PSIA-AUM2024.* English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T228](../../timeline/recent-2014-now.md#T228)
+
+<a id="SG-NAS-MHA2002"></a>
+## SG-NAS-MHA2002
+
+**Government News Release on the ISA Arrests: The Advisory Board Sits (MHA press release, 25 Feb 2002)**
+
+- Issuing body: Ministry of Home Affairs, Singapore (National Archives of Singapore)
+- Date: 2002-02-25
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: East/Southeast Asia
+- Theme: agencies
+- URL: [https://www.nas.gov.sg/archivesonline/data/pdfdoc/2002022501.htm](https://www.nas.gov.sg/archivesonline/data/pdfdoc/2002022501.htm)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Notes: URL from search index; not verified: curl got HTTP 202 with an empty body on 2026-11-19. Title and date from the search listing.
 
 Cited by: none in `data/timeline.csv`.
