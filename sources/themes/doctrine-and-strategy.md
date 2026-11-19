@@ -6,7 +6,7 @@ Published national and regional strategy documents.
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-7 sources in this theme.
+11 sources in this theme.
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -25,8 +25,9 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 - Theme: doctrine and strategy
 - URL: [https://data.consilium.europa.eu/doc/document/ST-14469-2005-REV-4/en/pdf](https://data.consilium.europa.eu/doc/document/ST-14469-2005-REV-4/en/pdf)
 - Accessed: 2026-11-18
-- Verified: `no`
-- Notes: HTTP 200; expected title text not found. PDF fetched (HTTP 200) but its text layer is unreadable; title not machine-confirmed.
+- Verified: `yes`
+- Language: \[UNKNOWN\]
+- Notes: Same cited URL re-fetched on 2026-11-18 (HTTP 200). The PDF text layer is unreadable; title and date confirmed by OCR of pages 1-2 ('Brussels, 30 November 2005 ... 14469/4/05 REV 4 ... Subject: The European Union Counter-Terrorism Strategy').
 
 Cited by: [T088](../../timeline/post-9-11-2001-2014.md#T088)
 
@@ -46,6 +47,7 @@ Cited by: [T088](../../timeline/post-9-11-2001-2014.md#T088)
 - URL: [https://2001-2009.state.gov/s/ct/rls/wh/71803.htm](https://2001-2009.state.gov/s/ct/rls/wh/71803.htm)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: none in `data/timeline.csv`.
 
@@ -65,6 +67,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://obamawhitehouse.archives.gov/sites/default/files/counterterrorism_strategy.pdf](https://obamawhitehouse.archives.gov/sites/default/files/counterterrorism_strategy.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T105](../../timeline/post-9-11-2001-2014.md#T105)
 
@@ -84,7 +87,8 @@ Cited by: [T105](../../timeline/post-9-11-2001-2014.md#T105)
 - URL: [https://www.dni.gov/files/NCTC/documents/news_documents/NSCT.pdf](https://www.dni.gov/files/NCTC/documents/news_documents/NSCT.pdf)
 - Accessed: 2026-11-18
 - Verified: `no`
-- Notes: HTTP 403.
+- Language: \[UNKNOWN\]
+- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/NSCT.pdf Accessed 2026-11-18.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -104,6 +108,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T130](../../timeline/recent-2014-now.md#T130)
 
@@ -123,6 +128,7 @@ Cited by: [T130](../../timeline/recent-2014-now.md#T130)
 - URL: [https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: none in `data/timeline.csv`.
 
@@ -142,5 +148,90 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.gov.uk/government/publications/counter-terrorism-strategy-contest-2023](https://www.gov.uk/government/publications/counter-terrorism-strategy-contest-2023)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T132](../../timeline/recent-2014-now.md#T132)
+
+<a id="ECOWAS-CT2013-IP"></a>
+## ECOWAS-CT2013-IP
+
+**ECOWAS Counter-Terrorism Strategy Implementation Plan**
+
+- Issuing body: Economic Community of West African States
+- Date: 2013-02-28
+- Type: other
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: doctrine and strategy
+- URL: [https://www.ecowas.int/wp-content/uploads/2022/08/IMPLEMENTATION-PLAN-CT.pdf](https://www.ecowas.int/wp-content/uploads/2022/08/IMPLEMENTATION-PLAN-CT.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/ECOWAS-CT2013-IP.*
+
+Cited by: [T165](../../timeline/post-9-11-2001-2014.md#T165)
+
+<a id="ECOWAS-CT2013-SA"></a>
+## ECOWAS-CT2013-SA
+
+**Supplementary Act A/SA.3/02/13 Adopting the ECOWAS Strategy for Combating Terrorism, and its Implementation Plan**
+
+- Issuing body: ECOWAS (AfricanLII copy)
+- Date: 2013-02-28
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: doctrine and strategy
+- URL: [https://africanlii.org/en/akn/aa-ecowas/act/2013/2-3/eng@2013-02-28/source.pdf](https://africanlii.org/en/akn/aa-ecowas/act/2013/2-3/eng@2013-02-28/source.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Verified via WebFetch (no raw capture of readable text): WebFetch text: 'Supplementary Act A/SA.3/02/13 ... Done at Yamoussoukro, this 28th day of February 2013'
+
+Cited by: [T165](../../timeline/post-9-11-2001-2014.md#T165)
+
+<a id="AU-POA2002"></a>
+## AU-POA2002
+
+**Plan of Action of the African Union High-Level Inter-Governmental Meeting on the Prevention and Combating of Terrorism in Africa (Algiers, 11-14 September 2002)**
+
+- Issuing body: African Union (ACSRT/CAERT copy)
+- Date: 2002-09-14
+- Type: other
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: doctrine and strategy
+- URL: [https://caert.org.dz/wp-content/uploads/2025/06/plan_action_en.pdf](https://caert.org.dz/wp-content/uploads/2025/06/plan_action_en.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/AU-POA2002.*
+
+Cited by: [T149](../../timeline/post-9-11-2001-2014.md#T149)
+
+<a id="AU-POA2002-PSD"></a>
+## AU-POA2002-PSD
+
+**Plan of Action of the African Union High-Level Inter-Governmental Meeting on the Prevention and Combating of Terrorism in Africa**
+
+- Issuing body: African Union Peace and Security Department
+- Date: 2002-09-14
+- Type: other
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: doctrine and strategy
+- URL: [https://www.peaceau.org/uploads/au-anti-terrorism-plan-of-action.pdf](https://www.peaceau.org/uploads/au-anti-terrorism-plan-of-action.pdf)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 202; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: [T149](../../timeline/post-9-11-2001-2014.md#T149)

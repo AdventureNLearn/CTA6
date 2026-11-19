@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-5 sources in this region (`government` 3, `international` 2).
+22 sources in this region (`government` 13, `international` 3, `NGO` 3, `oversight` 3).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -24,6 +24,7 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 - URL: [https://www.state.gov/wp-content/uploads/2020/02/Agreement-For-Bringing-Peace-to-Afghanistan-02.29.20.pdf](https://www.state.gov/wp-content/uploads/2020/02/Agreement-For-Bringing-Peace-to-Afghanistan-02.29.20.pdf)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: [T128](../../timeline/recent-2014-now.md#T128)
 
@@ -43,6 +44,7 @@ Cited by: [T128](../../timeline/recent-2014-now.md#T128)
 - URL: [https://nia.gov.in/](https://nia.gov.in/)
 - Accessed: 2026-11-18
 - Verified: `no`
+- Language: \[UNKNOWN\]
 - Notes: HTTP 000. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -63,6 +65,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://nacta.gov.pk/](https://nacta.gov.pk/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -83,6 +86,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://undocs.org/S/RES/2255\(2015\)](https://undocs.org/S/RES/2255(2015))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: none in `data/timeline.csv`.
@@ -103,6 +107,364 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://undocs.org/S/RES/1988\(2011\)](https://undocs.org/S/RES/1988(2011))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T104](../../timeline/post-9-11-2001-2014.md#T104)
+
+<a id="SR-LKA-2019"></a>
+## SR-LKA-2019
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Sri Lanka (A/HRC/40/52/Add.3)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2018-12-14
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/40/52/Add.3](https://undocs.org/A/HRC/40/52/Add.3)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-LKA-2019.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="IN-UAPA1967"></a>
+## IN-UAPA1967
+
+**The Unlawful Activities (Prevention) Act, 1967**
+
+- Issuing body: India Code (Legislative Department, Ministry of Law and Justice)
+- Date: 1967-12-30
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1945-1990
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.indiacode.nic.in/handle/123456789/1470](https://www.indiacode.nic.in/handle/123456789/1470)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Distinct from the dropped phase 1 MHA URL. HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: [T136](../../timeline/1945-1990.md#T136)
+
+<a id="IN-NIA-UAPA"></a>
+## IN-NIA-UAPA
+
+**Unlawful Activities Prevention Act and Rules**
+
+- Issuing body: National Investigation Agency, India
+- Date: \[UNKNOWN\]
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: agencies
+- URL: [https://nia.gov.in/uapa](https://nia.gov.in/uapa)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="PK-ATA1997"></a>
+## PK-ATA1997
+
+**Anti Terrorism Act (ATA), 1997**
+
+- Issuing body: Pakistan Code (Ministry of Law and Justice)
+- Date: 1997-08-20
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2Npappq-sg-jjjjjjjjjjjjj](https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2Npappq-sg-jjjjjjjjjjjjj)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="PK-ATA1997-FIA"></a>
+## PK-ATA1997-FIA
+
+**The Anti-Terrorism Act, 1997**
+
+- Issuing body: Federal Investigation Agency, Pakistan
+- Date: 1997-08-20
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.fia.gov.pk/public/files/laws/2060818757.pdf](https://www.fia.gov.pk/public/files/laws/2060818757.pdf)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 500; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="LK-MOJ-PTA"></a>
+## LK-MOJ-PTA
+
+**Prevention of Terrorism (Temporary Provisions) Act, No. 48 of 1979 (public consultation page)**
+
+- Issuing body: Ministry of Justice, Sri Lanka
+- Date: \[UNKNOWN\]
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.moj.gov.lk/index.php/en/public-consultation/prevention-of-terrorism-temporary-provisions-act-no-48-of-1979](https://www.moj.gov.lk/index.php/en/public-consultation/prevention-of-terrorism-temporary-provisions-act-no-48-of-1979)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/LK-MOJ-PTA.*
+
+Cited by: [T187](../../timeline/recent-2014-now.md#T187)
+
+<a id="BD-ATA2009"></a>
+## BD-ATA2009
+
+**সন্ত্রাস বিরোধী আইন, ২০০৯**
+
+- Issuing body: Bangladesh Laws (Legislative and Parliamentary Affairs Division)
+- Date: 2009-02-24
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://bdlaws.minlaw.gov.bd/act-1009.html](https://bdlaws.minlaw.gov.bd/act-1009.html)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Bengali
+- Notes: URL taken from a web-search result listing, then fetched. English title: Anti-Terrorism Act, 2009 (English given on the site's English view) Page is UTF-16; decoded text reads 'সন্ত্রাস বিরোধী আইন, ২০০৯ (২০০৯ সনের ১৬ নং আইন) \[২৪ ফেব্রুয়ারি ...\]'. Raw: pass2/raw/BD-ATA2009.*
+
+Cited by: [T159](../../timeline/post-9-11-2001-2014.md#T159)
+
+<a id="SAARC-1987"></a>
+## SAARC-1987
+
+**SAARC Regional Convention on Suppression of Terrorism (Kathmandu, 4 November 1987)**
+
+- Issuing body: SAARC (text hosted by the University of Oslo Faculty of Law treaty library)
+- Date: 1987-11-04
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: 1945-1990
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.jus.uio.no/english/services/library/treaties/04/4-02/saarc-suppression-terrorism.html](https://www.jus.uio.no/english/services/library/treaties/04/4-02/saarc-suppression-terrorism.html)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Third-party academic mirror of the treaty text. HTTP 200; expected text found. Raw: pass2/raw/SAARC-1987.* Page reads 'Done at: Kathmandu; Date enacted: 1987-11-04; In force: 1988-08-22'.
+
+Cited by: [T140](../../timeline/1945-1990.md#T140)
+
+<a id="HRW-LKA-2022"></a>
+## HRW-LKA-2022
+
+**"In a Legal Black Hole": Sri Lanka's Failure to Reform the Prevention of Terrorism Act**
+
+- Issuing body: Human Rights Watch
+- Date: 2022-02-07
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.hrw.org/sites/default/files/media_2022/02/srilanka0222_web.pdf](https://www.hrw.org/sites/default/files/media_2022/02/srilanka0222_web.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Characterisations are HRW's. HTTP 200; expected text found. Raw: pass2/raw/HRW-LKA-2022.*
+
+Cited by: [T187](../../timeline/recent-2014-now.md#T187)
+
+<a id="AMN-IND-2023"></a>
+## AMN-IND-2023
+
+**India: Arrests, raids target critics of government (ASA 20/7303/2023)**
+
+- Issuing body: Amnesty International
+- Date: 2023-10
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.amnesty.org/en/wp-content/uploads/2023/10/ASA2073032023ENGLISH.pdf](https://www.amnesty.org/en/wp-content/uploads/2023/10/ASA2073032023ENGLISH.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Characterisations are Amnesty International's. HTTP 200; expected text found. Raw: pass2/raw/AMN-IND-2023.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="AMN-IND-2024"></a>
+## AMN-IND-2024
+
+**Human Rights Charter - India (ASA 20/8154/2024)**
+
+- Issuing body: Amnesty International
+- Date: 2024-06-13
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.amnesty.org/en/wp-content/uploads/2024/06/ASA2081542024ENGLISH.pdf](https://www.amnesty.org/en/wp-content/uploads/2024/06/ASA2081542024ENGLISH.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/AMN-IND-2024.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SR-MDV-2023"></a>
+## SR-MDV-2023
+
+**Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: visit to Maldives (A/HRC/52/39/Add.1)**
+
+- Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
+- Date: 2023-03-15
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: studies and evaluations
+- URL: [https://undocs.org/A/HRC/52/39/Add.1](https://undocs.org/A/HRC/52/39/Add.1)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-MDV-2023.* Text: visit to Maldives from 15 to 24 May 2022.
+
+Cited by: [T189](../../timeline/recent-2014-now.md#T189)
+
+<a id="HRCSL-PRISON-2020"></a>
+## HRCSL-PRISON-2020
+
+**Prison Study by the Human Rights Commission of Sri Lanka (concise version)**
+
+- Issuing body: Human Rights Commission of Sri Lanka
+- Date: 2020
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: studies and evaluations
+- URL: [https://www.hrcsl.lk/wp-content/uploads/2020/01/Prison-Study-by-HRCSL_Concise-Version.pdf](https://www.hrcsl.lk/wp-content/uploads/2020/01/Prison-Study-by-HRCSL_Concise-Version.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Includes a section on PTA prisoners. HTTP 200; expected text found. Raw: pass2/raw/HRCSL-PRISON-2020.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="IN-UAPA-HI"></a>
+## IN-UAPA-HI
+
+**विधिविरुद्ध क्रियाकलाप (निवारण) अधिनियम, 1967 (हिंदी पाठ)**
+
+- Issuing body: Government of India (file on the government s3waas hosting platform)
+- Date: 1967-12-30
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1945-1990
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2023/02/2023022073-1.pdf](https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2023/02/2023022073-1.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Hindi
+- Notes: URL taken from a web-search result listing, then fetched. Hosting ministry not identified from the URL \[UNKNOWN\]. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/IN-UAPA-HI.* Text (Hindi, ligatures garbled in extraction) reads '1967 का अधिनियम संख्यांक 37 ... \[30 दिसम्बर, 1967\]'.
+
+Cited by: [T136](../../timeline/1945-1990.md#T136)
+
+<a id="IN-NIA-UAPA-HI"></a>
+## IN-NIA-UAPA-HI
+
+**यूएपीए | राष्ट्रीय अन्वेषण अभिकरण**
+
+- Issuing body: राष्ट्रीय अन्वेषण अभिकरण (National Investigation Agency, India)
+- Date: \[UNKNOWN\]
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: agencies
+- URL: [https://nia.gov.in/hi/uapa](https://nia.gov.in/hi/uapa)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: Hindi
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="PK-CODE-URDU"></a>
+## PK-CODE-URDU
+
+**Pakistan Code: Urdu laws index**
+
+- Issuing body: Pakistan Code (Ministry of Law and Justice)
+- Date: \[UNKNOWN\]
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://www.pakistancode.gov.pk/english/UHyrdu.php](https://www.pakistancode.gov.pk/english/UHyrdu.php)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: Urdu
+- Notes: URL taken from a web-search result listing, then fetched. Index page listing Urdu texts; Urdu ATA 1997 entry not confirmed in capture. HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="PK-NACTA-ATA"></a>
+## PK-NACTA-ATA
+
+**Anti-Terrorism Act, 1997 (as published by NACTA)**
+
+- Issuing body: National Counter Terrorism Authority, Pakistan
+- Date: 1997
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: 1990-2001
+- Region: South Asia
+- Theme: laws and treaties
+- URL: [https://nacta.gov.pk/wp-content/uploads/2023/01/1-Anti-Terrorism-Act.pdf](https://nacta.gov.pk/wp-content/uploads/2023/01/1-Anti-Terrorism-Act.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/PK-NACTA-ATA.*
+
+Cited by: none in `data/timeline.csv`.

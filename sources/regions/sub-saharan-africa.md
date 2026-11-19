@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-9 sources in this region (`government` 2, `international` 7).
+30 sources in this region (`government` 7, `international` 17, `NGO` 4, `oversight` 2).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -24,6 +24,7 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 - URL: [https://undocs.org/S/RES/1189\(1998\)](https://undocs.org/S/RES/1189(1998))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T043](../../timeline/1990-2001.md#T043)
@@ -44,9 +45,10 @@ Cited by: [T043](../../timeline/1990-2001.md#T043)
 - URL: [https://au.int/en/treaties/oau-convention-prevention-and-combating-terrorism](https://au.int/en/treaties/oau-convention-prevention-and-combating-terrorism)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: AU page gives date of adoption 1 Jul 1999 and entry into force 6 Dec 2002.
 
-Cited by: [T045](../../timeline/1990-2001.md#T045)
+Cited by: [T045](../../timeline/1990-2001.md#T045), [T145](../../timeline/1990-2001.md#T145)
 
 <a id="AU-ACSRT"></a>
 ## AU-ACSRT
@@ -64,6 +66,7 @@ Cited by: [T045](../../timeline/1990-2001.md#T045)
 - URL: [https://caert.org.dz/](https://caert.org.dz/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -84,7 +87,8 @@ Cited by: none in `data/timeline.csv`.
 - URL: [http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/PreventionofTerrorismAct_No30of2012.pdf](http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/PreventionofTerrorismAct_No30of2012.pdf)
 - Accessed: 2026-11-18
 - Verified: `no`
-- Notes: HTTP 500. URL not confirmed (HTTP 500).
+- Language: \[UNKNOWN\]
+- Notes: HTTP 500. URL not confirmed (HTTP 500). Same Act located at Kenya Law's current site https://new.kenyalaw.org/akn/ke/act/2012/30 (from search index); HTTP 202 (curl) and 403 (WebFetch), so still not verified. Added as KE-POTA2012-KL (verified no).
 
 Cited by: none in `data/timeline.csv`.
 
@@ -104,6 +108,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.gov.za/documents/protection-constitutional-democracy-against-terrorist-and-related-activities-act-0](https://www.gov.za/documents/protection-constitutional-democracy-against-terrorist-and-related-activities-act-0)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 
 Cited by: none in `data/timeline.csv`.
 
@@ -123,6 +128,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://undocs.org/S/RES/2359\(2017\)](https://undocs.org/S/RES/2359(2017))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T122](../../timeline/recent-2014-now.md#T122)
@@ -143,6 +149,7 @@ Cited by: [T122](../../timeline/recent-2014-now.md#T122)
 - URL: [https://undocs.org/S/RES/2349\(2017\)](https://undocs.org/S/RES/2349(2017))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T119](../../timeline/recent-2014-now.md#T119)
@@ -163,6 +170,7 @@ Cited by: [T119](../../timeline/recent-2014-now.md#T119)
 - URL: [https://undocs.org/S/RES/1044\(1996\)](https://undocs.org/S/RES/1044(1996))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T037](../../timeline/1990-2001.md#T037)
@@ -183,6 +191,448 @@ Cited by: [T037](../../timeline/1990-2001.md#T037)
 - URL: [https://undocs.org/S/RES/1450\(2002\)](https://undocs.org/S/RES/1450(2002))
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified via the English PDF from documents.un.org (ODS)
 
 Cited by: [T066](../../timeline/post-9-11-2001-2014.md#T066)
+
+<a id="UNSC2056"></a>
+## UNSC2056
+
+**Security Council resolution 2056 (2012): Peace and security in Africa (Mali)**
+
+- Issuing body: UN Security Council
+- Date: 2012-07-05
+- Type: UN resolution
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: UN and international frameworks
+- URL: [https://undocs.org/S/RES/2056\(2012\)](https://undocs.org/S/RES/2056(2012))
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/UNSC2056.*
+
+Cited by: [T163](../../timeline/post-9-11-2001-2014.md#T163)
+
+<a id="UNSC2391"></a>
+## UNSC2391
+
+**Security Council resolution 2391 (2017): Peace and security in Africa (G5 Sahel Joint Force support)**
+
+- Issuing body: UN Security Council
+- Date: 2017-12-08
+- Type: UN resolution
+- Tag: `primary`
+- Origin: `international`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: UN and international frameworks
+- URL: [https://undocs.org/S/RES/2391\(2017\)](https://undocs.org/S/RES/2391(2017))
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/UNSC2391.*
+
+Cited by: [T180](../../timeline/recent-2014-now.md#T180)
+
+<a id="AU-PROTOCOL2004"></a>
+## AU-PROTOCOL2004
+
+**Protocol to the OAU Convention on the Prevention and Combating of Terrorism**
+
+- Issuing body: African Union
+- Date: 2004-07-01
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://au.int/en/treaties/protocol-oau-convention-prevention-and-combating-terrorism](https://au.int/en/treaties/protocol-oau-convention-prevention-and-combating-terrorism)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/AU-PROTOCOL2004.* AU treaty page reads 'Date of Adoption Thu, 1 Jul 2004'.
+
+Cited by: [T151](../../timeline/post-9-11-2001-2014.md#T151)
+
+<a id="KE-NCTC"></a>
+## KE-NCTC
+
+**National Counter Terrorism Centre (Kenya) (home page)**
+
+- Issuing body: National Counter Terrorism Centre, Kenya
+- Date: \[UNKNOWN\]
+- Type: agency history
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: agencies
+- URL: [https://counterterrorism.go.ke/](https://counterterrorism.go.ke/)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/KE-NCTC.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="KE-POTA2012-KL"></a>
+## KE-POTA2012-KL
+
+**Prevention of Terrorism Act (No. 30 of 2012)**
+
+- Issuing body: Kenya Law (National Council for Law Reporting)
+- Date: 2012
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://new.kenyalaw.org/akn/ke/act/2012/30](https://new.kenyalaw.org/akn/ke/act/2012/30)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Same Act as phase 1 KE-POTA2012 at Kenya Law's current site. HTTP 202; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="NG-TPPA2022"></a>
+## NG-TPPA2022
+
+**Terrorism (Prevention and Prohibition) Act, 2022 (Federal Republic of Nigeria Official Gazette)**
+
+- Issuing body: Special Control Unit against Money Laundering (EFCC), Nigeria
+- Date: 2022-05-12
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://scuml.efcc.gov.ng/wp-content/uploads/2022/05/TERRORISM-PREVENTION-publication.pdf](https://scuml.efcc.gov.ng/wp-content/uploads/2022/05/TERRORISM-PREVENTION-publication.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/NG-TPPA2022.* Text reads '\[12th Day of May, 2022\] ENACTED by the National Assembly'; Official Gazette No. 91, Lagos 16 May 2022.
+
+Cited by: [T188](../../timeline/recent-2014-now.md#T188)
+
+<a id="ECOWAS-CT2013-IP"></a>
+## ECOWAS-CT2013-IP
+
+**ECOWAS Counter-Terrorism Strategy Implementation Plan**
+
+- Issuing body: Economic Community of West African States
+- Date: 2013-02-28
+- Type: other
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: doctrine and strategy
+- URL: [https://www.ecowas.int/wp-content/uploads/2022/08/IMPLEMENTATION-PLAN-CT.pdf](https://www.ecowas.int/wp-content/uploads/2022/08/IMPLEMENTATION-PLAN-CT.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/ECOWAS-CT2013-IP.*
+
+Cited by: [T165](../../timeline/post-9-11-2001-2014.md#T165)
+
+<a id="ECOWAS-CT2013-SA"></a>
+## ECOWAS-CT2013-SA
+
+**Supplementary Act A/SA.3/02/13 Adopting the ECOWAS Strategy for Combating Terrorism, and its Implementation Plan**
+
+- Issuing body: ECOWAS (AfricanLII copy)
+- Date: 2013-02-28
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: doctrine and strategy
+- URL: [https://africanlii.org/en/akn/aa-ecowas/act/2013/2-3/eng@2013-02-28/source.pdf](https://africanlii.org/en/akn/aa-ecowas/act/2013/2-3/eng@2013-02-28/source.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Verified via WebFetch (no raw capture of readable text): WebFetch text: 'Supplementary Act A/SA.3/02/13 ... Done at Yamoussoukro, this 28th day of February 2013'
+
+Cited by: [T165](../../timeline/post-9-11-2001-2014.md#T165)
+
+<a id="ACHPR-CT2015"></a>
+## ACHPR-CT2015
+
+**Principles and Guidelines on Human and Peoples' Rights while Countering Terrorism in Africa**
+
+- Issuing body: African Commission on Human and Peoples' Rights
+- Date: 2015
+- Type: other
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: studies and evaluations
+- URL: [https://achpr.au.int/en/special-mechanisms-reports/principles-guidelines-countering-terrorism](https://achpr.au.int/en/special-mechanisms-reports/principles-guidelines-countering-terrorism)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/ACHPR-CT2015.* Adoption year 2015 from search listing.
+
+Cited by: [T169](../../timeline/recent-2014-now.md#T169)
+
+<a id="AU-POA2002"></a>
+## AU-POA2002
+
+**Plan of Action of the African Union High-Level Inter-Governmental Meeting on the Prevention and Combating of Terrorism in Africa (Algiers, 11-14 September 2002)**
+
+- Issuing body: African Union (ACSRT/CAERT copy)
+- Date: 2002-09-14
+- Type: other
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: doctrine and strategy
+- URL: [https://caert.org.dz/wp-content/uploads/2025/06/plan_action_en.pdf](https://caert.org.dz/wp-content/uploads/2025/06/plan_action_en.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/AU-POA2002.*
+
+Cited by: [T149](../../timeline/post-9-11-2001-2014.md#T149)
+
+<a id="AU-POA2002-PSD"></a>
+## AU-POA2002-PSD
+
+**Plan of Action of the African Union High-Level Inter-Governmental Meeting on the Prevention and Combating of Terrorism in Africa**
+
+- Issuing body: African Union Peace and Security Department
+- Date: 2002-09-14
+- Type: other
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: doctrine and strategy
+- URL: [https://www.peaceau.org/uploads/au-anti-terrorism-plan-of-action.pdf](https://www.peaceau.org/uploads/au-anti-terrorism-plan-of-action.pdf)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 202; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: [T149](../../timeline/post-9-11-2001-2014.md#T149)
+
+<a id="AU-OAU1999-TEXT"></a>
+## AU-OAU1999-TEXT
+
+**List of countries which have signed, ratified/acceded to the OAU Convention on the Prevention and Combating of Terrorism (status list dated 15/06/2017)**
+
+- Issuing body: African Union
+- Date: 2017-06-15
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: 1990-2001
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://www.au.int/sites/default/files/treaties/37289-sl-oau_convention_on_the_prevention_and_combating_of_terrorism_1.pdf](https://www.au.int/sites/default/files/treaties/37289-sl-oau_convention_on_the_prevention_and_combating_of_terrorism_1.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/AU-OAU1999-TEXT.* Status list; text reads 'Adopted in Algiers, Algeria, on 14 July 1999'.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="UN-OAU1999-COPY"></a>
+## UN-OAU1999-COPY
+
+**OAU Convention on the Prevention and Combating of Terrorism, 1999 (UN Treaty Collection compilation copy)**
+
+- Issuing body: United Nations Treaty Collection
+- Date: 1999-07-14
+- Type: treaty
+- Tag: `primary`
+- Origin: `international`
+- Era: 1990-2001
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://treaties.un.org/doc/db/Terrorism/OAU-english.pdf](https://treaties.un.org/doc/db/Terrorism/OAU-english.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/UN-OAU1999-COPY.* Text reads 'Adopted at Algiers on 14 July 1999'.
+
+Cited by: [T145](../../timeline/1990-2001.md#T145)
+
+<a id="AU-AHG-DEC132"></a>
+## AU-AHG-DEC132
+
+**AHG/Dec.132 (XXXV) Decision on the Report of the Secretary-General on the Ministerial Conference on the OAU Convention on the Prevention and Combating of Terrorism**
+
+- Issuing body: OAU Assembly of Heads of State and Government (AU Archives)
+- Date: 1999-07
+- Type: other
+- Tag: `primary`
+- Origin: `international`
+- Era: 1990-2001
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://archives.au.int/bitstream/handle/123456789/506/AHG%20Dec%20132%20%28XXXV%29%20_E.pdf?isAllowed=y&sequence=1](https://archives.au.int/bitstream/handle/123456789/506/AHG%20Dec%20132%20%28XXXV%29%20_E.pdf?isAllowed=y&sequence=1)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/AU-AHG-DEC132.* Text: 'OAU 35th Assembly ... Algiers, 12-14 July 1999 ... ADOPTS the OAU Convention'.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="ZA-POCDATARA-AM2022"></a>
+## ZA-POCDATARA-AM2022
+
+**Protection of Constitutional Democracy against Terrorist and Related Activities Amendment Act 23 of 2022**
+
+- Issuing body: Government of South Africa (gov.za)
+- Date: 2022-12-23
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://www.gov.za/sites/default/files/gcis_document/202212/47803-protectionofconstidemocracyagainstterroristrelatedactivamendmentact-232022.pdf](https://www.gov.za/sites/default/files/gcis_document/202212/47803-protectionofconstidemocracyagainstterroristrelatedactivamendmentact-232022.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/ZA-POCDATARA-AM2022.* Text reads 'Assented to 23 December 2022'.
+
+Cited by: [T190](../../timeline/recent-2014-now.md#T190)
+
+<a id="ML-LOI08-025"></a>
+## ML-LOI08-025
+
+**Journal officiel de la République du Mali 2008 n° 34 (contient la loi n° 08-025 du 23 juillet 2008 portant répression du terrorisme)**
+
+- Issuing body: Secrétariat général du Gouvernement, Mali
+- Date: 2008-07-23
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Sub-Saharan Africa
+- Theme: laws and treaties
+- URL: [https://sgg-mali.ml/JO/2008/mali-jo-2008-34.pdf](https://sgg-mali.ml/JO/2008/mali-jo-2008-34.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: French
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/ML-LOI08-025.* Text reads 'LOI N°08-025/ DU 23 JUILLET 2008 PORTANT REPRESSION DU TERRORISME AU MALI'.
+
+Cited by: [T157](../../timeline/post-9-11-2001-2014.md#T157)
+
+<a id="AMN-NGA-2015"></a>
+## AMN-NGA-2015
+
+**Stars on their shoulders. Blood on their hands. War crimes committed by the Nigerian military (AFR 44/1657/2015)**
+
+- Issuing body: Amnesty International
+- Date: 2015-06-03
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: major operations
+- URL: [https://www.amnesty.org/en/wp-content/uploads/2021/05/AFR4416572015ENGLISH.pdf](https://www.amnesty.org/en/wp-content/uploads/2021/05/AFR4416572015ENGLISH.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Report's characterisations are Amnesty International's. HTTP 200; expected text found. Raw: pass2/raw/AMN-NGA-2015.*
+
+Cited by: [T170](../../timeline/recent-2014-now.md#T170)
+
+<a id="HRW-KEN-2016"></a>
+## HRW-KEN-2016
+
+**Deaths and Disappearances: Abuses in Counterterrorism Operations in Nairobi and in Northeastern Kenya**
+
+- Issuing body: Human Rights Watch
+- Date: 2016-07-20
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: major operations
+- URL: [https://www.hrw.org/sites/default/files/report_pdf/kenya0716web_1.pdf](https://www.hrw.org/sites/default/files/report_pdf/kenya0716web_1.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Characterisations are HRW's. HTTP 200; expected text found. Raw: pass2/raw/HRW-KEN-2016.*
+
+Cited by: [T177](../../timeline/recent-2014-now.md#T177)
+
+<a id="FIDH-SAHEL-2025"></a>
+## FIDH-SAHEL-2025
+
+**Civic space and human rights defenders in the Sahel**
+
+- Issuing body: FIDH (International Federation for Human Rights)
+- Date: 2025-02-19
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: studies and evaluations
+- URL: [https://www.fidh.org/IMG/pdf/20250219_fidh_rapport-obs-sahel_en.pdf](https://www.fidh.org/IMG/pdf/20250219_fidh_rapport-obs-sahel_en.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/FIDH-SAHEL-2025.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="FIDH-MLI-2018"></a>
+## FIDH-MLI-2018
+
+**Central Mali: populations caught between terrorism and counter-terrorism**
+
+- Issuing body: FIDH (International Federation for Human Rights)
+- Date: 2018-11
+- Type: other
+- Tag: `secondary`
+- Origin: `NGO`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: major operations
+- URL: [https://www.fidh.org/IMG/pdf/fidh_centre-of-mali_population-sized-between-terrorism-and-counter-terrorism_727_en_november2018.pdf](https://www.fidh.org/IMG/pdf/fidh_centre-of-mali_population-sized-between-terrorism-and-counter-terrorism_727_en_november2018.pdf)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/FIDH-MLI-2018.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="KNCHR-2015"></a>
+## KNCHR-2015
+
+**"The Error of Fighting Terror with Terror": preliminary report of KNCHR investigations on human rights abuses in the ongoing crackdown against terrorism**
+
+- Issuing body: Kenya National Commission on Human Rights
+- Date: 2015-09
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: studies and evaluations
+- URL: [http://www.knchr.org/Portals/0/CivilAndPoliticalReports/The%20Error%20of%20Fighting%20Terror%20With%20Terror.pdf](http://www.knchr.org/Portals/0/CivilAndPoliticalReports/The%20Error%20of%20Fighting%20Terror%20With%20Terror.pdf)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. Characterisations are KNCHR's. HTTP 500; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.

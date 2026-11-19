@@ -6,7 +6,7 @@ Official histories and descriptions of national and international bodies.
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-22 sources in this theme.
+28 sources in this theme.
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -26,6 +26,7 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 - URL: [https://www.un.org/securitycouncil/ctc/content/about-us](https://www.un.org/securitycouncil/ctc/content/about-us)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T055](../../timeline/post-9-11-2001-2014.md#T055)
@@ -46,6 +47,7 @@ Cited by: [T055](../../timeline/post-9-11-2001-2014.md#T055)
 - URL: [https://www.un.org/counterterrorism/](https://www.un.org/counterterrorism/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T121](../../timeline/recent-2014-now.md#T121)
@@ -66,6 +68,7 @@ Cited by: [T121](../../timeline/recent-2014-now.md#T121)
 - URL: [https://www.unodc.org/unodc/en/terrorism/index.html](https://www.unodc.org/unodc/en/terrorism/index.html)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -86,6 +89,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.oas.org/en/sms/cicte/](https://www.oas.org/en/sms/cicte/)
 - Accessed: 2026-11-18
 - Verified: `no`
+- Language: \[UNKNOWN\]
 - Notes: HTTP 503. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -106,6 +110,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://caert.org.dz/](https://caert.org.dz/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -126,6 +131,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.fatf-gafi.org/en/the-fatf/history-of-the-fatf.html](https://www.fatf-gafi.org/en/the-fatf/history-of-the-fatf.html)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved. Undated web page; date \[UNKNOWN\].
 
 Cited by: [T029](../../timeline/1945-1990.md#T029), [T057](../../timeline/post-9-11-2001-2014.md#T057)
@@ -146,6 +152,7 @@ Cited by: [T029](../../timeline/1945-1990.md#T029), [T057](../../timeline/post-9
 - URL: [https://www.thegctf.org/](https://www.thegctf.org/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -166,6 +173,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.interpol.int/en/Crimes/Terrorism](https://www.interpol.int/en/Crimes/Terrorism)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -186,6 +194,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.fbi.gov/history/brief-history](https://www.fbi.gov/history/brief-history)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T002](../../timeline/pre-1945.md#T002)
@@ -206,6 +215,7 @@ Cited by: [T002](../../timeline/pre-1945.md#T002)
 - URL: [https://www.dni.gov/index.php/nctc-who-we-are/history](https://www.dni.gov/index.php/nctc-who-we-are/history)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved. Undated web page; date \[UNKNOWN\].
 
 Cited by: [T068](../../timeline/post-9-11-2001-2014.md#T068), [T078](../../timeline/post-9-11-2001-2014.md#T078)
@@ -226,6 +236,7 @@ Cited by: [T068](../../timeline/post-9-11-2001-2014.md#T068), [T078](../../timel
 - URL: [https://www.dhs.gov/creation-department-homeland-security](https://www.dhs.gov/creation-department-homeland-security)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: [T065](../../timeline/post-9-11-2001-2014.md#T065)
@@ -246,6 +257,7 @@ Cited by: [T065](../../timeline/post-9-11-2001-2014.md#T065)
 - URL: [https://www.state.gov/foreign-terrorist-organizations/](https://www.state.gov/foreign-terrorist-organizations/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -266,7 +278,8 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://history.state.gov/departmenthistory/people/principalofficers/coordinator-counterterrorism](https://history.state.gov/departmenthistory/people/principalofficers/coordinator-counterterrorism)
 - Accessed: 2026-11-18
 - Verified: `no`
-- Notes: HTTP 200; expected title text not found. HTTP 200 but page body is a script shell; entry text not present in HTML. Undated web page; date \[UNKNOWN\].
+- Language: \[UNKNOWN\]
+- Notes: HTTP 200; expected title text not found. HTTP 200 but page body is a script shell; entry text not present in HTML. Undated web page; date \[UNKNOWN\]. Retry via WebFetch: page now shows only a notice that Principal Officers database updates are suspended (posted 12 Jan 2024); coordinator list not displayed. verified stays no.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -286,6 +299,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.mi5.gov.uk/history](https://www.mi5.gov.uk/history)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved. Undated web page; date \[UNKNOWN\].
 
 Cited by: [T003](../../timeline/pre-1945.md#T003)
@@ -306,6 +320,7 @@ Cited by: [T003](../../timeline/pre-1945.md#T003)
 - URL: [https://www.bka.de/DE/UnsereAufgaben/Kooperationen/GTAZ/gtaz_node.html](https://www.bka.de/DE/UnsereAufgaben/Kooperationen/GTAZ/gtaz_node.html)
 - Accessed: 2026-11-18
 - Verified: `no`
+- Language: \[UNKNOWN\]
 - Notes: HTTP 000. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -326,6 +341,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://nia.gov.in/](https://nia.gov.in/)
 - Accessed: 2026-11-18
 - Verified: `no`
+- Language: \[UNKNOWN\]
 - Notes: HTTP 000. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -346,6 +362,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://nacta.gov.pk/](https://nacta.gov.pk/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -366,6 +383,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.pclob.gov/](https://www.pclob.gov/)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Verified on page title 'Home - PCLOB'. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -386,6 +404,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.bnpt.go.id/](https://www.bnpt.go.id/)
 - Accessed: 2026-11-18
 - Verified: `no`
+- Language: \[UNKNOWN\]
 - Notes: HTTP 200; expected title text not found. Bot-detection page. Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -406,6 +425,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.moj.go.jp/psia/English.html](https://www.moj.go.jp/psia/English.html)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -426,6 +446,7 @@ Cited by: none in `data/timeline.csv`.
 - URL: [https://www.nationalsecurity.gov.au/what-australia-is-doing/terrorist-organisations/listed-terrorist-organisations](https://www.nationalsecurity.gov.au/what-australia-is-doing/terrorist-organisations/listed-terrorist-organisations)
 - Accessed: 2026-11-18
 - Verified: `yes`
+- Language: \[UNKNOWN\]
 - Notes: Undated web page; date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
@@ -445,7 +466,134 @@ Cited by: none in `data/timeline.csv`.
 - Theme: agencies
 - URL: [https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx)
 - Accessed: 2026-11-18
+- Verified: `yes`
+- Language: \[UNKNOWN\]
+- Notes: Retry of the same cited URL on 2026-11-18 returned HTTP 200; page title 'Currently listed entities'. Undated web page; date \[UNKNOWN\].
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="SCO-RATS"></a>
+## SCO-RATS
+
+**Regional Anti-Terrorist Structure of the Shanghai Cooperation Organisation (official site)**
+
+- Issuing body: SCO RATS
+- Date: \[UNKNOWN\]
+- Type: agency history
+- Tag: `primary`
+- Origin: `international`
+- Era: recent (2014-now)
+- Region: Russia/Central Asia
+- Theme: agencies
+- URL: [https://ecrats.org/](https://ecrats.org/)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Russian
+- Notes: English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/SCO-RATS.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="KE-NCTC"></a>
+## KE-NCTC
+
+**National Counter Terrorism Centre (Kenya) (home page)**
+
+- Issuing body: National Counter Terrorism Centre, Kenya
+- Date: \[UNKNOWN\]
+- Type: agency history
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: agencies
+- URL: [https://counterterrorism.go.ke/](https://counterterrorism.go.ke/)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: HTTP 200; expected text found. Raw: pass2/raw/KE-NCTC.*
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="IN-NIA-UAPA"></a>
+## IN-NIA-UAPA
+
+**Unlawful Activities Prevention Act and Rules**
+
+- Issuing body: National Investigation Agency, India
+- Date: \[UNKNOWN\]
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: agencies
+- URL: [https://nia.gov.in/uapa](https://nia.gov.in/uapa)
+- Accessed: 2026-11-18
 - Verified: `no`
-- Notes: HTTP 000. Undated web page; date \[UNKNOWN\].
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="JP-PSIA-HIST"></a>
+## JP-PSIA-HIST
+
+**History (Public Security Intelligence Agency)**
+
+- Issuing body: Public Security Intelligence Agency, Japan
+- Date: \[UNKNOWN\]
+- Type: agency history
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: agencies
+- URL: [https://www.moj.go.jp/psia/English_History.html](https://www.moj.go.jp/psia/English_History.html)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: English
+- Notes: URL taken from a web-search result listing, then fetched. HTTP 200; expected text found. Raw: pass2/raw/JP-PSIA-HIST.*
+
+Cited by: [T146](../../timeline/1990-2001.md#T146)
+
+<a id="IN-NIA-UAPA-HI"></a>
+## IN-NIA-UAPA-HI
+
+**यूएपीए | राष्ट्रीय अन्वेषण अभिकरण**
+
+- Issuing body: राष्ट्रीय अन्वेषण अभिकरण (National Investigation Agency, India)
+- Date: \[UNKNOWN\]
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: agencies
+- URL: [https://nia.gov.in/hi/uapa](https://nia.gov.in/hi/uapa)
+- Accessed: 2026-11-18
+- Verified: `no`
+- Language: Hindi
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 000; expected text not confirmed (bot check, timeout or error). URL from search index.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="BR-ABIN-TERR"></a>
+## BR-ABIN-TERR
+
+**Terrorismo (Fontes de ameaças)**
+
+- Issuing body: Agência Brasileira de Inteligência (ABIN)
+- Date: \[UNKNOWN\]
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Latin America
+- Theme: agencies
+- URL: [https://www.gov.br/abin/pt-br/assuntos/fontes-de-ameacas/terrorismo](https://www.gov.br/abin/pt-br/assuntos/fontes-de-ameacas/terrorismo)
+- Accessed: 2026-11-18
+- Verified: `yes`
+- Language: Portuguese
+- Notes: URL taken from a web-search result listing, then fetched. English title: \[UNKNOWN\] HTTP 200; expected text found. Raw: pass2/raw/BR-ABIN-TERR.*
 
 Cited by: none in `data/timeline.csv`.
