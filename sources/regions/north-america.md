@@ -369,7 +369,7 @@ Cited by: [T105](../../timeline/post-9-11-2001-2014.md#T105)
 
 **National Strategy for Counterterrorism of the United States of America**
 
-Summary: The National Strategy for Counterterrorism of the United States of America, issued by the White House in October 2018. As its title states, it is the US national counterterrorism strategy of that year; its contents are not summarized in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed: the link returned HTTP 403 and later 404, although the document had been found at an official archive copy.
+Summary: The National Strategy for Counterterrorism of the United States of America, issued by the White House in October 2018, from the White House archive copy of the official PDF. As its title states, it is the US national counterterrorism strategy of that year; its contents are not summarized in CTA6 \[UNKNOWN\]. The original dni.gov URL returned 404 in round 4 and was replaced by this archive copy, which matches a Wayback Machine capture of the dni.gov file (20191222211347).
 
 - Issuing body: The White House (hosted by ODNI/NCTC)
 - Date: 2018-10
@@ -379,11 +379,11 @@ Summary: The National Strategy for Counterterrorism of the United States of Amer
 - Era: recent (2014-now)
 - Region: North America
 - Theme: doctrine and strategy
-- URL: [https://www.dni.gov/files/NCTC/documents/news_documents/NSCT.pdf](https://www.dni.gov/files/NCTC/documents/news_documents/NSCT.pdf)
-- Accessed: 2026-11-18
-- Verified: `no`
+- URL: [https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/NSCT.pdf](https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/NSCT.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/NSCT.pdf Accessed 2026-11-18. Retry 2026-11-19: curl HTTP 403 (Access Denied); WebFetch returned 404 - the file may have been removed from dni.gov \[UNKNOWN\]; verified stays no.
+- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/NSCT.pdf Accessed 2026-11-18. Retry 2026-11-19: curl HTTP 403 (Access Denied); WebFetch returned 404 - the file may have been removed from dni.gov \[UNKNOWN\]; verified stays no. Round 4 (2026-11-19): original dni.gov URL gone (404); replaced by the White House archive copy, which matches a Wayback Machine capture of the original dni.gov copy (https://web.archive.org/web/20191222211347/https://www.dni.gov/files/NCTC/documents/news_documents/NSCT.pdf). verified is now yes at the White House archive URL.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -437,7 +437,7 @@ Cited by: [T068](../../timeline/post-9-11-2001-2014.md#T068), [T078](../../timel
 
 **Creation of the Department of Homeland Security**
 
-Summary: The US Department of Homeland Security's page on its own creation. It says DHS was created by combining all or part of 22 federal departments and agencies into a unified department. It is cited for milestone T065; the page is undated \[UNKNOWN\].
+Summary: The US Department of Homeland Security's page on its own creation. It says DHS was created by combining all or part of 22 federal departments and agencies into a unified department. It is cited for milestone T065; the page shows 'Last Updated: 05/08/2023' (US date format).
 
 - Issuing body: US Department of Homeland Security
 - Date: \[UNKNOWN\]
@@ -575,7 +575,7 @@ Cited by: [T050](../../timeline/post-9-11-2001-2014.md#T050)
 
 **R. v. Bush, 542 U.S. 466 (2004)**
 
-Summary: The US Supreme Court decision R. v. Bush, 542 U.S. 466, decided on 28 June 2004, from the official U.S. Reports. As recorded in milestone T075, it concerned whether federal courts had jurisdiction over habeas petitions from detainees at Guantanamo. It is the first of the Guantanamo detention cases in CTA6, followed by T090 and T096; the holding is not quoted in CTA6 \[UNKNOWN\].
+Summary: The US Supreme Court decision R. v. Bush, 542 U.S. 466, decided on 28 June 2004, from the official U.S. Reports. As recorded in milestone T075, it concerned whether federal courts had jurisdiction over habeas petitions from detainees at Guantanamo. It is the first of the Guantanamo detention cases in CTA6, followed by T090 and T096; according to the syllabus, the Court held that United States courts have jurisdiction to consider challenges to the legality of the detention of foreign nationals captured abroad in connection with hostilities and incarcerated at Guantanamo Bay.
 
 - Issuing body: Supreme Court of the United States (Library of Congress, U.S. Reports)
 - Date: 2004-06-28
@@ -689,7 +689,7 @@ Cited by: [T102](../../timeline/post-9-11-2001-2014.md#T102)
 
 **2001 Authorization for Use of Military Force: Issues Concerning Its Continued Application (R43983)**
 
-Summary: '2001 Authorization for Use of Military Force: Issues Concerning Its Continued Application' (R43983), a 2015 report of the Congressional Research Service, Congress's research agency. As its title states, it examines questions about the continued use of the 2001 AUMF (T053). The cited copy could not be confirmed (HTTP 403), so its contents are \[UNKNOWN\] in CTA6.
+Summary: '2001 Authorization for Use of Military Force: Issues Concerning Its Continued Application' (R43983), a Congressional Research Service report updated 14 April 2015, from the congress.gov copy of the official PDF. As its title states, it examines questions about the continued use of the 2001 AUMF (T053). The body of the report is not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: Congressional Research Service
 - Date: 2015
@@ -699,11 +699,11 @@ Summary: '2001 Authorization for Use of Military Force: Issues Concerning Its Co
 - Era: recent (2014-now)
 - Region: North America
 - Theme: studies and evaluations
-- URL: [https://crsreports.congress.gov/product/pdf/R/R43983](https://crsreports.congress.gov/product/pdf/R/R43983)
-- Accessed: 2026-11-18
-- Verified: `no`
+- URL: [https://www.congress.gov/crs_external_products/R/PDF/R43983/R43983.3.pdf](https://www.congress.gov/crs_external_products/R/PDF/R43983/R43983.3.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: HTTP 403. CRS is a congressional research agency; listed as scholarly/secondary per brief.
+- Notes: HTTP 403. CRS is a congressional research agency; listed as scholarly/secondary per brief. Round 4 (2026-11-19): cited URL replaced by the congress.gov official copy of the same report (R43983, 'Updated April 14, 2015'); verified is now yes.
 
 Cited by: none in `data/timeline.csv`.
 

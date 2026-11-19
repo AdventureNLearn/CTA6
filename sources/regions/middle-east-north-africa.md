@@ -59,7 +59,7 @@ Cited by: [T032](../../timeline/1990-2001.md#T032)
 
 **Security Council resolution 1595 (2005): The situation in the Middle East (International Independent Investigation Commission, Lebanon)**
 
-Summary: UN Security Council resolution 1595, adopted on 7 April 2005, on the situation in the Middle East. At Lebanon's request, it established an international independent investigation commission based in Lebanon to help the Lebanese authorities investigate 'this terrorist act', including identifying its perpetrators, sponsors, organizers and accomplices. The act itself is identified in the resolution, but CTA6 does not record which attack it was \[UNKNOWN\]; resolution 1757 later established the Special Tribunal for Lebanon (T095).
+Summary: UN Security Council resolution 1595, adopted on 7 April 2005, on the situation in the Middle East. At Lebanon's request, it established an international independent investigation commission based in Lebanon to help the Lebanese authorities investigate 'this terrorist act', including identifying its perpetrators, sponsors, organizers and accomplices. The resolution identifies the act as 'the 14 February 2005 terrorist bombing in Beirut, Lebanon, that killed former Lebanese Prime Minister Rafiq Hariri and others'; resolution 1757 later established the Special Tribunal for Lebanon (T095).
 
 - Issuing body: UN Security Council
 - Date: 2005-04-07
@@ -265,10 +265,10 @@ Cited by: [T154](../../timeline/post-9-11-2001-2014.md#T154)
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Egypt (A/HRC/13/37/Add.2)**
 
-Summary: Report A/HRC/13/37/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Egypt (17-21 April 2009). The report examines Egypt's emergency law, criminal provisions on terrorist crimes and the amended article 179 of the Constitution, and discusses issues for the anti-terrorism legislation then being prepared. The report's date is \[UNKNOWN\] in CTA6.
+Summary: Report A/HRC/13/37/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Egypt (17-21 April 2009). The report examines Egypt's emergency law, criminal provisions on terrorist crimes and the amended article 179 of the Constitution, and discusses issues for the anti-terrorism legislation then being prepared. The report is dated 14 October 2009.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
-- Date: \[UNKNOWN\]
+- Date: 2009-10-14
 - Type: commission report
 - Tag: `primary`
 - Origin: `oversight`
@@ -288,10 +288,10 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Tunisia (A/HRC/16/51/Add.2)**
 
-Summary: Report A/HRC/16/51/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Tunisia (22-26 January 2010). The report examines terrorist threats and Tunisia's legal and institutional framework, and concludes that Tunisia's definition of terrorism at the time was vague and broad; this is the Special Rapporteur's assessment. The report's date is \[UNKNOWN\] in CTA6.
+Summary: Report A/HRC/16/51/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Tunisia (22-26 January 2010). The report examines terrorist threats and Tunisia's legal and institutional framework, and concludes that Tunisia's definition of terrorism at the time was vague and broad; this is the Special Rapporteur's assessment. The report is dated 28 December 2010.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
-- Date: \[UNKNOWN\]
+- Date: 2010-12-28
 - Type: commission report
 - Tag: `primary`
 - Origin: `oversight`
@@ -311,10 +311,10 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Saudi Arabia (A/HRC/40/52/Add.2)**
 
-Summary: Report A/HRC/40/52/Add.2 of the former UN Special Rapporteur on human rights and counter-terrorism on his official visit to Saudi Arabia (30 April-4 May 2017). The report says the visit assessed Saudi Arabia's counter-terrorism law, policy and practice against international human rights law; it commends programmes for victims of terrorism and also sets out concerns. It is the source for milestone T179; the report's date is \[UNKNOWN\] in CTA6.
+Summary: Report A/HRC/40/52/Add.2 of the former UN Special Rapporteur on human rights and counter-terrorism on his official visit to Saudi Arabia (30 April-4 May 2017). The report says the visit assessed Saudi Arabia's counter-terrorism law, policy and practice against international human rights law; it commends programmes for victims of terrorism and also sets out concerns. It is the source for milestone T179; the report is dated 13 December 2018.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
-- Date: \[UNKNOWN\]
+- Date: 2018-12-13
 - Type: commission report
 - Tag: `primary`
 - Origin: `oversight`
@@ -702,7 +702,7 @@ Cited by: [T210](../../timeline/post-9-11-2001-2014.md#T210)
 
 **The Eighteenth Report of the National Council for Human Rights (1 July 2024 – 30 June 2025)**
 
-Summary: The Eighteenth Report of Egypt's National Council for Human Rights, covering 1 July 2024 to 30 June 2025. The Council describes it as a holistic assessment of rights in Egypt, and it mentions recommendations to review laws providing for the death penalty, including counter-terrorism law, so that it applies only to the most serious crimes. It is the Council's own assessment; the day and month of publication are \[UNKNOWN\].
+Summary: The Eighteenth Report of Egypt's National Council for Human Rights, covering 1 July 2024 to 30 June 2025. The Council describes it as a holistic assessment of rights in Egypt, and it mentions recommendations to review laws providing for the death penalty, including counter-terrorism law, so that it applies only to the most serious crimes. It is the Council's own assessment; it mentions an event on 2 July 2025, so it was published after that date; the exact day and month are not printed \[UNKNOWN\].
 
 - Issuing body: National Council for Human Rights (Egypt)
 - Date: 2025

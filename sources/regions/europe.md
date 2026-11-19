@@ -126,7 +126,7 @@ Cited by: [T088](../../timeline/post-9-11-2001-2014.md#T088)
 
 **European Convention on the Suppression of Terrorism (ETS No. 090)**
 
-Summary: The Council of Europe's European Convention on the Suppression of Terrorism (ETS No. 090), dated 27 January 1977. It is a regional European treaty on terrorism; its provisions are not summarized in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed (HTTP 403), although the same document was found at an official Council of Europe copy, which is why milestone T015 is not-proven.
+Summary: The Council of Europe's European Convention on the Suppression of Terrorism (ETS No. 090), dated 27 January 1977, from the official Council of Europe PDF. The text reads 'Done at Strasbourg, this 27th day of January 1977'. Its provisions are not summarized in CTA6 \[UNKNOWN\]. Milestone T015 stays not-proven because the words 'opened for signature' have not been confirmed from a fetched page.
 
 - Issuing body: Council of Europe
 - Date: 1977-01-27
@@ -136,11 +136,11 @@ Summary: The Council of Europe's European Convention on the Suppression of Terro
 - Era: 1945-1990
 - Region: Europe
 - Theme: laws and treaties
-- URL: [https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=090](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=090)
-- Accessed: 2026-11-18
-- Verified: `no`
+- URL: [https://rm.coe.int/16800771b2](https://rm.coe.int/16800771b2)
+- Accessed: 2026-11-19
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://rm.coe.int/16800771b2 Accessed 2026-11-18.
+- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://rm.coe.int/16800771b2 Accessed 2026-11-18. Round 4 (2026-11-19): cited URL replaced by this official Council of Europe PDF; verified is now yes.
 
 Cited by: [T015](../../timeline/1945-1990.md#T015)
 
@@ -149,7 +149,7 @@ Cited by: [T015](../../timeline/1945-1990.md#T015)
 
 **Council of Europe Convention on the Prevention of Terrorism (CETS No. 196)**
 
-Summary: The Council of Europe Convention on the Prevention of Terrorism (CETS No. 196), dated 16 May 2005. As its title states, it is a regional treaty aimed at preventing terrorism; its provisions are not summarized in CTA6 \[UNKNOWN\]. The cited copy could not be confirmed (HTTP 403), although the same document was found at an official Council of Europe copy, which is why milestone T085 is not-proven.
+Summary: The Council of Europe Convention on the Prevention of Terrorism (CETS No. 196), dated 16 May 2005, from the official Council of Europe PDF. The text reads 'Warsaw, 16.V.2005' and 'Done at Warsaw, this 16th day of May 2005'. Its provisions are not summarized in CTA6 \[UNKNOWN\]. Milestone T085 stays not-proven because the words 'opened for signature' have not been confirmed from a fetched page.
 
 - Issuing body: Council of Europe
 - Date: 2005-05-16
@@ -159,11 +159,11 @@ Summary: The Council of Europe Convention on the Prevention of Terrorism (CETS N
 - Era: post-9/11 (2001-2014)
 - Region: Europe
 - Theme: laws and treaties
-- URL: [https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=196](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=196)
-- Accessed: 2026-11-18
-- Verified: `no`
+- URL: [https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=09000016808c3f55](https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=09000016808c3f55)
+- Accessed: 2026-11-19
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://rm.coe.int/16808c3f55 Accessed 2026-11-18.
+- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://rm.coe.int/16808c3f55 Accessed 2026-11-18. Round 4 (2026-11-19): cited URL replaced by this official Council of Europe PDF; verified is now yes.
 
 Cited by: [T085](../../timeline/post-9-11-2001-2014.md#T085)
 
@@ -172,7 +172,7 @@ Cited by: [T085](../../timeline/post-9-11-2001-2014.md#T085)
 
 **Collective defence and Article 5**
 
-Summary: NATO's page on collective defence and Article 5 of the Washington Treaty. It states that NATO invoked Article 5 for the first and only time in its history after the 9/11 attacks on the United States in 2001, and that the article underpins NATO's wider deterrence and defence activities. It is cited for milestone T052. The page is undated \[UNKNOWN\].
+Summary: NATO's page on collective defence and Article 5 of the Washington Treaty. It states that NATO invoked Article 5 for the first and only time in its history after the 9/11 attacks on the United States in 2001, and that the article underpins NATO's wider deterrence and defence activities. It is cited for milestone T052. The page shows 'Updated: 12 November 2025'.
 
 - Issuing body: North Atlantic Treaty Organization
 - Date: \[UNKNOWN\]

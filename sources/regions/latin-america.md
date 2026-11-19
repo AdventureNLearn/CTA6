@@ -4,7 +4,7 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-25 sources in this region (`government` 11, `international` 3, `court` 6, `oversight` 5).
+27 sources in this region (`government` 13, `international` 3, `court` 6, `oversight` 5).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -13,7 +13,7 @@ See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
 **Inter-American Convention against Terrorism (A-66)**
 
-Summary: The Inter-American Convention against Terrorism (A-66) of the Organization of American States, dated 3 June 2002. As its title states, it is the Americas' regional treaty against terrorism. The cited copy could not be confirmed (HTTP 503/500 on repeated tries), so milestone T061 is marked not-proven and the Convention's content is \[UNKNOWN\] in CTA6.
+Summary: The Inter-American Convention against Terrorism (A-66) of the Organization of American States, dated 3 June 2002. As its title states, it is the Americas' regional treaty against terrorism. The cited OAS copy could not be confirmed (HTTP 503/500 on repeated tries), so milestone T061 is marked not-proven. An official Peruvian government Spanish copy of the Convention text is recorded separately as PE-GOB-CIAT2002-ES.
 
 - Issuing body: Organization of American States
 - Date: 2002-06-03
@@ -27,7 +27,7 @@ Summary: The Inter-American Convention against Terrorism (A-66) of the Organizat
 - Accessed: 2026-11-18
 - Verified: `no`
 - Language: \[UNKNOWN\]
-- Notes: HTTP 503. Retried https://www.oas.org/juridico/english/sigs/a-66.html and the original URL: HTTP 503/500 (curl and WebFetch). Still not verified.
+- Notes: HTTP 503. Retried https://www.oas.org/juridico/english/sigs/a-66.html and the original URL: HTTP 503/500 (curl and WebFetch). Still not verified. Round 4 (2026-11-19): OAS URLs still under maintenance (HTTP 503). An official Peruvian government Spanish copy of the Convention is recorded separately as PE-GOB-CIAT2002-ES; it does not replace this entry.
 
 Cited by: [T061](../../timeline/post-9-11-2001-2014.md#T061)
 
@@ -150,10 +150,10 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Peru (A/HRC/16/51/Add.3)**
 
-Summary: Report A/HRC/16/51/Add.3 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Peru from 1 to 8 September 2010. The report examines Peru's support for victims of terrorist crimes and of human rights violations by State security forces during the 1980-2000 internal armed conflict, and analyses Peru's counter-terrorism laws; these are the Special Rapporteur's assessments. Its date is \[UNKNOWN\] in CTA6.
+Summary: Report A/HRC/16/51/Add.3 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Peru from 1 to 8 September 2010. The report examines Peru's support for victims of terrorist crimes and of human rights violations by State security forces during the 1980-2000 internal armed conflict, and analyses Peru's counter-terrorism laws; these are the Special Rapporteur's assessments. The report is dated 15 December 2010.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
-- Date: \[UNKNOWN\]
+- Date: 2010-12-15
 - Type: commission report
 - Tag: `primary`
 - Origin: `oversight`
@@ -173,10 +173,10 @@ Cited by: none in `data/timeline.csv`.
 
 **Report of the Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: mission to Chile (A/HRC/25/59/Add.2)**
 
-Summary: Report A/HRC/25/59/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Chile from 17 to 30 July 2013. The report says the main focus was the use of anti-terrorism legislation in connection with protests by Mapuche activists seeking to reclaim ancestral lands. It relates to Chile's Law 18.314 (T138) and the Inter-American Court case on its use (T167); its date is \[UNKNOWN\].
+Summary: Report A/HRC/25/59/Add.2 of the UN Special Rapporteur on human rights and counter-terrorism on his visit to Chile from 17 to 30 July 2013. The report says the main focus was the use of anti-terrorism legislation in connection with protests by Mapuche activists seeking to reclaim ancestral lands. It relates to Chile's Law 18.314 (T138) and the Inter-American Court case on its use (T167); it is dated 14 April 2014.
 
 - Issuing body: UN Human Rights Council, Special Rapporteur on counter-terrorism and human rights
-- Date: \[UNKNOWN\]
+- Date: 2014-04-14
 - Type: commission report
 - Tag: `primary`
 - Origin: `oversight`
@@ -585,3 +585,49 @@ Summary: Argentina's Decree 812/2005 of 12 July 2005, from InfoLeg. It approves 
 - Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AR-DEC812-2005.* Dated 'Bs. As., 12/7/2005'; the acta was signed at a hearing in Washington on 4 March 2005. The same text was also fetched at argentina.gob.ar (pass3/raw/AR-DEC812-2005-GOB.*). English title: \[UNKNOWN\] (the source gives none).
 
 Cited by: [T207](../../timeline/post-9-11-2001-2014.md#T207)
+
+<a id="MX-DOF-CPF2014"></a>
+## MX-DOF-CPF2014
+
+**DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; del Código Fiscal de la Federación y de la Ley Federal de Extinción de Dominio (DOF, 14 de marzo de 2014)**
+
+Summary: The decree published in Mexico's Diario Oficial de la Federación on 14 March 2014 that amended the Federal Penal Code and four other federal laws. Its first article rewrote article 139 (terrorism) and added a chapter on the financing of terrorism (articles 139 Quáter and 139 Quinquies). In CTA6 it fills the Mexico 2014 reform gap and follows the 1970 addition of article 139 recorded in T137 (MX-CPF).
+
+- Issuing body: Presidencia de la República / Congreso General de los Estados Unidos Mexicanos (Diario Oficial de la Federación; copy held by the Cámara de Diputados)
+- Date: 2014-03-14
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Latin America
+- Theme: laws and treaties
+- URL: [https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref119_14mar14.pdf](https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref119_14mar14.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-MX-DIP-CPFREF119.* The PDF reproduces the DOF pages ('Viernes 14 de marzo de 2014 DIARIO OFICIAL (Primera Sección)'). Article 1 reforms art. 139 and adds Chapter VI Bis 'Del Financiamiento al Terrorismo' (arts. 139 Quáter and 139 Quinquies). Promulgated 'a doce de marzo de dos mil catorce'. The DOF's own page (dof.gob.mx nota 5337124, URL cited in two search-listed pages) returned HTTP 500 to curl and 403 to WebFetch. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T233](../../timeline/recent-2014-now.md#T233)
+
+<a id="PE-GOB-CIAT2002-ES"></a>
+## PE-GOB-CIAT2002-ES
+
+**Convención Interamericana contra el Terrorismo (pages 1-9 of a multilingual copy published on gob.pe)**
+
+Summary: The Spanish text of the Inter-American Convention against Terrorism, from a copy published on the Peruvian government's gob.pe platform. The Convention was adopted within the OAS in June 2002 and covers the financing of terrorism, cooperation among states parties and entry into force after the sixth ratification. In CTA6 it is the readable official text behind OAS-CICTE2002, whose OAS page could not be reached.
+
+- Issuing body: Gobierno del Perú (gob.pe; publishing entity \[UNKNOWN\])
+- Date: 2002-06-03
+- Type: treaty
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: UN and international frameworks
+- URL: [https://cdn.www.gob.pe/uploads/document/file/1610906/CONVENCI%C3%93N%20INTERAMERICANA%20CONTRA%20EL%20TERRORISMO-1-9.pdf](https://cdn.www.gob.pe/uploads/document/file/1610906/CONVENCI%C3%93N%20INTERAMERICANA%20CONTRA%20EL%20TERRORISMO-1-9.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Notes: URL from a web-search result listing, fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass4/raw/r-OAS-A66-GOBPE.* The 9-page file opens with the title in four languages and gives the Spanish text through article 23; the adoption date is not printed in these pages and is taken from the OAS-CICTE2002 record. Added as a separate official copy; it does not replace OAS-CICTE2002, whose OAS URL was still under maintenance (HTTP 503).
+
+Cited by: none in `data/timeline.csv`.
