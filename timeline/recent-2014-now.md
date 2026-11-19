@@ -2,11 +2,11 @@
 
 # Timeline: recent (2014-now)
 
-Round 4 of an ongoing archive. This list is not complete. Every entry is taken from the cited row in `data/timeline.csv`.
+Round 5 of an ongoing archive. This list is not complete. Every entry is taken from the cited row in `data/timeline.csv`.
 
-67 milestones in this era.
+68 milestones in this era.
 
-- `we-have-a-record`: 63
+- `we-have-a-record`: 64
 - `not-proven`: 3
 - `people-disagree`: 1
 
@@ -145,7 +145,7 @@ Citation: [UNSC2253](../sources/regions/global-un.md#UNSC2253) ([https://undocs.
 
 Brazil enacted Lei nº 13.260 (anti-terrorism law).
 
-Summary: On 16 March 2016, Brazil enacted Lei nº 13.260, its anti-terrorism law. CTA6 confirmed the law's heading on the Presidency's website; its provisions are not summarized in CTA6 \[UNKNOWN\].
+Summary: On 16 March 2016, Brazil enacted Lei nº 13.260, its anti-terrorism law. CTA6 confirmed the law on the Presidency's website; according to its preamble, it defines terrorism, sets out investigative and procedural provisions, and reformulates the concept of a terrorist organization.
 
 Citation: [BR-L13260](../sources/regions/latin-america.md#BR-L13260) ([https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm))
 
@@ -190,7 +190,7 @@ Citation: [UNSC2349](../sources/regions/sub-saharan-africa.md#UNSC2349) ([https:
 
 The US Government Accountability Office published report GAO-17-300 on federal countering violent extremism efforts.
 
-Summary: On 6 April 2017, the US Government Accountability Office published report GAO-17-300 on federal countering-violent-extremism efforts. As its title states, it found that actions were needed to define a strategy and assess progress; detailed findings are not recorded in CTA6 \[UNKNOWN\].
+Summary: On 6 April 2017, the US Government Accountability Office published report GAO-17-300 on federal countering-violent-extremism efforts. As its title states, it found that actions were needed to define a strategy and assess progress; its highlights report that, as of December 2016, 19 of 44 domestically focused tasks in the 2011 implementation plan had been implemented.
 
 Citation: [GAO-17-300](../sources/regions/north-america.md#GAO-17-300) ([https://www.gao.gov/products/gao-17-300](https://www.gao.gov/products/gao-17-300))
 
@@ -535,7 +535,7 @@ Citation: [KR-ATA2016](../sources/regions/east-southeast-asia.md#KR-ATA2016) ([h
 
 Germany's Federal Constitutional Court ruled on the BKA Act surveillance powers for countering international terrorism (1 BvR 966/09).
 
-Summary: On 20 April 2016, Germany's Federal Constitutional Court ruled on the surveillance powers given to the Federal Criminal Police Office (BKA) for countering international terrorism (1 BvR 966/09). It is a constitutional review of counter-terrorism surveillance powers; the outcome is not recorded in CTA6 \[UNKNOWN\].
+Summary: On 20 April 2016, Germany's Federal Constitutional Court ruled on the surveillance powers given to the Federal Criminal Police Office (BKA) for countering international terrorism (1 BvR 966/09). It is a constitutional review of counter-terrorism surveillance powers; according to its headnotes, such powers are in principle compatible with the Basic Law but must be proportionate, and the Court declared several provisions void or incompatible.
 
 Citation: [DE-BVERFG-BKAG2016](../sources/regions/europe.md#DE-BVERFG-BKAG2016) ([https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/04/rs20160420_1bvr096609.html](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/04/rs20160420_1bvr096609.html))
 
@@ -655,7 +655,7 @@ Citation: [SR-KAZ-2020](../sources/regions/russia-central-asia.md#SR-KAZ-2020) (
 
 The Grand Chamber of the European Court of Human Rights delivered its judgment in Selahattin Demirtaş v. Turkey (No. 2) (no. 14305/17), concerning the pre-trial detention of an opposition party leader and member of parliament on terrorism-related charges.
 
-Summary: On 22 December 2020, the Grand Chamber of the European Court of Human Rights delivered its judgment in Selahattin Demirtaş v. Turkey (No. 2) (no. 14305/17), concerning the pre-trial detention of an opposition party leader and member of parliament on terrorism-related charges. The outcome is not recorded in CTA6 \[UNKNOWN\].
+Summary: On 22 December 2020, the Grand Chamber of the European Court of Human Rights delivered its judgment in Selahattin Demirtaş v. Turkey (No. 2) (no. 14305/17), concerning the pre-trial detention of an opposition party leader and member of parliament on terrorism-related charges. The Court found violations of Articles 5 § 1, 5 § 3, 10 and 18 (with Article 5) of the Convention and of Article 3 of Protocol No. 1, and held that the respondent State must secure the applicant's immediate release.
 
 Citation: [ECHR-DEMIRTAS2-2020](../sources/regions/middle-east-north-africa.md#ECHR-DEMIRTAS2-2020) ([https://hudoc.echr.coe.int/eng?i=001-207173](https://hudoc.echr.coe.int/eng?i=001-207173))
 
@@ -1042,3 +1042,20 @@ The National Human Rights Commission of Korea told the Speaker of the National A
 Summary: On 27 March 2026 the National Human Rights Commission of Korea gave the Speaker of the National Assembly its opinion on a pending amendment to the Act on Anti-Terrorism for the Protection of Citizens and Public Security, according to its press release of 1 April 2026. The Commission said the amendment raises concerns under the principles of clarity and proportionality (its assessment). It connects to the 2016 enforcement decree (T219) and the Commission's earlier opinions (T231, T232).
 
 Citation: [KR-NHRCK-2026-AMEND](../sources/regions/east-southeast-asia.md#KR-NHRCK-2026-AMEND) ([https://www.humanrights.go.kr/base/board/read?boardManagementNo=24&boardNo=7611956&menuLevel=3&menuNo=91&page=7&searchCategory=&searchType=&searchWord=](https://www.humanrights.go.kr/base/board/read?boardManagementNo=24&boardNo=7611956&menuLevel=3&menuNo=91&page=7&searchCategory=&searchType=&searchWord=))
+
+<a id="T244"></a>
+## T244
+
+- Date: 2021-10-04
+- Place: New Zealand
+- Region: Oceania
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+New Zealand's Counter-Terrorism Legislation Act 2021 (2021 No 37) received royal assent.
+
+Summary: On 4 October 2021, New Zealand's Counter-Terrorism Legislation Act 2021 (2021 No 37) received royal assent, according to the official legislation website. Its Part 1 amends the Terrorism Suppression Act 2002 (T238). Its other provisions are not summarized in CTA6 \[UNKNOWN\].
+
+- Notes: Rests on legislation.govt.nz, readable in round 5 by headless browser (pass5/raw/h5-NZ-CTLA2021.*); verified=yes (C103–C105).
+
+Citation: [NZ-CTLA2021](../sources/regions/oceania.md#NZ-CTLA2021) ([https://www.legislation.govt.nz/act/public/2021/37/en/latest/](https://www.legislation.govt.nz/act/public/2021/37/en/latest/))
