@@ -6,7 +6,7 @@ Commission reports, inspector-general and oversight reviews, NGO reports, databa
 
 Round 1 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-73 sources in this theme.
+88 sources in this theme.
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -357,9 +357,9 @@ Cited by: none in `data/timeline.csv`.
 - Theme: studies and evaluations
 - URL: [https://onlinelibrary.wiley.com/doi/10.4073/csr.2006.2](https://onlinelibrary.wiley.com/doi/10.4073/csr.2006.2)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: Cited URL returns HTTP 403. Same document confirmed at official copy: https://www.publicsafety.gc.ca/lbrr/archives/cnmcs-plcng/cn88836819-eng.pdf Accessed 2026-11-18.
+- Notes: Verified on retry 2026-11-19. WebFetch of the cited URL returned the Wiley page: 'The Effectiveness of Counter-Terrorism Strategies', Lum et al., Campbell Systematic Reviews, 'First published: 16 January 2006'. curl got a JavaScript challenge (403). Earlier (round 2): Cited URL returns HTTP 403. Same document confirmed at official copy: https://www.publicsafety.gc.ca/lbrr/archives/cnmcs-plcng/cn88836819-eng.pdf Accessed 2026-11-18.
 
 Cited by: none in `data/timeline.csv`.
 
@@ -562,9 +562,9 @@ Cited by: [T120](../../timeline/recent-2014-now.md#T120)
 - Theme: studies and evaluations
 - URL: [https://www.ohchr.org/en/special-procedures/sr-terrorism](https://www.ohchr.org/en/special-procedures/sr-terrorism)
 - Accessed: 2026-11-18
-- Verified: `no`
+- Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: HTTP 403. Undated web page; date \[UNKNOWN\].
+- Notes: Verified on retry 2026-11-19. WebFetch of the cited URL returned the page, which reads 'In April 2005, the Commission on Human Rights, in resolution 2005/80, created a mandate ...'. curl blocked (Cloudflare 403). Undated web page; date \[UNKNOWN\]. Earlier (round 2): HTTP 403.
 
 Cited by: [T084](../../timeline/post-9-11-2001-2014.md#T084)
 
@@ -898,7 +898,7 @@ Cited by: none in `data/timeline.csv`.
 - Language: English
 - Notes: HTTP 200; expected text found. Raw: pass2/raw/SR-LKA-2019.*
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T221](../../timeline/recent-2014-now.md#T221)
 
 <a id="SR-FRA-2019"></a>
 ## SR-FRA-2019
@@ -1297,7 +1297,7 @@ Cited by: none in `data/timeline.csv`.
 - Language: English
 - Notes: URL taken from a web-search result listing, then fetched. Includes a section on PTA prisoners. HTTP 200; expected text found. Raw: pass2/raw/HRCSL-PRISON-2020.*
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T225](../../timeline/recent-2014-now.md#T225)
 
 <a id="ECHR-2008-37201"></a>
 ## ECHR-2008-37201
@@ -1527,5 +1527,320 @@ Cited by: [T184](../../timeline/recent-2014-now.md#T184)
 - Verified: `yes`
 - Language: English
 - Notes: Itemid found via HUDOC name search. Application number from HUDOC appno field. Applicant name replaced by initials (CTA6 anonymization rule); official title at the HUDOC link. HUDOC API returned docname matching the itemid, kpdate 2012-01-17 (raw HUDOC JSON saved in pass2/raw/ under the row's pre-rename id).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="EG-NCHR-R18-EN"></a>
+## EG-NCHR-R18-EN
+
+**The Eighteenth Report of the National Council for Human Rights (1 July 2024 – 30 June 2025)**
+
+- Issuing body: National Council for Human Rights (Egypt)
+- Date: 2025
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://www.nchr.eg/Uploads/publication/en/TheEighteenthreport1768742540.pdf](https://www.nchr.eg/Uploads/publication/en/TheEighteenthreport1768742540.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/EG-NCHR-R18-EN.* Day and month of publication \[UNKNOWN\]. Mentions recommendations to review laws including the Counter-Terrorism Law.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="EG-NCHR-R12-AR"></a>
+## EG-NCHR-R12-AR
+
+**التقرير السنوى للمجلس القومى لحقوق الإنسان الثانى عشر 2017/2016**
+
+- Issuing body: المجلس القومي لحقوق الإنسان (Egypt)
+- Date: 2017
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://nchr.eg/Uploads/publication/ar/report121606540392.pdf](https://nchr.eg/Uploads/publication/ar/report121606540392.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Arabic
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/EG-NCHR-R12-AR.* Covers April 2016 to end of June 2017; publication day and month \[UNKNOWN\]. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="EG-NCHR-R15-AR"></a>
+## EG-NCHR-R15-AR
+
+**التقرير السنوي الخامس عشر 2020/2019**
+
+- Issuing body: المجلس القومي لحقوق الإنسان (Egypt)
+- Date: 2020
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Middle East/North Africa
+- Theme: studies and evaluations
+- URL: [https://nchr.eg/Uploads/publication/ar/%D8%A7%D9%84%D8%AA%D9%82%D8%B1%D9%8A%D8%B1151672582133.pdf](https://nchr.eg/Uploads/publication/ar/%D8%A7%D9%84%D8%AA%D9%82%D8%B1%D9%8A%D8%B1151672582133.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Arabic
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/EG-NCHR-R15-AR.* Title matched; the PDF text layer uses Arabic presentation forms, so the keyword check was done on the root 'رهاب' (51 occurrences). Publication date \[UNKNOWN\]. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="NG-NHRC-SIIP-NE"></a>
+## NG-NHRC-SIIP-NE
+
+**Report of the Special Independent Investigative Panel on Human Rights Violations in Counter Insurgency Operations in the North East (SIIP North-East)**
+
+- Issuing body: National Human Rights Commission (Nigeria)
+- Date: 2024-11-09
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: studies and evaluations
+- URL: [https://www.nigeriarights.gov.ng/publications/more/504-report-of-the-special-independent-investigative-panel-on-human-rights-violations-in-counter-insurgency-operations-in-the-north-east-siip-north-east.html](https://www.nigeriarights.gov.ng/publications/more/504-report-of-the-special-independent-investigative-panel-on-human-rights-violations-in-counter-insurgency-operations-in-the-north-east-siip-north-east.html)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/NG-NHRC-SIIP-NE.* Date is the page's posting date (09 November 2024).
+
+Cited by: [T229](../../timeline/recent-2014-now.md#T229)
+
+<a id="NG-NHRC-SIIP-NE-ES"></a>
+## NG-NHRC-SIIP-NE-ES
+
+**SIIP North-East: Issues and Findings (executive summary, updated 18-11-24)**
+
+- Issuing body: National Human Rights Commission (Nigeria)
+- Date: 2024-11
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Sub-Saharan Africa
+- Theme: studies and evaluations
+- URL: [https://www.nigeriarights.gov.ng/files/publications/The%20Executive%20Summary%20Updated%2018-11-24%20\(1\).pdf](https://www.nigeriarights.gov.ng/files/publications/The%20Executive%20Summary%20Updated%2018-11-24%20(1).pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/NG-NHRC-SIIP-NE-ES.* States that on 7 February 2023 the Commission announced and inaugurated the panel (section 2.2). Day of publication \[UNKNOWN\]; file name says 'Updated 18-11-24'.
+
+Cited by: [T227](../../timeline/recent-2014-now.md#T227)
+
+<a id="IACHR-2002-TERR-ES"></a>
+## IACHR-2002-TERR-ES
+
+**Informe sobre terrorismo y derechos humanos (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.)**
+
+- Issuing body: Comisión Interamericana de Derechos Humanos (OEA)
+- Date: 2002-10-22
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: studies and evaluations
+- URL: [https://www.oas.org/dil/esp/informe_sobre_terrorismo_derechos_humanos.pdf](https://www.oas.org/dil/esp/informe_sobre_terrorismo_derechos_humanos.pdf)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: Spanish
+- Notes: URL from search index; not verified: oas.org returned HTTP 503 'server is currently under maintenance' to curl and to WebFetch on 2026-11-19. Symbol and date (22 octubre 2002) taken from the search listing's extract of this PDF.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="IACHR-2002-TERR-EN"></a>
+## IACHR-2002-TERR-EN
+
+**Report on Terrorism and Human Rights: Executive Summary (OEA/Ser.L/V/II.116 Doc. 5 rev. 1 corr.)**
+
+- Issuing body: Inter-American Commission on Human Rights (OAS)
+- Date: 2002-10-22
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: Latin America
+- Theme: studies and evaluations
+- URL: [https://cidh.oas.org/Terrorism/Eng/exe.htm](https://cidh.oas.org/Terrorism/Eng/exe.htm)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Notes: URL from search index; not verified: cidh.oas.org returned HTTP 503 (maintenance) to curl and WebFetch on 2026-11-19. Date from the Spanish listing (IACHR-2002-TERR-ES).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="AR-UFIAMIA-2022"></a>
+## AR-UFIAMIA-2022
+
+**Informe de la UFI-AMIA sobre el estado de la investigación por el atentado a la Asociación Mutual Israelí Argentina**
+
+- Issuing body: Unidad Fiscal para la Investigación de la Causa AMIA, Ministerio Público Fiscal (Argentina)
+- Date: 2022
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Latin America
+- Theme: studies and evaluations
+- URL: [https://www.mpf.gob.ar/ufiamia/files/2022/07/Informe-de-la-UFI-AMIA-sobre-el-estado-de-la-investigaci%C3%B3n-por-el-atentado-a-la-Asociaci%C3%B3n-Mutual-Israel%C3%AD-Argentina.pdf](https://www.mpf.gob.ar/ufiamia/files/2022/07/Informe-de-la-UFI-AMIA-sobre-el-estado-de-la-investigaci%C3%B3n-por-el-atentado-a-la-Asociaci%C3%B3n-Mutual-Israel%C3%AD-Argentina.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Spanish
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AR-UFIAMIA-2022.* Day and month \[UNKNOWN\]. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="AU-SENATE-BALI2004"></a>
+## AU-SENATE-BALI2004
+
+**Bali 2002: Security threats to Australians in South East Asia**
+
+- Issuing body: Parliament of Australia, Senate (Foreign Affairs, Defence and Trade committee, per the page path)
+- Date: 2004-08-12
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: post-9/11 (2001-2014)
+- Region: Oceania
+- Theme: studies and evaluations
+- URL: [https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Foreign_Affairs_Defence_and_Trade/Completed_inquiries/2002-04/bali/report/index](https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Foreign_Affairs_Defence_and_Trade/Completed_inquiries/2002-04/bali/report/index)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AU-SENATE-BALI2004.* Page shows '12 August 2004 © Commonwealth of Australia ISBN 0 642 71414 2'.
+
+Cited by: [T205](../../timeline/post-9-11-2001-2014.md#T205)
+
+<a id="AU-INSLM-2018"></a>
+## AU-INSLM-2018
+
+**Stop, search and seize powers; Declared Areas; Control orders and Preventative detention orders (INSLM statutory deadline reviews)**
+
+- Issuing body: Independent National Security Legislation Monitor (Australia)
+- Date: 2017-09-07
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: Oceania
+- Theme: studies and evaluations
+- URL: [https://www.inslm.gov.au/reviews/stop-search-and-seize-powers-declared-areas-control-orders-and-preventative-detention-orders](https://www.inslm.gov.au/reviews/stop-search-and-seize-powers-declared-areas-control-orders-and-preventative-detention-orders)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: Verified via WebFetch on 2026-11-19 (curl timed out); capture saved as pass3/raw/webfetch-AU-INSLM-2018.txt. Page states the reviews were completed on 7 September 2017; public hearing 19 May 2017; report document dated 5 March 2018.
+
+Cited by: [T222](../../timeline/recent-2014-now.md#T222)
+
+<a id="AU-AGD-INSLM-RESP"></a>
+## AU-AGD-INSLM-RESP
+
+**Government response to INSLM Reviews of Control Orders and Preventative Detention Orders; Declared Areas; and Stop, Search and Seize Powers**
+
+- Issuing body: Attorney-General's Department (Australia)
+- Date: \[UNKNOWN\]
+- Type: other
+- Tag: `primary`
+- Origin: `government`
+- Era: recent (2014-now)
+- Region: Oceania
+- Theme: studies and evaluations
+- URL: [https://www.ag.gov.au/national-security/publications/response-inslm-reviews-control-orders-and-preventative-detention-orders-declared](https://www.ag.gov.au/national-security/publications/response-inslm-reviews-control-orders-and-preventative-detention-orders-declared)
+- Accessed: 2026-11-19
+- Verified: `no`
+- Language: English
+- Notes: URL from search index; not verified: curl timed out on 2026-11-19.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="IN-NHRC-AR2019"></a>
+## IN-NHRC-AR2019
+
+**Annual Report 2019-2020**
+
+- Issuing body: National Human Rights Commission, India
+- Date: \[UNKNOWN\]
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: studies and evaluations
+- URL: [https://nhrc.nic.in/assets/uploads/annual_reports/AR_2019-2020_EN.pdf](https://nhrc.nic.in/assets/uploads/annual_reports/AR_2019-2020_EN.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/IN-NHRC-AR2019.* URL linked from the NHRC annual-reports page (pass3/raw/IN-NHRC-ARPAGE.*). Contents list includes 'A. Terrorism and Militancy'. Two older search-listed URLs (nhrc.nic.in/sites/default/files/...) returned HTTP 404 and were dropped.
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="PK-NCHR-AR2024"></a>
+## PK-NCHR-AR2024
+
+**Annual Report 2024**
+
+- Issuing body: National Commission for Human Rights (Pakistan)
+- Date: 2025
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: South Asia
+- Theme: studies and evaluations
+- URL: [https://nchr.gov.pk/wp-content/uploads/2025/04/Annual-Report-2024.pdf](https://nchr.gov.pk/wp-content/uploads/2025/04/Annual-Report-2024.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/PK-NCHR-AR2024.* Lists among the Commission's functions to 'review the factors, including acts of terrorism, that inhibit the enjoyment of human rights'. Publication month from the URL path only (2025/04).
+
+Cited by: none in `data/timeline.csv`.
+
+<a id="ID-KOMNASHAM-2018"></a>
+## ID-KOMNASHAM-2018
+
+**Perlindungan Hak Asasi Manusia dalam Rancangan Undang-Undang tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2003 (kertas posisi; disampaikan kepada Ketua Panja RUU Pemberantasan Tindak Pidana Terorisme pada 16 April 2018)**
+
+- Issuing body: Komisi Nasional Hak Asasi Manusia (Komnas HAM), Indonesia
+- Date: 2018-04-16
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: studies and evaluations
+- URL: [https://www.komnasham.go.id/files/20181126-kertas-posisi-komnas-ham-dalam-$6BD7T.pdf](https://www.komnasham.go.id/files/20181126-kertas-posisi-komnas-ham-dalam-$6BD7T.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: Indonesian
+- Notes: Verified via WebFetch on 2026-11-19 (curl got a Cloudflare challenge, HTTP 403); capture saved as pass3/raw/webfetch-ID-KOMNASHAM-2018.txt. English title: \[UNKNOWN\] (the source gives none).
+
+Cited by: [T223](../../timeline/recent-2014-now.md#T223)
+
+<a id="MY-SUHAKAM-AR2016"></a>
+## MY-SUHAKAM-AR2016
+
+**Annual Report 2016**
+
+- Issuing body: Human Rights Commission of Malaysia (SUHAKAM)
+- Date: 2017
+- Type: commission report
+- Tag: `primary`
+- Origin: `oversight`
+- Era: recent (2014-now)
+- Region: East/Southeast Asia
+- Theme: studies and evaluations
+- URL: [https://suhakam.org.my/wp-content/uploads/2023/09/2016_Annual-Report.pdf](https://suhakam.org.my/wp-content/uploads/2023/09/2016_Annual-Report.pdf)
+- Accessed: 2026-11-19
+- Verified: `yes`
+- Language: English
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/MY-SUHAKAM-AR2016.* Discusses use of the Security Offences (Special Measures) Act 2012 (SOSMA). Print file dated 23 March 2017; publication date \[UNKNOWN\].
 
 Cited by: none in `data/timeline.csv`.
