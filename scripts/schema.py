@@ -3,6 +3,9 @@
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+
+# Generated pages and the README use this label for the current archive round.
+CURRENT_ROUND = 4
 DATA = ROOT / "data"
 SOURCES_CSV = DATA / "sources.csv"
 TIMELINE_CSV = DATA / "timeline.csv"
@@ -30,9 +33,28 @@ SOURCE_FIELDS = [
     "language",
     "case_citation",
     "summary",
+    "stands_in_for",
+    "author_or_publisher",
+    "access_date",
+    "label",
 ]
-# notes and case_citation are optional; language and summary are required ([UNKNOWN] if not recorded)
-SOURCE_REQUIRED = [f for f in SOURCE_FIELDS if f not in ("notes", "case_citation")]
+# notes and case_citation are optional; language and summary are required ([UNKNOWN] if not recorded).
+# The four stand-in fields are blank on ordinary rows. check.py requires them on labeled secondary stand-ins.
+SOURCE_STANDIN_FIELDS = (
+    "stands_in_for",
+    "author_or_publisher",
+    "access_date",
+    "label",
+)
+STANDIN_LABEL = "secondary/unofficial"
+# Used when a source URL contains a private party's name and no name-free copy was found.
+# The real URL is not stored in this repository.
+WITHHELD_URL = "[URL withheld: contains a private party's name]"
+SOURCE_REQUIRED = [
+    f
+    for f in SOURCE_FIELDS
+    if f not in ("notes", "case_citation") + SOURCE_STANDIN_FIELDS
+]
 
 TIMELINE_FIELDS = [
     "id",
@@ -92,12 +114,12 @@ THEMES = [
     "studies and evaluations",
 ]
 TAGS = ("primary", "secondary")
-ORIGINS = ("government", "international", "academic", "NGO", "court", "oversight")
+ORIGINS = ("government", "international", "academic", "NGO", "court", "oversight", "media")
 STATUSES = ("we-have-a-record", "not-proven", "people-disagree")
 VERIFIED = ("yes", "no")
 OVERSIGHT_ORIGINS = ("oversight", "court", "NGO")
 
-# Theme descriptions are taken from docs/STRUCTURE.md (round 1 outline).
+# Theme descriptions are taken from docs/STRUCTURE.md.
 THEME_DESCRIPTIONS = {
     "laws and treaties": (
         "National statutes, international and regional treaties, and court rulings that interpret them."

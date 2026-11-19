@@ -8,7 +8,7 @@ The private GitHub repository exists at [`AdventureNLearn/CTA6`](https://github.
 
 ## What is in round 4
 
-- 368 sources in [`data/sources.csv`](data/sources.csv) (338 primary, 30 secondary; 331 verified, 37 not)
+- 376 sources in [`data/sources.csv`](data/sources.csv) (338 primary, 38 secondary; 331 verified, 45 not; 8 labeled secondary stand-ins)
 - 236 timeline milestones in [`data/timeline.csv`](data/timeline.csv)
 - Milestone status in this round: 219 we-have-a-record, 8 not-proven, 9 people-disagree
 - A readable timeline, one file per era, in [`timeline/`](timeline/)
@@ -20,20 +20,22 @@ The private GitHub repository exists at [`AdventureNLearn/CTA6`](https://github.
 - The round 3 source-gathering record in [`notes/round-3.md`](notes/round-3.md)
 - The round 4 source-gathering record in [`notes/round-4.md`](notes/round-4.md)
 
-Round 4 added 7 sources and 6 milestones (T231–T236) to the 361 sources and 230 milestones from round 3. It applied selected pass 4 corrections: official-copy URL swaps for US-NSCT2018, CRS-R43983, COE-ECST1977 and COE-CPT2005 (now `verified=yes`); OCR verification of the G5 Sahel convention scan; and summary-date fills. T015 and T085 stay `not-proven` because the words “opened for signature” rest on an explanatory report that has been identified but not yet read. T045 is unchanged. Sources were chosen by hand and are not a systematic sample. Counts describe the archive as of this round. This archive is not complete. Later rounds should fill the gaps listed in `GAPS.md`.
+Round 4 added 7 official sources and 6 milestones (T231–T236) to the 361 sources and 230 milestones from round 3. It applied selected pass 4 corrections: official-copy URL swaps for US-NSCT2018, CRS-R43983, COE-ECST1977 and COE-CPT2005 (now `verified=yes`); OCR verification of the G5 Sahel convention scan; and summary-date fills. T015 and T085 stay `not-proven` because the words “opened for signature” rest on an explanatory report that has been identified but not yet read. T045 is unchanged.
+
+After that official-source merge, 8 labeled secondary stand-ins were added for official texts that still could not be read (Tajikistan and Kazakhstan laws, CHR 2005/80, Kenya POTA, a 2019 Pakistan Supreme Court judgment, and reporting on that judgment and on a 2025 Pakistan amendment). They do not replace the official rows, they are never `verified=yes`, and no new timeline rows were added. T084 stays `not-proven`. Sources were chosen by hand and are not a systematic sample. Counts describe the archive as of this round. This archive is not complete. Later rounds should fill the gaps listed in `GAPS.md`.
 
 ## Neutrality method
 
 - Use neutral wording. The archive does not adopt a government's or organisation's label as its own.
 - Credit contested labels to whoever used them (for example, a designation by a named government body). Words such as "terrorist" or "terrorism" appear when they are part of an official title or a quoted instrument name, as issued.
 - Where sources disagree, record each side with its own citation and mark the timeline row `people-disagree`. The archive does not pick a winner.
-- Tag every source `primary` or `secondary`, and record its origin: `government`, `international`, `academic`, `NGO`, `court`, or `oversight`.
+- Tag every source `primary` or `secondary`, and record its origin: `government`, `international`, `academic`, `NGO`, `court`, `oversight`, or `media`.
 - Official records and independent oversight, court and NGO records are all in scope, so criticism and limits appear alongside statutes and resolutions.
 - Do not invent. If a fact, date or document is missing, mark it `[UNKNOWN]`. Do not guess a URL, a date, or a conclusion.
 
 ## Names in case titles
 
-Private individuals who are parties or applicants in a case, and who are not public officials, are named by initials taken from the name as printed in the source. Public officials, states and organisations stay named. Every case keeps its official number or citation. Source ids that would otherwise contain a private person's surname use a court-year-number form instead. URLs are unchanged.
+Private individuals who are parties or applicants in a case, and who are not public officials, are named by initials taken from the name as printed in the source. Public officials, states and organisations stay named. Every case keeps its official number or citation. Source ids that would otherwise contain a private person's surname use a court-year-number form instead. If a source URL contains a private party's name and no name-free copy can be found, the `url` field records that the URL is withheld. The real URL is not stored in this repository.
 
 ## Language
 
@@ -47,6 +49,14 @@ Every source and every timeline row has a required `summary` column: two to four
 
 Summaries are written only from what the archive already holds for that row: its own fields, the rows it links to, the round notes and the local page captures. They follow the same rules as the rest of the archive. Contested claims are attributed to whoever made them. Where a source is `verified=no`, the summary says the cited copy could not be confirmed. Where a row is `not-proven` or `people-disagree`, the summary says what is and is not backed. Private individuals stay as initials. Where the archive does not show why an item matters, the summary says what it is and marks the rest `[UNKNOWN]`.
 
+## Labeled secondary stand-ins
+
+A labeled secondary stand-in is an unofficial copy, listing or news report used when an official source cannot be read. It is distinct from an ordinary `tag=secondary` row, which is secondary literature that was itself obtained and recorded.
+
+A stand-in row has `tag=secondary`, `label` = `secondary/unofficial`, and `verified=no`. It must also record `stands_in_for` (the official source it stands in for, by id or by name if that official source is not yet in the archive), `author_or_publisher` (the publisher of the unofficial copy), and `access_date`. Those four columns are appended after `summary` and are left blank on ordinary rows. In legal-database copies, `origin` describes the underlying instrument (for example `government`), and the database is recorded in `author_or_publisher`. News reports use origin `media`.
+
+A stand-in is never marked `verified=yes`. Any claim that rests only on a stand-in stays `not-proven`. Summaries of stand-ins, and of official rows that mention them, use “according to” or “reported by” wording and do not treat the unofficial text as confirmed. Official rows remain in the archive; a stand-in does not replace them.
+
 ## Status labels
 
 Every timeline row has one of these status labels, in the `confidence` column:
@@ -59,12 +69,12 @@ Every timeline row has one of these status labels, in the `confidence` column:
 
 `[UNKNOWN]` marks a gap or an unknown value (for example an incomplete date). It is not a substitute for a guess.
 
-Sources also carry `verified=yes` or `verified=no`, which records whether the cited URL was fetched and matched in this round. A timeline row that cites an unverified source is marked `not-proven`, except where a different confirmation problem is noted in the row itself.
+Sources also carry `verified=yes` or `verified=no`, which records whether the cited URL was fetched and matched in this round. A timeline row is marked `not-proven` when the claim rests only on unverified citations, or when a different confirmation problem is noted in the row itself.
 
 ## How to add to the archive
 
-1. Add a row to `data/sources.csv` with every required field: `id`, `title`, `author_or_issuing_body`, `date`, `type`, `tag`, `origin`, `era`, `region`, `theme`, `url`, `accessed`, `verified`, `language` and `summary`. Use the vocabularies already used in the spreadsheet (see `docs/STRUCTURE.md`). If a date or language is not known, write `[UNKNOWN]`. Put confirmation details in `notes`. If the record is a case, add the official citation in `case_citation` and follow the naming rule above.
-2. If the record is also a milestone, add a row to `data/timeline.csv`. `citation_source_id` must be an `id` that already exists in `data/sources.csv`. Every statement in `what_happened` and `summary` must come from the cited source or the archive's own records. Set `confidence` to one of the three status labels above. If sources disagree, fill `citation_source_id_2` and `url_2`, and mark the row `people-disagree`.
+1. Add a row to `data/sources.csv` with every required field: `id`, `title`, `author_or_issuing_body`, `date`, `type`, `tag`, `origin`, `era`, `region`, `theme`, `url`, `accessed`, `verified`, `language` and `summary`. Use the vocabularies already used in the spreadsheet (see `docs/STRUCTURE.md`). If a date or language is not known, write `[UNKNOWN]`. Put confirmation details in `notes`. If the record is a case, add the official citation in `case_citation` and follow the naming rule above. If the row is a labeled secondary stand-in, also fill `stands_in_for`, `author_or_publisher`, `access_date` and `label` as described above, and set `verified=no`.
+2. If the record is also a milestone, add a row to `data/timeline.csv`. `citation_source_id` must be an `id` that already exists in `data/sources.csv`. Every statement in `what_happened` and `summary` must come from the cited source or the archive's own records. Set `confidence` to one of the three status labels above. A milestone must stay `not-proven` if the claim rests only on a labeled secondary stand-in. If sources disagree, fill `citation_source_id_2` and `url_2`, and mark the row `people-disagree`.
 3. From the repository root, run `python3 scripts/check.py` and fix any errors.
 4. Run `python3 scripts/build.py` to regenerate `timeline/`, `sources/` and `docs/STRUCTURE.md`.
 5. Do not invent facts, do not commit page captures or working maps of old names, and do not add personal data or secrets.
@@ -75,5 +85,5 @@ When sources were gathered, page captures were saved locally (HTML or PDF, extra
 
 ## Scripts
 
-- `python3 scripts/check.py` — confirms that the spreadsheets parse, that every timeline row cites an existing source id, and that no row is missing a URL or a status label. A surname scan is not part of the check: a committed list would only be useful if it contained names, and those names are not committed.
+- `python3 scripts/check.py` — confirms that the spreadsheets parse, that every timeline row cites an existing source id, that a `we-have-a-record` milestone has at least one verified citation, that the withheld-URL placeholder appears only on labeled secondary stand-in rows, and that no row is missing a URL or a status label. A surname scan is not part of the check: a committed list would only be useful if it contained names, and those names are not committed.
 - `python3 scripts/build.py` — rebuilds the readable timeline and source pages, and `docs/STRUCTURE.md`, from the spreadsheets.
