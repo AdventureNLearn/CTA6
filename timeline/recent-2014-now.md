@@ -4,9 +4,9 @@
 
 Round 1 of an ongoing archive. This list is not complete. Every entry is taken from the cited row in `data/timeline.csv`.
 
-64 milestones in this era.
+67 milestones in this era.
 
-- `we-have-a-record`: 60
+- `we-have-a-record`: 63
 - `not-proven`: 3
 - `people-disagree`: 1
 
@@ -796,7 +796,7 @@ Citation: [AU-INSLM](../sources/regions/oceania.md#AU-INSLM) ([https://www.inslm
 
 The conference of heads of state of the G5 Sahel adopted the Convention establishing the G5 Sahel; Mali ratified it by Decree No. 2015-128 (as listed by Mali's Secretariat General of Government).
 
-Summary: On 19 December 2014, the conference of heads of state of the G5 Sahel adopted the Convention establishing the G5 Sahel in Nouakchott; Mali ratified it by Decree No. 2015-128, as listed by Mali's Secretariat General of Government. The G5 Sahel later deployed a joint force welcomed by the UN Security Council (T122). The convention text itself was not read (no OCR) \[UNKNOWN\].
+Summary: On 19 December 2014, the conference of heads of state of the G5 Sahel adopted the Convention establishing the G5 Sahel in Nouakchott; Mali ratified it by Decree No. 2015-128, as listed by Mali's Secretariat General of Government. The G5 Sahel later deployed a joint force welcomed by the UN Security Council (T122). The convention text, read by OCR in round 4, closes 'Fait à Nouakchott, le 19 décembre 2014' with signature blocks for the five heads of state.
 
 Citation: [ML-SGG-CONV](../sources/regions/sub-saharan-africa.md#ML-SGG-CONV) ([https://sgg-mali.ml/2/513/fr/conventions-internationales.html](https://sgg-mali.ml/2/513/fr/conventions-internationales.html))
 
@@ -908,15 +908,15 @@ Citation: [AFCHPR-2019-013-2017](../sources/regions/sub-saharan-africa.md#AFCHPR
 <a id="T225"></a>
 ## T225
 
-- Date: 2020
-- Place: Sri Lanka
+- Date: 2020-11-25
+- Place: Colombo, Sri Lanka
 - Region: South Asia
 - Theme: studies and evaluations
 - Status: `we-have-a-record`
 
-The Human Rights Commission of Sri Lanka published the executive summary of its 2018 prison study, which includes a section on prisoners held under the Prevention of Terrorism Act (day and month [UNKNOWN]).
+The Human Rights Commission of Sri Lanka published the executive summary of its 2018 prison study, which includes a section on prisoners held under the Prevention of Terrorism Act.
 
-Summary: In 2020, the Human Rights Commission of Sri Lanka published the executive summary of its 2018 prison study, which includes a section on prisoners held under the Prevention of Terrorism Act; the day and month are \[UNKNOWN\]. Its findings are not summarized in CTA6 \[UNKNOWN\].
+Summary: On 25 November 2020, in Colombo, the Human Rights Commission of Sri Lanka published the executive summary of its 2018 prison study, which includes a section on prisoners held under the Prevention of Terrorism Act. Its findings are not summarized in CTA6 \[UNKNOWN\].
 
 Citation: [HRCSL-PRISON-2020](../sources/regions/south-asia.md#HRCSL-PRISON-2020) ([https://www.hrcsl.lk/wp-content/uploads/2020/01/Prison-Study-by-HRCSL_Concise-Version.pdf](https://www.hrcsl.lk/wp-content/uploads/2020/01/Prison-Study-by-HRCSL_Concise-Version.pdf))
 
@@ -997,3 +997,48 @@ Papua New Guinea's Parliament passed the Counter-Terrorism Bill 2024 by 84 votes
 Summary: On 28 November 2024, Papua New Guinea's Parliament passed the Counter-Terrorism Bill 2024 by 84 votes to 0, according to the Department of Prime Minister and National Executive Council. The department's release says the vote exceeded the 60-vote absolute majority needed and that the Prime Minister called it a 'monumental, milestone law' (his description). The text of the Act itself could not be retrieved \[UNKNOWN\].
 
 Citation: [PG-PMNEC-CTA2024](../sources/regions/oceania.md#PG-PMNEC-CTA2024) ([https://www.pmnec.gov.pg/pm-marape-commends-government-opposition-members-for-uniting-to-pass-new-monumental-counter-terrorism-law/](https://www.pmnec.gov.pg/pm-marape-commends-government-opposition-members-for-uniting-to-pass-new-monumental-counter-terrorism-law/))
+
+<a id="T233"></a>
+## T233
+
+- Date: 2014-03-14
+- Place: Mexico
+- Region: Latin America
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+Mexico's Diario Oficial de la Federación published a decree, promulgated on 12 March 2014, that reformed article 139 (terrorism) of the Federal Penal Code and added a chapter on the financing of terrorism (articles 139 Quáter and 139 Quinquies).
+
+Summary: On 14 March 2014 the Diario Oficial de la Federación published a decree amending Mexico's Federal Penal Code and four other federal laws; the President signed it for publication on 12 March 2014. The decree rewrote article 139 on terrorism and added Chapter VI Bis on the financing of terrorism. In CTA6 it follows the 1970 addition of article 139 (T137).
+
+Citation: [MX-DOF-CPF2014](../sources/regions/latin-america.md#MX-DOF-CPF2014) ([https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref119_14mar14.pdf](https://www.diputados.gob.mx/LeyesBiblio/ref/cpf/CPF_ref119_14mar14.pdf))
+
+<a id="T235"></a>
+## T235
+
+- Date: 2020-07-30
+- Place: Islamabad, Pakistan
+- Region: South Asia
+- Theme: laws and treaties
+- Status: `we-have-a-record`
+
+Pakistan's Anti-terrorism (Amendment) Act, 2020 (Act No. XX of 2020) received presidential assent and was published in the Gazette of Pakistan.
+
+Summary: On 30 July 2020 the Anti-terrorism (Amendment) Act, 2020 received the assent of Pakistan's President and was published the same day in the Gazette of Pakistan by the National Assembly Secretariat in Islamabad. It amends the Anti-Terrorism Act, 1997 (T195), including provisions on legal persons and a new offence of failing to comply with orders under the United Nations (Security Council) Act, 1948.
+
+Citation: [PK-ATA-AM2020](../sources/regions/south-asia.md#PK-ATA-AM2020) ([https://senate.gov.pk/uploads/documents/1597043393_568.pdf](https://senate.gov.pk/uploads/documents/1597043393_568.pdf))
+
+<a id="T236"></a>
+## T236
+
+- Date: 2026-03-27
+- Place: Republic of Korea (National Assembly)
+- Region: East/Southeast Asia
+- Theme: studies and evaluations
+- Status: `we-have-a-record`
+
+The National Human Rights Commission of Korea told the Speaker of the National Assembly that a pending amendment adding the purpose of obstructing the democratic organisation and activities of political parties to the Anti-Terrorism Act's definition of terrorism needs careful review.
+
+Summary: On 27 March 2026 the National Human Rights Commission of Korea gave the Speaker of the National Assembly its opinion on a pending amendment to the Act on Anti-Terrorism for the Protection of Citizens and Public Security, according to its press release of 1 April 2026. The Commission said the amendment raises concerns under the principles of clarity and proportionality (its assessment). It connects to the 2016 enforcement decree (T219) and the Commission's earlier opinions (T231, T232).
+
+Citation: [KR-NHRCK-2026-AMEND](../sources/regions/east-southeast-asia.md#KR-NHRCK-2026-AMEND) ([https://www.humanrights.go.kr/base/board/read?boardManagementNo=24&boardNo=7611956&menuLevel=3&menuNo=91&page=7&searchCategory=&searchType=&searchWord=](https://www.humanrights.go.kr/base/board/read?boardManagementNo=24&boardNo=7611956&menuLevel=3&menuNo=91&page=7&searchCategory=&searchType=&searchWord=))
