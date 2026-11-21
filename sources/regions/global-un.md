@@ -4,7 +4,7 @@
 
 Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-68 sources in this region (`international` 56, `academic` 8, `NGO` 2, `oversight` 2).
+69 sources in this region (`international` 57, `academic` 8, `NGO` 2, `oversight` 2).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -967,7 +967,7 @@ Summary: The history page of the Financial Action Task Force (FATF), the intergo
 - Accessed: 2026-11-18
 - Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved. Undated web page; date \[UNKNOWN\].
+- Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved. Undated web page; date \[UNKNOWN\]. Re-read via WebFetch on 2026-11-21: the page still has no publication date, and it refers to 'the Economic Declaration from the G7 Summit in July 1989' and states that in October 2001 the FATF issued Eight Special Recommendations.
 
 Cited by: [T029](../../timeline/1945-1990.md#T029), [T057](../../timeline/post-9-11-2001-2014.md#T057)
 
@@ -1570,3 +1570,26 @@ Summary: A copy of UN Commission on Human Rights resolution 2005/80 on protectin
 - Notes: Secondary/unofficial copy; not verified against the UN document system. curl returned HTTP 403 on 2026-11-19; text read via WebFetch.
 
 Cited by: none in `data/timeline.csv`.
+
+<a id="FATF-AR-2001-2002"></a>
+## FATF-AR-2001-2002
+
+**FATF Annual Report 2001-2002**
+
+Summary: The official landing page of the FATF Annual Report 2001-2002. It states that, following the events of 11 September 2001, the FATF met in an extraordinary session on 29-30 October 2001 in Washington DC, and that as a result of this meeting the FATF's mandate was expanded to include terrorist financing and the Eight Special Recommendations were established. The PDF of the report was not read (the site blocked a direct download). It is a source for milestone T057.
+
+- Issuing body: Financial Action Task Force
+- Date: 2002
+- Type: other
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Global/UN
+- Theme: agencies
+- URL: [https://www.fatf-gafi.org/en/publications/Fatfgeneral/Fatfannualreport2001-2002.html](https://www.fatf-gafi.org/en/publications/Fatfgeneral/Fatfannualreport2001-2002.html)
+- Accessed: 2026-11-21
+- Verified: `yes`
+- Language: English
+- Notes: Official FATF landing page for the 2001-2002 Annual Report, read with WebFetch on 2026-11-21. The page states that following the events of 11 September 2001, the FATF met in an extraordinary session on 29-30 October 2001 in Washington DC, and that as a result of this meeting the mandate of the FATF was expanded to include terrorist financing and the Eight Special Recommendations were established. Direct curl of candidate official PDF URLs returned HTTP 403; the PDF itself was not read. Publication day and month are not printed on the landing page.
+
+Cited by: [T057](../../timeline/post-9-11-2001-2014.md#T057)
