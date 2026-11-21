@@ -6,7 +6,7 @@ Official histories and descriptions of national and international bodies.
 
 Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-38 sources in this theme.
+40 sources in this theme.
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -144,7 +144,7 @@ Summary: The history page of the Financial Action Task Force (FATF), the intergo
 - Accessed: 2026-11-18
 - Verified: `yes`
 - Language: \[UNKNOWN\]
-- Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved. Undated web page; date \[UNKNOWN\].
+- Notes: curl returned HTTP 403 (bot protection); title confirmed via WebFetch text extraction; no raw HTML capture saved. Undated web page; date \[UNKNOWN\]. Re-read via WebFetch on 2026-11-21: the page still has no publication date, and it refers to 'the Economic Declaration from the G7 Summit in July 1989' and states that in October 2001 the FATF issued Eight Special Recommendations.
 
 Cited by: [T029](../../timeline/1945-1990.md#T029), [T057](../../timeline/post-9-11-2001-2014.md#T057)
 
@@ -883,3 +883,49 @@ Summary: A Singapore Ministry of Home Affairs press release of 25 February 2002,
 - Notes: URL from search index; not verified: curl got HTTP 202 with an empty body on 2026-11-19. Title and date from the search listing.
 
 Cited by: none in `data/timeline.csv`.
+
+<a id="US-EO13354"></a>
+## US-EO13354
+
+**Executive Order 13354: National Counterterrorism Center**
+
+Summary: US Executive Order 13354, 'National Counterterrorism Center', of 27 August 2004, as published in the official Federal Register (Vol. 69, No. 169, 1 September 2004, p. 53589). The order, signed at the White House on 27 August 2004, establishes a National Counterterrorism Center. It provides that the Center shall undertake, as soon as the Director of Central Intelligence determines it to be practicable, all functions assigned to the Terrorist Threat Integration Center. It is a source for milestone T078.
+
+- Issuing body: The White House (Federal Register)
+- Date: 2004-08-27
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: North America
+- Theme: agencies
+- URL: [https://www.govinfo.gov/content/pkg/FR-2004-09-01/pdf/04-20050.pdf](https://www.govinfo.gov/content/pkg/FR-2004-09-01/pdf/04-20050.pdf)
+- Accessed: 2026-11-21
+- Verified: `yes`
+- Language: English
+- Notes: Official Federal Register PDF (Vol. 69, No. 169, Wednesday, 1 September 2004, p. 53589, FR Doc. 04-20050), fetched by curl on 2026-11-21: HTTP 200. Headed 'Executive Order 13354 of August 27, 2004' and signed 'THE WHITE HOUSE, August 27, 2004.' Sec. 2 establishes a National Counterterrorism Center. Sec. 3(f) (as printed, continuing onto p. 53591) says the Center shall undertake, as soon as the Director of Central Intelligence determines it to be practicable, all functions assigned to the Terrorist Threat Integration Center.
+
+Cited by: [T078](../../timeline/post-9-11-2001-2014.md#T078)
+
+<a id="FATF-AR-2001-2002"></a>
+## FATF-AR-2001-2002
+
+**FATF Annual Report 2001-2002**
+
+Summary: The official landing page of the FATF Annual Report 2001-2002. It states that, following the events of 11 September 2001, the FATF met in an extraordinary session on 29-30 October 2001 in Washington DC, and that as a result of this meeting the FATF's mandate was expanded to include terrorist financing and the Eight Special Recommendations were established. The PDF of the report was not read (the site blocked a direct download). It is a source for milestone T057.
+
+- Issuing body: Financial Action Task Force
+- Date: 2002
+- Type: other
+- Tag: `primary`
+- Origin: `international`
+- Era: post-9/11 (2001-2014)
+- Region: Global/UN
+- Theme: agencies
+- URL: [https://www.fatf-gafi.org/en/publications/Fatfgeneral/Fatfannualreport2001-2002.html](https://www.fatf-gafi.org/en/publications/Fatfgeneral/Fatfannualreport2001-2002.html)
+- Accessed: 2026-11-21
+- Verified: `yes`
+- Language: English
+- Notes: Official FATF landing page for the 2001-2002 Annual Report, read with WebFetch on 2026-11-21. The page states that following the events of 11 September 2001, the FATF met in an extraordinary session on 29-30 October 2001 in Washington DC, and that as a result of this meeting the mandate of the FATF was expanded to include terrorist financing and the Eight Special Recommendations were established. Direct curl of candidate official PDF URLs returned HTTP 403; the PDF itself was not read. Publication day and month are not printed on the landing page.
+
+Cited by: [T057](../../timeline/post-9-11-2001-2014.md#T057)
