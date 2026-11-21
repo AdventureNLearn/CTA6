@@ -1,6 +1,6 @@
 # Gaps (round 5)
 
-This file lists what CTA6 has not gathered or could not confirm as of round 5. Items marked `[UNKNOWN]` are gaps, not conclusions. This archive is not complete.
+This file lists what CTA6 has not gathered or could not confirm as of round 5, with a later fill of some summary `[UNKNOWN]` marks on 2026-11-21 (see [notes/unknown-fills-20261121.md](notes/unknown-fills-20261121.md)). Items marked `[UNKNOWN]` are gaps, not conclusions. This archive is not complete.
 
 Round 1 gaps are taken from [NOTES.md](NOTES.md) (accessed 2026-11-18). Round 2 additions, retries and remaining gaps are taken from [notes/round-2.md](notes/round-2.md) (accessed 2026-11-18). Round 3 additions, retries and remaining gaps are taken from [notes/round-3.md](notes/round-3.md) (accessed 2026-11-19). Round 4 additions, retries and remaining gaps are taken from [notes/round-4.md](notes/round-4.md) (accessed 2026-11-19). Round 5 additions, retries and remaining gaps are taken from [notes/round-5.md](notes/round-5.md) (accessed 2026-11-19).
 
@@ -8,7 +8,17 @@ Round 1 gaps are taken from [NOTES.md](NOTES.md) (accessed 2026-11-18). Round 2 
 
 After round 5 the archive has 379 sources and 244 timeline rows. Global/UN, Europe and North America hold 182 of 379 sources (48%) and 123 of 244 timeline rows (50%). Oceania (12 sources, 8 timeline rows) and Russia/Central Asia (19 sources, 13 timeline rows) are still smaller than the three largest regions, though each gained a verified national statute and a milestone in this round. South Asia has 40 sources and 17 timeline rows. Latin America has 28 sources and 20 timeline rows. East/Southeast Asia has 27 sources and 18 timeline rows. The original cited URLs for the Pakistan ATA and the India UAPA and NIA pages still fail; those statutes are now also held as separate official copies (PK-FMU-ATA1997 and IN-NIA-ACT2008-HI), which were verified. The official Tajikistan law and CHR 2005/80 texts, and official Urdu texts, remain unverified; labeled unofficial stand-ins for those gaps, and for official texts that are now also in the archive, stay in place and do not confirm the unread official copies.
 
+**Filled 21 November 2026 (summary `[UNKNOWN]` marks, not a new gathering round):**
+
+- Australia's Security Legislation Amendment (Terrorism) Act 2002: the official as-made text is headed "[Assented to 5 July 2002]" (AU-SLAT2002, T201).
+- Executive Order 13354 of 27 August 2004, official Federal Register PDF, added as US-EO13354 and cited for T078. The NCTC history page remains undated.
+- The official landing page of the FATF Annual Report 2001-2002, added as FATF-AR-2001-2002: extraordinary session on 29-30 October 2001 in Washington, D.C., at which the Eight Special Recommendations were established (T057). The PDF of the report was not read.
+- The official FATF history page refers to the G7 Summit in July 1989; T029's exact day and place remain `[UNKNOWN]`.
+- Argentina's official 2022 UFI-AMIA report prints "Publicación: julio 2022" and gives the unit's creation as September 2004 (T204). The exact days, and the report's detailed findings, remain `[UNKNOWN]`.
+- After this pass the archive has 381 sources and 244 timeline rows. 162 of 625 summaries still contain at least one mark (175 marks in all).
+
 **Filled in round 5 (were listed as gaps after round 4):**
+
 
 - OAS and IACHR official pages, now `verified=yes` at the cited URLs: the Inter-American Convention against Terrorism (OAS-CICTE2002), the CICTE page (OAS-CICTE), and the 2002 IACHR report in Spanish and English (IACHR-2002-TERR-ES, IACHR-2002-TERR-EN). The OAS treaty status page was added as OAS-A66-SIGS.
 - Kenya's Prevention of Terrorism Act at Kenya Law's current site (KE-POTA2012), now `verified=yes`. The earlier PDF URL (HTTP 500) is in the notes. The duplicate row KE-POTA2012-KL was merged into KE-POTA2012.
@@ -53,7 +63,7 @@ After round 5 the archive has 379 sources and 244 timeline rows. Global/UN, Euro
 
 **Pre-1945.** Rome 1898 still has no official text online (coverage is secondary only). The procès-verbaux locations given by Jensen 1981 were not checked [UNKNOWN]. The place of signing of the 1904 St Petersburg protocol is not stated in the captured sources, so it is `[UNKNOWN]` in T134. Colonial-era emergency laws were not gathered [UNKNOWN].
 
-**Other [UNKNOWN] items recorded in this round.** The place of the IACtHR judgments and of the African Court judgment is not in the captured text. Day and month are `[UNKNOWN]` for the 1979 Sri Lanka PTA, the 1997 Pakistan ATA, the 2002 Australian SLAT Act, the 2004 UFI-AMIA unit and the 2013 NACTA Act. The 2020 HRCSL study date and place were filled in round 4 (25 November 2020, Colombo). Egypt NCHR annual reports are cited as reports; their content was not summarized.
+**Other [UNKNOWN] items recorded in this round.** The place of the IACtHR judgments and of the African Court judgment is not in the captured text. Day and month are `[UNKNOWN]` for the 1979 Sri Lanka PTA, the 1997 Pakistan ATA and the 2013 NACTA Act. The 2002 Australian SLAT Act's official as-made text is headed "[Assented to 5 July 2002]". The 2022 UFI-AMIA report gives the unit's creation as September 2004; the exact day remains `[UNKNOWN]`. The 2020 HRCSL study date and place were filled in round 4 (25 November 2020, Colombo). Egypt NCHR annual reports are cited as reports; their content was not summarized.
 
 ## Disagreements recorded in round 2
 

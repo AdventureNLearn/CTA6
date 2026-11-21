@@ -22,7 +22,10 @@ The public GitHub repository is at [`AdventureNLearn/CTA6`](https://github.com/A
 - The round 3 source-gathering record in [`notes/round-3.md`](notes/round-3.md)
 - The round 4 source-gathering record in [`notes/round-4.md`](notes/round-4.md)
 - The round 5 source-gathering record in [`notes/round-5.md`](notes/round-5.md)
+- A record of the 21 November 2026 `[UNKNOWN]` fills in [`notes/unknown-fills-20261121.md`](notes/unknown-fills-20261121.md)
 - A plan for building a globe app from this archive: [CTA6 - Reference Archive Build Kit](BUILD-KIT/README.md)
+
+On 21 November 2026 a first batch of summary `[UNKNOWN]` marks was filled from official texts that could be read (see [notes/unknown-fills-20261121.md](notes/unknown-fills-20261121.md)). Two official sources were added (US-EO13354 and FATF-AR-2001-2002), bringing the archive to **381 sources** and 244 milestones. 162 of 625 summaries still contain at least one `[UNKNOWN]` mark (175 marks in all). That pass was not a new gathering round.
 
 Round 5 added 4 official sources and 8 milestones (T237–T244) to the 376 sources and 236 milestones from round 4. The duplicate Kenya Law row KE-POTA2012-KL was then merged into KE-POTA2012, leaving 379 sources. It applied the pass 5 corrections that mark 14 previously blocked official pages as `verified=yes` after a headless-browser load or a fresh curl capture of the same cited URL, with the matched text quoted in the row's notes. T015 and T085 are now `we-have-a-record`, with the Council of Europe explanatory reports as second citations; the 1977 report is quoted as “opened to signature”. T061 is now `we-have-a-record` on the verified OAS treaty page and status page. The 8 labeled secondary stand-ins were kept; four of them now note that an official text is in the archive, and none of them is treated as proof. T084 stays `not-proven`. T045 is unchanged. Sources were chosen by hand and are not a systematic sample. Counts describe the archive as of this round. This archive is not complete. Later rounds should fill the gaps listed in `GAPS.md`.
 
