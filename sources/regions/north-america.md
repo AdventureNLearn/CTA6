@@ -4,7 +4,7 @@
 
 Round 5 of an ongoing archive. This list is not complete. Every field is taken from `data/sources.csv`.
 
-45 sources in this region (`government` 28, `NGO` 1, `court` 5, `oversight` 11).
+46 sources in this region (`government` 29, `NGO` 1, `court` 5, `oversight` 11).
 
 See [GAPS.md](../../GAPS.md) for what this round did not gather.
 
@@ -1020,3 +1020,26 @@ Summary: The CIA's June 2013 response to the Senate Intelligence Committee's stu
 - Notes: URL taken from a web-search result listing, then fetched. Approved for release 8 Dec 2014. HTTP 200; expected text found. Raw: pass2/raw/CIA-SSCI-2013.* Text states the Agency 'disagrees with assertions' in the Study on intelligence produced by the program.
 
 Cited by: [T166](../../timeline/post-9-11-2001-2014.md#T166)
+
+<a id="US-EO13354"></a>
+## US-EO13354
+
+**Executive Order 13354: National Counterterrorism Center**
+
+Summary: US Executive Order 13354, 'National Counterterrorism Center', of 27 August 2004, as published in the official Federal Register (Vol. 69, No. 169, 1 September 2004, p. 53589). The order, signed at the White House on 27 August 2004, establishes a National Counterterrorism Center. It provides that the Center shall undertake, as soon as the Director of Central Intelligence determines it to be practicable, all functions assigned to the Terrorist Threat Integration Center. It is a source for milestone T078.
+
+- Issuing body: The White House (Federal Register)
+- Date: 2004-08-27
+- Type: statute
+- Tag: `primary`
+- Origin: `government`
+- Era: post-9/11 (2001-2014)
+- Region: North America
+- Theme: agencies
+- URL: [https://www.govinfo.gov/content/pkg/FR-2004-09-01/pdf/04-20050.pdf](https://www.govinfo.gov/content/pkg/FR-2004-09-01/pdf/04-20050.pdf)
+- Accessed: 2026-11-21
+- Verified: `yes`
+- Language: English
+- Notes: Official Federal Register PDF (Vol. 69, No. 169, Wednesday, 1 September 2004, p. 53589, FR Doc. 04-20050), fetched by curl on 2026-11-21: HTTP 200. Headed 'Executive Order 13354 of August 27, 2004' and signed 'THE WHITE HOUSE, August 27, 2004.' Sec. 2 establishes a National Counterterrorism Center. Sec. 3(f) (as printed, continuing onto p. 53591) says the Center shall undertake, as soon as the Director of Central Intelligence determines it to be practicable, all functions assigned to the Terrorist Threat Integration Center.
+
+Cited by: [T078](../../timeline/post-9-11-2001-2014.md#T078)

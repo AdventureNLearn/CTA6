@@ -151,10 +151,10 @@ Cited by: [T244](../../timeline/recent-2014-now.md#T244)
 
 **Security Legislation Amendment (Terrorism) Act 2002 (No. 65, 2002)**
 
-Summary: Australia's Security Legislation Amendment (Terrorism) Act 2002 (No. 65, 2002), as shown on the Federal Register of Legislation, which lists it as administered by the Attorney-General's Department. As its title states, it amended Australia's security legislation on terrorism; its specific provisions are not recorded in CTA6 \[UNKNOWN\]. It is the source for milestone T201. The assent date is not in the capture; a search listing gives 5 July 2002.
+Summary: Australia's Security Legislation Amendment (Terrorism) Act 2002 (No. 65, 2002), as published on the Federal Register of Legislation, which lists it as administered by the Attorney-General's Department. The official as-made text is headed '\[Assented to 5 July 2002\]'. Its long title says it is an Act to enhance the Commonwealth's ability to combat terrorism and treason, and for related purposes. It is the source for milestone T201.
 
 - Issuing body: Australian Government, Federal Register of Legislation
-- Date: 2002
+- Date: 2002-07-05
 - Type: statute
 - Tag: `primary`
 - Origin: `government`
@@ -165,7 +165,7 @@ Summary: Australia's Security Legislation Amendment (Terrorism) Act 2002 (No. 65
 - Accessed: 2026-11-19
 - Verified: `yes`
 - Language: English
-- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AU-SLAT2002.* Page shows 'No. 65, 2002', 'Administered by Attorney-General's Department'. Assent date not in the capture \[UNKNOWN\]; the search listing gives 5 July 2002.
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AU-SLAT2002.* The earlier /latest capture did not show the assent date. Official as-made text fetched 2026-11-21 from https://www.legislation.gov.au/C2004A00978/asmade/2002-07-05/text/original/pdf (HTTP 200, PDF) and the as-made HTML: headed '\[Assented to 5 July 2002\]'; commencement table gives 5 July 2002 for sections 1 to 3 (the day of Royal Assent).
 
 Cited by: [T201](../../timeline/post-9-11-2001-2014.md#T201)
 

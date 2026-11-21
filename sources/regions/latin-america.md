@@ -545,10 +545,10 @@ Cited by: [T204](../../timeline/post-9-11-2001-2014.md#T204)
 
 **Informe de la UFI-AMIA sobre el estado de la investigación por el atentado a la Asociación Mutual Israelí Argentina**
 
-Summary: A 2022 report by Argentina's UFI-AMIA on the state of the investigation into the attack on the AMIA. The report says the unit's purpose was to act with the case's prosecutor in all proceedings to clarify the attack, including those on alleged cover-up or obstruction of the investigation. Its detailed findings are not summarized in CTA6 \[UNKNOWN\], and the day and month are \[UNKNOWN\].
+Summary: A 2022 report by Argentina's UFI-AMIA on the state of the investigation into the attack on the AMIA. The report's publication line reads 'Publicación: julio 2022'; the exact day is not printed \[UNKNOWN\]. The report says the unit's purpose was to act with the case's prosecutor in all proceedings to clarify the attack, including those on alleged cover-up or obstruction of the investigation, and that the unit was created in September 2004 ('en septiembre de 2004'). Its detailed findings are not summarized in CTA6 \[UNKNOWN\].
 
 - Issuing body: Unidad Fiscal para la Investigación de la Causa AMIA, Ministerio Público Fiscal (Argentina)
-- Date: 2022
+- Date: 2022-07
 - Type: other
 - Tag: `primary`
 - Origin: `government`
@@ -559,9 +559,9 @@ Summary: A 2022 report by Argentina's UFI-AMIA on the state of the investigation
 - Accessed: 2026-11-19
 - Verified: `yes`
 - Language: Spanish
-- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AR-UFIAMIA-2022.* Day and month \[UNKNOWN\]. English title: \[UNKNOWN\] (the source gives none).
+- Notes: URL from a web-search result listing (or linked from a fetched official page), then fetched with curl on 2026-11-19: HTTP 200; expected text found. Raw: pass3/raw/AR-UFIAMIA-2022.* Publication line 'Publicación: julio 2022' is printed in the captured PDF text; the exact day is not printed \[UNKNOWN\]. The report states the unit was created in September 2004. English title: \[UNKNOWN\] (the source gives none).
 
-Cited by: none in `data/timeline.csv`.
+Cited by: [T204](../../timeline/post-9-11-2001-2014.md#T204)
 
 <a id="AR-DEC812-2005"></a>
 ## AR-DEC812-2005
