@@ -92,3 +92,7 @@ When sources were gathered, page captures were saved locally (HTML or PDF, extra
 
 - `python3 scripts/check.py` — confirms that the spreadsheets parse, that every timeline row cites an existing source id, that a `we-have-a-record` milestone has at least one verified citation, that the withheld-URL placeholder appears only on labeled secondary stand-in rows, and that no row is missing a URL or a status label. A surname scan is not part of the check: a committed list would only be useful if it contained names, and those names are not committed.
 - `python3 scripts/build.py` — rebuilds the readable timeline and source pages, and `docs/STRUCTURE.md`, from the spreadsheets.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
